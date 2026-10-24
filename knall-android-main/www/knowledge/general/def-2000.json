@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "def-2000-001",
+    "question": "Qu'est-ce qu'une seconde",
+    "reponse": "Une seconde est l'unité de base de mesure du temps dans le système international, correspondant à une très courte durée utilisée pour mesurer des événements rapides.",
+    "tags": [
+      "seconde",
+      "unite de temps",
+      "mesure",
+      "systeme international",
+      "segond",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-002",
+    "question": "Kisa ki yon segond",
+    "reponse": "Segond se inite debaz pou mezire tan nan sistèm entènasyonal la, se yon ti dire kout yo itilize pou mezire bagay ki rive vit.",
+    "tags": [
+      "seconde",
+      "unite de temps",
+      "mesure",
+      "systeme international",
+      "segond",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-003",
+    "question": "Qu'est-ce qu'une minute",
+    "reponse": "Une minute est une unité de temps équivalant à soixante secondes, couramment utilisée pour mesurer des durées courtes dans la vie quotidienne.",
+    "tags": [
+      "minute",
+      "soixante secondes",
+      "duree",
+      "vie quotidienne",
+      "minit",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-004",
+    "question": "Kisa ki yon minit",
+    "reponse": "Minit se yon inite tan ki egal ak swasant segond, moun itilize l souvan pou mezire ti dire nan lavi chak jou.",
+    "tags": [
+      "minute",
+      "soixante secondes",
+      "duree",
+      "vie quotidienne",
+      "minit",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-005",
+    "question": "Qu'est-ce qu'une heure",
+    "reponse": "Une heure est une unité de temps équivalant à soixante minutes, utilisée pour organiser les journées et planifier les activités quotidiennes.",
+    "tags": [
+      "heure",
+      "soixante minutes",
+      "organisation",
+      "temps",
+      "lè",
+      "planifye"
+    ]
+  },
+  {
+    "id": "def-2000-006",
+    "question": "Kisa ki yon lè (tan)",
+    "reponse": "Lè se yon inite tan ki egal ak swasant minit, moun itilize l pou òganize jounen yo ak planifye aktivite chak jou.",
+    "tags": [
+      "heure",
+      "soixante minutes",
+      "organisation",
+      "temps",
+      "lè",
+      "planifye"
+    ]
+  },
+  {
+    "id": "def-2000-007",
+    "question": "Qu'est-ce qu'un jour",
+    "reponse": "Un jour est une unité de temps correspondant à une rotation complète de la Terre sur elle-même, divisée en vingt-quatre heures entre le lever et le coucher successifs du Soleil.",
+    "tags": [
+      "jour",
+      "rotation de la terre",
+      "24 heures",
+      "temps",
+      "jou",
+      "leve kouche"
+    ]
+  },
+  {
+    "id": "def-2000-008",
+    "question": "Kisa ki yon jou",
+    "reponse": "Jou se yon inite tan ki koresponn ak yon tou konplè Latè fè sou tèt li, li divize an vennkat èdtan ant leve ak kouche solèy ki swiv youn ak lòt.",
+    "tags": [
+      "jour",
+      "rotation de la terre",
+      "24 heures",
+      "temps",
+      "jou",
+      "leve kouche"
+    ]
+  },
+  {
+    "id": "def-2000-009",
+    "question": "Qu'est-ce qu'une semaine",
+    "reponse": "Une semaine est une période de sept jours consécutifs, utilisée dans la plupart des calendriers pour organiser le rythme de vie et de travail.",
+    "tags": [
+      "semaine",
+      "sept jours",
+      "calendrier",
+      "rythme de vie",
+      "semèn",
+      "òganize"
+    ]
+  },
+  {
+    "id": "def-2000-010",
+    "question": "Kisa ki yon semèn",
+    "reponse": "Semèn se yon peryòd sèt jou youn apre lòt, pifò kalandriye itilize l pou òganize ritm lavi ak travay.",
+    "tags": [
+      "semaine",
+      "sept jours",
+      "calendrier",
+      "rythme de vie",
+      "semèn",
+      "òganize"
+    ]
+  },
+  {
+    "id": "def-2000-011",
+    "question": "Qu'est-ce qu'un mois",
+    "reponse": "Un mois est une période d'environ trente jours, correspondant approximativement à un cycle lunaire, utilisée pour diviser l'année en douze parties.",
+    "tags": [
+      "mois",
+      "trente jours",
+      "cycle lunaire",
+      "annee",
+      "mwa",
+      "divize"
+    ]
+  },
+  {
+    "id": "def-2000-012",
+    "question": "Kisa ki yon mwa",
+    "reponse": "Mwa se yon peryòd apeprè trant jou, li koresponn apeprè ak yon sik lalin, yo itilize l pou divize ane a an douz pati.",
+    "tags": [
+      "mois",
+      "trente jours",
+      "cycle lunaire",
+      "annee",
+      "mwa",
+      "divize"
+    ]
+  },
+  {
+    "id": "def-2000-013",
+    "question": "Qu'est-ce qu'une année",
+    "reponse": "Une année est une période correspondant au temps que met la Terre pour effectuer une révolution complète autour du Soleil, soit environ trois cent soixante-cinq jours.",
+    "tags": [
+      "annee",
+      "revolution de la terre",
+      "365 jours",
+      "temps",
+      "ane",
+      "tou konplè"
+    ]
+  },
+  {
+    "id": "def-2000-014",
+    "question": "Kisa ki yon ane",
+    "reponse": "Ane se yon peryòd ki koresponn ak tan Latè pran pou l fè yon tou konplè otou Solèy la, apeprè twasanswasannsenk jou.",
+    "tags": [
+      "annee",
+      "revolution de la terre",
+      "365 jours",
+      "temps",
+      "ane",
+      "tou konplè"
+    ]
+  },
+  {
+    "id": "def-2000-015",
+    "question": "Qu'est-ce qu'un siècle",
+    "reponse": "Un siècle est une période de cent années consécutives, souvent utilisée pour structurer et étudier l'histoire sur de longues durées.",
+    "tags": [
+      "siecle",
+      "cent annees",
+      "histoire",
+      "periode",
+      "syèk",
+      "estriktire"
+    ]
+  },
+  {
+    "id": "def-2000-016",
+    "question": "Kisa ki yon syèk",
+    "reponse": "Syèk se yon peryòd san ane youn apre lòt, souvan yo itilize l pou estriktire ak etidye istwa sou long dire.",
+    "tags": [
+      "siecle",
+      "cent annees",
+      "histoire",
+      "periode",
+      "syèk",
+      "estriktire"
+    ]
+  },
+  {
+    "id": "def-2000-017",
+    "question": "Qu'est-ce qu'un millénaire",
+    "reponse": "Un millénaire est une période de mille années consécutives, unité de temps utilisée pour mesurer des évolutions historiques ou géologiques de très grande ampleur.",
+    "tags": [
+      "millenaire",
+      "mille annees",
+      "evolution historique",
+      "unite de temps",
+      "milenè",
+      "gwo anpil"
+    ]
+  },
+  {
+    "id": "def-2000-018",
+    "question": "Kisa ki yon milenè",
+    "reponse": "Milenè se yon peryòd mil ane youn apre lòt, yo itilize inite tan sa a pou mezire evolisyon istorik oswa jeyolojik ki gwo anpil.",
+    "tags": [
+      "millenaire",
+      "mille annees",
+      "evolution historique",
+      "unite de temps",
+      "milenè",
+      "gwo anpil"
+    ]
+  },
+  {
+    "id": "def-2000-019",
+    "question": "Qu'est-ce qu'un calendrier",
+    "reponse": "Un calendrier est un système d'organisation du temps en jours, semaines, mois et années, permettant de situer les événements et de planifier les activités.",
+    "tags": [
+      "calendrier",
+      "organisation du temps",
+      "jours",
+      "mois",
+      "kalandriye",
+      "òganize"
+    ]
+  },
+  {
+    "id": "def-2000-020",
+    "question": "Kisa ki yon kalandriye",
+    "reponse": "Kalandriye se yon sistèm ki òganize tan an jou, semèn, mwa ak ane, li pèmèt moun jwenn evènman yo epi planifye aktivite.",
+    "tags": [
+      "calendrier",
+      "organisation du temps",
+      "jours",
+      "mois",
+      "kalandriye",
+      "òganize"
+    ]
+  },
+  {
+    "id": "def-2000-021",
+    "question": "Qu'est-ce que le lundi",
+    "reponse": "Le lundi est le premier jour de la semaine selon la norme internationale, suivant le dimanche et précédant le mardi, souvent associé à la reprise du travail.",
+    "tags": [
+      "lundi",
+      "premier jour",
+      "semaine",
+      "travail",
+      "lendi",
+      "rekòmansman"
+    ]
+  },
+  {
+    "id": "def-2000-022",
+    "question": "Kisa ki lendi",
+    "reponse": "Lendi se premye jou semèn lan dapre nòm entènasyonal la, li vini apre dimanch epi anvan madi, souvan li asosye ak rekòmansman travay.",
+    "tags": [
+      "lundi",
+      "premier jour",
+      "semaine",
+      "travail",
+      "lendi",
+      "rekòmansman"
+    ]
+  },
+  {
+    "id": "def-2000-023",
+    "question": "Qu'est-ce que le dimanche",
+    "reponse": "Le dimanche est le septième et dernier jour de la semaine selon la norme internationale, souvent considéré comme un jour de repos ou dédié aux activités religieuses.",
+    "tags": [
+      "dimanche",
+      "dernier jour",
+      "repos",
+      "religion",
+      "dimanch",
+      "repo"
+    ]
+  },
+  {
+    "id": "def-2000-024",
+    "question": "Kisa ki dimanch",
+    "reponse": "Dimanch se setyèm epi dènye jou semèn lan dapre nòm entènasyonal la, souvan yo konsidere l kòm yon jou repo oswa pou aktivite relijye.",
+    "tags": [
+      "dimanche",
+      "dernier jour",
+      "repos",
+      "religion",
+      "dimanch",
+      "repo"
+    ]
+  },
+  {
+    "id": "def-2000-025",
+    "question": "Qu'est-ce qu'un mètre",
+    "reponse": "Un mètre est l'unité de base de mesure de longueur dans le système international, utilisée pour quantifier des distances et des dimensions.",
+    "tags": [
+      "metre",
+      "unite de longueur",
+      "mesure",
+      "distance",
+      "mèt",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-026",
+    "question": "Kisa ki yon mèt",
+    "reponse": "Mèt se inite debaz pou mezire longè nan sistèm entènasyonal la, yo itilize l pou mezire distans ak dimansyon.",
+    "tags": [
+      "metre",
+      "unite de longueur",
+      "mesure",
+      "distance",
+      "mèt",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-027",
+    "question": "Qu'est-ce qu'un kilomètre",
+    "reponse": "Un kilomètre est une unité de longueur équivalant à mille mètres, couramment utilisée pour mesurer de grandes distances, comme entre deux villes.",
+    "tags": [
+      "kilometre",
+      "mille metres",
+      "grande distance",
+      "mesure",
+      "kilomèt",
+      "gwo distans"
+    ]
+  },
+  {
+    "id": "def-2000-028",
+    "question": "Kisa ki yon kilomèt",
+    "reponse": "Kilomèt se yon inite longè ki egal ak mil mèt, moun itilize l souvan pou mezire gwo distans, tankou ant de vil.",
+    "tags": [
+      "kilometre",
+      "mille metres",
+      "grande distance",
+      "mesure",
+      "kilomèt",
+      "gwo distans"
+    ]
+  },
+  {
+    "id": "def-2000-029",
+    "question": "Qu'est-ce qu'un centimètre",
+    "reponse": "Un centimètre est une unité de longueur équivalant à un centième de mètre, utilisée pour mesurer des objets de petite taille avec précision.",
+    "tags": [
+      "centimetre",
+      "centieme de metre",
+      "mesure precise",
+      "petite taille",
+      "santimèt",
+      "presizyon"
+    ]
+  },
+  {
+    "id": "def-2000-030",
+    "question": "Kisa ki yon santimèt",
+    "reponse": "Santimèt se yon inite longè ki egal ak yon santyèm mèt, yo itilize l pou mezire bagay ki piti ak presizyon.",
+    "tags": [
+      "centimetre",
+      "centieme de metre",
+      "mesure precise",
+      "petite taille",
+      "santimèt",
+      "presizyon"
+    ]
+  },
+  {
+    "id": "def-2000-031",
+    "question": "Qu'est-ce qu'un kilogramme",
+    "reponse": "Un kilogramme est l'unité de base de mesure de la masse dans le système international, couramment utilisée pour peser des objets ou des aliments.",
+    "tags": [
+      "kilogramme",
+      "unite de masse",
+      "mesure",
+      "poids",
+      "kilogram",
+      "peze"
+    ]
+  },
+  {
+    "id": "def-2000-032",
+    "question": "Kisa ki yon kilogram",
+    "reponse": "Kilogram se inite debaz pou mezire pwa nan sistèm entènasyonal la, moun itilize l souvan pou peze bagay oswa manje.",
+    "tags": [
+      "kilogramme",
+      "unite de masse",
+      "mesure",
+      "poids",
+      "kilogram",
+      "peze"
+    ]
+  },
+  {
+    "id": "def-2000-033",
+    "question": "Qu'est-ce qu'un gramme",
+    "reponse": "Un gramme est une unité de masse équivalant à un millième de kilogramme, utilisée pour mesurer avec précision des objets légers.",
+    "tags": [
+      "gramme",
+      "millieme de kilogramme",
+      "mesure precise",
+      "objets legers",
+      "gram",
+      "presizyon"
+    ]
+  },
+  {
+    "id": "def-2000-034",
+    "question": "Kisa ki yon gram",
+    "reponse": "Gram se yon inite pwa ki egal ak yon milyèm kilogram, yo itilize l pou mezire ak presizyon bagay ki lejè.",
+    "tags": [
+      "gramme",
+      "millieme de kilogramme",
+      "mesure precise",
+      "objets legers",
+      "gram",
+      "presizyon"
+    ]
+  },
+  {
+    "id": "def-2000-035",
+    "question": "Qu'est-ce qu'un litre",
+    "reponse": "Un litre est l'unité de base de mesure de volume pour les liquides, couramment utilisée pour quantifier des quantités d'eau, de lait ou de carburant.",
+    "tags": [
+      "litre",
+      "unite de volume",
+      "liquides",
+      "mesure",
+      "lit",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-036",
+    "question": "Kisa ki yon lit",
+    "reponse": "Lit se inite debaz pou mezire volim likid, moun itilize l souvan pou mezire kantite dlo, lèt oswa kabiran.",
+    "tags": [
+      "litre",
+      "unite de volume",
+      "liquides",
+      "mesure",
+      "lit",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-037",
+    "question": "Qu'est-ce qu'une tonne",
+    "reponse": "Une tonne est une unité de masse équivalant à mille kilogrammes, utilisée pour mesurer des poids très importants, comme ceux de véhicules ou de cargaisons.",
+    "tags": [
+      "tonne",
+      "mille kilogrammes",
+      "poids important",
+      "mesure",
+      "tòn",
+      "gwo pwa"
+    ]
+  },
+  {
+    "id": "def-2000-038",
+    "question": "Kisa ki yon tòn",
+    "reponse": "Tòn se yon inite pwa ki egal ak mil kilogram, yo itilize l pou mezire gwo pwa, tankou machin oswa chaj.",
+    "tags": [
+      "tonne",
+      "mille kilogrammes",
+      "poids important",
+      "mesure",
+      "tòn",
+      "gwo pwa"
+    ]
+  },
+  {
+    "id": "def-2000-039",
+    "question": "Qu'est-ce qu'un degré Celsius",
+    "reponse": "Un degré Celsius est une unité de mesure de la température, basée sur le point de congélation de l'eau fixé à zéro degré et son point d'ébullition à cent degrés.",
+    "tags": [
+      "degre celsius",
+      "temperature",
+      "point de congelation",
+      "ebullition",
+      "degre Celsius",
+      "mezire tanperati"
+    ]
+  },
+  {
+    "id": "def-2000-040",
+    "question": "Kisa ki yon degre Celsius",
+    "reponse": "Degre Celsius se yon inite pou mezire tanperati, li baze sou pwen dlo jele ki fikse a zewo degre ak pwen li bouyi a san degre.",
+    "tags": [
+      "degre celsius",
+      "temperature",
+      "point de congelation",
+      "ebullition",
+      "degre Celsius",
+      "mezire tanperati"
+    ]
+  },
+  {
+    "id": "def-2000-041",
+    "question": "Qu'est-ce que la vitesse",
+    "reponse": "La vitesse est une grandeur physique mesurant la distance parcourue par un objet en mouvement pendant une unité de temps donnée.",
+    "tags": [
+      "vitesse",
+      "distance",
+      "temps",
+      "mouvement",
+      "vitès",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-042",
+    "question": "Kisa ki vitès la",
+    "reponse": "Vitès se yon grandè fizik ki mezire distans yon bagay k ap bouje pakouri pandan yon inite tan bay.",
+    "tags": [
+      "vitesse",
+      "distance",
+      "temps",
+      "mouvement",
+      "vitès",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-043",
+    "question": "Qu'est-ce que le poids",
+    "reponse": "Le poids est la force exercée par la gravité sur un objet, généralement mesurée à l'aide d'une balance et exprimée en unités comme le kilogramme.",
+    "tags": [
+      "poids",
+      "gravite",
+      "mesure",
+      "balance",
+      "pwa",
+      "fòs"
+    ]
+  },
+  {
+    "id": "def-2000-044",
+    "question": "Kisa ki pwa a",
+    "reponse": "Pwa se fòs gravite a egzèse sou yon bagay, an jeneral yo mezire l ak yon balans epi eksprime l an inite tankou kilogram.",
+    "tags": [
+      "poids",
+      "gravite",
+      "mesure",
+      "balance",
+      "pwa",
+      "fòs"
+    ]
+  },
+  {
+    "id": "def-2000-045",
+    "question": "Qu'est-ce que le volume en mesure",
+    "reponse": "Le volume est la grandeur mesurant l'espace occupé par un objet ou une quantité de matière dans les trois dimensions.",
+    "tags": [
+      "volume",
+      "espace",
+      "trois dimensions",
+      "mesure",
+      "volim",
+      "okipe"
+    ]
+  },
+  {
+    "id": "def-2000-046",
+    "question": "Kisa ki volim nan (mezi)",
+    "reponse": "Volim se grandè ki mezire espas yon bagay oswa yon kantite matyè okipe nan twa dimansyon.",
+    "tags": [
+      "volume",
+      "espace",
+      "trois dimensions",
+      "mesure",
+      "volim",
+      "okipe"
+    ]
+  },
+  {
+    "id": "def-2000-047",
+    "question": "Qu'est-ce que la surface en mesure",
+    "reponse": "La surface est la grandeur mesurant l'étendue d'une zone plane, exprimée en unités comme le mètre carré, utilisée pour quantifier un terrain ou une pièce.",
+    "tags": [
+      "surface",
+      "metre carre",
+      "mesure",
+      "etendue",
+      "sifas",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-048",
+    "question": "Kisa ki sifas la (mezi)",
+    "reponse": "Sifas se grandè ki mezire gwosè yon zòn plat, yo eksprime l an inite tankou mèt kare, yo itilize l pou mezire yon tè oswa yon chanm.",
+    "tags": [
+      "surface",
+      "metre carre",
+      "mesure",
+      "etendue",
+      "sifas",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-049",
+    "question": "Qu'est-ce que la température",
+    "reponse": "La température est une grandeur physique indiquant le degré de chaleur ou de froid d'un corps ou d'un environnement, mesurée généralement en degrés Celsius.",
+    "tags": [
+      "temperature",
+      "chaleur",
+      "froid",
+      "mesure",
+      "tanperati",
+      "degre"
+    ]
+  },
+  {
+    "id": "def-2000-050",
+    "question": "Kisa ki tanperati a",
+    "reponse": "Tanperati se yon grandè fizik ki montre degre chalè oswa frèt yon kò oswa yon anviwonnman, an jeneral yo mezire l an degre Celsius.",
+    "tags": [
+      "temperature",
+      "chaleur",
+      "froid",
+      "mesure",
+      "tanperati",
+      "degre"
+    ]
+  },
+  {
+    "id": "def-2000-051",
+    "question": "Qu'est-ce qu'un pourcentage",
+    "reponse": "Un pourcentage est une façon d'exprimer une proportion ou une fraction d'un ensemble, rapportée à cent, utilisée fréquemment en statistiques et en mathématiques.",
+    "tags": [
+      "pourcentage",
+      "proportion",
+      "fraction",
+      "statistiques",
+      "pousantaj",
+      "eksprime"
+    ]
+  },
+  {
+    "id": "def-2000-052",
+    "question": "Kisa ki yon pousantaj",
+    "reponse": "Pousantaj se yon fason pou eksprime yon pwopòsyon oswa yon fraksyon nan yon antye, rapòte sou san, yo itilize l souvan nan estatistik ak matematik.",
+    "tags": [
+      "pourcentage",
+      "proportion",
+      "fraction",
+      "statistiques",
+      "pousantaj",
+      "eksprime"
+    ]
+  },
+  {
+    "id": "def-2000-053",
+    "question": "Qu'est-ce qu'une fraction",
+    "reponse": "Une fraction est une expression mathématique représentant une partie d'un tout, composée d'un numérateur et d'un dénominateur séparés par une barre.",
+    "tags": [
+      "fraction",
+      "numerateur",
+      "denominateur",
+      "mathematiques",
+      "fraksyon",
+      "pati"
+    ]
+  },
+  {
+    "id": "def-2000-054",
+    "question": "Kisa ki yon fraksyon",
+    "reponse": "Fraksyon se yon ekspresyon matematik ki reprezante yon pati yon antye, li fèt ak yon nimeratè ak yon denominatè yon ba separe.",
+    "tags": [
+      "fraction",
+      "numerateur",
+      "denominateur",
+      "mathematiques",
+      "fraksyon",
+      "pati"
+    ]
+  },
+  {
+    "id": "def-2000-055",
+    "question": "Qu'est-ce qu'un nombre pair",
+    "reponse": "Un nombre pair est un nombre entier divisible exactement par deux, sans laisser de reste, comme deux, quatre ou six.",
+    "tags": [
+      "nombre pair",
+      "divisible par deux",
+      "mathematiques",
+      "sans reste",
+      "nonb pè",
+      "divize"
+    ]
+  },
+  {
+    "id": "def-2000-056",
+    "question": "Kisa ki yon nonb pè",
+    "reponse": "Nonb pè se yon nonb antye ki divize egzakteman pa de, san rès, tankou de, kat oswa sis.",
+    "tags": [
+      "nombre pair",
+      "divisible par deux",
+      "mathematiques",
+      "sans reste",
+      "nonb pè",
+      "divize"
+    ]
+  },
+  {
+    "id": "def-2000-057",
+    "question": "Qu'est-ce qu'un nombre impair",
+    "reponse": "Un nombre impair est un nombre entier qui n'est pas divisible exactement par deux, laissant toujours un reste de un, comme un, trois ou cinq.",
+    "tags": [
+      "nombre impair",
+      "non divisible",
+      "reste",
+      "mathematiques",
+      "nonb enpè",
+      "rès"
+    ]
+  },
+  {
+    "id": "def-2000-058",
+    "question": "Kisa ki yon nonb enpè",
+    "reponse": "Nonb enpè se yon nonb antye ki pa divize egzakteman pa de, li toujou kite yon rès ki ye youn, tankou youn, twa oswa senk.",
+    "tags": [
+      "nombre impair",
+      "non divisible",
+      "reste",
+      "mathematiques",
+      "nonb enpè",
+      "rès"
+    ]
+  },
+  {
+    "id": "def-2000-059",
+    "question": "Qu'est-ce que l'addition",
+    "reponse": "L'addition est une opération mathématique de base consistant à combiner deux ou plusieurs nombres pour obtenir leur somme totale.",
+    "tags": [
+      "addition",
+      "operation mathematique",
+      "somme",
+      "nombres",
+      "adisyon",
+      "konbine"
+    ]
+  },
+  {
+    "id": "def-2000-060",
+    "question": "Kisa ki adisyon an",
+    "reponse": "Adisyon se yon operasyon matematik debaz ki konsiste konbine de oswa plizyè nonb pou jwenn total yo.",
+    "tags": [
+      "addition",
+      "operation mathematique",
+      "somme",
+      "nombres",
+      "adisyon",
+      "konbine"
+    ]
+  },
+  {
+    "id": "def-2000-061",
+    "question": "Qu'est-ce que la soustraction",
+    "reponse": "La soustraction est une opération mathématique consistant à retirer la valeur d'un nombre à un autre pour obtenir leur différence.",
+    "tags": [
+      "soustraction",
+      "operation mathematique",
+      "difference",
+      "nombres",
+      "soustraksyon",
+      "retire"
+    ]
+  },
+  {
+    "id": "def-2000-062",
+    "question": "Kisa ki soustraksyon an",
+    "reponse": "Soustraksyon se yon operasyon matematik ki konsiste retire valè yon nonb nan yon lòt pou jwenn diferans yo.",
+    "tags": [
+      "soustraction",
+      "operation mathematique",
+      "difference",
+      "nombres",
+      "soustraksyon",
+      "retire"
+    ]
+  },
+  {
+    "id": "def-2000-063",
+    "question": "Qu'est-ce que la multiplication",
+    "reponse": "La multiplication est une opération mathématique consistant à additionner un nombre plusieurs fois selon une valeur donnée, permettant de calculer un produit.",
+    "tags": [
+      "multiplication",
+      "operation mathematique",
+      "produit",
+      "calcul",
+      "miltiplikasyon",
+      "kalkile"
+    ]
+  },
+  {
+    "id": "def-2000-064",
+    "question": "Kisa ki miltiplikasyon an",
+    "reponse": "Miltiplikasyon se yon operasyon matematik ki konsiste adisyone yon nonb plizyè fwa dapre yon valè bay, li pèmèt kalkile yon pwodwi.",
+    "tags": [
+      "multiplication",
+      "operation mathematique",
+      "produit",
+      "calcul",
+      "miltiplikasyon",
+      "kalkile"
+    ]
+  },
+  {
+    "id": "def-2000-065",
+    "question": "Qu'est-ce que la division en mathématiques",
+    "reponse": "La division est une opération mathématique consistant à partager une quantité en parts égales, afin de déterminer combien de fois un nombre en contient un autre.",
+    "tags": [
+      "division",
+      "operation mathematique",
+      "parts egales",
+      "calcul",
+      "divizyon",
+      "pataje"
+    ]
+  },
+  {
+    "id": "def-2000-066",
+    "question": "Kisa ki divizyon an nan matematik",
+    "reponse": "Divizyon se yon operasyon matematik ki konsiste pataje yon kantite an pati egal, pou detèmine konbyen fwa yon nonb genyen yon lòt ladan l.",
+    "tags": [
+      "division",
+      "operation mathematique",
+      "parts egales",
+      "calcul",
+      "divizyon",
+      "pataje"
+    ]
+  },
+  {
+    "id": "def-2000-067",
+    "question": "Qu'est-ce qu'un cercle",
+    "reponse": "Un cercle est une figure géométrique plane composée de tous les points situés à égale distance d'un point central appelé centre.",
+    "tags": [
+      "cercle",
+      "figure geometrique",
+      "centre",
+      "distance egale",
+      "sèk",
+      "pwen"
+    ]
+  },
+  {
+    "id": "def-2000-068",
+    "question": "Kisa ki yon sèk",
+    "reponse": "Sèk se yon fòm jewometrik plat ki fèt ak tout pwen ki chita menm distans yon pwen santral yo rele sant.",
+    "tags": [
+      "cercle",
+      "figure geometrique",
+      "centre",
+      "distance egale",
+      "sèk",
+      "pwen"
+    ]
+  },
+  {
+    "id": "def-2000-069",
+    "question": "Qu'est-ce qu'un carré",
+    "reponse": "Un carré est une figure géométrique à quatre côtés de même longueur et quatre angles droits, formant une figure parfaitement symétrique.",
+    "tags": [
+      "carre",
+      "quatre cotes",
+      "angles droits",
+      "symetrie",
+      "kare",
+      "simetrik"
+    ]
+  },
+  {
+    "id": "def-2000-070",
+    "question": "Kisa ki yon kare",
+    "reponse": "Kare se yon fòm jewometrik ki gen kat kote menm longè ak kat ang dwat, li fòme yon fòm ki byen simetrik.",
+    "tags": [
+      "carre",
+      "quatre cotes",
+      "angles droits",
+      "symetrie",
+      "kare",
+      "simetrik"
+    ]
+  },
+  {
+    "id": "def-2000-071",
+    "question": "Qu'est-ce qu'un triangle",
+    "reponse": "Un triangle est une figure géométrique composée de trois côtés et trois angles, existant en plusieurs variétés selon la longueur de ses côtés et la mesure de ses angles.",
+    "tags": [
+      "triangle",
+      "trois cotes",
+      "trois angles",
+      "geometrie",
+      "triyang",
+      "kalite"
+    ]
+  },
+  {
+    "id": "def-2000-072",
+    "question": "Kisa ki yon triyang",
+    "reponse": "Triyang se yon fòm jewometrik ki gen twa kote ak twa ang, gen anpil kalite diferan selon longè kote li yo ak mezi ang li yo.",
+    "tags": [
+      "triangle",
+      "trois cotes",
+      "trois angles",
+      "geometrie",
+      "triyang",
+      "kalite"
+    ]
+  },
+  {
+    "id": "def-2000-073",
+    "question": "Qu'est-ce qu'un rectangle",
+    "reponse": "Un rectangle est une figure géométrique à quatre côtés formant quatre angles droits, dont les côtés opposés sont de longueur égale deux à deux.",
+    "tags": [
+      "rectangle",
+      "quatre cotes",
+      "angles droits",
+      "cotes opposes",
+      "rektang",
+      "menm longè"
+    ]
+  },
+  {
+    "id": "def-2000-074",
+    "question": "Kisa ki yon rektang",
+    "reponse": "Rektang se yon fòm jewometrik ki gen kat kote ki fòme kat ang dwat, kote ki opoze yo gen menm longè de pa de.",
+    "tags": [
+      "rectangle",
+      "quatre cotes",
+      "angles droits",
+      "cotes opposes",
+      "rektang",
+      "menm longè"
+    ]
+  },
+  {
+    "id": "def-2000-075",
+    "question": "Qu'est-ce qu'un cube",
+    "reponse": "Un cube est une figure géométrique en trois dimensions composée de six faces carrées identiques, formant un solide parfaitement symétrique.",
+    "tags": [
+      "cube",
+      "trois dimensions",
+      "six faces",
+      "solide",
+      "kib",
+      "simetrik"
+    ]
+  },
+  {
+    "id": "def-2000-076",
+    "question": "Kisa ki yon kib",
+    "reponse": "Kib se yon fòm jewometrik an twa dimansyon ki fèt ak sis fas kare idantik, li fòme yon solid ki byen simetrik.",
+    "tags": [
+      "cube",
+      "trois dimensions",
+      "six faces",
+      "solide",
+      "kib",
+      "simetrik"
+    ]
+  },
+  {
+    "id": "def-2000-077",
+    "question": "Qu'est-ce qu'une sphère",
+    "reponse": "Une sphère est une figure géométrique tridimensionnelle parfaitement ronde, dont tous les points de la surface sont situés à égale distance de son centre.",
+    "tags": [
+      "sphere",
+      "tridimensionnelle",
+      "ronde",
+      "centre",
+      "esfè",
+      "distans egal"
+    ]
+  },
+  {
+    "id": "def-2000-078",
+    "question": "Kisa ki yon esfè",
+    "reponse": "Esfè se yon fòm jewometrik an twa dimansyon ki byen won, tout pwen sou sifas li chita menm distans sant li.",
+    "tags": [
+      "sphere",
+      "tridimensionnelle",
+      "ronde",
+      "centre",
+      "esfè",
+      "distans egal"
+    ]
+  },
+  {
+    "id": "def-2000-079",
+    "question": "Qu'est-ce qu'une ligne droite",
+    "reponse": "Une ligne droite est une figure géométrique illimitée dans les deux sens, ne présentant aucune courbure, reliant deux points par le chemin le plus court.",
+    "tags": [
+      "ligne droite",
+      "geometrie",
+      "sans courbure",
+      "points",
+      "liy dwat",
+      "chemen pi kout"
+    ]
+  },
+  {
+    "id": "def-2000-080",
+    "question": "Kisa ki yon liy dwat",
+    "reponse": "Liy dwat se yon fòm jewometrik ki san fen nan de direksyon, li pa gen okenn koub, li konekte de pwen pa chemen ki pi kout la.",
+    "tags": [
+      "ligne droite",
+      "geometrie",
+      "sans courbure",
+      "points",
+      "liy dwat",
+      "chemen pi kout"
+    ]
+  },
+  {
+    "id": "def-2000-081",
+    "question": "Qu'est-ce qu'un angle",
+    "reponse": "Un angle est la figure géométrique formée par deux lignes qui se rencontrent en un point, mesurée en degrés pour quantifier son ouverture.",
+    "tags": [
+      "angle",
+      "deux lignes",
+      "degres",
+      "geometrie",
+      "ang",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-082",
+    "question": "Kisa ki yon ang",
+    "reponse": "Ang se fòm jewometrik de liy fòme lè yo rankontre nan yon pwen, yo mezire l an degre pou kantifye louvèti li.",
+    "tags": [
+      "angle",
+      "deux lignes",
+      "degres",
+      "geometrie",
+      "ang",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-2000-083",
+    "question": "Qu'est-ce qu'un point géométrique",
+    "reponse": "Un point géométrique est l'élément de base de la géométrie, représentant une position précise dans l'espace, sans dimension ni taille.",
+    "tags": [
+      "point geometrique",
+      "geometrie de base",
+      "position",
+      "sans dimension",
+      "pwen jewometrik",
+      "pozisyon"
+    ]
+  },
+  {
+    "id": "def-2000-084",
+    "question": "Kisa ki yon pwen jewometrik",
+    "reponse": "Pwen jewometrik se eleman debaz jewometri a, li reprezante yon pozisyon presi nan espas, li pa gen dimansyon ni gwosè.",
+    "tags": [
+      "point geometrique",
+      "geometrie de base",
+      "position",
+      "sans dimension",
+      "pwen jewometrik",
+      "pozisyon"
+    ]
+  },
+  {
+    "id": "def-2000-085",
+    "question": "Qu'est-ce qu'une couleur primaire",
+    "reponse": "Une couleur primaire est l'une des couleurs de base, comme le rouge, le bleu ou le jaune, qui ne peut être obtenue en mélangeant d'autres couleurs.",
+    "tags": [
+      "couleur primaire",
+      "rouge",
+      "bleu",
+      "jaune",
+      "koulè primè",
+      "debaz"
+    ]
+  },
+  {
+    "id": "def-2000-086",
+    "question": "Kisa ki yon koulè primè",
+    "reponse": "Koulè primè se youn nan koulè debaz yo, tankou wouj, ble oswa jòn, yo pa ka jwenn li lè yo melanje lòt koulè.",
+    "tags": [
+      "couleur primaire",
+      "rouge",
+      "bleu",
+      "jaune",
+      "koulè primè",
+      "debaz"
+    ]
+  },
+  {
+    "id": "def-2000-087",
+    "question": "Qu'est-ce qu'une couleur secondaire",
+    "reponse": "Une couleur secondaire est une couleur obtenue en mélangeant deux couleurs primaires en quantités égales, comme le vert, l'orange ou le violet.",
+    "tags": [
+      "couleur secondaire",
+      "melange",
+      "vert",
+      "orange",
+      "koulè segondè",
+      "melanje"
+    ]
+  },
+  {
+    "id": "def-2000-088",
+    "question": "Kisa ki yon koulè segondè",
+    "reponse": "Koulè segondè se yon koulè yo jwenn lè yo melanje de koulè primè an menm kantite, tankou vèt, oranj oswa vyolèt.",
+    "tags": [
+      "couleur secondaire",
+      "melange",
+      "vert",
+      "orange",
+      "koulè segondè",
+      "melanje"
+    ]
+  },
+  {
+    "id": "def-2000-089",
+    "question": "Qu'est-ce que le rouge",
+    "reponse": "Le rouge est une couleur primaire chaude, souvent associée à la passion, au danger ou à l'énergie, présente naturellement dans de nombreux fruits et fleurs.",
+    "tags": [
+      "rouge",
+      "couleur primaire",
+      "passion",
+      "danger",
+      "wouj",
+      "cho"
+    ]
+  },
+  {
+    "id": "def-2000-090",
+    "question": "Kisa ki koulè wouj la",
+    "reponse": "Wouj se yon koulè primè ki cho, souvan li asosye ak pasyon, danje oswa enèji, li prezan natirèlman nan anpil fwi ak flè.",
+    "tags": [
+      "rouge",
+      "couleur primaire",
+      "passion",
+      "danger",
+      "wouj",
+      "cho"
+    ]
+  },
+  {
+    "id": "def-2000-091",
+    "question": "Qu'est-ce que le bleu",
+    "reponse": "Le bleu est une couleur primaire froide, souvent associée au calme, à la mer et au ciel, largement présente dans la nature.",
+    "tags": [
+      "bleu",
+      "couleur primaire",
+      "calme",
+      "mer",
+      "ble",
+      "frèt"
+    ]
+  },
+  {
+    "id": "def-2000-092",
+    "question": "Kisa ki koulè ble a",
+    "reponse": "Ble se yon koulè primè ki frèt, souvan li asosye ak kalm, lanmè ak syèl la, li prezan anpil nan lanati.",
+    "tags": [
+      "bleu",
+      "couleur primaire",
+      "calme",
+      "mer",
+      "ble",
+      "frèt"
+    ]
+  },
+  {
+    "id": "def-2000-093",
+    "question": "Qu'est-ce que le jaune",
+    "reponse": "Le jaune est une couleur primaire vive, souvent associée au soleil, à la lumière et à la joie, fréquemment utilisée pour attirer l'attention.",
+    "tags": [
+      "jaune",
+      "couleur primaire",
+      "soleil",
+      "joie",
+      "jòn",
+      "klere"
+    ]
+  },
+  {
+    "id": "def-2000-094",
+    "question": "Kisa ki koulè jòn nan",
+    "reponse": "Jòn se yon koulè primè ki klere, souvan li asosye ak solèy, limyè ak kè kontan, moun itilize l souvan pou atire atansyon.",
+    "tags": [
+      "jaune",
+      "couleur primaire",
+      "soleil",
+      "joie",
+      "jòn",
+      "klere"
+    ]
+  },
+  {
+    "id": "def-2000-095",
+    "question": "Qu'est-ce que le vert",
+    "reponse": "Le vert est une couleur secondaire obtenue en mélangeant le bleu et le jaune, largement présente dans la nature grâce à la chlorophylle des plantes.",
+    "tags": [
+      "vert",
+      "couleur secondaire",
+      "nature",
+      "chlorophylle",
+      "vèt",
+      "melanje"
+    ]
+  },
+  {
+    "id": "def-2000-096",
+    "question": "Kisa ki koulè vèt la",
+    "reponse": "Vèt se yon koulè segondè yo jwenn lè yo melanje ble ak jòn, li prezan anpil nan lanati gras ak klowofil plant yo.",
+    "tags": [
+      "vert",
+      "couleur secondaire",
+      "nature",
+      "chlorophylle",
+      "vèt",
+      "melanje"
+    ]
+  },
+  {
+    "id": "def-2000-097",
+    "question": "Qu'est-ce que le noir",
+    "reponse": "Le noir est l'absence totale de lumière réfléchie, perçue comme une couleur sombre, souvent associée à l'élégance, au mystère ou à la nuit.",
+    "tags": [
+      "noir",
+      "absence de lumiere",
+      "mystere",
+      "nuit",
+      "nwa",
+      "fonse"
+    ]
+  },
+  {
+    "id": "def-2000-098",
+    "question": "Kisa ki koulè nwa a",
+    "reponse": "Nwa se absans total limyè reflete, moun pèsevwa l kòm yon koulè fonse, souvan li asosye ak elegans, mistè oswa lannwit.",
+    "tags": [
+      "noir",
+      "absence de lumiere",
+      "mystere",
+      "nuit",
+      "nwa",
+      "fonse"
+    ]
+  },
+  {
+    "id": "def-2000-099",
+    "question": "Qu'est-ce que le blanc",
+    "reponse": "Le blanc est la couleur résultant de la réflexion de toutes les longueurs d'onde de lumière visible, souvent associée à la pureté, à la paix ou à la simplicité.",
+    "tags": [
+      "blanc",
+      "reflexion de la lumiere",
+      "purete",
+      "paix",
+      "blan",
+      "reflè"
+    ]
+  },
+  {
+    "id": "def-2000-100",
+    "question": "Kisa ki koulè blan an",
+    "reponse": "Blan se koulè ki soti nan reflè tout longè onn limyè moun ka wè, souvan li asosye ak pite, lapè oswa senplisite.",
+    "tags": [
+      "blanc",
+      "reflexion de la lumiere",
+      "purete",
+      "paix",
+      "blan",
+      "reflè"
+    ]
+  }
+]

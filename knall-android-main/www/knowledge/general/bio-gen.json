@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "bio-gen-001",
+    "question": "Qu'est-ce que la génétique",
+    "reponse": "La génétique est la science qui étudie comment les caractères se transmettent des parents aux enfants.",
+    "tags": [
+      "genetique",
+      "heredite",
+      "science",
+      "transmission",
+      "jenetik",
+      "eredite"
+    ]
+  },
+  {
+    "id": "bio-gen-002",
+    "question": "Kisa ki jenetik la",
+    "reponse": "Jenetik se syans ki etidye kijan karaktè yo pase nan men paran yo rive nan men pitit yo.",
+    "tags": [
+      "genetique",
+      "heredite",
+      "science",
+      "transmission",
+      "jenetik",
+      "eredite"
+    ]
+  },
+  {
+    "id": "bio-gen-003",
+    "question": "Qu'est-ce qu'un gène",
+    "reponse": "Un gène est un petit morceau d'ADN qui porte l'information nécessaire pour un caractère précis, comme la couleur des yeux.",
+    "tags": [
+      "gene",
+      "adn",
+      "caractere",
+      "information",
+      "jèn",
+      "karaktè"
+    ]
+  },
+  {
+    "id": "bio-gen-004",
+    "question": "Kisa ki yon jèn",
+    "reponse": "Jèn se yon ti moso ADN ki pote enfòmasyon nesesè pou yon karaktè presi, tankou koulè je.",
+    "tags": [
+      "gene",
+      "adn",
+      "caractere",
+      "information",
+      "jèn",
+      "karaktè"
+    ]
+  },
+  {
+    "id": "bio-gen-005",
+    "question": "Qu'est-ce qu'un chromosome",
+    "reponse": "Un chromosome est une structure formée d'ADN très enroulé qui porte de nombreux gènes.",
+    "tags": [
+      "chromosome",
+      "adn",
+      "gene",
+      "structure",
+      "kwomozòm",
+      "jèn"
+    ]
+  },
+  {
+    "id": "bio-gen-006",
+    "question": "Kisa ki yon kwomozòm",
+    "reponse": "Kwomozòm se yon estrikti fòme ak ADN ki anwoule byen sere epi ki pote anpil jèn.",
+    "tags": [
+      "chromosome",
+      "adn",
+      "gene",
+      "structure",
+      "kwomozòm",
+      "jèn"
+    ]
+  },
+  {
+    "id": "bio-gen-007",
+    "question": "Combien de chromosomes possède un être humain",
+    "reponse": "Un être humain possède normalement 46 chromosomes, soit 23 paires, dans chacune de ses cellules.",
+    "tags": [
+      "chromosomes",
+      "humain",
+      "46",
+      "paires",
+      "kwomozòm",
+      "moun"
+    ]
+  },
+  {
+    "id": "bio-gen-008",
+    "question": "Konbyen kwomozòm yon moun genyen",
+    "reponse": "Yon moun gen nòmalman 46 kwomozòm, sa vle di 23 pè, nan chak selil li.",
+    "tags": [
+      "chromosomes",
+      "humain",
+      "46",
+      "paires",
+      "kwomozòm",
+      "moun"
+    ]
+  },
+  {
+    "id": "bio-gen-009",
+    "question": "Qu'est-ce qu'un allèle",
+    "reponse": "Un allèle est une des différentes versions possibles d'un même gène, qui peut donner des caractères différents.",
+    "tags": [
+      "allele",
+      "gene",
+      "version",
+      "variation",
+      "alèl",
+      "vèsyon"
+    ]
+  },
+  {
+    "id": "bio-gen-010",
+    "question": "Kisa ki yon alèl",
+    "reponse": "Alèl se youn nan diferan vèsyon yon menm jèn ka genyen, ki ka bay diferan karaktè.",
+    "tags": [
+      "allele",
+      "gene",
+      "version",
+      "variation",
+      "alèl",
+      "vèsyon"
+    ]
+  },
+  {
+    "id": "bio-gen-011",
+    "question": "Qu'est-ce qu'un gène dominant",
+    "reponse": "Un gène dominant est un gène dont le caractère s'exprime chez une personne même si elle n'a qu'une seule copie de ce gène.",
+    "tags": [
+      "gene dominant",
+      "expression",
+      "caractere",
+      "genetique",
+      "jèn dominan",
+      "parèt"
+    ]
+  },
+  {
+    "id": "bio-gen-012",
+    "question": "Kisa ki yon jèn dominan",
+    "reponse": "Jèn dominan se yon jèn ki parèt lakay yon moun menmsi li gen yon sèl kopi jèn sa a.",
+    "tags": [
+      "gene dominant",
+      "expression",
+      "caractere",
+      "genetique",
+      "jèn dominan",
+      "parèt"
+    ]
+  },
+  {
+    "id": "bio-gen-013",
+    "question": "Qu'est-ce qu'un gène récessif",
+    "reponse": "Un gène récessif est un gène dont le caractère ne s'exprime que si la personne possède deux copies de ce gène.",
+    "tags": [
+      "gene recessif",
+      "expression",
+      "copies",
+      "genetique",
+      "jèn resesif",
+      "de kopi"
+    ]
+  },
+  {
+    "id": "bio-gen-014",
+    "question": "Kisa ki yon jèn resesif",
+    "reponse": "Jèn resesif se yon jèn ki parèt sèlman si moun nan gen de kopi jèn sa a.",
+    "tags": [
+      "gene recessif",
+      "expression",
+      "copies",
+      "genetique",
+      "jèn resesif",
+      "de kopi"
+    ]
+  },
+  {
+    "id": "bio-gen-015",
+    "question": "Qu'est-ce que le génotype",
+    "reponse": "Le génotype est l'ensemble des gènes qu'un individu possède, c'est-à-dire sa composition génétique interne.",
+    "tags": [
+      "genotype",
+      "genes",
+      "composition",
+      "interne",
+      "jenotip",
+      "konpozisyon"
+    ]
+  },
+  {
+    "id": "bio-gen-016",
+    "question": "Kisa ki jenotip la",
+    "reponse": "Jenotip la se tout jèn yon moun genyen, sa vle di konpozisyon jenetik li anndan.",
+    "tags": [
+      "genotype",
+      "genes",
+      "composition",
+      "interne",
+      "jenotip",
+      "konpozisyon"
+    ]
+  },
+  {
+    "id": "bio-gen-017",
+    "question": "Qu'est-ce que le phénotype",
+    "reponse": "Le phénotype est l'ensemble des caractères visibles d'un individu, comme la couleur de peau ou la taille, résultant de ses gènes.",
+    "tags": [
+      "phenotype",
+      "visible",
+      "caracteres",
+      "genes",
+      "fenotip",
+      "wè"
+    ]
+  },
+  {
+    "id": "bio-gen-018",
+    "question": "Kisa ki fenotip la",
+    "reponse": "Fenotip la se tout karaktè yo ka wè sou yon moun, tankou koulè po li oswa wotè li, ki soti nan jèn li yo.",
+    "tags": [
+      "phenotype",
+      "visible",
+      "caracteres",
+      "genes",
+      "fenotip",
+      "wè"
+    ]
+  },
+  {
+    "id": "bio-gen-019",
+    "question": "Qu'est-ce que l'hérédité",
+    "reponse": "L'hérédité est le processus par lequel les caractères biologiques se transmettent des parents à leurs enfants.",
+    "tags": [
+      "heredite",
+      "transmission",
+      "parents",
+      "enfants",
+      "eredite",
+      "transmèt"
+    ]
+  },
+  {
+    "id": "bio-gen-020",
+    "question": "Kisa ki eredite a",
+    "reponse": "Eredite se pwosesis kote karaktè byolojik yo pase nan men paran yo rive nan men pitit yo.",
+    "tags": [
+      "heredite",
+      "transmission",
+      "parents",
+      "enfants",
+      "eredite",
+      "transmèt"
+    ]
+  },
+  {
+    "id": "bio-gen-021",
+    "question": "Qu'est-ce qu'une mutation génétique",
+    "reponse": "Une mutation génétique est un changement accidentel dans la séquence de l'ADN qui peut modifier un caractère.",
+    "tags": [
+      "mutation",
+      "adn",
+      "changement",
+      "genetique",
+      "mitasyon",
+      "chanjman"
+    ]
+  },
+  {
+    "id": "bio-gen-022",
+    "question": "Kisa ki yon mitasyon jenetik",
+    "reponse": "Mitasyon jenetik se yon chanjman aksidantèl nan sekans ADN ki ka modifye yon karaktè.",
+    "tags": [
+      "mutation",
+      "adn",
+      "changement",
+      "genetique",
+      "mitasyon",
+      "chanjman"
+    ]
+  },
+  {
+    "id": "bio-gen-023",
+    "question": "Qu'est-ce qu'un caryotype",
+    "reponse": "Un caryotype est une photographie classée de tous les chromosomes d'une cellule, utilisée pour détecter des anomalies génétiques.",
+    "tags": [
+      "caryotype",
+      "chromosomes",
+      "analyse",
+      "anomalie",
+      "kariyotip",
+      "foto"
+    ]
+  },
+  {
+    "id": "bio-gen-024",
+    "question": "Kisa ki yon kariyotip",
+    "reponse": "Kariyotip se yon foto ki klase tout kwomozòm yon selil, yo itilize l pou dekouvri pwoblèm jenetik.",
+    "tags": [
+      "caryotype",
+      "chromosomes",
+      "analyse",
+      "anomalie",
+      "kariyotip",
+      "foto"
+    ]
+  },
+  {
+    "id": "bio-gen-025",
+    "question": "Qu'est-ce que la mitose",
+    "reponse": "La mitose est un type de division cellulaire qui produit deux cellules filles identiques à la cellule mère.",
+    "tags": [
+      "mitose",
+      "division cellulaire",
+      "identiques",
+      "croissance",
+      "mitoz",
+      "idantik"
+    ]
+  },
+  {
+    "id": "bio-gen-026",
+    "question": "Kisa ki mitoz la",
+    "reponse": "Mitoz se yon kalite divizyon selilè ki fè de selil fi ki idantik ak selil manman an.",
+    "tags": [
+      "mitose",
+      "division cellulaire",
+      "identiques",
+      "croissance",
+      "mitoz",
+      "idantik"
+    ]
+  },
+  {
+    "id": "bio-gen-027",
+    "question": "Qu'est-ce que la méiose",
+    "reponse": "La méiose est un type de division cellulaire qui produit des cellules sexuelles avec deux fois moins de chromosomes.",
+    "tags": [
+      "meiose",
+      "cellules sexuelles",
+      "chromosomes",
+      "reproduction",
+      "meyoz",
+      "selil seksyèl"
+    ]
+  },
+  {
+    "id": "bio-gen-028",
+    "question": "Kisa ki meyoz la",
+    "reponse": "Meyoz se yon kalite divizyon selilè ki fè selil seksyèl yo genyen de fwa mwens kwomozòm.",
+    "tags": [
+      "meiose",
+      "cellules sexuelles",
+      "chromosomes",
+      "reproduction",
+      "meyoz",
+      "selil seksyèl"
+    ]
+  },
+  {
+    "id": "bio-gen-029",
+    "question": "Qu'est-ce que le clonage",
+    "reponse": "Le clonage est une technique qui permet de créer une copie génétiquement identique d'un être vivant.",
+    "tags": [
+      "clonage",
+      "copie",
+      "identique",
+      "technique",
+      "klonaj",
+      "kopi"
+    ]
+  },
+  {
+    "id": "bio-gen-030",
+    "question": "Kisa ki klonaj la",
+    "reponse": "Klonaj se yon teknik ki pèmèt kreye yon kopi ki idantik jenetikman ak yon bagay vivan.",
+    "tags": [
+      "clonage",
+      "copie",
+      "identique",
+      "technique",
+      "klonaj",
+      "kopi"
+    ]
+  },
+  {
+    "id": "bio-gen-031",
+    "question": "Qu'est-ce qu'un OGM",
+    "reponse": "Un OGM, organisme génétiquement modifié, est un être vivant dont l'ADN a été modifié en laboratoire.",
+    "tags": [
+      "ogm",
+      "modification",
+      "laboratoire",
+      "adn",
+      "modifye",
+      "laboratwa"
+    ]
+  },
+  {
+    "id": "bio-gen-032",
+    "question": "Kisa ki yon OGM",
+    "reponse": "OGM, òganis modifye jenetikman, se yon bagay vivan ADN li te modifye nan laboratwa.",
+    "tags": [
+      "ogm",
+      "modification",
+      "laboratoire",
+      "adn",
+      "modifye",
+      "laboratwa"
+    ]
+  },
+  {
+    "id": "bio-gen-033",
+    "question": "Qu'est-ce que la réplication de l'ADN",
+    "reponse": "La réplication de l'ADN est le processus par lequel la cellule fait une copie exacte de son ADN avant de se diviser.",
+    "tags": [
+      "replication",
+      "adn",
+      "copie",
+      "division",
+      "replikasyon",
+      "kopi egzak"
+    ]
+  },
+  {
+    "id": "bio-gen-034",
+    "question": "Kisa ki replikasyon ADN",
+    "reponse": "Replikasyon ADN se pwosesis kote selil la fè yon kopi egzak ADN li anvan li divize.",
+    "tags": [
+      "replication",
+      "adn",
+      "copie",
+      "division",
+      "replikasyon",
+      "kopi egzak"
+    ]
+  },
+  {
+    "id": "bio-gen-035",
+    "question": "Qu'est-ce que la transcription en génétique",
+    "reponse": "La transcription est le processus par lequel l'information de l'ADN est copiée en ARN.",
+    "tags": [
+      "transcription",
+      "adn",
+      "arn",
+      "copie",
+      "transkripsyon",
+      "kopye"
+    ]
+  },
+  {
+    "id": "bio-gen-036",
+    "question": "Kisa ki transkripsyon nan jenetik",
+    "reponse": "Transkripsyon se pwosesis kote enfòmasyon ADN la kopye an ARN.",
+    "tags": [
+      "transcription",
+      "adn",
+      "arn",
+      "copie",
+      "transkripsyon",
+      "kopye"
+    ]
+  },
+  {
+    "id": "bio-gen-037",
+    "question": "Qu'est-ce que la traduction en génétique",
+    "reponse": "La traduction est le processus par lequel l'ARN est utilisé pour fabriquer une protéine.",
+    "tags": [
+      "traduction",
+      "arn",
+      "proteine",
+      "fabrication",
+      "tradiksyon",
+      "fabrike"
+    ]
+  },
+  {
+    "id": "bio-gen-038",
+    "question": "Kisa ki tradiksyon nan jenetik",
+    "reponse": "Tradiksyon se pwosesis kote ARN sèvi pou fabrike yon pwoteyin.",
+    "tags": [
+      "traduction",
+      "arn",
+      "proteine",
+      "fabrication",
+      "tradiksyon",
+      "fabrike"
+    ]
+  },
+  {
+    "id": "bio-gen-039",
+    "question": "Qu'est-ce que le code génétique",
+    "reponse": "Le code génétique est le système de correspondance entre les séquences d'ADN et les acides aminés qui forment les protéines.",
+    "tags": [
+      "code genetique",
+      "adn",
+      "acides amines",
+      "systeme",
+      "kòd jenetik",
+      "koresponn"
+    ]
+  },
+  {
+    "id": "bio-gen-040",
+    "question": "Kisa ki kòd jenetik la",
+    "reponse": "Kòd jenetik la se sistèm ki fè sekans ADN koresponn ak asid amine ki fòme pwoteyin yo.",
+    "tags": [
+      "code genetique",
+      "adn",
+      "acides amines",
+      "systeme",
+      "kòd jenetik",
+      "koresponn"
+    ]
+  },
+  {
+    "id": "bio-gen-041",
+    "question": "Qu'est-ce que l'hémoglobine",
+    "reponse": "L'hémoglobine est une protéine présente dans les globules rouges qui transporte l'oxygène dans tout le corps.",
+    "tags": [
+      "hemoglobine",
+      "globules rouges",
+      "oxygene",
+      "transport",
+      "emoglobin",
+      "transpò"
+    ]
+  },
+  {
+    "id": "bio-gen-042",
+    "question": "Kisa ki emoglobin nan",
+    "reponse": "Emoglobin nan se yon pwoteyin ki nan globil wouj yo ki transpòte oksijèn nan tout kò a.",
+    "tags": [
+      "hemoglobine",
+      "globules rouges",
+      "oxygene",
+      "transport",
+      "emoglobin",
+      "transpò"
+    ]
+  },
+  {
+    "id": "bio-gen-043",
+    "question": "Qu'est-ce qu'une maladie génétique",
+    "reponse": "Une maladie génétique est une maladie causée par une anomalie dans les gènes ou les chromosomes d'une personne.",
+    "tags": [
+      "maladie genetique",
+      "anomalie",
+      "genes",
+      "chromosomes",
+      "maladi jenetik",
+      "pwoblèm"
+    ]
+  },
+  {
+    "id": "bio-gen-044",
+    "question": "Kisa ki yon maladi jenetik",
+    "reponse": "Maladi jenetik se yon maladi ki koze pa yon pwoblèm nan jèn oswa kwomozòm yon moun.",
+    "tags": [
+      "maladie genetique",
+      "anomalie",
+      "genes",
+      "chromosomes",
+      "maladi jenetik",
+      "pwoblèm"
+    ]
+  },
+  {
+    "id": "bio-gen-045",
+    "question": "Qu'est-ce que la trisomie 21",
+    "reponse": "La trisomie 21, ou syndrome de Down, est une maladie génétique causée par la présence d'un chromosome 21 en trop.",
+    "tags": [
+      "trisomie 21",
+      "syndrome de down",
+      "chromosome",
+      "maladie",
+      "trizomi",
+      "sendwòm"
+    ]
+  },
+  {
+    "id": "bio-gen-046",
+    "question": "Kisa ki trizomi 21",
+    "reponse": "Trizomi 21, oswa sendwòm Down, se yon maladi jenetik ki koze pa yon kwomozòm 21 anplis.",
+    "tags": [
+      "trisomie 21",
+      "syndrome de down",
+      "chromosome",
+      "maladie",
+      "trizomi",
+      "sendwòm"
+    ]
+  },
+  {
+    "id": "bio-gen-047",
+    "question": "Comment se transmettent les groupes sanguins",
+    "reponse": "Les groupes sanguins A, B, AB et O se transmettent génétiquement des parents aux enfants selon des règles précises.",
+    "tags": [
+      "groupe sanguin",
+      "transmission",
+      "heredite",
+      "parents",
+      "gwoup sangen",
+      "transmèt"
+    ]
+  },
+  {
+    "id": "bio-gen-048",
+    "question": "Kijan gwoup sangen yo transmèt",
+    "reponse": "Gwoup sangen A, B, AB ak O transmèt jenetikman nan men paran yo rive nan men pitit dapre règ presi.",
+    "tags": [
+      "groupe sanguin",
+      "transmission",
+      "heredite",
+      "parents",
+      "gwoup sangen",
+      "transmèt"
+    ]
+  },
+  {
+    "id": "bio-gen-049",
+    "question": "Pourquoi des jumeaux identiques se ressemblent-ils autant",
+    "reponse": "Des jumeaux identiques se ressemblent autant parce qu'ils viennent du même œuf fécondé et partagent exactement le même ADN.",
+    "tags": [
+      "jumeaux",
+      "identiques",
+      "adn",
+      "oeuf",
+      "jimo",
+      "pataje"
+    ]
+  },
+  {
+    "id": "bio-gen-050",
+    "question": "Poukisa jimo idantik sanble konsa",
+    "reponse": "Jimo idantik sanble konsa paske yo soti nan menm ze fekonde a epi yo pataje egzakteman menm ADN.",
+    "tags": [
+      "jumeaux",
+      "identiques",
+      "adn",
+      "oeuf",
+      "jimo",
+      "pataje"
+    ]
+  },
+  {
+    "id": "bio-gen-051",
+    "question": "Qu'est-ce que l'hybridation en génétique",
+    "reponse": "L'hybridation est le croisement de deux individus différents, souvent de variétés ou d'espèces proches, pour obtenir une descendance aux nouveaux caractères.",
+    "tags": [
+      "hybridation",
+      "croisement",
+      "descendance",
+      "variete",
+      "ibridasyon",
+      "kwazman"
+    ]
+  },
+  {
+    "id": "bio-gen-052",
+    "question": "Kisa ki ibridasyon nan jenetik",
+    "reponse": "Ibridasyon se kwazman de moun diferan, souvan de kalite ki pwòch, pou jwenn desandans ak nouvo karaktè.",
+    "tags": [
+      "hybridation",
+      "croisement",
+      "descendance",
+      "variete",
+      "ibridasyon",
+      "kwazman"
+    ]
+  },
+  {
+    "id": "bio-gen-053",
+    "question": "Qu'est-ce que la sélection naturelle",
+    "reponse": "La sélection naturelle est le mécanisme par lequel les individus les mieux adaptés à leur environnement survivent et se reproduisent davantage.",
+    "tags": [
+      "selection naturelle",
+      "adaptation",
+      "survie",
+      "evolution",
+      "seleksyon natirèl",
+      "siviv"
+    ]
+  },
+  {
+    "id": "bio-gen-054",
+    "question": "Kisa ki seleksyon natirèl la",
+    "reponse": "Seleksyon natirèl se mekanis kote moun ki pi byen adapte ak anviwonnman yo siviv epi repwodui plis.",
+    "tags": [
+      "selection naturelle",
+      "adaptation",
+      "survie",
+      "evolution",
+      "seleksyon natirèl",
+      "siviv"
+    ]
+  },
+  {
+    "id": "bio-gen-055",
+    "question": "Qui est Charles Darwin",
+    "reponse": "Charles Darwin est le naturaliste anglais qui a proposé la théorie de l'évolution des espèces par la sélection naturelle.",
+    "tags": [
+      "darwin",
+      "evolution",
+      "naturaliste",
+      "theorie",
+      "teyori",
+      "evolisyon"
+    ]
+  },
+  {
+    "id": "bio-gen-056",
+    "question": "Kimoun ki Charles Darwin",
+    "reponse": "Charles Darwin se natiralis anglè ki te pwopoze teyori evolisyon espès yo pa seleksyon natirèl.",
+    "tags": [
+      "darwin",
+      "evolution",
+      "naturaliste",
+      "theorie",
+      "teyori",
+      "evolisyon"
+    ]
+  },
+  {
+    "id": "bio-gen-057",
+    "question": "Qu'est-ce que l'évolution en biologie",
+    "reponse": "L'évolution est le processus par lequel les espèces changent progressivement de génération en génération en s'adaptant à leur environnement.",
+    "tags": [
+      "evolution",
+      "especes",
+      "adaptation",
+      "generations",
+      "evolisyon",
+      "jenerasyon"
+    ]
+  },
+  {
+    "id": "bio-gen-058",
+    "question": "Kisa ki evolisyon an nan byoloji",
+    "reponse": "Evolisyon se pwosesis kote espès yo chanje piti piti de jenerasyon an jenerasyon pandan y ap adapte ak anviwonnman yo.",
+    "tags": [
+      "evolution",
+      "especes",
+      "adaptation",
+      "generations",
+      "evolisyon",
+      "jenerasyon"
+    ]
+  },
+  {
+    "id": "bio-gen-059",
+    "question": "Qu'est-ce qu'une espèce en biologie",
+    "reponse": "Une espèce est un groupe d'êtres vivants capables de se reproduire entre eux et de donner une descendance fertile.",
+    "tags": [
+      "espece",
+      "reproduction",
+      "descendance",
+      "fertile",
+      "espès",
+      "repwodui"
+    ]
+  },
+  {
+    "id": "bio-gen-060",
+    "question": "Kisa ki yon espès nan byoloji",
+    "reponse": "Espès se yon gwoup bagay vivan ki kapab repwodui youn ak lòt epi bay yon desandans ki ka fè pitit tou.",
+    "tags": [
+      "espece",
+      "reproduction",
+      "descendance",
+      "fertile",
+      "espès",
+      "repwodui"
+    ]
+  },
+  {
+    "id": "bio-gen-061",
+    "question": "Qu'est-ce que la variation génétique",
+    "reponse": "La variation génétique est la diversité des gènes présente dans une population, qui permet l'adaptation et l'évolution.",
+    "tags": [
+      "variation genetique",
+      "diversite",
+      "population",
+      "adaptation",
+      "varyasyon",
+      "divèsite"
+    ]
+  },
+  {
+    "id": "bio-gen-062",
+    "question": "Kisa ki varyasyon jenetik la",
+    "reponse": "Varyasyon jenetik la se divèsite jèn ki genyen nan yon popilasyon, sa ki pèmèt adaptasyon ak evolisyon.",
+    "tags": [
+      "variation genetique",
+      "diversite",
+      "population",
+      "adaptation",
+      "varyasyon",
+      "divèsite"
+    ]
+  },
+  {
+    "id": "bio-gen-063",
+    "question": "Qu'est-ce qu'un croisement génétique",
+    "reponse": "Un croisement génétique est l'accouplement contrôlé de deux individus pour étudier ou produire certains caractères chez leur descendance.",
+    "tags": [
+      "croisement",
+      "accouplement",
+      "descendance",
+      "genetique",
+      "kwazman",
+      "akouplman"
+    ]
+  },
+  {
+    "id": "bio-gen-064",
+    "question": "Kisa ki yon kwazman jenetik",
+    "reponse": "Kwazman jenetik se akouplman kontwole de moun pou etidye oswa pwodui sèten karaktè nan desandans yo.",
+    "tags": [
+      "croisement",
+      "accouplement",
+      "descendance",
+      "genetique",
+      "kwazman",
+      "akouplman"
+    ]
+  },
+  {
+    "id": "bio-gen-065",
+    "question": "Qui était Gregor Mendel",
+    "reponse": "Gregor Mendel est un moine autrichien considéré comme le père de la génétique grâce à ses expériences sur les pois.",
+    "tags": [
+      "mendel",
+      "genetique",
+      "pois",
+      "experiences",
+      "papa jenetik",
+      "eksperyans"
+    ]
+  },
+  {
+    "id": "bio-gen-066",
+    "question": "Kimoun ki Gregor Mendel",
+    "reponse": "Gregor Mendel se yon mwàn Ostrichyen yo konsidere kòm papa jenetik la gras a eksperyans li te fè sou pwa yo.",
+    "tags": [
+      "mendel",
+      "genetique",
+      "pois",
+      "experiences",
+      "papa jenetik",
+      "eksperyans"
+    ]
+  },
+  {
+    "id": "bio-gen-067",
+    "question": "Qu'est-ce que la loi de Mendel",
+    "reponse": "La loi de Mendel décrit comment les caractères héréditaires se transmettent des parents aux enfants selon des règles de dominance et de ségrégation.",
+    "tags": [
+      "loi de mendel",
+      "heredite",
+      "dominance",
+      "regles",
+      "lwa mendel",
+      "dominans"
+    ]
+  },
+  {
+    "id": "bio-gen-068",
+    "question": "Kisa ki lwa Mendel la",
+    "reponse": "Lwa Mendel la eksplike kijan karaktè eredite yo transmèt nan men paran yo rive nan men pitit yo dapre règ dominans.",
+    "tags": [
+      "loi de mendel",
+      "heredite",
+      "dominance",
+      "regles",
+      "lwa mendel",
+      "dominans"
+    ]
+  },
+  {
+    "id": "bio-gen-069",
+    "question": "Qu'est-ce que la dominance en génétique",
+    "reponse": "La dominance est le fait qu'un allèle masque l'effet d'un autre allèle lorsqu'ils sont tous deux présents.",
+    "tags": [
+      "dominance",
+      "allele",
+      "effet",
+      "genetique",
+      "dominans",
+      "kache"
+    ]
+  },
+  {
+    "id": "bio-gen-070",
+    "question": "Kisa ki dominans nan jenetik",
+    "reponse": "Dominans se lefètke yon alèl kache efè yon lòt alèl lè yo toulede prezan.",
+    "tags": [
+      "dominance",
+      "allele",
+      "effet",
+      "genetique",
+      "dominans",
+      "kache"
+    ]
+  },
+  {
+    "id": "bio-gen-071",
+    "question": "Qu'est-ce que l'hérédité liée au sexe",
+    "reponse": "L'hérédité liée au sexe concerne les gènes portés par les chromosomes sexuels, X ou Y, qui s'expriment différemment selon le sexe.",
+    "tags": [
+      "heredite liee au sexe",
+      "chromosomes sexuels",
+      "x",
+      "y",
+      "kwomozòm seksyèl",
+      "sèks"
+    ]
+  },
+  {
+    "id": "bio-gen-072",
+    "question": "Kisa ki eredite ki lye ak sèks la",
+    "reponse": "Eredite ki lye ak sèks la konsène jèn ki sou kwomozòm seksyèl yo, X oswa Y, ki parèt diferan selon sèks moun nan.",
+    "tags": [
+      "heredite liee au sexe",
+      "chromosomes sexuels",
+      "x",
+      "y",
+      "kwomozòm seksyèl",
+      "sèks"
+    ]
+  },
+  {
+    "id": "bio-gen-073",
+    "question": "Qu'est-ce que le daltonisme",
+    "reponse": "Le daltonisme est une anomalie génétique héréditaire qui empêche de bien distinguer certaines couleurs, surtout le rouge et le vert.",
+    "tags": [
+      "daltonisme",
+      "couleurs",
+      "heredite",
+      "genetique",
+      "daltonis",
+      "koulè"
+    ]
+  },
+  {
+    "id": "bio-gen-074",
+    "question": "Kisa ki daltonis la",
+    "reponse": "Daltonis se yon pwoblèm jenetik ki eredite ki anpeche yon moun distenge byen kèk koulè, sitou wouj ak vèt.",
+    "tags": [
+      "daltonisme",
+      "couleurs",
+      "heredite",
+      "genetique",
+      "daltonis",
+      "koulè"
+    ]
+  },
+  {
+    "id": "bio-gen-075",
+    "question": "Qu'est-ce que l'hémophilie",
+    "reponse": "L'hémophilie est une maladie génétique héréditaire dans laquelle le sang a du mal à coaguler normalement.",
+    "tags": [
+      "hemophilie",
+      "sang",
+      "coagulation",
+      "heredite",
+      "emofili",
+      "kaye"
+    ]
+  },
+  {
+    "id": "bio-gen-076",
+    "question": "Kisa ki emofili a",
+    "reponse": "Emofili se yon maladi jenetik eredite kote san yon moun gen difikilte pou l kaye nòmalman.",
+    "tags": [
+      "hemophilie",
+      "sang",
+      "coagulation",
+      "heredite",
+      "emofili",
+      "kaye"
+    ]
+  },
+  {
+    "id": "bio-gen-077",
+    "question": "Qu'est-ce qu'une empreinte génétique",
+    "reponse": "L'empreinte génétique est le profil unique de l'ADN d'une personne, utilisé pour l'identifier, notamment dans les enquêtes judiciaires.",
+    "tags": [
+      "empreinte genetique",
+      "adn",
+      "identification",
+      "enquete",
+      "anprent jenetik",
+      "idantifye"
+    ]
+  },
+  {
+    "id": "bio-gen-078",
+    "question": "Kisa ki anprent jenetik la",
+    "reponse": "Anprent jenetik la se pwofil ADN ki pwòp a chak moun, yo itilize l pou idantifye moun, espesyalman nan ankèt lapolis.",
+    "tags": [
+      "empreinte genetique",
+      "adn",
+      "identification",
+      "enquete",
+      "anprent jenetik",
+      "idantifye"
+    ]
+  },
+  {
+    "id": "bio-gen-079",
+    "question": "À quoi sert un test ADN",
+    "reponse": "Un test ADN sert à comparer le matériel génétique de deux personnes, par exemple pour confirmer une filiation ou identifier quelqu'un.",
+    "tags": [
+      "test adn",
+      "filiation",
+      "identification",
+      "comparaison",
+      "tès adn",
+      "konfime"
+    ]
+  },
+  {
+    "id": "bio-gen-080",
+    "question": "Ki sèvis yon tès ADN fè",
+    "reponse": "Yon tès ADN sèvi pou konpare materyèl jenetik de moun, pa egzanp pou konfime yon fyasyon oswa idantifye yon moun.",
+    "tags": [
+      "test adn",
+      "filiation",
+      "identification",
+      "comparaison",
+      "tès adn",
+      "konfime"
+    ]
+  },
+  {
+    "id": "bio-gen-081",
+    "question": "Qu'est-ce que le génome humain",
+    "reponse": "Le génome humain est l'ensemble complet de l'ADN présent dans les cellules d'un être humain.",
+    "tags": [
+      "genome humain",
+      "adn",
+      "complet",
+      "cellules",
+      "jenòm imen",
+      "konplè"
+    ]
+  },
+  {
+    "id": "bio-gen-082",
+    "question": "Kisa ki jenòm imen an",
+    "reponse": "Jenòm imen an se tout ADN konplè ki nan selil yon moun.",
+    "tags": [
+      "genome humain",
+      "adn",
+      "complet",
+      "cellules",
+      "jenòm imen",
+      "konplè"
+    ]
+  },
+  {
+    "id": "bio-gen-083",
+    "question": "Qu'est-ce que le projet du génome humain",
+    "reponse": "Le projet du génome humain est un effort scientifique international qui a permis de cartographier entièrement l'ADN humain.",
+    "tags": [
+      "projet genome humain",
+      "cartographie",
+      "international",
+      "science",
+      "pwojè jenòm",
+      "kat"
+    ]
+  },
+  {
+    "id": "bio-gen-084",
+    "question": "Kisa ki pwojè jenòm imen an",
+    "reponse": "Pwojè jenòm imen an se yon gwo efò syantifik entènasyonal ki te pèmèt kat tout ADN moun nèt.",
+    "tags": [
+      "projet genome humain",
+      "cartographie",
+      "international",
+      "science",
+      "pwojè jenòm",
+      "kat"
+    ]
+  },
+  {
+    "id": "bio-gen-085",
+    "question": "Qu'est-ce que la biotechnologie",
+    "reponse": "La biotechnologie est l'utilisation d'organismes vivants ou de leurs molécules pour créer des produits utiles, comme des médicaments.",
+    "tags": [
+      "biotechnologie",
+      "organismes",
+      "medicaments",
+      "produits",
+      "bioteknoloji",
+      "medikaman"
+    ]
+  },
+  {
+    "id": "bio-gen-086",
+    "question": "Kisa ki bioteknoloji a",
+    "reponse": "Bioteknoloji se itilizasyon bagay vivan oswa molekil yo pou kreye pwodui itil, tankou medikaman.",
+    "tags": [
+      "biotechnologie",
+      "organismes",
+      "medicaments",
+      "produits",
+      "bioteknoloji",
+      "medikaman"
+    ]
+  },
+  {
+    "id": "bio-gen-087",
+    "question": "Qu'est-ce que la thérapie génique",
+    "reponse": "La thérapie génique est une méthode médicale qui corrige ou remplace un gène défectueux pour traiter une maladie.",
+    "tags": [
+      "therapie genique",
+      "traitement",
+      "gene",
+      "maladie",
+      "terapi jenik",
+      "trete"
+    ]
+  },
+  {
+    "id": "bio-gen-088",
+    "question": "Kisa ki terapi jenik la",
+    "reponse": "Terapi jenik se yon metòd medikal ki korije oswa ranplase yon jèn ki pa byen pou trete yon maladi.",
+    "tags": [
+      "therapie genique",
+      "traitement",
+      "gene",
+      "maladie",
+      "terapi jenik",
+      "trete"
+    ]
+  },
+  {
+    "id": "bio-gen-089",
+    "question": "Qu'est-ce que CRISPR",
+    "reponse": "CRISPR est une technologie récente qui permet de modifier précisément l'ADN, un peu comme des ciseaux génétiques.",
+    "tags": [
+      "crispr",
+      "modification",
+      "adn",
+      "technologie",
+      "sizo jenetik",
+      "presizyon"
+    ]
+  },
+  {
+    "id": "bio-gen-090",
+    "question": "Kisa ki CRISPR",
+    "reponse": "CRISPR se yon nouvo teknoloji ki pèmèt modifye ADN avèk presizyon, tankou yon sizo jenetik.",
+    "tags": [
+      "crispr",
+      "modification",
+      "adn",
+      "technologie",
+      "sizo jenetik",
+      "presizyon"
+    ]
+  },
+  {
+    "id": "bio-gen-091",
+    "question": "Qu'est-ce que la bio-informatique",
+    "reponse": "La bio-informatique est une science qui utilise l'informatique pour analyser de grandes quantités de données génétiques et biologiques.",
+    "tags": [
+      "bio-informatique",
+      "donnees",
+      "analyse",
+      "informatique",
+      "byoenfòmatik",
+      "done"
+    ]
+  },
+  {
+    "id": "bio-gen-092",
+    "question": "Kisa ki byoenfòmatik la",
+    "reponse": "Byoenfòmatik se yon syans ki itilize enfòmatik pou analize gwo kantite done jenetik ak byolojik.",
+    "tags": [
+      "bio-informatique",
+      "donnees",
+      "analyse",
+      "informatique",
+      "byoenfòmatik",
+      "done"
+    ]
+  },
+  {
+    "id": "bio-gen-093",
+    "question": "Qu'est-ce que le génie génétique",
+    "reponse": "Le génie génétique est l'ensemble des techniques qui permettent de modifier volontairement l'ADN d'un organisme.",
+    "tags": [
+      "genie genetique",
+      "techniques",
+      "modification",
+      "organisme",
+      "jeni jenetik",
+      "teknik"
+    ]
+  },
+  {
+    "id": "bio-gen-094",
+    "question": "Kisa ki jeni jenetik la",
+    "reponse": "Jeni jenetik se tout teknik ki pèmèt modifye ADN yon òganis fè espre.",
+    "tags": [
+      "genie genetique",
+      "techniques",
+      "modification",
+      "organisme",
+      "jeni jenetik",
+      "teknik"
+    ]
+  },
+  {
+    "id": "bio-gen-095",
+    "question": "Comment prouve-t-on une paternité biologique",
+    "reponse": "On prouve une paternité biologique en comparant l'ADN de l'enfant avec celui du père présumé grâce à un test ADN.",
+    "tags": [
+      "paternite",
+      "test adn",
+      "preuve",
+      "comparaison",
+      "patènite",
+      "pwouve"
+    ]
+  },
+  {
+    "id": "bio-gen-096",
+    "question": "Kijan yo pwouve yon patènite byolojik",
+    "reponse": "Yo pwouve yon patènite byolojik lè yo konpare ADN pitit la ak sa papa a swadizan ye a gras a yon tès ADN.",
+    "tags": [
+      "paternite",
+      "test adn",
+      "preuve",
+      "comparaison",
+      "patènite",
+      "pwouve"
+    ]
+  },
+  {
+    "id": "bio-gen-097",
+    "question": "Qu'est-ce que l'ADN mitochondrial",
+    "reponse": "L'ADN mitochondrial est l'ADN particulier présent dans les mitochondries, transmis uniquement par la mère à ses enfants.",
+    "tags": [
+      "adn mitochondrial",
+      "mitochondrie",
+      "mere",
+      "transmission",
+      "mitokondriyal",
+      "manman"
+    ]
+  },
+  {
+    "id": "bio-gen-098",
+    "question": "Kisa ki ADN mitokondriyal la",
+    "reponse": "ADN mitokondriyal se ADN espesyal ki nan mitokondri yo, se manman an sèlman ki transmèt li bay pitit li yo.",
+    "tags": [
+      "adn mitochondrial",
+      "mitochondrie",
+      "mere",
+      "transmission",
+      "mitokondriyal",
+      "manman"
+    ]
+  },
+  {
+    "id": "bio-gen-099",
+    "question": "Qu'est-ce qu'un nucléotide",
+    "reponse": "Un nucléotide est le petit bloc de base qui s'enchaîne pour former l'ADN et l'ARN.",
+    "tags": [
+      "nucleotide",
+      "adn",
+      "arn",
+      "bloc",
+      "nikleyotid",
+      "anchene"
+    ]
+  },
+  {
+    "id": "bio-gen-100",
+    "question": "Kisa ki yon nikleyotid",
+    "reponse": "Nikleyotid se ti blòk debaz ki anchene pou fòme ADN ak ARN.",
+    "tags": [
+      "nucleotide",
+      "adn",
+      "arn",
+      "bloc",
+      "nikleyotid",
+      "anchene"
+    ]
+  }
+]

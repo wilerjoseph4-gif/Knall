@@ -1,0 +1,24 @@
+{
+  "name": "knall",
+  "version": "5",
+  "private": true,
+  "scripts": {
+    "init": "cap add android && node scripts/patch-android.js && capacitor-assets generate --android && cap sync android",
+    "assets": "capacitor-assets generate --android",
+    "perms": "node scripts/patch-android.js",
+    "sync": "cap sync android",
+    "open": "cap open android",
+    "apk": "cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor-community/text-to-speech": "^8.0.2",
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/filesystem": "^8.0.0",
+    "@capacitor/share": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.0.0"
+  }
+}

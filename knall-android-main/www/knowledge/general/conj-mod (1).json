@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "conj-mod-001",
+    "question": "Qu'est-ce qu'un mode en conjugaison",
+    "reponse": "Un mode en conjugaison est la manière dont le verbe exprime l'action: certitude, doute, ordre, hypothèse ou simple description.",
+    "tags": [
+      "mode",
+      "definition",
+      "verbe",
+      "expression",
+      "mòd",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-mod-002",
+    "question": "Kisa ki yon mòd nan konjigezon",
+    "reponse": "Mòd nan konjigezon se fason vèb la eksprime aksyon an: sètitid, dout, lòd, ipotèz oswa senp deskripsyon.",
+    "tags": [
+      "mode",
+      "definition",
+      "verbe",
+      "expression",
+      "mòd",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-mod-003",
+    "question": "Combien de modes existe-t-il en français",
+    "reponse": "Le français compte quatre modes personnels (indicatif, subjonctif, conditionnel, impératif) et des modes impersonnels (infinitif, participe).",
+    "tags": [
+      "modes",
+      "nombre",
+      "personnels",
+      "impersonnels",
+      "mòd",
+      "kantite"
+    ]
+  },
+  {
+    "id": "conj-mod-004",
+    "question": "Konbyen mòd ki genyen nan franse",
+    "reponse": "Franse genyen kat mòd pèsonèl (lendikatif, sibjonktif, kondisyonèl, enperatif) ak mòd enpèsonèl (enfinitif, patisip).",
+    "tags": [
+      "modes",
+      "nombre",
+      "personnels",
+      "impersonnels",
+      "mòd",
+      "kantite"
+    ]
+  },
+  {
+    "id": "conj-mod-005",
+    "question": "Qu'est-ce que le mode indicatif",
+    "reponse": "Le mode indicatif exprime des faits réels, certains, et regroupe des temps comme le présent, l'imparfait et le futur.",
+    "tags": [
+      "indicatif",
+      "mode",
+      "realite",
+      "temps",
+      "lendikatif",
+      "reyèl"
+    ]
+  },
+  {
+    "id": "conj-mod-006",
+    "question": "Kisa ki mòd lendikatif la",
+    "reponse": "Mòd lendikatif la eksprime fè ki reyèl, sèten, epi li gwoupe tan tankou prezan, lenpafè ak fiti.",
+    "tags": [
+      "indicatif",
+      "mode",
+      "realite",
+      "temps",
+      "lendikatif",
+      "reyèl"
+    ]
+  },
+  {
+    "id": "conj-mod-007",
+    "question": "Qu'est-ce que le mode subjonctif",
+    "reponse": "Le mode subjonctif exprime un doute, un souhait, une obligation ou un sentiment, souvent après la conjonction que.",
+    "tags": [
+      "subjonctif",
+      "mode",
+      "doute",
+      "sentiment",
+      "sibjonktif",
+      "dout"
+    ]
+  },
+  {
+    "id": "conj-mod-008",
+    "question": "Kisa ki mòd sibjonktif la",
+    "reponse": "Mòd sibjonktif la eksprime yon dout, yon swa, yon obligasyon oswa yon santiman, souvan apre konjonksyon que.",
+    "tags": [
+      "subjonctif",
+      "mode",
+      "doute",
+      "sentiment",
+      "sibjonktif",
+      "dout"
+    ]
+  },
+  {
+    "id": "conj-mod-009",
+    "question": "Quand utilise-t-on le subjonctif",
+    "reponse": "On utilise le subjonctif après des expressions de doute, de volonté, de sentiment ou d'obligation, comme il faut que ou je veux que.",
+    "tags": [
+      "subjonctif",
+      "usage",
+      "expressions",
+      "volonte",
+      "sibjonktif",
+      "ekspresyon"
+    ]
+  },
+  {
+    "id": "conj-mod-010",
+    "question": "Kiyè yo itilize sibjonktif la",
+    "reponse": "Yo itilize sibjonktif la apre ekspresyon dout, volonte, santiman oswa obligasyon, tankou il faut que oswa je veux que.",
+    "tags": [
+      "subjonctif",
+      "usage",
+      "expressions",
+      "volonte",
+      "sibjonktif",
+      "ekspresyon"
+    ]
+  },
+  {
+    "id": "conj-mod-011",
+    "question": "Comment former le subjonctif présent",
+    "reponse": "On forme le subjonctif présent en prenant le radical de la 3e personne du pluriel au présent et en ajoutant -e, -es, -e, -ions, -iez, -ent.",
+    "tags": [
+      "subjonctif present",
+      "formation",
+      "radical",
+      "terminaisons",
+      "sibjonktif prezan",
+      "rasin"
+    ]
+  },
+  {
+    "id": "conj-mod-012",
+    "question": "Kijan pou fòme sibjonktif prezan an",
+    "reponse": "Yo fòme sibjonktif prezan an lè yo pran rasin twazyèm pèsonn pliryèl prezan epi ajoute -e, -es, -e, -ions, -iez, -ent.",
+    "tags": [
+      "subjonctif present",
+      "formation",
+      "radical",
+      "terminaisons",
+      "sibjonktif prezan",
+      "rasin"
+    ]
+  },
+  {
+    "id": "conj-mod-013",
+    "question": "Comment conjuguer parler au subjonctif présent",
+    "reponse": "Au subjonctif présent, parler se conjugue: que je parle, que tu parles, qu'il parle, que nous parlions, que vous parliez, qu'ils parlent.",
+    "tags": [
+      "parler",
+      "subjonctif",
+      "conjugaison",
+      "1er groupe",
+      "sibjonktif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-014",
+    "question": "Kijan pou konjige parler nan sibjonktif prezan",
+    "reponse": "Nan sibjonktif prezan, parler konjige konsa: que je parle, que tu parles, qu'il parle, que nous parlions, que vous parliez, qu'ils parlent.",
+    "tags": [
+      "parler",
+      "subjonctif",
+      "conjugaison",
+      "1er groupe",
+      "sibjonktif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-015",
+    "question": "Comment conjuguer finir au subjonctif présent",
+    "reponse": "Au subjonctif présent, finir se conjugue: que je finisse, que tu finisses, qu'il finisse, que nous finissions, que vous finissiez, qu'ils finissent.",
+    "tags": [
+      "finir",
+      "subjonctif",
+      "conjugaison",
+      "2e groupe",
+      "sibjonktif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-016",
+    "question": "Kijan pou konjige finir nan sibjonktif prezan",
+    "reponse": "Nan sibjonktif prezan, finir konjige konsa: que je finisse, que tu finisses, qu'il finisse, que nous finissions, que vous finissiez, qu'ils finissent.",
+    "tags": [
+      "finir",
+      "subjonctif",
+      "conjugaison",
+      "2e groupe",
+      "sibjonktif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-017",
+    "question": "Comment conjuguer être au subjonctif présent",
+    "reponse": "Au subjonctif présent, être se conjugue: que je sois, que tu sois, qu'il soit, que nous soyons, que vous soyez, qu'ils soient.",
+    "tags": [
+      "etre",
+      "subjonctif",
+      "conjugaison",
+      "irregulier",
+      "être",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-mod-018",
+    "question": "Kijan pou konjige être nan sibjonktif prezan",
+    "reponse": "Nan sibjonktif prezan, être konjige konsa: que je sois, que tu sois, qu'il soit, que nous soyons, que vous soyez, qu'ils soient.",
+    "tags": [
+      "etre",
+      "subjonctif",
+      "conjugaison",
+      "irregulier",
+      "être",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-mod-019",
+    "question": "Comment conjuguer avoir au subjonctif présent",
+    "reponse": "Au subjonctif présent, avoir se conjugue: que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient.",
+    "tags": [
+      "avoir",
+      "subjonctif",
+      "conjugaison",
+      "irregulier",
+      "avoir",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-mod-020",
+    "question": "Kijan pou konjige avoir nan sibjonktif prezan",
+    "reponse": "Nan sibjonktif prezan, avoir konjige konsa: que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient.",
+    "tags": [
+      "avoir",
+      "subjonctif",
+      "conjugaison",
+      "irregulier",
+      "avoir",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-mod-021",
+    "question": "Qu'est-ce que le subjonctif passé",
+    "reponse": "Le subjonctif passé exprime une action terminée par rapport au moment où l'on parle, formé avec être ou avoir au subjonctif présent.",
+    "tags": [
+      "subjonctif passe",
+      "formation",
+      "auxiliaire",
+      "definition",
+      "sibjonktif pase",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-022",
+    "question": "Kisa ki sibjonktif pase a",
+    "reponse": "Sibjonktif pase a eksprime yon aksyon ki fini an rapò ak moman w ap pale a, fòme ak être oswa avoir nan sibjonktif prezan.",
+    "tags": [
+      "subjonctif passe",
+      "formation",
+      "auxiliaire",
+      "definition",
+      "sibjonktif pase",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-023",
+    "question": "Qu'est-ce que le mode conditionnel",
+    "reponse": "Le mode conditionnel exprime une action soumise à une condition, une hypothèse, un souhait ou une demande polie.",
+    "tags": [
+      "conditionnel",
+      "mode",
+      "hypothese",
+      "definition",
+      "kondisyonèl",
+      "ipotèz"
+    ]
+  },
+  {
+    "id": "conj-mod-024",
+    "question": "Kisa ki mòd kondisyonèl la",
+    "reponse": "Mòd kondisyonèl la eksprime yon aksyon ki soumèt a yon kondisyon, yon ipotèz, yon swa oswa yon demann politès.",
+    "tags": [
+      "conditionnel",
+      "mode",
+      "hypothese",
+      "definition",
+      "kondisyonèl",
+      "ipotèz"
+    ]
+  },
+  {
+    "id": "conj-mod-025",
+    "question": "Quand utilise-t-on le conditionnel",
+    "reponse": "On utilise le conditionnel pour exprimer un souhait, une hypothèse, une demande polie ou une information non confirmée.",
+    "tags": [
+      "conditionnel",
+      "usage",
+      "souhait",
+      "politesse",
+      "kondisyonèl",
+      "demann"
+    ]
+  },
+  {
+    "id": "conj-mod-026",
+    "question": "Kiyè yo itilize kondisyonèl la",
+    "reponse": "Yo itilize kondisyonèl la pou eksprime yon swa, yon ipotèz, yon demann politès oswa yon enfòmasyon ki pa konfime.",
+    "tags": [
+      "conditionnel",
+      "usage",
+      "souhait",
+      "politesse",
+      "kondisyonèl",
+      "demann"
+    ]
+  },
+  {
+    "id": "conj-mod-027",
+    "question": "Comment former le conditionnel présent",
+    "reponse": "Le conditionnel présent se forme avec le radical du futur simple suivi des terminaisons de l'imparfait.",
+    "tags": [
+      "conditionnel present",
+      "formation",
+      "radical",
+      "terminaisons",
+      "kondisyonèl prezan",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-028",
+    "question": "Kijan pou fòme kondisyonèl prezan an",
+    "reponse": "Kondisyonèl prezan an fòme ak rasin fiti senp la swiv ak finisman lenpafè a.",
+    "tags": [
+      "conditionnel present",
+      "formation",
+      "radical",
+      "terminaisons",
+      "kondisyonèl prezan",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-029",
+    "question": "Comment conjuguer parler au conditionnel présent",
+    "reponse": "Au conditionnel présent, parler se conjugue: je parlerais, tu parlerais, il parlerait, nous parlerions, vous parleriez, ils parleraient.",
+    "tags": [
+      "parler",
+      "conditionnel",
+      "conjugaison",
+      "1er groupe",
+      "kondisyonèl",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-030",
+    "question": "Kijan pou konjige parler nan kondisyonèl prezan",
+    "reponse": "Nan kondisyonèl prezan, parler konjige konsa: je parlerais, tu parlerais, il parlerait, nous parlerions, vous parleriez, ils parleraient.",
+    "tags": [
+      "parler",
+      "conditionnel",
+      "conjugaison",
+      "1er groupe",
+      "kondisyonèl",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-031",
+    "question": "Comment conjuguer être au conditionnel présent",
+    "reponse": "Au conditionnel présent, être se conjugue: je serais, tu serais, il serait, nous serions, vous seriez, ils seraient.",
+    "tags": [
+      "etre",
+      "conditionnel",
+      "conjugaison",
+      "irregulier",
+      "être",
+      "kondisyonèl"
+    ]
+  },
+  {
+    "id": "conj-mod-032",
+    "question": "Kijan pou konjige être nan kondisyonèl prezan",
+    "reponse": "Nan kondisyonèl prezan, être konjige konsa: je serais, tu serais, il serait, nous serions, vous seriez, ils seraient.",
+    "tags": [
+      "etre",
+      "conditionnel",
+      "conjugaison",
+      "irregulier",
+      "être",
+      "kondisyonèl"
+    ]
+  },
+  {
+    "id": "conj-mod-033",
+    "question": "Comment conjuguer avoir au conditionnel présent",
+    "reponse": "Au conditionnel présent, avoir se conjugue: j'aurais, tu aurais, il aurait, nous aurions, vous auriez, ils auraient.",
+    "tags": [
+      "avoir",
+      "conditionnel",
+      "conjugaison",
+      "irregulier",
+      "avoir",
+      "kondisyonèl"
+    ]
+  },
+  {
+    "id": "conj-mod-034",
+    "question": "Kijan pou konjige avoir nan kondisyonèl prezan",
+    "reponse": "Nan kondisyonèl prezan, avoir konjige konsa: j'aurais, tu aurais, il aurait, nous aurions, vous auriez, ils auraient.",
+    "tags": [
+      "avoir",
+      "conditionnel",
+      "conjugaison",
+      "irregulier",
+      "avoir",
+      "kondisyonèl"
+    ]
+  },
+  {
+    "id": "conj-mod-035",
+    "question": "Qu'est-ce que le conditionnel passé",
+    "reponse": "Le conditionnel passé exprime une action qui aurait pu se produire dans le passé si une condition avait été remplie.",
+    "tags": [
+      "conditionnel passe",
+      "hypothese passee",
+      "definition",
+      "usage",
+      "kondisyonèl pase",
+      "ipotèz"
+    ]
+  },
+  {
+    "id": "conj-mod-036",
+    "question": "Kisa ki kondisyonèl pase a",
+    "reponse": "Kondisyonèl pase a eksprime yon aksyon ki ta ka rive nan pase si yon kondisyon te ranpli.",
+    "tags": [
+      "conditionnel passe",
+      "hypothese passee",
+      "definition",
+      "usage",
+      "kondisyonèl pase",
+      "ipotèz"
+    ]
+  },
+  {
+    "id": "conj-mod-037",
+    "question": "Comment utiliser le conditionnel pour exprimer une hypothèse",
+    "reponse": "On utilise le conditionnel dans la proposition principale d'une phrase hypothétique introduite par si suivi de l'imparfait.",
+    "tags": [
+      "conditionnel",
+      "hypothese",
+      "si",
+      "imparfait",
+      "kondisyonèl",
+      "si"
+    ]
+  },
+  {
+    "id": "conj-mod-038",
+    "question": "Kijan pou itilize kondisyonèl la pou eksprime yon ipotèz",
+    "reponse": "Yo itilize kondisyonèl la nan pwopozisyon prensipal yon fraz ipotetik ki kòmanse ak si swiv ak lenpafè.",
+    "tags": [
+      "conditionnel",
+      "hypothese",
+      "si",
+      "imparfait",
+      "kondisyonèl",
+      "si"
+    ]
+  },
+  {
+    "id": "conj-mod-039",
+    "question": "Comment utiliser le conditionnel pour exprimer la politesse",
+    "reponse": "On utilise le conditionnel pour adoucir une demande, comme dans je voudrais un café ou pourriez-vous m'aider.",
+    "tags": [
+      "conditionnel",
+      "politesse",
+      "demande",
+      "usage",
+      "kondisyonèl",
+      "politès"
+    ]
+  },
+  {
+    "id": "conj-mod-040",
+    "question": "Kijan pou itilize kondisyonèl la pou politès",
+    "reponse": "Yo itilize kondisyonèl la pou adousi yon demann, tankou nan je voudrais un café oswa pourriez-vous m'aider.",
+    "tags": [
+      "conditionnel",
+      "politesse",
+      "demande",
+      "usage",
+      "kondisyonèl",
+      "politès"
+    ]
+  },
+  {
+    "id": "conj-mod-041",
+    "question": "Qu'est-ce que le mode impératif",
+    "reponse": "Le mode impératif sert à donner un ordre, un conseil, une interdiction ou une instruction directe.",
+    "tags": [
+      "imperatif",
+      "mode",
+      "ordre",
+      "definition",
+      "enperatif",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-mod-042",
+    "question": "Kisa ki mòd enperatif la",
+    "reponse": "Mòd enperatif la sèvi pou bay yon lòd, yon konsèy, yon entèdiksyon oswa yon enstriksyon dirèk.",
+    "tags": [
+      "imperatif",
+      "mode",
+      "ordre",
+      "definition",
+      "enperatif",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-mod-043",
+    "question": "Quand utilise-t-on l'impératif",
+    "reponse": "On utilise l'impératif pour donner un ordre direct, un conseil ou une recommandation, sans exprimer le sujet.",
+    "tags": [
+      "imperatif",
+      "usage",
+      "ordre",
+      "conseil",
+      "enperatif",
+      "konsèy"
+    ]
+  },
+  {
+    "id": "conj-mod-044",
+    "question": "Kiyè yo itilize enperatif la",
+    "reponse": "Yo itilize enperatif la pou bay yon lòd dirèk, yon konsèy oswa yon rekòmandasyon, san eksprime sijè a.",
+    "tags": [
+      "imperatif",
+      "usage",
+      "ordre",
+      "conseil",
+      "enperatif",
+      "konsèy"
+    ]
+  },
+  {
+    "id": "conj-mod-045",
+    "question": "Combien de personnes a l'impératif",
+    "reponse": "L'impératif ne s'emploie qu'à trois personnes: la 2e du singulier, la 1re du pluriel et la 2e du pluriel.",
+    "tags": [
+      "imperatif",
+      "personnes",
+      "trois",
+      "grammaire",
+      "enperatif",
+      "twa pèsonn"
+    ]
+  },
+  {
+    "id": "conj-mod-046",
+    "question": "Konbyen pèsonn enperatif la genyen",
+    "reponse": "Enperatif la itilize sèlman nan twa pèsonn: dezyèm sengilye, premye pliryèl ak dezyèm pliryèl.",
+    "tags": [
+      "imperatif",
+      "personnes",
+      "trois",
+      "grammaire",
+      "enperatif",
+      "twa pèsonn"
+    ]
+  },
+  {
+    "id": "conj-mod-047",
+    "question": "Comment conjuguer parler à l'impératif",
+    "reponse": "À l'impératif, parler se conjugue: parle, parlons, parlez.",
+    "tags": [
+      "parler",
+      "imperatif",
+      "conjugaison",
+      "1er groupe",
+      "enperatif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-048",
+    "question": "Kijan pou konjige parler nan enperatif",
+    "reponse": "Nan enperatif, parler konjige konsa: parle, parlons, parlez.",
+    "tags": [
+      "parler",
+      "imperatif",
+      "conjugaison",
+      "1er groupe",
+      "enperatif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-049",
+    "question": "Comment conjuguer finir à l'impératif",
+    "reponse": "À l'impératif, finir se conjugue: finis, finissons, finissez.",
+    "tags": [
+      "finir",
+      "imperatif",
+      "conjugaison",
+      "2e groupe",
+      "enperatif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-050",
+    "question": "Kijan pou konjige finir nan enperatif",
+    "reponse": "Nan enperatif, finir konjige konsa: finis, finissons, finissez.",
+    "tags": [
+      "finir",
+      "imperatif",
+      "conjugaison",
+      "2e groupe",
+      "enperatif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-mod-051",
+    "question": "Comment conjuguer être à l'impératif",
+    "reponse": "À l'impératif, être se conjugue: sois, soyons, soyez.",
+    "tags": [
+      "etre",
+      "imperatif",
+      "conjugaison",
+      "irregulier",
+      "être",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-mod-052",
+    "question": "Kijan pou konjige être nan enperatif",
+    "reponse": "Nan enperatif, être konjige konsa: sois, soyons, soyez.",
+    "tags": [
+      "etre",
+      "imperatif",
+      "conjugaison",
+      "irregulier",
+      "être",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-mod-053",
+    "question": "Comment conjuguer avoir à l'impératif",
+    "reponse": "À l'impératif, avoir se conjugue: aie, ayons, ayez.",
+    "tags": [
+      "avoir",
+      "imperatif",
+      "conjugaison",
+      "irregulier",
+      "avoir",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-mod-054",
+    "question": "Kijan pou konjige avoir nan enperatif",
+    "reponse": "Nan enperatif, avoir konjige konsa: aie, ayons, ayez.",
+    "tags": [
+      "avoir",
+      "imperatif",
+      "conjugaison",
+      "irregulier",
+      "avoir",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-mod-055",
+    "question": "Qu'est-ce que l'impératif négatif",
+    "reponse": "L'impératif négatif s'obtient en plaçant ne avant le verbe et pas (ou un autre mot négatif) après, comme ne parle pas.",
+    "tags": [
+      "imperatif negatif",
+      "formation",
+      "negation",
+      "exemple",
+      "enperatif negatif",
+      "negasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-056",
+    "question": "Kisa ki enperatif negatif la",
+    "reponse": "Enperatif negatif la jwenn lè yo mete ne anvan vèb la ak pas (oswa yon lòt mo negatif) apre, tankou ne parle pas.",
+    "tags": [
+      "imperatif negatif",
+      "formation",
+      "negation",
+      "exemple",
+      "enperatif negatif",
+      "negasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-057",
+    "question": "Qu'est-ce que le mode infinitif",
+    "reponse": "Le mode infinitif est la forme non conjuguée du verbe, qui sert de nom du verbe, comme parler, finir ou être.",
+    "tags": [
+      "infinitif",
+      "mode",
+      "forme de base",
+      "definition",
+      "enfinitif",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-mod-058",
+    "question": "Kisa ki mòd enfinitif la",
+    "reponse": "Mòd enfinitif la se fòm vèb la ki pa konjige, ki sèvi kòm non vèb la, tankou parler, finir oswa être.",
+    "tags": [
+      "infinitif",
+      "mode",
+      "forme de base",
+      "definition",
+      "enfinitif",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-mod-059",
+    "question": "Quelle est la différence entre infinitif présent et infinitif passé",
+    "reponse": "L'infinitif présent exprime une action simultanée ou future, tandis que l'infinitif passé, formé avec avoir ou être, exprime une action antérieure.",
+    "tags": [
+      "infinitif present",
+      "infinitif passe",
+      "difference",
+      "formation",
+      "enfinitif prezan",
+      "enfinitif pase"
+    ]
+  },
+  {
+    "id": "conj-mod-060",
+    "question": "Ki diferans ki genyen ant enfinitif prezan ak enfinitif pase",
+    "reponse": "Enfinitif prezan eksprime yon aksyon ansanm oswa nan avni, pandan enfinitif pase, fòme ak avoir oswa être, eksprime yon aksyon anvan.",
+    "tags": [
+      "infinitif present",
+      "infinitif passe",
+      "difference",
+      "formation",
+      "enfinitif prezan",
+      "enfinitif pase"
+    ]
+  },
+  {
+    "id": "conj-mod-061",
+    "question": "Qu'est-ce que le mode participe",
+    "reponse": "Le mode participe regroupe le participe présent et le participe passé, des formes verbales qui peuvent aussi fonctionner comme adjectifs.",
+    "tags": [
+      "participe",
+      "mode",
+      "present",
+      "passe",
+      "patisip",
+      "adjektif"
+    ]
+  },
+  {
+    "id": "conj-mod-062",
+    "question": "Kisa ki mòd patisip la",
+    "reponse": "Mòd patisip la gwoupe patisip prezan ak patisip pase, fòm vèb ki ka tou fonksyone kòm adjektif.",
+    "tags": [
+      "participe",
+      "mode",
+      "present",
+      "passe",
+      "patisip",
+      "adjektif"
+    ]
+  },
+  {
+    "id": "conj-mod-063",
+    "question": "Qu'est-ce que le participe présent et comment se forme-t-il",
+    "reponse": "Le participe présent exprime une action en train de se dérouler et se forme en ajoutant -ant au radical du verbe au présent.",
+    "tags": [
+      "participe present",
+      "formation",
+      "-ant",
+      "definition",
+      "patisip prezan",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-064",
+    "question": "Kisa ki patisip prezan an epi kijan li fòme",
+    "reponse": "Patisip prezan an eksprime yon aksyon k ap deroule epi li fòme lè yo ajoute -ant sou rasin vèb la nan prezan.",
+    "tags": [
+      "participe present",
+      "formation",
+      "-ant",
+      "definition",
+      "patisip prezan",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-065",
+    "question": "Qu'est-ce que le participe passé et comment se forme-t-il",
+    "reponse": "Le participe passé exprime une action achevée et se forme selon le groupe du verbe, comme -é, -i ou -u.",
+    "tags": [
+      "participe passe",
+      "formation",
+      "groupe",
+      "definition",
+      "patisip pase",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-066",
+    "question": "Kisa ki patisip pase a epi kijan li fòme",
+    "reponse": "Patisip pase a eksprime yon aksyon ki fini epi li fòme dapre gwoup vèb la, tankou -é, -i oswa -u.",
+    "tags": [
+      "participe passe",
+      "formation",
+      "groupe",
+      "definition",
+      "patisip pase",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-067",
+    "question": "Comment accorder le participe passé employé seul comme adjectif",
+    "reponse": "Employé seul, le participe passé s'accorde en genre et en nombre avec le nom qu'il qualifie, comme un adjectif ordinaire.",
+    "tags": [
+      "participe passe",
+      "accord",
+      "adjectif",
+      "nom",
+      "patisip pase",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-mod-068",
+    "question": "Kijan pou akòde patisip pase ki itilize pou kont li tankou yon adjektif",
+    "reponse": "Lè l itilize pou kont li, patisip pase a akòde an genr ak an nonb ak non li kalifye a, tankou yon adjektif òdinè.",
+    "tags": [
+      "participe passe",
+      "accord",
+      "adjectif",
+      "nom",
+      "patisip pase",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-mod-069",
+    "question": "Qu'est-ce qu'un gérondif",
+    "reponse": "Un gérondif est une forme verbale composée de en suivi du participe présent, comme en parlant ou en mangeant.",
+    "tags": [
+      "gerondif",
+      "formation",
+      "en",
+      "participe present",
+      "jewondif",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-070",
+    "question": "Kisa ki yon jewondif",
+    "reponse": "Jewondif se yon fòm vèb ki fòme ak en swiv ak patisip prezan an, tankou en parlant oswa en mangeant.",
+    "tags": [
+      "gerondif",
+      "formation",
+      "en",
+      "participe present",
+      "jewondif",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-071",
+    "question": "À quoi sert le gérondif",
+    "reponse": "Le gérondif sert à exprimer la simultanéité, la manière ou la cause d'une action par rapport au verbe principal.",
+    "tags": [
+      "gerondif",
+      "usage",
+      "simultaneite",
+      "maniere",
+      "jewondif",
+      "similtaneyite"
+    ]
+  },
+  {
+    "id": "conj-mod-072",
+    "question": "Ki sèvis jewondif la fè",
+    "reponse": "Jewondif la sèvi pou eksprime similtaneyite, fason oswa kòz yon aksyon an rapò ak vèb prensipal la.",
+    "tags": [
+      "gerondif",
+      "usage",
+      "simultaneite",
+      "maniere",
+      "jewondif",
+      "similtaneyite"
+    ]
+  },
+  {
+    "id": "conj-mod-073",
+    "question": "Donne un exemple de phrase avec le gérondif",
+    "reponse": "Un exemple de gérondif est: il mange en regardant la télévision, ce qui montre deux actions simultanées.",
+    "tags": [
+      "gerondif",
+      "exemple",
+      "phrase",
+      "simultaneite",
+      "jewondif",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "conj-mod-074",
+    "question": "Bay yon egzanp fraz ak jewondif",
+    "reponse": "Yon egzanp jewondif se: il mange en regardant la télévision, sa ki montre de aksyon k ap fèt an menm tan.",
+    "tags": [
+      "gerondif",
+      "exemple",
+      "phrase",
+      "simultaneite",
+      "jewondif",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "conj-mod-075",
+    "question": "Quelle est la différence entre mode personnel et mode impersonnel",
+    "reponse": "Un mode personnel varie selon la personne du sujet, comme l'indicatif, alors qu'un mode impersonnel ne change pas, comme l'infinitif.",
+    "tags": [
+      "mode personnel",
+      "mode impersonnel",
+      "difference",
+      "exemple",
+      "mòd pèsonèl",
+      "mòd enpèsonèl"
+    ]
+  },
+  {
+    "id": "conj-mod-076",
+    "question": "Ki diferans ki genyen ant mòd pèsonèl ak mòd enpèsonèl",
+    "reponse": "Yon mòd pèsonèl chanje selon pèsonn sijè a, tankou lendikatif, pandan yon mòd enpèsonèl pa chanje, tankou enfinitif.",
+    "tags": [
+      "mode personnel",
+      "mode impersonnel",
+      "difference",
+      "exemple",
+      "mòd pèsonèl",
+      "mòd enpèsonèl"
+    ]
+  },
+  {
+    "id": "conj-mod-077",
+    "question": "Pourquoi le subjonctif est-il souvent précédé de que",
+    "reponse": "Le subjonctif est souvent précédé de que car il apparaît généralement dans une proposition subordonnée introduite par cette conjonction.",
+    "tags": [
+      "subjonctif",
+      "que",
+      "proposition subordonnee",
+      "usage",
+      "sibjonktif",
+      "que"
+    ]
+  },
+  {
+    "id": "conj-mod-078",
+    "question": "Poukisa sibjonktif la souvan vini apre que",
+    "reponse": "Sibjonktif la souvan vini apre que paske li parèt an jeneral nan yon pwopozisyon sibòdone ki kòmanse ak konjonksyon sa a.",
+    "tags": [
+      "subjonctif",
+      "que",
+      "proposition subordonnee",
+      "usage",
+      "sibjonktif",
+      "que"
+    ]
+  },
+  {
+    "id": "conj-mod-079",
+    "question": "Donne un exemple de phrase au subjonctif après il faut que",
+    "reponse": "Un exemple est: il faut que tu finisses ton travail avant ce soir, où finisses est au subjonctif présent.",
+    "tags": [
+      "subjonctif",
+      "exemple",
+      "il faut que",
+      "phrase",
+      "sibjonktif",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "conj-mod-080",
+    "question": "Bay yon egzanp fraz nan sibjonktif apre il faut que",
+    "reponse": "Yon egzanp se: il faut que tu finisses ton travail avant ce soir, kote finisses nan sibjonktif prezan.",
+    "tags": [
+      "subjonctif",
+      "exemple",
+      "il faut que",
+      "phrase",
+      "sibjonktif",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "conj-mod-081",
+    "question": "Donne un exemple de phrase au conditionnel pour un souhait",
+    "reponse": "Un exemple est: j'aimerais voyager autour du monde, qui exprime un souhait grâce au conditionnel présent.",
+    "tags": [
+      "conditionnel",
+      "exemple",
+      "souhait",
+      "phrase",
+      "kondisyonèl",
+      "swa"
+    ]
+  },
+  {
+    "id": "conj-mod-082",
+    "question": "Bay yon egzanp fraz nan kondisyonèl pou yon swa",
+    "reponse": "Yon egzanp se: j'aimerais voyager autour du monde, ki eksprime yon swa gras ak kondisyonèl prezan.",
+    "tags": [
+      "conditionnel",
+      "exemple",
+      "souhait",
+      "phrase",
+      "kondisyonèl",
+      "swa"
+    ]
+  },
+  {
+    "id": "conj-mod-083",
+    "question": "Donne un exemple de phrase à l'impératif pour un conseil",
+    "reponse": "Un exemple est: fais attention en traversant la rue, qui donne un conseil grâce à l'impératif présent.",
+    "tags": [
+      "imperatif",
+      "exemple",
+      "conseil",
+      "phrase",
+      "enperatif",
+      "konsèy"
+    ]
+  },
+  {
+    "id": "conj-mod-084",
+    "question": "Bay yon egzanp fraz nan enperatif pou yon konsèy",
+    "reponse": "Yon egzanp se: fais attention en traversant la rue, ki bay yon konsèy gras ak enperatif prezan.",
+    "tags": [
+      "imperatif",
+      "exemple",
+      "conseil",
+      "phrase",
+      "enperatif",
+      "konsèy"
+    ]
+  },
+  {
+    "id": "conj-mod-085",
+    "question": "Quelle est la différence entre si j'avais et si j'ai",
+    "reponse": "Si j'avais introduit une hypothèse peu probable ou irréelle avec l'imparfait, tandis que si j'ai exprime une condition réalisable au présent.",
+    "tags": [
+      "si",
+      "hypothese",
+      "difference",
+      "condition",
+      "si",
+      "ipotèz"
+    ]
+  },
+  {
+    "id": "conj-mod-086",
+    "question": "Ki diferans ki genyen ant si j'avais ak si j'ai",
+    "reponse": "Si j'avais kòmanse yon ipotèz ki pa twò pwobab oswa iреyèl ak lenpafè, pandan si j'ai eksprime yon kondisyon ki posib nan prezan.",
+    "tags": [
+      "si",
+      "hypothese",
+      "difference",
+      "condition",
+      "si",
+      "ipotèz"
+    ]
+  },
+  {
+    "id": "conj-mod-087",
+    "question": "Comment reconnaître si une phrase doit être au subjonctif ou à l'indicatif",
+    "reponse": "On regarde le verbe ou l'expression principale: certains déclenchent le subjonctif (doute, souhait) alors que d'autres gardent l'indicatif (certitude).",
+    "tags": [
+      "subjonctif",
+      "indicatif",
+      "reconnaissance",
+      "expression",
+      "sibjonktif",
+      "lendikatif"
+    ]
+  },
+  {
+    "id": "conj-mod-088",
+    "question": "Kijan pou rekonèt si yon fraz dwe nan sibjonktif oswa lendikatif",
+    "reponse": "Yo gade vèb oswa ekspresyon prensipal la: kèk deklannche sibjonktif la (dout, swa) pandan lòt kenbe lendikatif la (sètitid).",
+    "tags": [
+      "subjonctif",
+      "indicatif",
+      "reconnaissance",
+      "expression",
+      "sibjonktif",
+      "lendikatif"
+    ]
+  },
+  {
+    "id": "conj-mod-089",
+    "question": "Quels verbes ou expressions déclenchent le subjonctif",
+    "reponse": "Des expressions comme il faut que, je veux que, je doute que ou je souhaite que déclenchent l'emploi du subjonctif.",
+    "tags": [
+      "subjonctif",
+      "expressions",
+      "declencheurs",
+      "exemples",
+      "sibjonktif",
+      "ekspresyon"
+    ]
+  },
+  {
+    "id": "conj-mod-090",
+    "question": "Ki vèb oswa ekspresyon ki deklannche sibjonktif la",
+    "reponse": "Ekspresyon tankou il faut que, je veux que, je doute que oswa je souhaite que deklannche itilizasyon sibjonktif la.",
+    "tags": [
+      "subjonctif",
+      "expressions",
+      "declencheurs",
+      "exemples",
+      "sibjonktif",
+      "ekspresyon"
+    ]
+  },
+  {
+    "id": "conj-mod-091",
+    "question": "Comment former le conditionnel passé",
+    "reponse": "Le conditionnel passé se forme avec être ou avoir au conditionnel présent, suivi du participe passé du verbe.",
+    "tags": [
+      "conditionnel passe",
+      "formation",
+      "auxiliaire",
+      "participe passe",
+      "kondisyonèl pase",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-092",
+    "question": "Kijan pou fòme kondisyonèl pase a",
+    "reponse": "Kondisyonèl pase a fòme ak être oswa avoir nan kondisyonèl prezan, swiv ak patisip pase vèb la.",
+    "tags": [
+      "conditionnel passe",
+      "formation",
+      "auxiliaire",
+      "participe passe",
+      "kondisyonèl pase",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-mod-093",
+    "question": "Comment former le subjonctif imparfait",
+    "reponse": "Le subjonctif imparfait, très littéraire, se forme à partir du radical du passé simple avec des terminaisons spécifiques.",
+    "tags": [
+      "subjonctif imparfait",
+      "formation",
+      "litteraire",
+      "passe simple",
+      "sibjonktif lenpafè",
+      "literè"
+    ]
+  },
+  {
+    "id": "conj-mod-094",
+    "question": "Kijan pou fòme sibjonktif lenpafè a",
+    "reponse": "Sibjonktif lenpafè a, ki trè literè, fòme apati rasin pase senp la ak finisman espesifik.",
+    "tags": [
+      "subjonctif imparfait",
+      "formation",
+      "litteraire",
+      "passe simple",
+      "sibjonktif lenpafè",
+      "literè"
+    ]
+  },
+  {
+    "id": "conj-mod-095",
+    "question": "Pourquoi le subjonctif imparfait est-il rare aujourd'hui",
+    "reponse": "Le subjonctif imparfait est rare aujourd'hui car il a été largement remplacé par le subjonctif présent dans le français courant.",
+    "tags": [
+      "subjonctif imparfait",
+      "rarete",
+      "evolution",
+      "usage moderne",
+      "sibjonktif lenpafè",
+      "moderne"
+    ]
+  },
+  {
+    "id": "conj-mod-096",
+    "question": "Poukisa sibjonktif lenpafè a ra jodi a",
+    "reponse": "Sibjonktif lenpafè a ra jodi a paske yo lajman ranplase l ak sibjonktif prezan nan franse kouran an.",
+    "tags": [
+      "subjonctif imparfait",
+      "rarete",
+      "evolution",
+      "usage moderne",
+      "sibjonktif lenpafè",
+      "moderne"
+    ]
+  },
+  {
+    "id": "conj-mod-097",
+    "question": "Qu'est-ce qu'un verbe défectif",
+    "reponse": "Un verbe défectif est un verbe qui ne se conjugue pas à tous les modes, temps ou personnes, comme falloir ou pleuvoir.",
+    "tags": [
+      "verbe defectif",
+      "definition",
+      "falloir",
+      "pleuvoir",
+      "vèb defektif",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-mod-098",
+    "question": "Kisa ki yon vèb defektif",
+    "reponse": "Yon vèb defektif se yon vèb ki pa konjige nan tout mòd, tan oswa pèsonn, tankou falloir oswa pleuvoir.",
+    "tags": [
+      "verbe defectif",
+      "definition",
+      "falloir",
+      "pleuvoir",
+      "vèb defektif",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-mod-099",
+    "question": "Résume les cinq modes principaux de la conjugaison française",
+    "reponse": "Les cinq modes principaux sont l'indicatif pour les faits réels, le subjonctif pour le doute, le conditionnel pour l'hypothèse, l'impératif pour l'ordre, et l'infinitif/participe comme formes non personnelles.",
+    "tags": [
+      "resume",
+      "modes",
+      "recapitulatif",
+      "grammaire",
+      "rezime",
+      "mòd"
+    ]
+  },
+  {
+    "id": "conj-mod-100",
+    "question": "Fè yon rezime senk mòd prensipal konjigezon franse a",
+    "reponse": "Senk mòd prensipal yo se lendikatif pou fè reyèl, sibjonktif pou dout, kondisyonèl pou ipotèz, enperatif pou lòd, ak enfinitif/patisip kòm fòm ki pa pèsonèl.",
+    "tags": [
+      "resume",
+      "modes",
+      "recapitulatif",
+      "grammaire",
+      "rezime",
+      "mòd"
+    ]
+  }
+]

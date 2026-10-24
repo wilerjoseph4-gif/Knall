@@ -1,0 +1,41 @@
+[
+  {
+    "id": "d001",
+    "question": "comment faire une introduction",
+    "reponse": "Une introduction a 4 temps : 1) accroche, 2) présentation du sujet, 3) problématique, 4) annonce du plan.",
+    "tags": [
+      "introduction",
+      "dissertation",
+      "plan"
+    ]
+  },
+  {
+    "id": "d002",
+    "question": "comment faire une conclusion",
+    "reponse": "Une conclusion a 2 temps : 1) bilan qui répond à la problématique, 2) ouverture vers une question proche.",
+    "tags": [
+      "conclusion",
+      "dissertation"
+    ]
+  },
+  {
+    "id": "d003",
+    "question": "connecteurs logiques",
+    "reponse": "Addition : de plus, en outre. Opposition : cependant, pourtant. Cause : car, en effet. Conséquence : donc, ainsi. Conclusion : enfin, en somme.",
+    "tags": [
+      "connecteurs",
+      "liaison",
+      "mots"
+    ]
+  },
+  {
+    "id": "d004",
+    "question": "quelle est la difference entre argument et exemple",
+    "reponse": "L'argument est la raison qui appuie ton idée. L'exemple est le fait précis qui prouve cet argument.",
+    "tags": [
+      "argument",
+      "exemple",
+      "difference"
+    ]
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "bio-eco-001",
+    "question": "Qu'est-ce que l'écologie",
+    "reponse": "L'écologie est la science qui étudie les relations entre les êtres vivants et leur environnement.",
+    "tags": [
+      "ecologie",
+      "environnement",
+      "science",
+      "relations",
+      "ekoloji",
+      "anviwonnman"
+    ]
+  },
+  {
+    "id": "bio-eco-002",
+    "question": "Kisa ki ekoloji a",
+    "reponse": "Ekoloji se syans ki etidye relasyon ki genyen ant bagay vivan ak anviwonnman yo.",
+    "tags": [
+      "ecologie",
+      "environnement",
+      "science",
+      "relations",
+      "ekoloji",
+      "anviwonnman"
+    ]
+  },
+  {
+    "id": "bio-eco-003",
+    "question": "Qu'est-ce qu'un écosystème",
+    "reponse": "Un écosystème est l'ensemble formé par un milieu naturel et tous les êtres vivants qui y habitent et interagissent.",
+    "tags": [
+      "ecosysteme",
+      "milieu",
+      "vivants",
+      "interactions",
+      "ekosistèm",
+      "anviwonnman"
+    ]
+  },
+  {
+    "id": "bio-eco-004",
+    "question": "Kisa ki yon ekosistèm",
+    "reponse": "Ekosistèm se tout sa yon anviwonnman natirèl ansanm ak bagay vivan ki ladan epi k ap enteraji youn ak lòt.",
+    "tags": [
+      "ecosysteme",
+      "milieu",
+      "vivants",
+      "interactions",
+      "ekosistèm",
+      "anviwonnman"
+    ]
+  },
+  {
+    "id": "bio-eco-005",
+    "question": "Qu'est-ce que la biodiversité",
+    "reponse": "La biodiversité est la variété des espèces vivantes présentes sur Terre, dans un milieu donné.",
+    "tags": [
+      "biodiversite",
+      "especes",
+      "variete",
+      "terre",
+      "biyodivèsite",
+      "varyete"
+    ]
+  },
+  {
+    "id": "bio-eco-006",
+    "question": "Kisa ki biyodivèsite a",
+    "reponse": "Biyodivèsite se varyete espès vivan ki sou latè, nan yon zòn bay.",
+    "tags": [
+      "biodiversite",
+      "especes",
+      "variete",
+      "terre",
+      "biyodivèsite",
+      "varyete"
+    ]
+  },
+  {
+    "id": "bio-eco-007",
+    "question": "Qu'est-ce qu'une chaîne alimentaire",
+    "reponse": "Une chaîne alimentaire montre comment l'énergie passe d'un être vivant à un autre à travers une série d'organismes qui se mangent entre eux.",
+    "tags": [
+      "chaine alimentaire",
+      "energie",
+      "organismes",
+      "manger",
+      "chèn alimantè",
+      "manje"
+    ]
+  },
+  {
+    "id": "bio-eco-008",
+    "question": "Kisa ki yon chèn alimantè",
+    "reponse": "Chèn alimantè montre kijan enèji pase soti nan yon bagay vivan pou rive nan yon lòt, lè youn manje lòt.",
+    "tags": [
+      "chaine alimentaire",
+      "energie",
+      "organismes",
+      "manger",
+      "chèn alimantè",
+      "manje"
+    ]
+  },
+  {
+    "id": "bio-eco-009",
+    "question": "Qu'est-ce qu'un réseau trophique",
+    "reponse": "Un réseau trophique est l'ensemble des chaînes alimentaires reliées entre elles dans un écosystème.",
+    "tags": [
+      "reseau trophique",
+      "chaines alimentaires",
+      "ecosysteme",
+      "connexion",
+      "rezo twofik",
+      "konekte"
+    ]
+  },
+  {
+    "id": "bio-eco-010",
+    "question": "Kisa ki yon rezo twofik",
+    "reponse": "Rezo twofik se tout chèn alimantè ki konekte youn ak lòt nan yon ekosistèm.",
+    "tags": [
+      "reseau trophique",
+      "chaines alimentaires",
+      "ecosysteme",
+      "connexion",
+      "rezo twofik",
+      "konekte"
+    ]
+  },
+  {
+    "id": "bio-eco-011",
+    "question": "Qu'est-ce qu'un producteur en écologie",
+    "reponse": "Un producteur est un organisme, comme une plante, capable de fabriquer sa propre nourriture grâce à la photosynthèse.",
+    "tags": [
+      "producteur",
+      "plante",
+      "photosynthese",
+      "nourriture",
+      "pwodiktè",
+      "fotosentèz"
+    ]
+  },
+  {
+    "id": "bio-eco-012",
+    "question": "Kisa ki yon pwodiktè nan ekoloji",
+    "reponse": "Pwodiktè se yon òganis, tankou yon plant, ki kapab fè manje pa l grasa fotosentèz.",
+    "tags": [
+      "producteur",
+      "plante",
+      "photosynthese",
+      "nourriture",
+      "pwodiktè",
+      "fotosentèz"
+    ]
+  },
+  {
+    "id": "bio-eco-013",
+    "question": "Qu'est-ce qu'un consommateur en écologie",
+    "reponse": "Un consommateur est un organisme qui se nourrit d'autres êtres vivants, comme les herbivores et les carnivores.",
+    "tags": [
+      "consommateur",
+      "herbivore",
+      "carnivore",
+      "alimentation",
+      "konsomatè",
+      "manje"
+    ]
+  },
+  {
+    "id": "bio-eco-014",
+    "question": "Kisa ki yon konsomatè nan ekoloji",
+    "reponse": "Konsomatè se yon òganis ki manje lòt bagay vivan, tankou bèt ki manje zèb ak bèt ki manje vyann.",
+    "tags": [
+      "consommateur",
+      "herbivore",
+      "carnivore",
+      "alimentation",
+      "konsomatè",
+      "manje"
+    ]
+  },
+  {
+    "id": "bio-eco-015",
+    "question": "Qu'est-ce qu'un décomposeur",
+    "reponse": "Un décomposeur est un organisme, comme certains champignons et bactéries, qui transforme les matières mortes en nutriments pour le sol.",
+    "tags": [
+      "decomposeur",
+      "champignons",
+      "bacteries",
+      "sol",
+      "dekonpozè",
+      "tè"
+    ]
+  },
+  {
+    "id": "bio-eco-016",
+    "question": "Kisa ki yon dekonpozè",
+    "reponse": "Dekonpozè se yon òganis, tankou kèk chanpiyon ak bakteri, ki transfòme bagay mouri an eleman nitritif pou tè a.",
+    "tags": [
+      "decomposeur",
+      "champignons",
+      "bacteries",
+      "sol",
+      "dekonpozè",
+      "tè"
+    ]
+  },
+  {
+    "id": "bio-eco-017",
+    "question": "Qu'est-ce que le cycle de l'eau",
+    "reponse": "Le cycle de l'eau décrit le mouvement continu de l'eau entre l'atmosphère, la terre et les océans, par évaporation et précipitation.",
+    "tags": [
+      "cycle de l'eau",
+      "evaporation",
+      "precipitation",
+      "atmosphere",
+      "sik dlo",
+      "lapli"
+    ]
+  },
+  {
+    "id": "bio-eco-018",
+    "question": "Kisa ki sik dlo a",
+    "reponse": "Sik dlo a eksplike mouvman dlo kontinyèl ant atmosfè a, tè a ak lanmè yo, atravè evaporasyon ak lapli.",
+    "tags": [
+      "cycle de l'eau",
+      "evaporation",
+      "precipitation",
+      "atmosphere",
+      "sik dlo",
+      "lapli"
+    ]
+  },
+  {
+    "id": "bio-eco-019",
+    "question": "Qu'est-ce que le cycle du carbone",
+    "reponse": "Le cycle du carbone décrit comment le carbone circule entre l'atmosphère, les plantes, les animaux et les océans.",
+    "tags": [
+      "cycle du carbone",
+      "atmosphere",
+      "plantes",
+      "animaux",
+      "sik kabòn",
+      "sikile"
+    ]
+  },
+  {
+    "id": "bio-eco-020",
+    "question": "Kisa ki sik kabòn nan",
+    "reponse": "Sik kabòn nan eksplike kijan kabòn sikile ant atmosfè a, plant, bèt ak lanmè.",
+    "tags": [
+      "cycle du carbone",
+      "atmosphere",
+      "plantes",
+      "animaux",
+      "sik kabòn",
+      "sikile"
+    ]
+  },
+  {
+    "id": "bio-eco-021",
+    "question": "Qu'est-ce que le cycle de l'azote",
+    "reponse": "Le cycle de l'azote décrit comment l'azote circule entre l'air, le sol et les êtres vivants qui en ont besoin pour vivre.",
+    "tags": [
+      "cycle de l'azote",
+      "air",
+      "sol",
+      "vivants",
+      "sik azòt",
+      "bezwen"
+    ]
+  },
+  {
+    "id": "bio-eco-022",
+    "question": "Kisa ki sik azòt la",
+    "reponse": "Sik azòt la eksplike kijan azòt sikile ant lè a, tè a ak bagay vivan ki bezwen l pou yo viv.",
+    "tags": [
+      "cycle de l'azote",
+      "air",
+      "sol",
+      "vivants",
+      "sik azòt",
+      "bezwen"
+    ]
+  },
+  {
+    "id": "bio-eco-023",
+    "question": "Qu'est-ce qu'un biome",
+    "reponse": "Un biome est une grande région du monde définie par son climat et le type de vie végétale et animale qu'elle abrite.",
+    "tags": [
+      "biome",
+      "climat",
+      "vegetation",
+      "region",
+      "byòm",
+      "klima"
+    ]
+  },
+  {
+    "id": "bio-eco-024",
+    "question": "Kisa ki yon byòm",
+    "reponse": "Byòm se yon gwo zòn nan lemonn ki defini pa klima li ak kalite plant ak bèt ki la.",
+    "tags": [
+      "biome",
+      "climat",
+      "vegetation",
+      "region",
+      "byòm",
+      "klima"
+    ]
+  },
+  {
+    "id": "bio-eco-025",
+    "question": "Qu'est-ce qu'un habitat",
+    "reponse": "Un habitat est le milieu naturel spécifique où vit une espèce et où elle trouve tout ce dont elle a besoin.",
+    "tags": [
+      "habitat",
+      "milieu",
+      "espece",
+      "besoins",
+      "abita",
+      "viv"
+    ]
+  },
+  {
+    "id": "bio-eco-026",
+    "question": "Kisa ki yon abita",
+    "reponse": "Abita se anviwonnman natirèl kote yon espès viv epi jwenn tout sa l bezwen.",
+    "tags": [
+      "habitat",
+      "milieu",
+      "espece",
+      "besoins",
+      "abita",
+      "viv"
+    ]
+  },
+  {
+    "id": "bio-eco-027",
+    "question": "Qu'est-ce qu'une niche écologique",
+    "reponse": "Une niche écologique est le rôle précis qu'une espèce joue dans son écosystème, incluant son alimentation et son comportement.",
+    "tags": [
+      "niche ecologique",
+      "role",
+      "ecosysteme",
+      "comportement",
+      "nich ekolojik",
+      "wòl"
+    ]
+  },
+  {
+    "id": "bio-eco-028",
+    "question": "Kisa ki yon nich ekolojik",
+    "reponse": "Nich ekolojik se wòl presi yon espès jwe nan ekosistèm li, ki gen ladan sa l manje ak jan l konpòte.",
+    "tags": [
+      "niche ecologique",
+      "role",
+      "ecosysteme",
+      "comportement",
+      "nich ekolojik",
+      "wòl"
+    ]
+  },
+  {
+    "id": "bio-eco-029",
+    "question": "Qu'est-ce que la symbiose",
+    "reponse": "La symbiose est une relation étroite entre deux espèces différentes qui vivent ensemble, souvent à bénéfice mutuel.",
+    "tags": [
+      "symbiose",
+      "relation",
+      "especes",
+      "benefice",
+      "senbyòz",
+      "relasyon"
+    ]
+  },
+  {
+    "id": "bio-eco-030",
+    "question": "Kisa ki senbyòz la",
+    "reponse": "Senbyòz se yon relasyon sere ant de espès diferan ki viv ansanm, souvan pou byennèt toulede.",
+    "tags": [
+      "symbiose",
+      "relation",
+      "especes",
+      "benefice",
+      "senbyòz",
+      "relasyon"
+    ]
+  },
+  {
+    "id": "bio-eco-031",
+    "question": "Qu'est-ce que le parasitisme",
+    "reponse": "Le parasitisme est une relation où une espèce, le parasite, profite d'une autre, l'hôte, souvent en lui causant du tort.",
+    "tags": [
+      "parasitisme",
+      "parasite",
+      "hote",
+      "relation",
+      "parazitis",
+      "parazit"
+    ]
+  },
+  {
+    "id": "bio-eco-032",
+    "question": "Kisa ki parazitis la",
+    "reponse": "Parazitis se yon relasyon kote yon espès, parazit la, pwofite yon lòt, ki rele lòt la, souvan sa fè l mal.",
+    "tags": [
+      "parasitisme",
+      "parasite",
+      "hote",
+      "relation",
+      "parazitis",
+      "parazit"
+    ]
+  },
+  {
+    "id": "bio-eco-033",
+    "question": "Qu'est-ce que le mutualisme",
+    "reponse": "Le mutualisme est une relation entre deux espèces où les deux partenaires tirent un bénéfice de leur association.",
+    "tags": [
+      "mutualisme",
+      "benefice",
+      "especes",
+      "association",
+      "mityalis",
+      "byennèt"
+    ]
+  },
+  {
+    "id": "bio-eco-034",
+    "question": "Kisa ki mityalis la",
+    "reponse": "Mityalis se yon relasyon ant de espès kote toulede jwenn byennèt nan rapò yo genyen an.",
+    "tags": [
+      "mutualisme",
+      "benefice",
+      "especes",
+      "association",
+      "mityalis",
+      "byennèt"
+    ]
+  },
+  {
+    "id": "bio-eco-035",
+    "question": "Qu'est-ce que le commensalisme",
+    "reponse": "Le commensalisme est une relation où une espèce profite d'une autre sans lui faire de mal ni de bien.",
+    "tags": [
+      "commensalisme",
+      "relation",
+      "especes",
+      "neutre",
+      "komansalis",
+      "pwofite"
+    ]
+  },
+  {
+    "id": "bio-eco-036",
+    "question": "Kisa ki komansalis la",
+    "reponse": "Komansalis se yon relasyon kote yon espès pwofite yon lòt san li pa fè l ni byen ni mal.",
+    "tags": [
+      "commensalisme",
+      "relation",
+      "especes",
+      "neutre",
+      "komansalis",
+      "pwofite"
+    ]
+  },
+  {
+    "id": "bio-eco-037",
+    "question": "Qu'est-ce que la prédation",
+    "reponse": "La prédation est la relation où un animal, le prédateur, chasse et mange un autre animal, la proie.",
+    "tags": [
+      "predation",
+      "predateur",
+      "proie",
+      "chasse",
+      "predasyon",
+      "viktim"
+    ]
+  },
+  {
+    "id": "bio-eco-038",
+    "question": "Kisa ki predasyon an",
+    "reponse": "Predasyon se relasyon kote yon bèt, predatè a, kouri dèyè epi manje yon lòt bèt, viktim nan.",
+    "tags": [
+      "predation",
+      "predateur",
+      "proie",
+      "chasse",
+      "predasyon",
+      "viktim"
+    ]
+  },
+  {
+    "id": "bio-eco-039",
+    "question": "Qu'est-ce que la compétition en écologie",
+    "reponse": "La compétition est la lutte entre deux ou plusieurs espèces pour les mêmes ressources, comme la nourriture ou le territoire.",
+    "tags": [
+      "competition",
+      "ressources",
+      "especes",
+      "territoire",
+      "konpetisyon",
+      "batay"
+    ]
+  },
+  {
+    "id": "bio-eco-040",
+    "question": "Kisa ki konpetisyon an nan ekoloji",
+    "reponse": "Konpetisyon se batay ant de oswa plizyè espès pou menm resous yo, tankou manje oswa teritwa.",
+    "tags": [
+      "competition",
+      "ressources",
+      "especes",
+      "territoire",
+      "konpetisyon",
+      "batay"
+    ]
+  },
+  {
+    "id": "bio-eco-041",
+    "question": "Qu'est-ce que la pollution",
+    "reponse": "La pollution est l'introduction dans l'environnement de substances nuisibles qui perturbent les écosystèmes et la santé des êtres vivants.",
+    "tags": [
+      "pollution",
+      "environnement",
+      "substances",
+      "sante",
+      "polisyon",
+      "deranje"
+    ]
+  },
+  {
+    "id": "bio-eco-042",
+    "question": "Kisa ki polisyon an",
+    "reponse": "Polisyon se lè yo mete nan anviwonnman an bagay ki mal ki deranje ekosistèm yo ak sante bagay vivan.",
+    "tags": [
+      "pollution",
+      "environnement",
+      "substances",
+      "sante",
+      "polisyon",
+      "deranje"
+    ]
+  },
+  {
+    "id": "bio-eco-043",
+    "question": "Qu'est-ce que le réchauffement climatique",
+    "reponse": "Le réchauffement climatique est l'augmentation progressive de la température moyenne de la Terre, causée en grande partie par les activités humaines.",
+    "tags": [
+      "rechauffement climatique",
+      "temperature",
+      "terre",
+      "activites humaines",
+      "rechofman klimatik",
+      "tanperati"
+    ]
+  },
+  {
+    "id": "bio-eco-044",
+    "question": "Kisa ki rechofman klimatik la",
+    "reponse": "Rechofman klimatik la se ogmantasyon piti piti tanperati mwayen latè, ki koze an gwo pati pa aktivite moun.",
+    "tags": [
+      "rechauffement climatique",
+      "temperature",
+      "terre",
+      "activites humaines",
+      "rechofman klimatik",
+      "tanperati"
+    ]
+  },
+  {
+    "id": "bio-eco-045",
+    "question": "Qu'est-ce que l'effet de serre",
+    "reponse": "L'effet de serre est le phénomène naturel par lequel certains gaz retiennent la chaleur du soleil dans l'atmosphère terrestre.",
+    "tags": [
+      "effet de serre",
+      "gaz",
+      "chaleur",
+      "atmosphere",
+      "efè tèmik",
+      "chalè"
+    ]
+  },
+  {
+    "id": "bio-eco-046",
+    "question": "Kisa ki efè tèmik la",
+    "reponse": "Efè tèmik la se yon fenomèn natirèl kote kèk gaz kenbe chalè solèy la nan atmosfè latè.",
+    "tags": [
+      "effet de serre",
+      "gaz",
+      "chaleur",
+      "atmosphere",
+      "efè tèmik",
+      "chalè"
+    ]
+  },
+  {
+    "id": "bio-eco-047",
+    "question": "Qu'est-ce que la déforestation",
+    "reponse": "La déforestation est la destruction des forêts par l'homme, souvent pour l'agriculture, l'élevage ou le bois.",
+    "tags": [
+      "deforestation",
+      "foret",
+      "destruction",
+      "agriculture",
+      "depatizisman",
+      "detriksyon"
+    ]
+  },
+  {
+    "id": "bio-eco-048",
+    "question": "Kisa ki depatizisman an",
+    "reponse": "Depatizisman se detriksyon forè yo fè moun fè, souvan pou agrikilti, elvaj oswa bwa.",
+    "tags": [
+      "deforestation",
+      "foret",
+      "destruction",
+      "agriculture",
+      "depatizisman",
+      "detriksyon"
+    ]
+  },
+  {
+    "id": "bio-eco-049",
+    "question": "Qu'est-ce que l'extinction d'une espèce",
+    "reponse": "L'extinction est la disparition totale et définitive d'une espèce de la surface de la Terre.",
+    "tags": [
+      "extinction",
+      "disparition",
+      "espece",
+      "definitif",
+      "ekstenksyon",
+      "disparisyon"
+    ]
+  },
+  {
+    "id": "bio-eco-050",
+    "question": "Kisa ki ekstenksyon yon espès",
+    "reponse": "Ekstenksyon se disparisyon total ak definitif yon espès sou tout latè.",
+    "tags": [
+      "extinction",
+      "disparition",
+      "espece",
+      "definitif",
+      "ekstenksyon",
+      "disparisyon"
+    ]
+  },
+  {
+    "id": "bio-eco-051",
+    "question": "Qu'est-ce qu'une espèce menacée",
+    "reponse": "Une espèce menacée est une espèce dont la population diminue fortement et qui risque de disparaître.",
+    "tags": [
+      "espece menacee",
+      "population",
+      "risque",
+      "disparition",
+      "espès menase",
+      "desann"
+    ]
+  },
+  {
+    "id": "bio-eco-052",
+    "question": "Kisa ki yon espès menase",
+    "reponse": "Espès menase se yon espès ki popilasyon l ap desann anpil epi ki ka disparèt.",
+    "tags": [
+      "espece menacee",
+      "population",
+      "risque",
+      "disparition",
+      "espès menase",
+      "desann"
+    ]
+  },
+  {
+    "id": "bio-eco-053",
+    "question": "Qu'est-ce qu'une espèce invasive",
+    "reponse": "Une espèce invasive est une espèce introduite dans un nouveau milieu où elle se multiplie rapidement et nuit aux espèces locales.",
+    "tags": [
+      "espece invasive",
+      "introduction",
+      "multiplication",
+      "nuisible",
+      "espès envazif",
+      "miltipliye"
+    ]
+  },
+  {
+    "id": "bio-eco-054",
+    "question": "Kisa ki yon espès envazif",
+    "reponse": "Espès envazif se yon espès yo mete nan yon nouvo anviwonnman kote l miltipliye vit epi fè espès lokal yo mal.",
+    "tags": [
+      "espece invasive",
+      "introduction",
+      "multiplication",
+      "nuisible",
+      "espès envazif",
+      "miltipliye"
+    ]
+  },
+  {
+    "id": "bio-eco-055",
+    "question": "Qu'est-ce que la conservation en écologie",
+    "reponse": "La conservation est l'ensemble des actions menées pour protéger les espèces, les habitats et la biodiversité.",
+    "tags": [
+      "conservation",
+      "protection",
+      "especes",
+      "habitats",
+      "konsèvasyon",
+      "pwoteje"
+    ]
+  },
+  {
+    "id": "bio-eco-056",
+    "question": "Kisa ki konsèvasyon an nan ekoloji",
+    "reponse": "Konsèvasyon se tout aksyon moun fè pou pwoteje espès, abita ak biyodivèsite.",
+    "tags": [
+      "conservation",
+      "protection",
+      "especes",
+      "habitats",
+      "konsèvasyon",
+      "pwoteje"
+    ]
+  },
+  {
+    "id": "bio-eco-057",
+    "question": "Qu'est-ce que la biodiversité marine",
+    "reponse": "La biodiversité marine est la variété des espèces vivantes présentes dans les océans et les mers.",
+    "tags": [
+      "biodiversite marine",
+      "oceans",
+      "especes",
+      "mer",
+      "biyodivèsite maren",
+      "lanmè"
+    ]
+  },
+  {
+    "id": "bio-eco-058",
+    "question": "Kisa ki biyodivèsite maren an",
+    "reponse": "Biyodivèsite maren an se varyete espès vivan ki nan lanmè yo.",
+    "tags": [
+      "biodiversite marine",
+      "oceans",
+      "especes",
+      "mer",
+      "biyodivèsite maren",
+      "lanmè"
+    ]
+  },
+  {
+    "id": "bio-eco-059",
+    "question": "Qu'est-ce qu'un récif corallien",
+    "reponse": "Un récif corallien est une structure sous-marine formée par des coraux, abritant une grande diversité d'espèces marines.",
+    "tags": [
+      "recif corallien",
+      "corail",
+      "sous-marin",
+      "diversite",
+      "resif koray",
+      "anba dlo"
+    ]
+  },
+  {
+    "id": "bio-eco-060",
+    "question": "Kisa ki yon resif koray",
+    "reponse": "Resif koray se yon estrikti anba dlo fèt ak koray, kote anpil espès maren rete.",
+    "tags": [
+      "recif corallien",
+      "corail",
+      "sous-marin",
+      "diversite",
+      "resif koray",
+      "anba dlo"
+    ]
+  },
+  {
+    "id": "bio-eco-061",
+    "question": "Qu'est-ce qu'une forêt tropicale",
+    "reponse": "Une forêt tropicale est une forêt dense et humide située près de l'équateur, abritant une immense biodiversité.",
+    "tags": [
+      "foret tropicale",
+      "equateur",
+      "biodiversite",
+      "dense",
+      "forè twopikal",
+      "imid"
+    ]
+  },
+  {
+    "id": "bio-eco-062",
+    "question": "Kisa ki yon forè twopikal",
+    "reponse": "Forè twopikal se yon forè dans ak imid ki tou pre ekwatè a, kote gen yon gwo biyodivèsite.",
+    "tags": [
+      "foret tropicale",
+      "equateur",
+      "biodiversite",
+      "dense",
+      "forè twopikal",
+      "imid"
+    ]
+  },
+  {
+    "id": "bio-eco-063",
+    "question": "Qu'est-ce qu'une savane",
+    "reponse": "Une savane est un grand espace herbeux avec quelques arbres épars, typique des régions tropicales chaudes.",
+    "tags": [
+      "savane",
+      "herbe",
+      "arbres",
+      "tropical",
+      "savann",
+      "zèb"
+    ]
+  },
+  {
+    "id": "bio-eco-064",
+    "question": "Kisa ki yon savann",
+    "reponse": "Savann se yon gwo espas kouvri ak zèb avèk kèk pyebwa isit kole, karakteristik rejyon twopikal cho.",
+    "tags": [
+      "savane",
+      "herbe",
+      "arbres",
+      "tropical",
+      "savann",
+      "zèb"
+    ]
+  },
+  {
+    "id": "bio-eco-065",
+    "question": "Qu'est-ce qu'un désert",
+    "reponse": "Un désert est une région très sèche recevant peu de pluie, où vivent des espèces adaptées au manque d'eau.",
+    "tags": [
+      "desert",
+      "secheresse",
+      "adaptation",
+      "eau",
+      "dezè",
+      "sèk"
+    ]
+  },
+  {
+    "id": "bio-eco-066",
+    "question": "Kisa ki yon dezè",
+    "reponse": "Dezè se yon rejyon ki trè sèk ki pa resevwa anpil lapli, kote espès ki adapte ak manke dlo rete.",
+    "tags": [
+      "desert",
+      "secheresse",
+      "adaptation",
+      "eau",
+      "dezè",
+      "sèk"
+    ]
+  },
+  {
+    "id": "bio-eco-067",
+    "question": "Qu'est-ce que la toundra",
+    "reponse": "La toundra est une région froide et sans arbres, où le sol reste gelé une grande partie de l'année.",
+    "tags": [
+      "toundra",
+      "froid",
+      "gel",
+      "sans arbres",
+      "tundra",
+      "frèt"
+    ]
+  },
+  {
+    "id": "bio-eco-068",
+    "question": "Kisa ki tundra a",
+    "reponse": "Tundra a se yon rejyon frèt ki pa gen pyebwa, kote tè a rete glase pandan yon gwo pati nan ane a.",
+    "tags": [
+      "toundra",
+      "froid",
+      "gel",
+      "sans arbres",
+      "tundra",
+      "frèt"
+    ]
+  },
+  {
+    "id": "bio-eco-069",
+    "question": "Qu'est-ce qu'une zone humide",
+    "reponse": "Une zone humide est un milieu, comme un marais, où le sol est saturé d'eau une grande partie de l'année.",
+    "tags": [
+      "zone humide",
+      "marais",
+      "eau",
+      "sol",
+      "zòn imid",
+      "marekay"
+    ]
+  },
+  {
+    "id": "bio-eco-070",
+    "question": "Kisa ki yon zòn imid",
+    "reponse": "Zòn imid se yon anviwonnman, tankou yon marekay, kote tè a plen ak dlo pandan yon gwo pati nan ane a.",
+    "tags": [
+      "zone humide",
+      "marais",
+      "eau",
+      "sol",
+      "zòn imid",
+      "marekay"
+    ]
+  },
+  {
+    "id": "bio-eco-071",
+    "question": "Qu'est-ce qu'une mangrove",
+    "reponse": "Une mangrove est une forêt côtière qui pousse dans l'eau salée et protège le littoral contre l'érosion.",
+    "tags": [
+      "mangrove",
+      "cotiere",
+      "eau salee",
+      "erosion",
+      "mang",
+      "kot"
+    ]
+  },
+  {
+    "id": "bio-eco-072",
+    "question": "Kisa ki yon mang",
+    "reponse": "Mang se yon forè bò lanmè ki pouse nan dlo sale epi ki pwoteje kot la kont erozyon.",
+    "tags": [
+      "mangrove",
+      "cotiere",
+      "eau salee",
+      "erosion",
+      "mang",
+      "kot"
+    ]
+  },
+  {
+    "id": "bio-eco-073",
+    "question": "Qu'est-ce que l'érosion",
+    "reponse": "L'érosion est l'usure progressive du sol ou des roches causée par le vent, l'eau ou d'autres éléments naturels.",
+    "tags": [
+      "erosion",
+      "sol",
+      "vent",
+      "eau",
+      "erozyon",
+      "izi"
+    ]
+  },
+  {
+    "id": "bio-eco-074",
+    "question": "Kisa ki erozyon an",
+    "reponse": "Erozyon se izi piti piti tè a oswa wòch yo koze pa van, dlo oswa lòt eleman natirèl.",
+    "tags": [
+      "erosion",
+      "sol",
+      "vent",
+      "eau",
+      "erozyon",
+      "izi"
+    ]
+  },
+  {
+    "id": "bio-eco-075",
+    "question": "Qu'est-ce qu'un cycle de vie en biologie",
+    "reponse": "Un cycle de vie décrit les différentes étapes qu'un être vivant traverse, de sa naissance à sa mort.",
+    "tags": [
+      "cycle de vie",
+      "etapes",
+      "naissance",
+      "mort",
+      "sik lavi",
+      "etap"
+    ]
+  },
+  {
+    "id": "bio-eco-076",
+    "question": "Kisa ki yon sik lavi nan byoloji",
+    "reponse": "Sik lavi se diferan etap yon bagay vivan pase, depi l fèt jiska li mouri.",
+    "tags": [
+      "cycle de vie",
+      "etapes",
+      "naissance",
+      "mort",
+      "sik lavi",
+      "etap"
+    ]
+  },
+  {
+    "id": "bio-eco-077",
+    "question": "Qu'est-ce que la migration animale",
+    "reponse": "La migration animale est le déplacement saisonnier de certaines espèces d'une région à une autre, souvent pour trouver nourriture ou climat favorable.",
+    "tags": [
+      "migration",
+      "saisonniere",
+      "deplacement",
+      "especes",
+      "migrasyon",
+      "deplasman"
+    ]
+  },
+  {
+    "id": "bio-eco-078",
+    "question": "Kisa ki migrasyon bèt la",
+    "reponse": "Migrasyon bèt se deplasman sezonye kèk espès fè soti nan yon zòn pou ale nan yon lòt, souvan pou chèche manje oswa yon klima pi bon.",
+    "tags": [
+      "migration",
+      "saisonniere",
+      "deplacement",
+      "especes",
+      "migrasyon",
+      "deplasman"
+    ]
+  },
+  {
+    "id": "bio-eco-079",
+    "question": "Qu'est-ce que l'hibernation",
+    "reponse": "L'hibernation est un état de repos prolongé que certains animaux adoptent pendant l'hiver pour économiser de l'énergie.",
+    "tags": [
+      "hibernation",
+      "hiver",
+      "repos",
+      "energie",
+      "ibènasyon",
+      "livè"
+    ]
+  },
+  {
+    "id": "bio-eco-080",
+    "question": "Kisa ki ibènasyon an",
+    "reponse": "Ibènasyon se yon eta repo long kèk bèt chwazi pandan livè a pou yo ekonomize enèji.",
+    "tags": [
+      "hibernation",
+      "hiver",
+      "repos",
+      "energie",
+      "ibènasyon",
+      "livè"
+    ]
+  },
+  {
+    "id": "bio-eco-081",
+    "question": "Qu'est-ce que le camouflage",
+    "reponse": "Le camouflage est une adaptation qui permet à un animal de se fondre dans son environnement pour se cacher des prédateurs ou des proies.",
+    "tags": [
+      "camouflage",
+      "adaptation",
+      "predateurs",
+      "protection",
+      "kamouflaj",
+      "kache"
+    ]
+  },
+  {
+    "id": "bio-eco-082",
+    "question": "Kisa ki kamouflaj la",
+    "reponse": "Kamouflaj se yon adaptasyon ki pèmèt yon bèt kache nan anviwonnman li pou l pa wè pa predatè oswa pwòp viktim li.",
+    "tags": [
+      "camouflage",
+      "adaptation",
+      "predateurs",
+      "protection",
+      "kamouflaj",
+      "kache"
+    ]
+  },
+  {
+    "id": "bio-eco-083",
+    "question": "Qu'est-ce que l'adaptation en biologie",
+    "reponse": "L'adaptation est une caractéristique qui aide un être vivant à mieux survivre dans son environnement.",
+    "tags": [
+      "adaptation",
+      "survie",
+      "environnement",
+      "caracteristique",
+      "adaptasyon",
+      "siviv"
+    ]
+  },
+  {
+    "id": "bio-eco-084",
+    "question": "Kisa ki adaptasyon an nan byoloji",
+    "reponse": "Adaptasyon se yon karakteristik ki ede yon bagay vivan siviv pi byen nan anviwonnman li.",
+    "tags": [
+      "adaptation",
+      "survie",
+      "environnement",
+      "caracteristique",
+      "adaptasyon",
+      "siviv"
+    ]
+  },
+  {
+    "id": "bio-eco-085",
+    "question": "Qu'est-ce que l'équilibre écologique",
+    "reponse": "L'équilibre écologique est l'état stable d'un écosystème où les différentes espèces coexistent sans que l'une domine trop les autres.",
+    "tags": [
+      "equilibre ecologique",
+      "ecosysteme",
+      "stable",
+      "coexistence",
+      "ekilib ekolojik",
+      "estab"
+    ]
+  },
+  {
+    "id": "bio-eco-086",
+    "question": "Kisa ki ekilib ekolojik la",
+    "reponse": "Ekilib ekolojik se eta estab yon ekosistèm kote diferan espès viv ansanm san youn pa domine twòp lòt yo.",
+    "tags": [
+      "equilibre ecologique",
+      "ecosysteme",
+      "stable",
+      "coexistence",
+      "ekilib ekolojik",
+      "estab"
+    ]
+  },
+  {
+    "id": "bio-eco-087",
+    "question": "Qu'est-ce que l'empreinte écologique",
+    "reponse": "L'empreinte écologique mesure l'impact des activités humaines sur les ressources naturelles de la planète.",
+    "tags": [
+      "empreinte ecologique",
+      "impact",
+      "ressources",
+      "planete",
+      "anprent ekolojik",
+      "efè"
+    ]
+  },
+  {
+    "id": "bio-eco-088",
+    "question": "Kisa ki anprent ekolojik la",
+    "reponse": "Anprent ekolojik la mezire efè aktivite moun genyen sou resous natirèl planèt la.",
+    "tags": [
+      "empreinte ecologique",
+      "impact",
+      "ressources",
+      "planete",
+      "anprent ekolojik",
+      "efè"
+    ]
+  },
+  {
+    "id": "bio-eco-089",
+    "question": "Qu'est-ce qu'une énergie renouvelable",
+    "reponse": "Une énergie renouvelable est une source d'énergie, comme le soleil ou le vent, qui ne s'épuise pas et respecte davantage l'environnement.",
+    "tags": [
+      "energie renouvelable",
+      "soleil",
+      "vent",
+      "environnement",
+      "enèji renouvlab",
+      "solèy"
+    ]
+  },
+  {
+    "id": "bio-eco-090",
+    "question": "Kisa ki yon enèji renouvlab",
+    "reponse": "Enèji renouvlab se yon sous enèji, tankou solèy oswa van, ki pa fini epi ki pi bon pou anviwonnman an.",
+    "tags": [
+      "energie renouvelable",
+      "soleil",
+      "vent",
+      "environnement",
+      "enèji renouvlab",
+      "solèy"
+    ]
+  },
+  {
+    "id": "bio-eco-091",
+    "question": "Qu'est-ce que l'agriculture durable",
+    "reponse": "L'agriculture durable est une façon de cultiver qui respecte l'environnement tout en répondant aux besoins alimentaires des populations.",
+    "tags": [
+      "agriculture durable",
+      "environnement",
+      "besoins alimentaires",
+      "culture",
+      "agrikilti dirab",
+      "plante"
+    ]
+  },
+  {
+    "id": "bio-eco-092",
+    "question": "Kisa ki agrikilti dirab la",
+    "reponse": "Agrikilti dirab se yon fason pou plante ki respekte anviwonnman an pandan l ap satisfè bezwen manje popilasyon yo.",
+    "tags": [
+      "agriculture durable",
+      "environnement",
+      "besoins alimentaires",
+      "culture",
+      "agrikilti dirab",
+      "plante"
+    ]
+  },
+  {
+    "id": "bio-eco-093",
+    "question": "Qu'est-ce que le compostage",
+    "reponse": "Le compostage est un processus naturel qui transforme les déchets organiques en engrais utile pour le sol.",
+    "tags": [
+      "compostage",
+      "dechets organiques",
+      "engrais",
+      "sol",
+      "konpostaj",
+      "angrè"
+    ]
+  },
+  {
+    "id": "bio-eco-094",
+    "question": "Kisa ki konpostaj la",
+    "reponse": "Konpostaj se yon pwosesis natirèl ki transfòme fatra òganik an angrè itil pou tè a.",
+    "tags": [
+      "compostage",
+      "dechets organiques",
+      "engrais",
+      "sol",
+      "konpostaj",
+      "angrè"
+    ]
+  },
+  {
+    "id": "bio-eco-095",
+    "question": "Qu'est-ce que le recyclage biologique",
+    "reponse": "Le recyclage biologique est le processus naturel par lequel les matières organiques se décomposent et retournent dans le sol.",
+    "tags": [
+      "recyclage biologique",
+      "decomposition",
+      "sol",
+      "matieres organiques",
+      "resiklaj byolojik",
+      "dekonpoze"
+    ]
+  },
+  {
+    "id": "bio-eco-096",
+    "question": "Kisa ki resiklaj byolojik la",
+    "reponse": "Resiklaj byolojik se pwosesis natirèl kote matyè òganik yo dekonpoze epi tounen nan tè a.",
+    "tags": [
+      "recyclage biologique",
+      "decomposition",
+      "sol",
+      "matieres organiques",
+      "resiklaj byolojik",
+      "dekonpoze"
+    ]
+  },
+  {
+    "id": "bio-eco-097",
+    "question": "Qu'est-ce que la pollinisation",
+    "reponse": "La pollinisation est le transport du pollen d'une fleur à une autre, souvent par les insectes, permettant la reproduction des plantes.",
+    "tags": [
+      "pollinisation",
+      "fleurs",
+      "insectes",
+      "reproduction",
+      "polinizasyon",
+      "flè"
+    ]
+  },
+  {
+    "id": "bio-eco-098",
+    "question": "Kisa ki polinizasyon an",
+    "reponse": "Polinizasyon se transpò polèn soti nan yon flè pou rive nan yon lòt, souvan pa ensèk, sa ki pèmèt plant yo repwodui.",
+    "tags": [
+      "pollinisation",
+      "fleurs",
+      "insectes",
+      "reproduction",
+      "polinizasyon",
+      "flè"
+    ]
+  },
+  {
+    "id": "bio-eco-099",
+    "question": "Qu'est-ce qu'une ressource naturelle",
+    "reponse": "Une ressource naturelle est un élément utile fourni par la nature, comme l'eau, le bois ou les minéraux, que les êtres vivants utilisent.",
+    "tags": [
+      "ressource naturelle",
+      "eau",
+      "bois",
+      "nature",
+      "resous natirèl",
+      "itil"
+    ]
+  },
+  {
+    "id": "bio-eco-100",
+    "question": "Kisa ki yon resous natirèl",
+    "reponse": "Resous natirèl se yon eleman itil lanati bay, tankou dlo, bwa oswa mineral, ke bagay vivan itilize.",
+    "tags": [
+      "ressource naturelle",
+      "eau",
+      "bois",
+      "nature",
+      "resous natirèl",
+      "itil"
+    ]
+  }
+]

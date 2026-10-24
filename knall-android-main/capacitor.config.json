@@ -1,0 +1,12 @@
+{
+  "appId": "com.wilertech.knall",
+  "appName": "Knall",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  },
+  "backgroundColor": "#0a0e1f"
+}

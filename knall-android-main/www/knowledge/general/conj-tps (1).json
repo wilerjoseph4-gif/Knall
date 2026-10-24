@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "conj-tps-001",
+    "question": "Qu'est-ce que l'indicatif",
+    "reponse": "L'indicatif est le mode verbal utilisé pour exprimer des faits réels, certains ou considérés comme vrais.",
+    "tags": [
+      "indicatif",
+      "mode",
+      "realite",
+      "certitude",
+      "lendikatif",
+      "reyalite"
+    ]
+  },
+  {
+    "id": "conj-tps-002",
+    "question": "Kisa ki lendikatif la",
+    "reponse": "Lendikatif se mòd vèb yo itilize pou eksprime reyalite, bagay ki sèten oswa yo konsidere vre.",
+    "tags": [
+      "indicatif",
+      "mode",
+      "realite",
+      "certitude",
+      "lendikatif",
+      "reyalite"
+    ]
+  },
+  {
+    "id": "conj-tps-003",
+    "question": "À quoi sert le présent de l'indicatif",
+    "reponse": "Le présent de l'indicatif sert à exprimer une action qui se passe maintenant, une habitude ou une vérité générale.",
+    "tags": [
+      "present",
+      "indicatif",
+      "habitude",
+      "verite",
+      "prezan",
+      "abitid"
+    ]
+  },
+  {
+    "id": "conj-tps-004",
+    "question": "Ki sèvis prezan lendikatif la fè",
+    "reponse": "Prezan lendikatif la sèvi pou eksprime yon aksyon k ap fèt kounye a, yon abitid oswa yon verite jeneral.",
+    "tags": [
+      "present",
+      "indicatif",
+      "habitude",
+      "verite",
+      "prezan",
+      "abitid"
+    ]
+  },
+  {
+    "id": "conj-tps-005",
+    "question": "À quoi sert l'imparfait",
+    "reponse": "L'imparfait sert à décrire une situation passée, une habitude ancienne ou une action en train de se dérouler dans le passé.",
+    "tags": [
+      "imparfait",
+      "description",
+      "habitude",
+      "passe",
+      "lenpafè",
+      "dekri"
+    ]
+  },
+  {
+    "id": "conj-tps-006",
+    "question": "Ki sèvis lenpafè a fè",
+    "reponse": "Lenpafè a sèvi pou dekri yon sitiyasyon pase, yon abitid ansyen oswa yon aksyon ki t ap deroule nan tan pase.",
+    "tags": [
+      "imparfait",
+      "description",
+      "habitude",
+      "passe",
+      "lenpafè",
+      "dekri"
+    ]
+  },
+  {
+    "id": "conj-tps-007",
+    "question": "À quoi sert le passé composé",
+    "reponse": "Le passé composé sert à exprimer une action ponctuelle et terminée dans le passé, souvent reliée au présent.",
+    "tags": [
+      "passe compose",
+      "action ponctuelle",
+      "termine",
+      "usage",
+      "pase konpoze",
+      "fini"
+    ]
+  },
+  {
+    "id": "conj-tps-008",
+    "question": "Ki sèvis pase konpoze a fè",
+    "reponse": "Pase konpoze a sèvi pou eksprime yon aksyon ponktyèl ki fini nan tan pase, souvan ki lye ak prezan an.",
+    "tags": [
+      "passe compose",
+      "action ponctuelle",
+      "termine",
+      "usage",
+      "pase konpoze",
+      "fini"
+    ]
+  },
+  {
+    "id": "conj-tps-009",
+    "question": "À quoi sert le passé simple",
+    "reponse": "Le passé simple sert à l'écrit, surtout dans les récits littéraires, pour raconter des actions passées achevées.",
+    "tags": [
+      "passe simple",
+      "ecrit",
+      "recit litteraire",
+      "usage",
+      "pase senp",
+      "istwa"
+    ]
+  },
+  {
+    "id": "conj-tps-010",
+    "question": "Ki sèvis pase senp la fè",
+    "reponse": "Pase senp la sèvi nan ekri, sitou nan istwa literè, pou rakonte aksyon pase ki fini.",
+    "tags": [
+      "passe simple",
+      "ecrit",
+      "recit litteraire",
+      "usage",
+      "pase senp",
+      "istwa"
+    ]
+  },
+  {
+    "id": "conj-tps-011",
+    "question": "À quoi sert le plus-que-parfait",
+    "reponse": "Le plus-que-parfait sert à exprimer une action passée qui s'est déroulée avant une autre action passée.",
+    "tags": [
+      "plus-que-parfait",
+      "anteriorite",
+      "usage",
+      "deux actions",
+      "plis ke pafè",
+      "anvan"
+    ]
+  },
+  {
+    "id": "conj-tps-012",
+    "question": "Ki sèvis plis ke pafè a fè",
+    "reponse": "Plis ke pafè a sèvi pou eksprime yon aksyon pase ki te fèt anvan yon lòt aksyon pase.",
+    "tags": [
+      "plus-que-parfait",
+      "anteriorite",
+      "usage",
+      "deux actions",
+      "plis ke pafè",
+      "anvan"
+    ]
+  },
+  {
+    "id": "conj-tps-013",
+    "question": "À quoi sert le passé antérieur",
+    "reponse": "Le passé antérieur, surtout littéraire, exprime une action immédiatement antérieure à une autre au passé simple.",
+    "tags": [
+      "passe anterieur",
+      "litteraire",
+      "usage",
+      "anteriorite",
+      "pase anteryè",
+      "immediat"
+    ]
+  },
+  {
+    "id": "conj-tps-014",
+    "question": "Ki sèvis pase anteryè a fè",
+    "reponse": "Pase anteryè a, sitou literè, eksprime yon aksyon ki rive jis anvan yon lòt aksyon nan pase senp.",
+    "tags": [
+      "passe anterieur",
+      "litteraire",
+      "usage",
+      "anteriorite",
+      "pase anteryè",
+      "immediat"
+    ]
+  },
+  {
+    "id": "conj-tps-015",
+    "question": "À quoi sert le futur simple",
+    "reponse": "Le futur simple sert à exprimer une action qui se déroulera plus tard, dans un avenir plus ou moins proche.",
+    "tags": [
+      "futur simple",
+      "avenir",
+      "usage",
+      "action future",
+      "fiti senp",
+      "avni"
+    ]
+  },
+  {
+    "id": "conj-tps-016",
+    "question": "Ki sèvis fiti senp la fè",
+    "reponse": "Fiti senp la sèvi pou eksprime yon aksyon ki pral fèt pita, nan yon avni pi oswa mwens pre.",
+    "tags": [
+      "futur simple",
+      "avenir",
+      "usage",
+      "action future",
+      "fiti senp",
+      "avni"
+    ]
+  },
+  {
+    "id": "conj-tps-017",
+    "question": "À quoi sert le futur antérieur",
+    "reponse": "Le futur antérieur exprime une action future qui se sera achevée avant une autre action future.",
+    "tags": [
+      "futur anterieur",
+      "avenir",
+      "usage",
+      "anteriorite",
+      "fiti anteryè",
+      "deja fini"
+    ]
+  },
+  {
+    "id": "conj-tps-018",
+    "question": "Ki sèvis fiti anteryè a fè",
+    "reponse": "Fiti anteryè a eksprime yon aksyon nan avni ki pral fin fèt anvan yon lòt aksyon nan avni.",
+    "tags": [
+      "futur anterieur",
+      "avenir",
+      "usage",
+      "anteriorite",
+      "fiti anteryè",
+      "deja fini"
+    ]
+  },
+  {
+    "id": "conj-tps-019",
+    "question": "Qu'est-ce que le futur proche et comment se forme-t-il",
+    "reponse": "Le futur proche exprime une action imminente et se forme avec aller au présent suivi de l'infinitif du verbe.",
+    "tags": [
+      "futur proche",
+      "formation",
+      "aller",
+      "infinitif",
+      "fiti pwòch",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-tps-020",
+    "question": "Kisa ki fiti pwòch la epi kijan li fòme",
+    "reponse": "Fiti pwòch la eksprime yon aksyon ki prèske rive epi li fòme ak aller nan prezan swiv ak enfinitif vèb la.",
+    "tags": [
+      "futur proche",
+      "formation",
+      "aller",
+      "infinitif",
+      "fiti pwòch",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-tps-021",
+    "question": "Qu'est-ce que le passé récent et comment se forme-t-il",
+    "reponse": "Le passé récent exprime une action qui vient de se terminer et se forme avec venir de au présent suivi de l'infinitif.",
+    "tags": [
+      "passe recent",
+      "formation",
+      "venir de",
+      "infinitif",
+      "pase resan",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-tps-022",
+    "question": "Kisa ki pase resan an epi kijan li fòme",
+    "reponse": "Pase resan an eksprime yon aksyon ki fèk fini epi li fòme ak venir de nan prezan swiv ak enfinitif la.",
+    "tags": [
+      "passe recent",
+      "formation",
+      "venir de",
+      "infinitif",
+      "pase resan",
+      "fòmasyon"
+    ]
+  },
+  {
+    "id": "conj-tps-023",
+    "question": "Quelle est la différence entre le passé composé et l'imparfait",
+    "reponse": "Le passé composé marque une action précise et terminée, tandis que l'imparfait décrit une situation ou une habitude sans limite claire.",
+    "tags": [
+      "difference",
+      "passe compose",
+      "imparfait",
+      "usage",
+      "diferans",
+      "konpare"
+    ]
+  },
+  {
+    "id": "conj-tps-024",
+    "question": "Ki diferans ki genyen ant pase konpoze ak lenpafè",
+    "reponse": "Pase konpoze a make yon aksyon presi ki fini, pandan lenpafè a dekri yon sitiyasyon oswa yon abitid san limit klè.",
+    "tags": [
+      "difference",
+      "passe compose",
+      "imparfait",
+      "usage",
+      "diferans",
+      "konpare"
+    ]
+  },
+  {
+    "id": "conj-tps-025",
+    "question": "Quelle est la différence entre le passé composé et le passé simple",
+    "reponse": "Le passé composé s'emploie surtout à l'oral et dans les textes courants, alors que le passé simple est réservé à l'écrit littéraire.",
+    "tags": [
+      "difference",
+      "passe compose",
+      "passe simple",
+      "usage",
+      "diferans",
+      "literè"
+    ]
+  },
+  {
+    "id": "conj-tps-026",
+    "question": "Ki diferans ki genyen ant pase konpoze ak pase senp",
+    "reponse": "Pase konpoze a itilize sitou nan pale ak nan tèks kouran, alòske pase senp la rezève pou ekri literè.",
+    "tags": [
+      "difference",
+      "passe compose",
+      "passe simple",
+      "usage",
+      "diferans",
+      "literè"
+    ]
+  },
+  {
+    "id": "conj-tps-027",
+    "question": "Quand utilise-t-on le plus-que-parfait",
+    "reponse": "On utilise le plus-que-parfait pour exprimer qu'une action passée s'était déjà produite avant un autre événement passé.",
+    "tags": [
+      "plus-que-parfait",
+      "usage",
+      "anteriorite",
+      "evenement",
+      "kiyè",
+      "anvan"
+    ]
+  },
+  {
+    "id": "conj-tps-028",
+    "question": "Kiyè yo itilize plis ke pafè a",
+    "reponse": "Yo itilize plis ke pafè a pou eksprime ke yon aksyon pase te deja rive anvan yon lòt evènman pase.",
+    "tags": [
+      "plus-que-parfait",
+      "usage",
+      "anteriorite",
+      "evenement",
+      "kiyè",
+      "anvan"
+    ]
+  },
+  {
+    "id": "conj-tps-029",
+    "question": "Comment former le passé composé",
+    "reponse": "Le passé composé se forme avec l'auxiliaire être ou avoir au présent, suivi du participe passé du verbe conjugué.",
+    "tags": [
+      "passe compose",
+      "formation",
+      "auxiliaire",
+      "participe passe",
+      "pase konpoze",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-tps-030",
+    "question": "Kijan pou fòme pase konpoze a",
+    "reponse": "Pase konpoze a fòme ak oksilyè être oswa avoir nan prezan, swiv ak patisip pase vèb ki konjige a.",
+    "tags": [
+      "passe compose",
+      "formation",
+      "auxiliaire",
+      "participe passe",
+      "pase konpoze",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-tps-031",
+    "question": "Quels verbes se conjuguent avec être au passé composé",
+    "reponse": "Les verbes de mouvement comme aller, venir, partir, arriver, et les verbes pronominaux se conjuguent avec être au passé composé.",
+    "tags": [
+      "etre",
+      "verbes de mouvement",
+      "pronominaux",
+      "passe compose",
+      "être",
+      "mouvman"
+    ]
+  },
+  {
+    "id": "conj-tps-032",
+    "question": "Ki vèb ki konjige ak être nan pase konpoze",
+    "reponse": "Vèb mouvman tankou aller, venir, partir, arriver, ak vèb pwonominal yo konjige ak être nan pase konpoze.",
+    "tags": [
+      "etre",
+      "verbes de mouvement",
+      "pronominaux",
+      "passe compose",
+      "être",
+      "mouvman"
+    ]
+  },
+  {
+    "id": "conj-tps-033",
+    "question": "Quels verbes se conjuguent avec avoir au passé composé",
+    "reponse": "La majorité des verbes français se conjuguent avec avoir au passé composé, sauf les verbes d'être, de mouvement et les pronominaux.",
+    "tags": [
+      "avoir",
+      "majorite",
+      "passe compose",
+      "exception",
+      "avoir",
+      "majorite"
+    ]
+  },
+  {
+    "id": "conj-tps-034",
+    "question": "Ki vèb ki konjige ak avoir nan pase konpoze",
+    "reponse": "Majorite vèb franse yo konjige ak avoir nan pase konpoze, eksepte vèb être, mouvman ak pwonominal yo.",
+    "tags": [
+      "avoir",
+      "majorite",
+      "passe compose",
+      "exception",
+      "avoir",
+      "majorite"
+    ]
+  },
+  {
+    "id": "conj-tps-035",
+    "question": "Qu'est-ce que l'accord du participe passé avec être",
+    "reponse": "Avec être, le participe passé s'accorde en genre et en nombre avec le sujet du verbe.",
+    "tags": [
+      "accord",
+      "participe passe",
+      "etre",
+      "sujet",
+      "akò",
+      "sijè"
+    ]
+  },
+  {
+    "id": "conj-tps-036",
+    "question": "Kisa ki akò patisip pase ak être",
+    "reponse": "Ak être, patisip pase a akòde an genr ak an nonb ak sijè vèb la.",
+    "tags": [
+      "accord",
+      "participe passe",
+      "etre",
+      "sujet",
+      "akò",
+      "sijè"
+    ]
+  },
+  {
+    "id": "conj-tps-037",
+    "question": "Qu'est-ce que l'accord du participe passé avec avoir",
+    "reponse": "Avec avoir, le participe passé s'accorde seulement si le complément d'objet direct est placé avant le verbe.",
+    "tags": [
+      "accord",
+      "participe passe",
+      "avoir",
+      "regle",
+      "akò",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-tps-038",
+    "question": "Kisa ki akò patisip pase ak avoir",
+    "reponse": "Ak avoir, patisip pase a akòde sèlman si konpleman objè dirèk la vini anvan vèb la.",
+    "tags": [
+      "accord",
+      "participe passe",
+      "avoir",
+      "regle",
+      "akò",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-tps-039",
+    "question": "Comment former le plus-que-parfait",
+    "reponse": "Le plus-que-parfait se forme avec être ou avoir à l'imparfait, suivi du participe passé du verbe.",
+    "tags": [
+      "plus-que-parfait",
+      "formation",
+      "imparfait",
+      "participe passe",
+      "fòmasyon",
+      "lenpafè"
+    ]
+  },
+  {
+    "id": "conj-tps-040",
+    "question": "Kijan pou fòme plis ke pafè a",
+    "reponse": "Plis ke pafè a fòme ak être oswa avoir nan lenpafè, swiv ak patisip pase vèb la.",
+    "tags": [
+      "plus-que-parfait",
+      "formation",
+      "imparfait",
+      "participe passe",
+      "fòmasyon",
+      "lenpafè"
+    ]
+  },
+  {
+    "id": "conj-tps-041",
+    "question": "Comment former le futur antérieur",
+    "reponse": "Le futur antérieur se forme avec être ou avoir au futur simple, suivi du participe passé du verbe.",
+    "tags": [
+      "futur anterieur",
+      "formation",
+      "futur simple",
+      "participe passe",
+      "fòmasyon",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-tps-042",
+    "question": "Kijan pou fòme fiti anteryè a",
+    "reponse": "Fiti anteryè a fòme ak être oswa avoir nan fiti senp, swiv ak patisip pase vèb la.",
+    "tags": [
+      "futur anterieur",
+      "formation",
+      "futur simple",
+      "participe passe",
+      "fòmasyon",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-tps-043",
+    "question": "Comment former le passé antérieur",
+    "reponse": "Le passé antérieur se forme avec être ou avoir au passé simple, suivi du participe passé du verbe.",
+    "tags": [
+      "passe anterieur",
+      "formation",
+      "passe simple",
+      "participe passe",
+      "fòmasyon",
+      "pase senp"
+    ]
+  },
+  {
+    "id": "conj-tps-044",
+    "question": "Kijan pou fòme pase anteryè a",
+    "reponse": "Pase anteryè a fòme ak être oswa avoir nan pase senp, swiv ak patisip pase vèb la.",
+    "tags": [
+      "passe anterieur",
+      "formation",
+      "passe simple",
+      "participe passe",
+      "fòmasyon",
+      "pase senp"
+    ]
+  },
+  {
+    "id": "conj-tps-045",
+    "question": "Qu'est-ce qu'un temps simple en conjugaison",
+    "reponse": "Un temps simple est un temps qui ne comporte qu'un seul mot, comme le présent ou l'imparfait.",
+    "tags": [
+      "temps simple",
+      "definition",
+      "un seul mot",
+      "exemple",
+      "tan senp",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-tps-046",
+    "question": "Kisa ki yon tan senp nan konjigezon",
+    "reponse": "Tan senp se yon tan ki genyen yon sèl mo, tankou prezan oswa lenpafè.",
+    "tags": [
+      "temps simple",
+      "definition",
+      "un seul mot",
+      "exemple",
+      "tan senp",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-tps-047",
+    "question": "Qu'est-ce qu'un temps composé en conjugaison",
+    "reponse": "Un temps composé est un temps formé de deux mots: un auxiliaire et un participe passé, comme le passé composé.",
+    "tags": [
+      "temps compose",
+      "definition",
+      "deux mots",
+      "auxiliaire",
+      "tan konpoze",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-tps-048",
+    "question": "Kisa ki yon tan konpoze nan konjigezon",
+    "reponse": "Tan konpoze se yon tan ki fòme ak de mo: yon oksilyè ak yon patisip pase, tankou pase konpoze.",
+    "tags": [
+      "temps compose",
+      "definition",
+      "deux mots",
+      "auxiliaire",
+      "tan konpoze",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-tps-049",
+    "question": "Qu'est-ce qu'un auxiliaire de conjugaison",
+    "reponse": "Un auxiliaire de conjugaison est le verbe être ou avoir utilisé avec un participe passé pour former un temps composé.",
+    "tags": [
+      "auxiliaire",
+      "definition",
+      "etre",
+      "avoir",
+      "oksilyè",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-tps-050",
+    "question": "Kisa ki yon oksilyè konjigezon",
+    "reponse": "Oksilyè konjigezon se vèb être oswa avoir yo itilize ak yon patisip pase pou fòme yon tan konpoze.",
+    "tags": [
+      "auxiliaire",
+      "definition",
+      "etre",
+      "avoir",
+      "oksilyè",
+      "definisyon"
+    ]
+  },
+  {
+    "id": "conj-tps-051",
+    "question": "Qu'est-ce que la concordance des temps",
+    "reponse": "La concordance des temps est la règle qui fait correspondre les temps des verbes dans une phrase selon leur relation chronologique.",
+    "tags": [
+      "concordance des temps",
+      "regle",
+      "chronologie",
+      "phrase",
+      "konkòdans",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-tps-052",
+    "question": "Kisa ki konkòdans tan yo",
+    "reponse": "Konkòdans tan yo se règ ki fè tan vèb yo koresponn nan yon fraz dapre relasyon kwonolojik yo.",
+    "tags": [
+      "concordance des temps",
+      "regle",
+      "chronologie",
+      "phrase",
+      "konkòdans",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-tps-053",
+    "question": "Pourquoi utilise-t-on l'imparfait pour décrire",
+    "reponse": "On utilise l'imparfait pour décrire parce qu'il exprime une situation ou un état sans indiquer de début ou de fin précis.",
+    "tags": [
+      "imparfait",
+      "description",
+      "situation",
+      "usage",
+      "lenpafè",
+      "dekri"
+    ]
+  },
+  {
+    "id": "conj-tps-054",
+    "question": "Poukisa yo itilize lenpafè pou dekri",
+    "reponse": "Yo itilize lenpafè pou dekri paske li eksprime yon sitiyasyon oswa yon eta san montre kòmansman oswa fen presi.",
+    "tags": [
+      "imparfait",
+      "description",
+      "situation",
+      "usage",
+      "lenpafè",
+      "dekri"
+    ]
+  },
+  {
+    "id": "conj-tps-055",
+    "question": "Pourquoi utilise-t-on le passé composé pour une action ponctuelle",
+    "reponse": "On utilise le passé composé pour une action ponctuelle car il indique un événement précis, avec un début et une fin clairs.",
+    "tags": [
+      "passe compose",
+      "action ponctuelle",
+      "usage",
+      "evenement",
+      "pase konpoze",
+      "evènman"
+    ]
+  },
+  {
+    "id": "conj-tps-056",
+    "question": "Poukisa yo itilize pase konpoze pou yon aksyon ponktyèl",
+    "reponse": "Yo itilize pase konpoze pou yon aksyon ponktyèl paske li montre yon evènman presi, ak yon kòmansman ak yon fen klè.",
+    "tags": [
+      "passe compose",
+      "action ponctuelle",
+      "usage",
+      "evenement",
+      "pase konpoze",
+      "evènman"
+    ]
+  },
+  {
+    "id": "conj-tps-057",
+    "question": "Comment conjuguer un verbe au présent de l'indicatif en général",
+    "reponse": "En général, on conjugue un verbe au présent en ajoutant les terminaisons correspondant à son groupe sur le radical du verbe.",
+    "tags": [
+      "conjugaison",
+      "present",
+      "regle generale",
+      "radical",
+      "konjigezon",
+      "règ jeneral"
+    ]
+  },
+  {
+    "id": "conj-tps-058",
+    "question": "Kijan pou konjige yon vèb nan prezan lendikatif an jeneral",
+    "reponse": "An jeneral, yo konjige yon vèb nan prezan lè yo ajoute finisman ki koresponn ak gwoup li sou rasin vèb la.",
+    "tags": [
+      "conjugaison",
+      "present",
+      "regle generale",
+      "radical",
+      "konjigezon",
+      "règ jeneral"
+    ]
+  },
+  {
+    "id": "conj-tps-059",
+    "question": "Quelle est la terminaison du futur simple pour tous les verbes",
+    "reponse": "Pour presque tous les verbes, les terminaisons du futur simple sont -ai, -as, -a, -ons, -ez, -ont, ajoutées à l'infinitif.",
+    "tags": [
+      "futur simple",
+      "terminaisons",
+      "regle generale",
+      "tous les verbes",
+      "fiti senp",
+      "règ jeneral"
+    ]
+  },
+  {
+    "id": "conj-tps-060",
+    "question": "Ki finisman fiti senp la pou tout vèb yo",
+    "reponse": "Pou prèske tout vèb yo, finisman fiti senp la se -ai, -as, -a, -ons, -ez, -ont, ki ajoute sou enfinitif la.",
+    "tags": [
+      "futur simple",
+      "terminaisons",
+      "regle generale",
+      "tous les verbes",
+      "fiti senp",
+      "règ jeneral"
+    ]
+  },
+  {
+    "id": "conj-tps-061",
+    "question": "Comment reconnaître le radical du futur simple",
+    "reponse": "Le radical du futur simple correspond généralement à l'infinitif du verbe, parfois modifié pour les verbes irréguliers.",
+    "tags": [
+      "radical",
+      "futur simple",
+      "infinitif",
+      "irregulier",
+      "rasin",
+      "modifye"
+    ]
+  },
+  {
+    "id": "conj-tps-062",
+    "question": "Kijan pou rekonèt rasin fiti senp la",
+    "reponse": "Rasin fiti senp la koresponn an jeneral ak enfinitif vèb la, pafwa modifye pou vèb iregilye yo.",
+    "tags": [
+      "radical",
+      "futur simple",
+      "infinitif",
+      "irregulier",
+      "rasin",
+      "modifye"
+    ]
+  },
+  {
+    "id": "conj-tps-063",
+    "question": "Qu'est-ce que le présent de narration",
+    "reponse": "Le présent de narration est l'emploi du présent pour raconter des faits passés, afin de rendre le récit plus vivant.",
+    "tags": [
+      "present de narration",
+      "recit",
+      "style",
+      "vivant",
+      "prezan naratif",
+      "istwa"
+    ]
+  },
+  {
+    "id": "conj-tps-064",
+    "question": "Kisa ki prezan naratif la",
+    "reponse": "Prezan naratif la se lè yo itilize prezan pou rakonte fè ki pase, pou fè istwa a parèt pi vivan.",
+    "tags": [
+      "present de narration",
+      "recit",
+      "style",
+      "vivant",
+      "prezan naratif",
+      "istwa"
+    ]
+  },
+  {
+    "id": "conj-tps-065",
+    "question": "Qu'est-ce qu'un verbe au présent d'habitude",
+    "reponse": "Un verbe au présent d'habitude exprime une action qui se répète régulièrement, comme une routine quotidienne.",
+    "tags": [
+      "present d'habitude",
+      "routine",
+      "repetition",
+      "usage",
+      "prezan abitid",
+      "woutin"
+    ]
+  },
+  {
+    "id": "conj-tps-066",
+    "question": "Kisa ki yon vèb nan prezan abitid",
+    "reponse": "Yon vèb nan prezan abitid eksprime yon aksyon ki repete regilyèman, tankou yon woutin chak jou.",
+    "tags": [
+      "present d'habitude",
+      "routine",
+      "repetition",
+      "usage",
+      "prezan abitid",
+      "woutin"
+    ]
+  },
+  {
+    "id": "conj-tps-067",
+    "question": "Comment exprimer une action future proche",
+    "reponse": "On exprime une action future proche avec le futur proche, formé du verbe aller au présent suivi de l'infinitif.",
+    "tags": [
+      "futur proche",
+      "expression",
+      "aller",
+      "usage",
+      "fiti pwòch",
+      "talè"
+    ]
+  },
+  {
+    "id": "conj-tps-068",
+    "question": "Kijan pou eksprime yon aksyon ki pral fèt talè",
+    "reponse": "Yo eksprime yon aksyon ki pral fèt talè ak fiti pwòch la, ki fòme ak vèb aller nan prezan swiv ak enfinitif.",
+    "tags": [
+      "futur proche",
+      "expression",
+      "aller",
+      "usage",
+      "fiti pwòch",
+      "talè"
+    ]
+  },
+  {
+    "id": "conj-tps-069",
+    "question": "Comment exprimer une action passée récente",
+    "reponse": "On exprime une action passée récente avec le passé récent, formé du verbe venir de au présent suivi de l'infinitif.",
+    "tags": [
+      "passe recent",
+      "expression",
+      "venir de",
+      "usage",
+      "pase resan",
+      "fèk fèt"
+    ]
+  },
+  {
+    "id": "conj-tps-070",
+    "question": "Kijan pou eksprime yon aksyon ki fèk fèt",
+    "reponse": "Yo eksprime yon aksyon ki fèk fèt ak pase resan an, ki fòme ak vèb venir de nan prezan swiv ak enfinitif.",
+    "tags": [
+      "passe recent",
+      "expression",
+      "venir de",
+      "usage",
+      "pase resan",
+      "fèk fèt"
+    ]
+  },
+  {
+    "id": "conj-tps-071",
+    "question": "Qu'est-ce qu'une phrase au discours indirect",
+    "reponse": "Une phrase au discours indirect rapporte les paroles de quelqu'un sans les citer directement, ce qui modifie souvent les temps verbaux.",
+    "tags": [
+      "discours indirect",
+      "paroles",
+      "modification",
+      "temps",
+      "diskou endirèk",
+      "chanje"
+    ]
+  },
+  {
+    "id": "conj-tps-072",
+    "question": "Kisa ki yon fraz nan diskou endirèk",
+    "reponse": "Yon fraz nan diskou endirèk rapòte pawòl yon moun san site yo dirèkteman, sa souvan chanje tan vèb yo.",
+    "tags": [
+      "discours indirect",
+      "paroles",
+      "modification",
+      "temps",
+      "diskou endirèk",
+      "chanje"
+    ]
+  },
+  {
+    "id": "conj-tps-073",
+    "question": "Quelle différence y a-t-il entre il a fini et il finissait",
+    "reponse": "Il a fini exprime une action achevée et précise, tandis que il finissait décrit une action en cours dans le passé, sans fin marquée.",
+    "tags": [
+      "difference",
+      "passe compose",
+      "imparfait",
+      "exemple",
+      "diferans",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "conj-tps-074",
+    "question": "Ki diferans ki genyen ant il a fini ak il finissait",
+    "reponse": "Il a fini eksprime yon aksyon ki fini presi, pandan il finissait dekri yon aksyon ki t ap fèt nan tan pase, san fen make.",
+    "tags": [
+      "difference",
+      "passe compose",
+      "imparfait",
+      "exemple",
+      "diferans",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "conj-tps-075",
+    "question": "Comment utiliser le plus-que-parfait dans un récit",
+    "reponse": "Dans un récit, on utilise le plus-que-parfait pour expliquer un fait antérieur à l'action principale racontée au passé.",
+    "tags": [
+      "plus-que-parfait",
+      "recit",
+      "usage",
+      "anteriorite",
+      "plis ke pafè",
+      "istwa"
+    ]
+  },
+  {
+    "id": "conj-tps-076",
+    "question": "Kijan pou itilize plis ke pafè a nan yon istwa",
+    "reponse": "Nan yon istwa, yo itilize plis ke pafè a pou eksplike yon fè ki te rive anvan aksyon prensipal la rakonte nan tan pase.",
+    "tags": [
+      "plus-que-parfait",
+      "recit",
+      "usage",
+      "anteriorite",
+      "plis ke pafè",
+      "istwa"
+    ]
+  },
+  {
+    "id": "conj-tps-077",
+    "question": "Qu'est-ce que l'indicatif présent de vérité générale",
+    "reponse": "Le présent de vérité générale exprime un fait toujours vrai, scientifique ou universel, comme l'eau bout à 100 degrés.",
+    "tags": [
+      "verite generale",
+      "present",
+      "scientifique",
+      "universel",
+      "verite jeneral",
+      "syantifik"
+    ]
+  },
+  {
+    "id": "conj-tps-078",
+    "question": "Kisa ki prezan verite jeneral la",
+    "reponse": "Prezan verite jeneral la eksprime yon fè ki toujou vre, syantifik oswa inivèsèl, tankou dlo bouyi a 100 degre.",
+    "tags": [
+      "verite generale",
+      "present",
+      "scientifique",
+      "universel",
+      "verite jeneral",
+      "syantifik"
+    ]
+  },
+  {
+    "id": "conj-tps-079",
+    "question": "Comment conjuguer les verbes pronominaux au passé composé",
+    "reponse": "Les verbes pronominaux se conjuguent avec être au passé composé: je me suis lavé, tu t'es lavé, il s'est lavé.",
+    "tags": [
+      "pronominaux",
+      "passe compose",
+      "etre",
+      "conjugaison",
+      "pwonominal",
+      "être"
+    ]
+  },
+  {
+    "id": "conj-tps-080",
+    "question": "Kijan pou konjige vèb pwonominal yo nan pase konpoze",
+    "reponse": "Vèb pwonominal yo konjige ak être nan pase konpoze: je me suis lavé, tu t'es lavé, il s'est lavé.",
+    "tags": [
+      "pronominaux",
+      "passe compose",
+      "etre",
+      "conjugaison",
+      "pwonominal",
+      "être"
+    ]
+  },
+  {
+    "id": "conj-tps-081",
+    "question": "Pourquoi l'auxiliaire être s'accorde-t-il avec le sujet",
+    "reponse": "L'auxiliaire être demande un accord avec le sujet car le participe passé fonctionne alors comme un adjectif qualifiant ce sujet.",
+    "tags": [
+      "etre",
+      "accord",
+      "sujet",
+      "adjectif",
+      "être",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-tps-082",
+    "question": "Poukisa oksilyè être a akòde ak sijè a",
+    "reponse": "Oksilyè être a mande yon akò ak sijè a paske patisip pase a fonksyone lè sa a tankou yon adjektif ki kalifye sijè a.",
+    "tags": [
+      "etre",
+      "accord",
+      "sujet",
+      "adjectif",
+      "être",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-tps-083",
+    "question": "Quelle règle s'applique aux verbes comme monter, descendre ou sortir",
+    "reponse": "Les verbes comme monter, descendre ou sortir se conjuguent avec être sans complément d'objet, mais avec avoir quand ils ont un complément.",
+    "tags": [
+      "monter",
+      "descendre",
+      "sortir",
+      "double auxiliaire",
+      "règ",
+      "konpleman"
+    ]
+  },
+  {
+    "id": "conj-tps-084",
+    "question": "Ki règ ki aplike pou vèb tankou monter, descendre oswa sortir",
+    "reponse": "Vèb tankou monter, descendre oswa sortir konjige ak être san konpleman objè, men ak avoir lè yo gen yon konpleman.",
+    "tags": [
+      "monter",
+      "descendre",
+      "sortir",
+      "double auxiliaire",
+      "règ",
+      "konpleman"
+    ]
+  },
+  {
+    "id": "conj-tps-085",
+    "question": "Qu'est-ce qu'un verbe transitif dans le choix de l'auxiliaire",
+    "reponse": "Un verbe transitif est un verbe qui a un complément d'objet direct, ce qui influence souvent le choix de l'auxiliaire avoir.",
+    "tags": [
+      "verbe transitif",
+      "complement",
+      "auxiliaire",
+      "choix",
+      "transitif",
+      "konpleman"
+    ]
+  },
+  {
+    "id": "conj-tps-086",
+    "question": "Kisa ki yon vèb transitif nan chwa oksilyè a",
+    "reponse": "Yon vèb transitif se yon vèb ki gen yon konpleman objè dirèk, sa souvan enfliyanse chwa oksilyè avoir.",
+    "tags": [
+      "verbe transitif",
+      "complement",
+      "auxiliaire",
+      "choix",
+      "transitif",
+      "konpleman"
+    ]
+  },
+  {
+    "id": "conj-tps-087",
+    "question": "Comment former le passé composé des verbes pronominaux",
+    "reponse": "On forme le passé composé des verbes pronominaux avec être, précédé du pronom réfléchi correspondant au sujet.",
+    "tags": [
+      "pronominaux",
+      "passe compose",
+      "formation",
+      "pronom reflechi",
+      "pwonominal",
+      "pwonon"
+    ]
+  },
+  {
+    "id": "conj-tps-088",
+    "question": "Kijan pou fòme pase konpoze vèb pwonominal yo",
+    "reponse": "Yo fòme pase konpoze vèb pwonominal yo ak être, ki vini apre pwonon refleksif ki koresponn ak sijè a.",
+    "tags": [
+      "pronominaux",
+      "passe compose",
+      "formation",
+      "pronom reflechi",
+      "pwonominal",
+      "pwonon"
+    ]
+  },
+  {
+    "id": "conj-tps-089",
+    "question": "Quelle est la valeur du futur simple pour donner un ordre",
+    "reponse": "Le futur simple peut avoir une valeur d'ordre atténué, comme dans vous finirez ce travail pour demain.",
+    "tags": [
+      "futur simple",
+      "ordre",
+      "valeur",
+      "usage",
+      "fiti senp",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-tps-090",
+    "question": "Ki valè fiti senp la genyen pou bay yon lòd",
+    "reponse": "Fiti senp la ka gen yon valè lòd ki pa two di, tankou nan vous finirez ce travail pour demain.",
+    "tags": [
+      "futur simple",
+      "ordre",
+      "valeur",
+      "usage",
+      "fiti senp",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-tps-091",
+    "question": "Quelle est la valeur de l'imparfait pour une politesse",
+    "reponse": "L'imparfait peut exprimer une demande polie et atténuée, comme dans je voulais vous demander un service.",
+    "tags": [
+      "imparfait",
+      "politesse",
+      "valeur",
+      "usage",
+      "lenpafè",
+      "politès"
+    ]
+  },
+  {
+    "id": "conj-tps-092",
+    "question": "Ki valè lenpafè a genyen pou politès",
+    "reponse": "Lenpafè a ka eksprime yon demann ki politès ak dous, tankou nan je voulais vous demander un service.",
+    "tags": [
+      "imparfait",
+      "politesse",
+      "valeur",
+      "usage",
+      "lenpafè",
+      "politès"
+    ]
+  },
+  {
+    "id": "conj-tps-093",
+    "question": "Comment distinguer le présent de l'indicatif et le présent du subjonctif",
+    "reponse": "On distingue les deux présents en observant le contexte: le subjonctif suit souvent que et exprime un doute ou un souhait.",
+    "tags": [
+      "indicatif",
+      "subjonctif",
+      "distinction",
+      "contexte",
+      "distenge",
+      "kontèks"
+    ]
+  },
+  {
+    "id": "conj-tps-094",
+    "question": "Kijan pou distenge prezan lendikatif ak prezan sibjonktif",
+    "reponse": "Yo distenge de prezan yo lè yo obsève kontèks la: sibjonktif la souvan swiv que epi li eksprime yon dout oswa yon swa.",
+    "tags": [
+      "indicatif",
+      "subjonctif",
+      "distinction",
+      "contexte",
+      "distenge",
+      "kontèks"
+    ]
+  },
+  {
+    "id": "conj-tps-095",
+    "question": "Qu'est-ce que le futur dans le passé",
+    "reponse": "Le futur dans le passé exprime une action future vue depuis un point de vue passé, et se forme comme le conditionnel présent.",
+    "tags": [
+      "futur dans le passe",
+      "conditionnel",
+      "point de vue",
+      "usage",
+      "fiti nan pase",
+      "pwen de vi"
+    ]
+  },
+  {
+    "id": "conj-tps-096",
+    "question": "Kisa ki fiti nan pase a",
+    "reponse": "Fiti nan pase a eksprime yon aksyon nan avni men ki wè depi yon pwen de vi nan pase, epi li fòme tankou kondisyonèl prezan.",
+    "tags": [
+      "futur dans le passe",
+      "conditionnel",
+      "point de vue",
+      "usage",
+      "fiti nan pase",
+      "pwen de vi"
+    ]
+  },
+  {
+    "id": "conj-tps-097",
+    "question": "Résume les principaux temps de l'indicatif en français",
+    "reponse": "Les principaux temps de l'indicatif en français sont le présent, l'imparfait, le passé composé, le passé simple, le plus-que-parfait et le futur simple.",
+    "tags": [
+      "resume",
+      "temps",
+      "indicatif",
+      "recapitulatif",
+      "rezime",
+      "tan"
+    ]
+  },
+  {
+    "id": "conj-tps-098",
+    "question": "Fè yon rezime prensipal tan lendikatif nan franse",
+    "reponse": "Prensipal tan lendikatif nan franse se prezan, lenpafè, pase konpoze, pase senp, plis ke pafè ak fiti senp.",
+    "tags": [
+      "resume",
+      "temps",
+      "indicatif",
+      "recapitulatif",
+      "rezime",
+      "tan"
+    ]
+  },
+  {
+    "id": "conj-tps-099",
+    "question": "Quelle est la valeur du présent pour une action habituelle",
+    "reponse": "Le présent exprime une action habituelle quand il décrit quelque chose qui se répète régulièrement, comme je me lève à six heures.",
+    "tags": [
+      "present",
+      "habitude",
+      "valeur",
+      "usage",
+      "prezan",
+      "abityèl"
+    ]
+  },
+  {
+    "id": "conj-tps-100",
+    "question": "Ki valè prezan an genyen pou yon aksyon abityèl",
+    "reponse": "Prezan an eksprime yon aksyon abityèl lè l dekri yon bagay ki repete regilyèman, tankou je me lève à six heures.",
+    "tags": [
+      "present",
+      "habitude",
+      "valeur",
+      "usage",
+      "prezan",
+      "abityèl"
+    ]
+  }
+]

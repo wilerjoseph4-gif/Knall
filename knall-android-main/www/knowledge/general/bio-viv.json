@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "bio-viv-001",
+    "question": "Qu'est-ce que la taxonomie",
+    "reponse": "La taxonomie est la science qui classe les êtres vivants en groupes selon leurs caractéristiques communes.",
+    "tags": [
+      "taxonomie",
+      "classification",
+      "especes",
+      "science",
+      "taksonomi",
+      "klase"
+    ]
+  },
+  {
+    "id": "bio-viv-002",
+    "question": "Kisa ki taksonomi a",
+    "reponse": "Taksonomi se syans ki klase bagay vivan yo nan gwoup selon karakteristik yo genyen ansanm.",
+    "tags": [
+      "taxonomie",
+      "classification",
+      "especes",
+      "science",
+      "taksonomi",
+      "klase"
+    ]
+  },
+  {
+    "id": "bio-viv-003",
+    "question": "Qu'est-ce que le règne animal",
+    "reponse": "Le règne animal regroupe tous les organismes vivants capables de se déplacer et de se nourrir d'autres êtres vivants.",
+    "tags": [
+      "regne animal",
+      "organismes",
+      "deplacement",
+      "alimentation",
+      "rèy animal",
+      "deplase"
+    ]
+  },
+  {
+    "id": "bio-viv-004",
+    "question": "Kisa ki rèy animal la",
+    "reponse": "Rèy animal la gwoupe tout òganis vivan ki kapab deplase epi manje lòt bagay vivan.",
+    "tags": [
+      "regne animal",
+      "organismes",
+      "deplacement",
+      "alimentation",
+      "rèy animal",
+      "deplase"
+    ]
+  },
+  {
+    "id": "bio-viv-005",
+    "question": "Qu'est-ce que le règne végétal",
+    "reponse": "Le règne végétal regroupe tous les organismes capables de fabriquer leur propre nourriture par photosynthèse, comme les plantes.",
+    "tags": [
+      "regne vegetal",
+      "plantes",
+      "photosynthese",
+      "organismes",
+      "rèy vejetal",
+      "plant"
+    ]
+  },
+  {
+    "id": "bio-viv-006",
+    "question": "Kisa ki rèy vejetal la",
+    "reponse": "Rèy vejetal la gwoupe tout òganis ki kapab fè manje pa yo atravè fotosentèz, tankou plant yo.",
+    "tags": [
+      "regne vegetal",
+      "plantes",
+      "photosynthese",
+      "organismes",
+      "rèy vejetal",
+      "plant"
+    ]
+  },
+  {
+    "id": "bio-viv-007",
+    "question": "Qu'est-ce que le règne des champignons",
+    "reponse": "Le règne des champignons regroupe les organismes qui se nourrissent en absorbant des matières organiques, différents des plantes et des animaux.",
+    "tags": [
+      "regne des champignons",
+      "absorption",
+      "organismes",
+      "distinct",
+      "rèy chanpiyon",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "bio-viv-008",
+    "question": "Kisa ki rèy chanpiyon an",
+    "reponse": "Rèy chanpiyon an gwoupe òganis ki manje lè yo absòbe matyè òganik, diferan de plant ak bèt.",
+    "tags": [
+      "regne des champignons",
+      "absorption",
+      "organismes",
+      "distinct",
+      "rèy chanpiyon",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "bio-viv-009",
+    "question": "Qu'est-ce que le règne des bactéries",
+    "reponse": "Le règne des bactéries regroupe des organismes unicellulaires simples, sans noyau, présents partout dans la nature.",
+    "tags": [
+      "regne des bacteries",
+      "unicellulaire",
+      "sans noyau",
+      "nature",
+      "rèy bakteri",
+      "inisèlilè"
+    ]
+  },
+  {
+    "id": "bio-viv-010",
+    "question": "Kisa ki rèy bakteri a",
+    "reponse": "Rèy bakteri a gwoupe òganis ki gen yon sèl selil senp, san nwayo, ki prezan tout kote nan lanati.",
+    "tags": [
+      "regne des bacteries",
+      "unicellulaire",
+      "sans noyau",
+      "nature",
+      "rèy bakteri",
+      "inisèlilè"
+    ]
+  },
+  {
+    "id": "bio-viv-011",
+    "question": "Qu'est-ce que le règne des protistes",
+    "reponse": "Le règne des protistes regroupe des organismes simples, souvent unicellulaires, qui ne font partie ni des animaux, ni des plantes, ni des champignons.",
+    "tags": [
+      "regne des protistes",
+      "unicellulaire",
+      "simple",
+      "classification",
+      "rèy pwotist",
+      "senp"
+    ]
+  },
+  {
+    "id": "bio-viv-012",
+    "question": "Kisa ki rèy pwotist la",
+    "reponse": "Rèy pwotist la gwoupe òganis senp, souvan ak yon sèl selil, ki pa fè pati ni bèt, ni plant, ni chanpiyon.",
+    "tags": [
+      "regne des protistes",
+      "unicellulaire",
+      "simple",
+      "classification",
+      "rèy pwotist",
+      "senp"
+    ]
+  },
+  {
+    "id": "bio-viv-013",
+    "question": "Comment classe-t-on les espèces en biologie",
+    "reponse": "On classe les espèces en biologie selon une hiérarchie allant du règne jusqu'à l'espèce, en passant par la famille et le genre.",
+    "tags": [
+      "classification",
+      "hierarchie",
+      "regne",
+      "espece",
+      "klase",
+      "yerachi"
+    ]
+  },
+  {
+    "id": "bio-viv-014",
+    "question": "Kijan yo klase espès yo nan byoloji",
+    "reponse": "Yo klase espès yo nan byoloji dapre yon lis ki ale soti nan rèy la rive nan espès la, pase pa fanmiy ak genr.",
+    "tags": [
+      "classification",
+      "hierarchie",
+      "regne",
+      "espece",
+      "klase",
+      "yerachi"
+    ]
+  },
+  {
+    "id": "bio-viv-015",
+    "question": "Qu'est-ce qu'une espèce en taxonomie",
+    "reponse": "En taxonomie, une espèce est la plus petite unité de classification, regroupant des individus capables de se reproduire entre eux.",
+    "tags": [
+      "espece",
+      "classification",
+      "unite",
+      "reproduction",
+      "espès",
+      "inite"
+    ]
+  },
+  {
+    "id": "bio-viv-016",
+    "question": "Kisa ki yon espès nan taksonomi",
+    "reponse": "Nan taksonomi, espès se pi piti inite klasifikasyon an, li gwoupe moun ki kapab repwodui youn ak lòt.",
+    "tags": [
+      "espece",
+      "classification",
+      "unite",
+      "reproduction",
+      "espès",
+      "inite"
+    ]
+  },
+  {
+    "id": "bio-viv-017",
+    "question": "Qu'est-ce qu'un genre en biologie",
+    "reponse": "En biologie, un genre est un groupe d'espèces qui partagent des caractéristiques très proches.",
+    "tags": [
+      "genre",
+      "especes",
+      "classification",
+      "caracteristiques",
+      "genr",
+      "pataje"
+    ]
+  },
+  {
+    "id": "bio-viv-018",
+    "question": "Kisa ki yon genr nan byoloji",
+    "reponse": "Nan byoloji, genr se yon gwoup espès ki pataje karakteristik ki trè pwòch.",
+    "tags": [
+      "genre",
+      "especes",
+      "classification",
+      "caracteristiques",
+      "genr",
+      "pataje"
+    ]
+  },
+  {
+    "id": "bio-viv-019",
+    "question": "Qu'est-ce qu'une famille en biologie",
+    "reponse": "En biologie, une famille est un groupe de genres qui partagent des caractéristiques communes plus larges.",
+    "tags": [
+      "famille",
+      "genres",
+      "classification",
+      "caracteristiques",
+      "fanmiy",
+      "komen"
+    ]
+  },
+  {
+    "id": "bio-viv-020",
+    "question": "Kisa ki yon fanmiy nan byoloji",
+    "reponse": "Nan byoloji, fanmiy se yon gwoup genr ki pataje karakteristik komen ki pi laj.",
+    "tags": [
+      "famille",
+      "genres",
+      "classification",
+      "caracteristiques",
+      "fanmiy",
+      "komen"
+    ]
+  },
+  {
+    "id": "bio-viv-021",
+    "question": "Qu'est-ce qu'un phylum",
+    "reponse": "Un phylum est une grande catégorie de classification regroupant des organismes ayant un plan d'organisation corporel similaire.",
+    "tags": [
+      "phylum",
+      "classification",
+      "organismes",
+      "categorie",
+      "filòm",
+      "òganize"
+    ]
+  },
+  {
+    "id": "bio-viv-022",
+    "question": "Kisa ki yon filòm",
+    "reponse": "Filòm se yon gwo kategori klasifikasyon ki gwoupe òganis ki gen yon menm fason kò yo òganize.",
+    "tags": [
+      "phylum",
+      "classification",
+      "organismes",
+      "categorie",
+      "filòm",
+      "òganize"
+    ]
+  },
+  {
+    "id": "bio-viv-023",
+    "question": "Qu'est-ce qu'un vertébré",
+    "reponse": "Un vertébré est un animal qui possède une colonne vertébrale, comme les poissons, les oiseaux et les mammifères.",
+    "tags": [
+      "vertebre",
+      "colonne vertebrale",
+      "animal",
+      "classification",
+      "vètebre",
+      "zo rèl do"
+    ]
+  },
+  {
+    "id": "bio-viv-024",
+    "question": "Kisa ki yon vètebre",
+    "reponse": "Vètebre se yon bèt ki gen yon zo rèl do, tankou pwason, zwazo ak mamifè.",
+    "tags": [
+      "vertebre",
+      "colonne vertebrale",
+      "animal",
+      "classification",
+      "vètebre",
+      "zo rèl do"
+    ]
+  },
+  {
+    "id": "bio-viv-025",
+    "question": "Qu'est-ce qu'un invertébré",
+    "reponse": "Un invertébré est un animal sans colonne vertébrale, comme les insectes, les vers et les mollusques.",
+    "tags": [
+      "invertebre",
+      "sans colonne",
+      "animal",
+      "insectes",
+      "envètebre",
+      "vè"
+    ]
+  },
+  {
+    "id": "bio-viv-026",
+    "question": "Kisa ki yon envètebre",
+    "reponse": "Envètebre se yon bèt ki pa gen zo rèl do, tankou ensèk, vè ak molisk.",
+    "tags": [
+      "invertebre",
+      "sans colonne",
+      "animal",
+      "insectes",
+      "envètebre",
+      "vè"
+    ]
+  },
+  {
+    "id": "bio-viv-027",
+    "question": "Qu'est-ce qu'un mammifère",
+    "reponse": "Un mammifère est un animal à sang chaud qui allaite ses petits et possède généralement des poils.",
+    "tags": [
+      "mammifere",
+      "sang chaud",
+      "allaitement",
+      "poils",
+      "mamifè",
+      "tete"
+    ]
+  },
+  {
+    "id": "bio-viv-028",
+    "question": "Kisa ki yon mamifè",
+    "reponse": "Mamifè se yon bèt ki gen san cho, ki bay pitit li tete epi ki gen plim an jeneral.",
+    "tags": [
+      "mammifere",
+      "sang chaud",
+      "allaitement",
+      "poils",
+      "mamifè",
+      "tete"
+    ]
+  },
+  {
+    "id": "bio-viv-029",
+    "question": "Qu'est-ce qu'un oiseau",
+    "reponse": "Un oiseau est un animal à sang chaud couvert de plumes, possédant des ailes et pondant des œufs.",
+    "tags": [
+      "oiseau",
+      "plumes",
+      "ailes",
+      "oeufs",
+      "zwazo",
+      "plim"
+    ]
+  },
+  {
+    "id": "bio-viv-030",
+    "question": "Kisa ki yon zwazo",
+    "reponse": "Zwazo se yon bèt ki gen san cho, kouvri ak plim, ki gen zèl epi ki ponn ze.",
+    "tags": [
+      "oiseau",
+      "plumes",
+      "ailes",
+      "oeufs",
+      "zwazo",
+      "plim"
+    ]
+  },
+  {
+    "id": "bio-viv-031",
+    "question": "Qu'est-ce qu'un reptile",
+    "reponse": "Un reptile est un animal à sang froid, couvert d'écailles, qui pond généralement des œufs, comme le serpent ou le lézard.",
+    "tags": [
+      "reptile",
+      "sang froid",
+      "ecailles",
+      "oeufs",
+      "reptil",
+      "kal"
+    ]
+  },
+  {
+    "id": "bio-viv-032",
+    "question": "Kisa ki yon reptil",
+    "reponse": "Reptil se yon bèt ki gen san frèt, kouvri ak kal, ki ponn ze an jeneral, tankou koulèv oswa zandolit.",
+    "tags": [
+      "reptile",
+      "sang froid",
+      "ecailles",
+      "oeufs",
+      "reptil",
+      "kal"
+    ]
+  },
+  {
+    "id": "bio-viv-033",
+    "question": "Qu'est-ce qu'un amphibien",
+    "reponse": "Un amphibien est un animal capable de vivre à la fois dans l'eau et sur terre, comme la grenouille.",
+    "tags": [
+      "amphibien",
+      "eau",
+      "terre",
+      "grenouille",
+      "anfibyen",
+      "krapo"
+    ]
+  },
+  {
+    "id": "bio-viv-034",
+    "question": "Kisa ki yon anfibyen",
+    "reponse": "Anfibyen se yon bèt ki kapab viv ni nan dlo ni sou tè, tankou krapo a.",
+    "tags": [
+      "amphibien",
+      "eau",
+      "terre",
+      "grenouille",
+      "anfibyen",
+      "krapo"
+    ]
+  },
+  {
+    "id": "bio-viv-035",
+    "question": "Qu'est-ce qu'un poisson",
+    "reponse": "Un poisson est un animal aquatique à sang froid qui respire grâce à des branchies et se déplace grâce à des nageoires.",
+    "tags": [
+      "poisson",
+      "branchies",
+      "nageoires",
+      "aquatique",
+      "pwason",
+      "brankis"
+    ]
+  },
+  {
+    "id": "bio-viv-036",
+    "question": "Kisa ki yon pwason",
+    "reponse": "Pwason se yon bèt dlo ki gen san frèt, ki respire ak brankis epi ki deplase ak najwa.",
+    "tags": [
+      "poisson",
+      "branchies",
+      "nageoires",
+      "aquatique",
+      "pwason",
+      "brankis"
+    ]
+  },
+  {
+    "id": "bio-viv-037",
+    "question": "Qu'est-ce qu'un insecte",
+    "reponse": "Un insecte est un petit animal invertébré avec six pattes, un corps divisé en trois parties et souvent des ailes.",
+    "tags": [
+      "insecte",
+      "six pattes",
+      "invertebre",
+      "corps",
+      "ensèk",
+      "sis pye"
+    ]
+  },
+  {
+    "id": "bio-viv-038",
+    "question": "Kisa ki yon ensèk",
+    "reponse": "Ensèk se yon ti bèt san zo rèl do ki gen sis pye, kò li divize an twa pati epi souvan li gen zèl.",
+    "tags": [
+      "insecte",
+      "six pattes",
+      "invertebre",
+      "corps",
+      "ensèk",
+      "sis pye"
+    ]
+  },
+  {
+    "id": "bio-viv-039",
+    "question": "Qu'est-ce qu'un arachnide",
+    "reponse": "Un arachnide est un animal invertébré à huit pattes, comme l'araignée ou le scorpion.",
+    "tags": [
+      "arachnide",
+      "huit pattes",
+      "araignee",
+      "scorpion",
+      "araknid",
+      "uit pye"
+    ]
+  },
+  {
+    "id": "bio-viv-040",
+    "question": "Kisa ki yon araknid",
+    "reponse": "Araknid se yon bèt san zo rèl do ki gen uit pye, tankou arenyen oswa eskòpyon.",
+    "tags": [
+      "arachnide",
+      "huit pattes",
+      "araignee",
+      "scorpion",
+      "araknid",
+      "uit pye"
+    ]
+  },
+  {
+    "id": "bio-viv-041",
+    "question": "Qu'est-ce qu'un parasite en microbiologie",
+    "reponse": "Un parasite est un organisme qui vit aux dépens d'un autre être vivant, souvent en lui causant du tort.",
+    "tags": [
+      "parasite",
+      "organisme",
+      "hote",
+      "nuisible",
+      "parazit",
+      "mal"
+    ]
+  },
+  {
+    "id": "bio-viv-042",
+    "question": "Kisa ki yon parazit nan mikwobyoloji",
+    "reponse": "Parazit se yon òganis ki viv sou kont yon lòt bagay vivan, souvan sa fè lòt la mal.",
+    "tags": [
+      "parasite",
+      "organisme",
+      "hote",
+      "nuisible",
+      "parazit",
+      "mal"
+    ]
+  },
+  {
+    "id": "bio-viv-043",
+    "question": "Qu'est-ce qu'un antibiotique",
+    "reponse": "Un antibiotique est un médicament qui combat les infections causées par des bactéries, mais qui n'agit pas contre les virus.",
+    "tags": [
+      "antibiotique",
+      "bacteries",
+      "infection",
+      "medicament",
+      "antibyotik",
+      "konbat"
+    ]
+  },
+  {
+    "id": "bio-viv-044",
+    "question": "Kisa ki yon antibyotik",
+    "reponse": "Antibyotik se yon medikaman ki konbat enfeksyon bakteri koze, men li pa aji kont viris.",
+    "tags": [
+      "antibiotique",
+      "bacteries",
+      "infection",
+      "medicament",
+      "antibyotik",
+      "konbat"
+    ]
+  },
+  {
+    "id": "bio-viv-045",
+    "question": "Qu'est-ce qu'un vaccin",
+    "reponse": "Un vaccin est une préparation qui entraîne le système immunitaire à reconnaître et combattre un microbe précis.",
+    "tags": [
+      "vaccin",
+      "systeme immunitaire",
+      "microbe",
+      "prevention",
+      "vaksen",
+      "antrene"
+    ]
+  },
+  {
+    "id": "bio-viv-046",
+    "question": "Kisa ki yon vaksen",
+    "reponse": "Vaksen se yon preparasyon ki antrene sistèm iminitè a pou l rekonèt epi konbat yon mikwòb presi.",
+    "tags": [
+      "vaccin",
+      "systeme immunitaire",
+      "microbe",
+      "prevention",
+      "vaksen",
+      "antrene"
+    ]
+  },
+  {
+    "id": "bio-viv-047",
+    "question": "Qu'est-ce qu'une infection",
+    "reponse": "Une infection est l'invasion du corps par un agent pathogène, comme une bactérie, un virus ou un champignon.",
+    "tags": [
+      "infection",
+      "agent pathogene",
+      "bacterie",
+      "virus",
+      "enfeksyon",
+      "anvayi"
+    ]
+  },
+  {
+    "id": "bio-viv-048",
+    "question": "Kisa ki yon enfeksyon",
+    "reponse": "Enfeksyon se lè yon ajan nuizib, tankou yon bakteri, yon viris oswa yon chanpiyon, anvayi kò a.",
+    "tags": [
+      "infection",
+      "agent pathogene",
+      "bacterie",
+      "virus",
+      "enfeksyon",
+      "anvayi"
+    ]
+  },
+  {
+    "id": "bio-viv-049",
+    "question": "Qu'est-ce qu'une maladie infectieuse",
+    "reponse": "Une maladie infectieuse est une maladie causée par un micro-organisme qui peut se transmettre d'une personne à une autre.",
+    "tags": [
+      "maladie infectieuse",
+      "transmission",
+      "microorganisme",
+      "contagion",
+      "maladi enfektye",
+      "pase"
+    ]
+  },
+  {
+    "id": "bio-viv-050",
+    "question": "Kisa ki yon maladi enfektye",
+    "reponse": "Maladi enfektye se yon maladi yon mikwo-òganis koze ki ka pase soti nan yon moun rive nan yon lòt.",
+    "tags": [
+      "maladie infectieuse",
+      "transmission",
+      "microorganisme",
+      "contagion",
+      "maladi enfektye",
+      "pase"
+    ]
+  },
+  {
+    "id": "bio-viv-051",
+    "question": "Qu'est-ce que le microbiote",
+    "reponse": "Le microbiote est l'ensemble des micro-organismes, comme les bactéries, qui vivent naturellement dans et sur le corps humain.",
+    "tags": [
+      "microbiote",
+      "bacteries",
+      "corps",
+      "naturel",
+      "mikwobyòt",
+      "natirèl"
+    ]
+  },
+  {
+    "id": "bio-viv-052",
+    "question": "Kisa ki mikwobyòt la",
+    "reponse": "Mikwobyòt la se tout mikwo-òganis, tankou bakteri, ki viv natirèlman nan ak sou kò moun nan.",
+    "tags": [
+      "microbiote",
+      "bacteries",
+      "corps",
+      "naturel",
+      "mikwobyòt",
+      "natirèl"
+    ]
+  },
+  {
+    "id": "bio-viv-053",
+    "question": "Qu'est-ce que la flore intestinale",
+    "reponse": "La flore intestinale est l'ensemble des bactéries qui vivent dans les intestins et aident à la digestion.",
+    "tags": [
+      "flore intestinale",
+      "bacteries",
+      "intestins",
+      "digestion",
+      "flò entestinal",
+      "dijesyon"
+    ]
+  },
+  {
+    "id": "bio-viv-054",
+    "question": "Kisa ki flò entestinal la",
+    "reponse": "Flò entestinal la se tout bakteri ki viv nan trip yo epi ki ede nan dijesyon an.",
+    "tags": [
+      "flore intestinale",
+      "bacteries",
+      "intestins",
+      "digestion",
+      "flò entestinal",
+      "dijesyon"
+    ]
+  },
+  {
+    "id": "bio-viv-055",
+    "question": "Qu'est-ce qu'un fossile",
+    "reponse": "Un fossile est la trace ou les restes conservés d'un être vivant qui a existé il y a très longtemps.",
+    "tags": [
+      "fossile",
+      "restes",
+      "ancien",
+      "conservation",
+      "fosil",
+      "konsève"
+    ]
+  },
+  {
+    "id": "bio-viv-056",
+    "question": "Kisa ki yon fosil",
+    "reponse": "Fosil se mak oswa rès yon bagay vivan ki te egziste depi lontan ki konsève.",
+    "tags": [
+      "fossile",
+      "restes",
+      "ancien",
+      "conservation",
+      "fosil",
+      "konsève"
+    ]
+  },
+  {
+    "id": "bio-viv-057",
+    "question": "Qu'est-ce qu'une espèce disparue",
+    "reponse": "Une espèce disparue est une espèce qui n'existe plus du tout sur Terre, souvent connue aujourd'hui grâce aux fossiles.",
+    "tags": [
+      "espece disparue",
+      "extinction",
+      "fossiles",
+      "histoire",
+      "espès disparèt",
+      "fosil"
+    ]
+  },
+  {
+    "id": "bio-viv-058",
+    "question": "Kisa ki yon espès ki disparèt",
+    "reponse": "Espès ki disparèt se yon espès ki pa egziste ankò ditou sou latè, souvan nou konnen l jodi a gras ak fosil.",
+    "tags": [
+      "espece disparue",
+      "extinction",
+      "fossiles",
+      "histoire",
+      "espès disparèt",
+      "fosil"
+    ]
+  },
+  {
+    "id": "bio-viv-059",
+    "question": "Qu'est-ce qu'un dinosaure",
+    "reponse": "Un dinosaure est un reptile préhistorique qui a vécu sur Terre il y a des millions d'années, avant de disparaître.",
+    "tags": [
+      "dinosaure",
+      "prehistoire",
+      "reptile",
+      "extinction",
+      "dinozò",
+      "prewistorik"
+    ]
+  },
+  {
+    "id": "bio-viv-060",
+    "question": "Kisa ki yon dinozò",
+    "reponse": "Dinozò se yon reptil prewistorik ki te viv sou latè depi plizyè milyon ane, anvan li disparèt.",
+    "tags": [
+      "dinosaure",
+      "prehistoire",
+      "reptile",
+      "extinction",
+      "dinozò",
+      "prewistorik"
+    ]
+  },
+  {
+    "id": "bio-viv-061",
+    "question": "Qu'est-ce qu'un ancêtre commun",
+    "reponse": "Un ancêtre commun est un être vivant dont descendent deux ou plusieurs espèces différentes au cours de l'évolution.",
+    "tags": [
+      "ancetre commun",
+      "descendance",
+      "evolution",
+      "especes",
+      "zansèt komen",
+      "desann"
+    ]
+  },
+  {
+    "id": "bio-viv-062",
+    "question": "Kisa ki yon zansèt komen",
+    "reponse": "Zansèt komen se yon bagay vivan de oswa plizyè espès diferan desann apre anpil tan nan evolisyon.",
+    "tags": [
+      "ancetre commun",
+      "descendance",
+      "evolution",
+      "especes",
+      "zansèt komen",
+      "desann"
+    ]
+  },
+  {
+    "id": "bio-viv-063",
+    "question": "Qu'est-ce que l'adaptation évolutive",
+    "reponse": "L'adaptation évolutive est un changement progressif chez une espèce qui l'aide à mieux survivre dans son environnement.",
+    "tags": [
+      "adaptation evolutive",
+      "survie",
+      "changement",
+      "environnement",
+      "adaptasyon evolitiv",
+      "siviv"
+    ]
+  },
+  {
+    "id": "bio-viv-064",
+    "question": "Kisa ki adaptasyon evolitiv la",
+    "reponse": "Adaptasyon evolitiv se yon chanjman piti piti nan yon espès ki ede l siviv pi byen nan anviwonnman li.",
+    "tags": [
+      "adaptation evolutive",
+      "survie",
+      "changement",
+      "environnement",
+      "adaptasyon evolitiv",
+      "siviv"
+    ]
+  },
+  {
+    "id": "bio-viv-065",
+    "question": "Qu'est-ce que la spéciation",
+    "reponse": "La spéciation est le processus par lequel une nouvelle espèce se forme à partir d'une espèce existante, au fil du temps.",
+    "tags": [
+      "speciation",
+      "nouvelle espece",
+      "evolution",
+      "temps",
+      "espesyasyon",
+      "fòme"
+    ]
+  },
+  {
+    "id": "bio-viv-066",
+    "question": "Kisa ki espesyasyon an",
+    "reponse": "Espesyasyon se pwosesis kote yon nouvo espès fòme apati yon espès ki te la deja, avèk tan.",
+    "tags": [
+      "speciation",
+      "nouvelle espece",
+      "evolution",
+      "temps",
+      "espesyasyon",
+      "fòme"
+    ]
+  },
+  {
+    "id": "bio-viv-067",
+    "question": "Qu'est-ce qu'un arbre phylogénétique",
+    "reponse": "Un arbre phylogénétique est un schéma qui montre les liens de parenté entre différentes espèces au cours de l'évolution.",
+    "tags": [
+      "arbre phylogenetique",
+      "parente",
+      "evolution",
+      "schema",
+      "pyebwa filojenetik",
+      "lyen fanmi"
+    ]
+  },
+  {
+    "id": "bio-viv-068",
+    "question": "Kisa ki yon pyebwa filojenetik",
+    "reponse": "Pyebwa filojenetik se yon dyagram ki montre lyen fanmi ant diferan espès pandan evolisyon.",
+    "tags": [
+      "arbre phylogenetique",
+      "parente",
+      "evolution",
+      "schema",
+      "pyebwa filojenetik",
+      "lyen fanmi"
+    ]
+  },
+  {
+    "id": "bio-viv-069",
+    "question": "Comment l'ADN aide-t-il à comprendre l'évolution",
+    "reponse": "L'ADN aide à comprendre l'évolution car comparer le matériel génétique de différentes espèces révèle leurs liens de parenté.",
+    "tags": [
+      "adn",
+      "comparaison",
+      "evolution",
+      "parente",
+      "konpare",
+      "lyen fanmi"
+    ]
+  },
+  {
+    "id": "bio-viv-070",
+    "question": "Kijan ADN ede konprann evolisyon an",
+    "reponse": "ADN ede konprann evolisyon paske konpare materyèl jenetik diferan espès montre lyen fanmi ki genyen ant yo.",
+    "tags": [
+      "adn",
+      "comparaison",
+      "evolution",
+      "parente",
+      "konpare",
+      "lyen fanmi"
+    ]
+  },
+  {
+    "id": "bio-viv-071",
+    "question": "Quelle est l'origine de la vie selon la science",
+    "reponse": "Selon la science, la vie serait apparue il y a environ 3,5 milliards d'années à partir de molécules chimiques simples dans les océans primitifs.",
+    "tags": [
+      "origine de la vie",
+      "oceans",
+      "molecules",
+      "science",
+      "orijin lavi",
+      "lanmè primitif"
+    ]
+  },
+  {
+    "id": "bio-viv-072",
+    "question": "Dapre syans la, ki jan lavi te kòmanse",
+    "reponse": "Dapre syans la, lavi te parèt apeprè 3,5 milya ane pase apati senp molekil chimik nan premye lanmè yo.",
+    "tags": [
+      "origine de la vie",
+      "oceans",
+      "molecules",
+      "science",
+      "orijin lavi",
+      "lanmè primitif"
+    ]
+  },
+  {
+    "id": "bio-viv-073",
+    "question": "Qu'est-ce qu'une cellule primitive",
+    "reponse": "Une cellule primitive est l'une des toutes premières formes de vie simples apparues sur Terre, à l'origine de tous les êtres vivants.",
+    "tags": [
+      "cellule primitive",
+      "premiere vie",
+      "origine",
+      "simple",
+      "selil primitiv",
+      "premye lavi"
+    ]
+  },
+  {
+    "id": "bio-viv-074",
+    "question": "Kisa ki yon selil primitiv",
+    "reponse": "Selil primitiv se youn nan premye fòm lavi senp ki te parèt sou latè, se nan li tout bagay vivan soti.",
+    "tags": [
+      "cellule primitive",
+      "premiere vie",
+      "origine",
+      "simple",
+      "selil primitiv",
+      "premye lavi"
+    ]
+  },
+  {
+    "id": "bio-viv-075",
+    "question": "Qu'est-ce que la biologie marine",
+    "reponse": "La biologie marine est la branche de la biologie qui étudie les êtres vivants des océans et des mers.",
+    "tags": [
+      "biologie marine",
+      "oceans",
+      "especes",
+      "etude",
+      "byoloji maren",
+      "lanmè"
+    ]
+  },
+  {
+    "id": "bio-viv-076",
+    "question": "Kisa ki byoloji maren",
+    "reponse": "Byoloji maren se branch byoloji ki etidye bagay vivan ki nan lanmè yo.",
+    "tags": [
+      "biologie marine",
+      "oceans",
+      "especes",
+      "etude",
+      "byoloji maren",
+      "lanmè"
+    ]
+  },
+  {
+    "id": "bio-viv-077",
+    "question": "Qu'est-ce que la biologie végétale",
+    "reponse": "La biologie végétale est la branche de la biologie qui étudie spécifiquement les plantes, leur structure et leur fonctionnement.",
+    "tags": [
+      "biologie vegetale",
+      "plantes",
+      "structure",
+      "etude",
+      "byoloji vejetal",
+      "plant"
+    ]
+  },
+  {
+    "id": "bio-viv-078",
+    "question": "Kisa ki byoloji vejetal",
+    "reponse": "Byoloji vejetal se branch byoloji ki etidye espesyalman plant yo, estrikti yo ak fason yo fonksyone.",
+    "tags": [
+      "biologie vegetale",
+      "plantes",
+      "structure",
+      "etude",
+      "byoloji vejetal",
+      "plant"
+    ]
+  },
+  {
+    "id": "bio-viv-079",
+    "question": "Pourquoi la photosynthèse a-t-elle été importante pour l'évolution",
+    "reponse": "La photosynthèse a été importante pour l'évolution car elle a produit l'oxygène nécessaire au développement de formes de vie plus complexes.",
+    "tags": [
+      "photosynthese",
+      "oxygene",
+      "evolution",
+      "complexite",
+      "fotosentèz",
+      "konplèks"
+    ]
+  },
+  {
+    "id": "bio-viv-080",
+    "question": "Poukisa fotosentèz te enpòtan pou evolisyon an",
+    "reponse": "Fotosentèz te enpòtan pou evolisyon an paske li te pwodui oksijèn ki nesesè pou devlopman fòm lavi ki pi konplèks.",
+    "tags": [
+      "photosynthese",
+      "oxygene",
+      "evolution",
+      "complexite",
+      "fotosentèz",
+      "konplèks"
+    ]
+  },
+  {
+    "id": "bio-viv-081",
+    "question": "Qu'est-ce que la symbiose évolutive",
+    "reponse": "La symbiose évolutive est une théorie selon laquelle certains organites des cellules, comme les mitochondries, proviennent d'anciennes bactéries vivant en association.",
+    "tags": [
+      "symbiose evolutive",
+      "mitochondries",
+      "bacteries",
+      "theorie",
+      "senbyòz evolitiv",
+      "mitokondri"
+    ]
+  },
+  {
+    "id": "bio-viv-082",
+    "question": "Kisa ki senbyòz evolitiv la",
+    "reponse": "Senbyòz evolitiv se yon teyori ki di kèk òganèl nan selil yo, tankou mitokondri, soti nan ansyen bakteri ki te viv ansanm.",
+    "tags": [
+      "symbiose evolutive",
+      "mitochondries",
+      "bacteries",
+      "theorie",
+      "senbyòz evolitiv",
+      "mitokondri"
+    ]
+  },
+  {
+    "id": "bio-viv-083",
+    "question": "Qu'est-ce qu'un mollusque",
+    "reponse": "Un mollusque est un animal invertébré à corps mou, souvent protégé par une coquille, comme l'escargot ou la pieuvre.",
+    "tags": [
+      "mollusque",
+      "corps mou",
+      "coquille",
+      "invertebre",
+      "molisk",
+      "kokiy"
+    ]
+  },
+  {
+    "id": "bio-viv-084",
+    "question": "Kisa ki yon moliSk",
+    "reponse": "Molisk se yon bèt san zo rèl do ki gen kò mou, souvan pwoteje ak yon kokiy, tankou kalmason oswa chatwouy.",
+    "tags": [
+      "mollusque",
+      "corps mou",
+      "coquille",
+      "invertebre",
+      "molisk",
+      "kokiy"
+    ]
+  },
+  {
+    "id": "bio-viv-085",
+    "question": "Qu'est-ce qu'un crustacé",
+    "reponse": "Un crustacé est un animal invertébré aquatique à carapace dure et pattes articulées, comme le crabe ou la crevette.",
+    "tags": [
+      "crustace",
+      "carapace",
+      "aquatique",
+      "pattes",
+      "kristase",
+      "krab"
+    ]
+  },
+  {
+    "id": "bio-viv-086",
+    "question": "Kisa ki yon kristase",
+    "reponse": "Kristase se yon bèt dlo san zo rèl do ki gen yon kokiy di ak pye ki gen jwenti, tankou krab oswa chevrèt.",
+    "tags": [
+      "crustace",
+      "carapace",
+      "aquatique",
+      "pattes",
+      "kristase",
+      "krab"
+    ]
+  },
+  {
+    "id": "bio-viv-087",
+    "question": "Qu'est-ce qu'une algue",
+    "reponse": "Une algue est un organisme vivant simple, souvent aquatique, capable de faire la photosynthèse comme une plante.",
+    "tags": [
+      "algue",
+      "aquatique",
+      "photosynthese",
+      "organisme",
+      "alg",
+      "dlo"
+    ]
+  },
+  {
+    "id": "bio-viv-088",
+    "question": "Kisa ki yon alg",
+    "reponse": "Alg se yon òganis vivan senp, souvan nan dlo, ki kapab fè fotosentèz menm jan ak yon plant.",
+    "tags": [
+      "algue",
+      "aquatique",
+      "photosynthese",
+      "organisme",
+      "alg",
+      "dlo"
+    ]
+  },
+  {
+    "id": "bio-viv-089",
+    "question": "Qu'est-ce qu'un lichen",
+    "reponse": "Un lichen est une association entre un champignon et une algue qui vivent ensemble en symbiose.",
+    "tags": [
+      "lichen",
+      "champignon",
+      "algue",
+      "symbiose",
+      "likèn",
+      "asosyasyon"
+    ]
+  },
+  {
+    "id": "bio-viv-090",
+    "question": "Kisa ki yon likèn",
+    "reponse": "Likèn se yon asosyasyon ant yon chanpiyon ak yon alg ki viv ansanm nan senbyòz.",
+    "tags": [
+      "lichen",
+      "champignon",
+      "algue",
+      "symbiose",
+      "likèn",
+      "asosyasyon"
+    ]
+  },
+  {
+    "id": "bio-viv-091",
+    "question": "Qu'est-ce que la biologie évolutive",
+    "reponse": "La biologie évolutive est la branche de la biologie qui étudie les mécanismes et l'histoire de l'évolution des espèces.",
+    "tags": [
+      "biologie evolutive",
+      "mecanismes",
+      "histoire",
+      "especes",
+      "byoloji evolitiv",
+      "mekanis"
+    ]
+  },
+  {
+    "id": "bio-viv-092",
+    "question": "Kisa ki byoloji evolitiv la",
+    "reponse": "Byoloji evolitiv se branch byoloji ki etidye mekanis ak istwa evolisyon espès yo.",
+    "tags": [
+      "biologie evolutive",
+      "mecanismes",
+      "histoire",
+      "especes",
+      "byoloji evolitiv",
+      "mekanis"
+    ]
+  },
+  {
+    "id": "bio-viv-093",
+    "question": "Qu'est-ce que la convergence évolutive",
+    "reponse": "La convergence évolutive est le phénomène par lequel des espèces non apparentées développent des caractéristiques similaires en s'adaptant à des milieux semblables.",
+    "tags": [
+      "convergence evolutive",
+      "adaptation",
+      "especes",
+      "similarite",
+      "konvèjans evolitiv",
+      "adapte"
+    ]
+  },
+  {
+    "id": "bio-viv-094",
+    "question": "Kisa ki konvèjans evolitiv la",
+    "reponse": "Konvèjans evolitiv se fenomèn kote espès ki pa gen menm fanmi devlope karakteristik ki sanble paske yo adapte ak menm kalite anviwonnman.",
+    "tags": [
+      "convergence evolutive",
+      "adaptation",
+      "especes",
+      "similarite",
+      "konvèjans evolitiv",
+      "adapte"
+    ]
+  },
+  {
+    "id": "bio-viv-095",
+    "question": "Qu'est-ce qu'un fossile vivant",
+    "reponse": "Un fossile vivant est une espèce actuelle qui a très peu changé depuis des millions d'années, comme le cœlacanthe.",
+    "tags": [
+      "fossile vivant",
+      "especes",
+      "inchangee",
+      "millions annees",
+      "fosil vivan",
+      "selakant"
+    ]
+  },
+  {
+    "id": "bio-viv-096",
+    "question": "Kisa ki yon fosil vivan",
+    "reponse": "Fosil vivan se yon espès ki la toujou jodi a men ki chanje trè piti depi plizyè milyon ane, tankou selakant la.",
+    "tags": [
+      "fossile vivant",
+      "especes",
+      "inchangee",
+      "millions annees",
+      "fosil vivan",
+      "selakant"
+    ]
+  },
+  {
+    "id": "bio-viv-097",
+    "question": "Qu'est-ce qu'un micro-organisme",
+    "reponse": "Un micro-organisme est un être vivant si petit qu'il n'est visible qu'au microscope, comme les bactéries ou certains champignons.",
+    "tags": [
+      "microorganisme",
+      "microscope",
+      "bacteries",
+      "petit",
+      "mikwo-òganis",
+      "mikwoskòp"
+    ]
+  },
+  {
+    "id": "bio-viv-098",
+    "question": "Kisa ki yon mikwo-òganis",
+    "reponse": "Mikwo-òganis se yon bagay vivan ki tèlman piti nou wè l sèlman nan mikwoskòp, tankou bakteri oswa kèk chanpiyon.",
+    "tags": [
+      "microorganisme",
+      "microscope",
+      "bacteries",
+      "petit",
+      "mikwo-òganis",
+      "mikwoskòp"
+    ]
+  },
+  {
+    "id": "bio-viv-099",
+    "question": "Qu'est-ce qu'une colonie bactérienne",
+    "reponse": "Une colonie bactérienne est un groupe visible de bactéries identiques qui se sont multipliées à partir d'une seule bactérie de départ.",
+    "tags": [
+      "colonie bacterienne",
+      "multiplication",
+      "groupe",
+      "bacterie",
+      "koloni bakteryèn",
+      "miltipliye"
+    ]
+  },
+  {
+    "id": "bio-viv-100",
+    "question": "Kisa ki yon koloni bakteryèn",
+    "reponse": "Koloni bakteryèn se yon gwoup bakteri moun ka wè ki idantik, ki miltipliye apati yon sèl bakteri nan kòmansman.",
+    "tags": [
+      "colonie bacterienne",
+      "multiplication",
+      "groupe",
+      "bacterie",
+      "koloni bakteryèn",
+      "miltipliye"
+    ]
+  }
+]

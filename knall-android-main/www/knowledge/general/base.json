@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g001",
+    "question": "idée de repas rapide et sain",
+    "reponse": "Bol de quinoa au poulet et légumes : quinoa, poulet grillé, avocat, tomates, concombre, sauce au citron.",
+    "tags": [
+      "repas",
+      "cuisine",
+      "manger"
+    ]
+  },
+  {
+    "id": "g002",
+    "question": "comment redémarrer l'application",
+    "reponse": "Ferme complètement Knall puis rouvre-le depuis l'icône.",
+    "tags": [
+      "redemarrer",
+      "bug",
+      "probleme"
+    ]
+  },
+  {
+    "id": "g003",
+    "question": "qui es-tu",
+    "reponse": "Je suis Knall, ton assistant qui fonctionne avec ou sans connexion internet.",
+    "tags": [
+      "knall",
+      "qui",
+      "identite"
+    ]
+  }
+]

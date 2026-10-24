@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "def-01-001",
+    "question": "Qu'est-ce que le lion",
+    "reponse": "Le lion est un grand mammifère carnivore de la famille des félidés, vivant en groupes appelés troupes, principalement en Afrique subsaharienne. Le mâle se distingue par une crinière épaisse autour du cou et de la tête, tandis que la chasse est surtout assurée par les femelles.",
+    "tags": [
+      "lion",
+      "felide",
+      "afrique",
+      "carnivore",
+      "lyon",
+      "felide"
+    ]
+  },
+  {
+    "id": "def-01-002",
+    "question": "Kisa ki lyon an",
+    "reponse": "Lyon se yon gwo mamifè manjè vyann nan fanmi felide yo, li viv an gwoup yo rele twoup, sitou nan Afrik anba Sahara. Mal la rekonèt ak yon kolye pwal epè otou kou ak tèt li, pandan fi yo se yo ki fè pifò lachas la.",
+    "tags": [
+      "lion",
+      "felide",
+      "afrique",
+      "carnivore",
+      "lyon",
+      "felide"
+    ]
+  },
+  {
+    "id": "def-01-003",
+    "question": "Qu'est-ce que l'éléphant",
+    "reponse": "L'éléphant est le plus grand mammifère terrestre existant, caractérisé par sa trompe préhensile, ses grandes oreilles et ses défenses en ivoire, et vivant en Afrique ou en Asie selon l'espèce.",
+    "tags": [
+      "elephant",
+      "mammifere terrestre",
+      "trompe",
+      "ivoire",
+      "elefan",
+      "twonp"
+    ]
+  },
+  {
+    "id": "def-01-004",
+    "question": "Kisa ki elefan an",
+    "reponse": "Elefan se pi gwo mamifè tè a ki egziste, li rekonèt ak twonp li ka sèvi pou pran bagay, gwo zòrèy li ak dan livwa li yo, li viv an Afrik oswa an Azi selon kalite espès la.",
+    "tags": [
+      "elephant",
+      "mammifere terrestre",
+      "trompe",
+      "ivoire",
+      "elefan",
+      "twonp"
+    ]
+  },
+  {
+    "id": "def-01-005",
+    "question": "Qu'est-ce que le dauphin",
+    "reponse": "Le dauphin est un mammifère marin intelligent de la famille des cétacés, respirant de l'air par un évent et utilisant l'écholocation pour se repérer et chasser dans l'eau.",
+    "tags": [
+      "dauphin",
+      "cetace",
+      "mammifere marin",
+      "echolocation",
+      "dofen",
+      "setase"
+    ]
+  },
+  {
+    "id": "def-01-006",
+    "question": "Kisa ki dofen an",
+    "reponse": "Dofen se yon mamifè lanmè entèlijan nan fanmi setase yo, li respire lè pa yon twou sou tèt li epi li itilize son pou l jwenn kote l ye ak pou l chase anba dlo.",
+    "tags": [
+      "dauphin",
+      "cetace",
+      "mammifere marin",
+      "echolocation",
+      "dofen",
+      "setase"
+    ]
+  },
+  {
+    "id": "def-01-007",
+    "question": "Qu'est-ce que l'abeille",
+    "reponse": "L'abeille est un insecte social volant qui produit du miel et joue un rôle essentiel dans la pollinisation des plantes à fleurs grâce au pollen qu'elle transporte.",
+    "tags": [
+      "abeille",
+      "insecte",
+      "miel",
+      "pollinisation",
+      "myèl",
+      "polèn"
+    ]
+  },
+  {
+    "id": "def-01-008",
+    "question": "Kisa ki myèl la",
+    "reponse": "Myèl se yon ensèk sosyal ki vole, li fè siwo myèl epi li jwe yon gwo wòl nan polinizasyon plant ki gen flè yo gras ak polèn li transpòte.",
+    "tags": [
+      "abeille",
+      "insecte",
+      "miel",
+      "pollinisation",
+      "myèl",
+      "polèn"
+    ]
+  },
+  {
+    "id": "def-01-009",
+    "question": "Qu'est-ce que le serpent",
+    "reponse": "Le serpent est un reptile sans pattes au corps allongé et couvert d'écailles, qui se déplace par ondulation et dont certaines espèces possèdent un venin pour chasser ou se défendre.",
+    "tags": [
+      "serpent",
+      "reptile",
+      "ecailles",
+      "venin",
+      "koulèv",
+      "pwazon"
+    ]
+  },
+  {
+    "id": "def-01-010",
+    "question": "Kisa ki koulèv la",
+    "reponse": "Koulèv se yon reptil ki pa gen pye, kò li long epi kouvri ak kal, li deplase an fè ti vag epi gen kèk espès ki gen pwazon pou chase oswa pou defann tèt yo.",
+    "tags": [
+      "serpent",
+      "reptile",
+      "ecailles",
+      "venin",
+      "koulèv",
+      "pwazon"
+    ]
+  },
+  {
+    "id": "def-01-011",
+    "question": "Qu'est-ce que la baleine",
+    "reponse": "La baleine est un mammifère marin de très grande taille, parfois le plus grand animal vivant selon l'espèce, qui respire par un évent et se nourrit souvent en filtrant l'eau grâce à des fanons.",
+    "tags": [
+      "baleine",
+      "mammifere marin",
+      "fanons",
+      "taille",
+      "balenn",
+      "fannon"
+    ]
+  },
+  {
+    "id": "def-01-012",
+    "question": "Kisa ki balenn nan",
+    "reponse": "Balenn se yon mamifè lanmè ki gwo anpil, pafwa se pi gwo bèt vivan an selon espès la, li respire pa yon twou sou tèt li epi souvan li manje lè l filtre dlo ak yon seri zo yo rele fannon.",
+    "tags": [
+      "baleine",
+      "mammifere marin",
+      "fanons",
+      "taille",
+      "balenn",
+      "fannon"
+    ]
+  },
+  {
+    "id": "def-01-013",
+    "question": "Qu'est-ce que le papillon",
+    "reponse": "Le papillon est un insecte volant aux ailes souvent colorées, qui résulte de la métamorphose complète d'une chenille passant par le stade de chrysalide.",
+    "tags": [
+      "papillon",
+      "insecte",
+      "metamorphose",
+      "chenille",
+      "papiyon",
+      "krizalid"
+    ]
+  },
+  {
+    "id": "def-01-014",
+    "question": "Kisa ki papiyon an",
+    "reponse": "Papiyon se yon ensèk ki vole, zèl li yo souvan gen anpil koulè, li soti nan yon metamòfoz konplè yon cheni ki pase nan yon etap yo rele krizalid.",
+    "tags": [
+      "papillon",
+      "insecte",
+      "metamorphose",
+      "chenille",
+      "papiyon",
+      "krizalid"
+    ]
+  },
+  {
+    "id": "def-01-015",
+    "question": "Qu'est-ce que le requin",
+    "reponse": "Le requin est un poisson cartilagineux, c'est-à-dire dont le squelette est fait de cartilage et non d'os, généralement prédateur, doté de plusieurs rangées de dents pointues.",
+    "tags": [
+      "requin",
+      "poisson cartilagineux",
+      "predateur",
+      "dents",
+      "reken",
+      "katilaj"
+    ]
+  },
+  {
+    "id": "def-01-016",
+    "question": "Kisa ki reken an",
+    "reponse": "Reken se yon pwason ki gen eskelèt fèt ak katilaj olye zo, an jeneral li se yon predatè ki gen plizyè ranje dan pwenti.",
+    "tags": [
+      "requin",
+      "poisson cartilagineux",
+      "predateur",
+      "dents",
+      "reken",
+      "katilaj"
+    ]
+  },
+  {
+    "id": "def-01-017",
+    "question": "Qu'est-ce que le pingouin",
+    "reponse": "Le pingouin, souvent confondu avec le manchot, est un oiseau marin adapté au froid, dont les ailes rigides servent surtout à nager plutôt qu'à voler.",
+    "tags": [
+      "pingouin",
+      "oiseau marin",
+      "froid",
+      "nage",
+      "pengwen",
+      "naje"
+    ]
+  },
+  {
+    "id": "def-01-018",
+    "question": "Kisa ki pengwen an",
+    "reponse": "Pengwen an, souvan moun konfonn li ak manchot, se yon zwazo lanmè ki adapte ak frèt, zèl di li yo sèvi sitou pou naje pase pou vole.",
+    "tags": [
+      "pingouin",
+      "oiseau marin",
+      "froid",
+      "nage",
+      "pengwen",
+      "naje"
+    ]
+  },
+  {
+    "id": "def-01-019",
+    "question": "Qu'est-ce que la fourmi",
+    "reponse": "La fourmi est un insecte social vivant en colonies très organisées, où chaque individu occupe un rôle précis comme ouvrière, soldate ou reine.",
+    "tags": [
+      "fourmi",
+      "insecte social",
+      "colonie",
+      "role",
+      "foumi",
+      "koloni"
+    ]
+  },
+  {
+    "id": "def-01-020",
+    "question": "Kisa ki foumi a",
+    "reponse": "Foumi se yon ensèk sosyal ki viv an koloni byen òganize, kote chak moun gen yon wòl presi tankou travayè, sòlda oswa rèn.",
+    "tags": [
+      "fourmi",
+      "insecte social",
+      "colonie",
+      "role",
+      "foumi",
+      "koloni"
+    ]
+  },
+  {
+    "id": "def-01-021",
+    "question": "Qu'est-ce que l'être humain",
+    "reponse": "L'être humain est un mammifère de l'espèce Homo sapiens, caractérisé par une intelligence développée, un langage complexe, la bipédie et la capacité de créer des outils et des sociétés.",
+    "tags": [
+      "etre humain",
+      "homo sapiens",
+      "intelligence",
+      "bipedie",
+      "moun",
+      "entèlijans"
+    ]
+  },
+  {
+    "id": "def-01-022",
+    "question": "Kisa ki yon moun",
+    "reponse": "Moun se yon mamifè nan espès Homo sapiens, li rekonèt ak yon entèlijans devlope, yon lang konplèks, kapasite pou mache sou de pye ak kapasite pou kreye zouti ak sosyete.",
+    "tags": [
+      "etre humain",
+      "homo sapiens",
+      "intelligence",
+      "bipedie",
+      "moun",
+      "entèlijans"
+    ]
+  },
+  {
+    "id": "def-01-023",
+    "question": "Qu'est-ce que le cerveau",
+    "reponse": "Le cerveau est l'organe central du système nerveux, logé dans le crâne, qui contrôle la pensée, les émotions, les mouvements et l'ensemble des fonctions vitales du corps.",
+    "tags": [
+      "cerveau",
+      "organe",
+      "systeme nerveux",
+      "controle",
+      "sèvo",
+      "kontwole"
+    ]
+  },
+  {
+    "id": "def-01-024",
+    "question": "Kisa ki sèvo a",
+    "reponse": "Sèvo a se ògàn santral sistèm nève a, li chita anndan bwat tèt la, li kontwole panse, emosyon, mouvman ak tout fonksyon enpòtan kò a.",
+    "tags": [
+      "cerveau",
+      "organe",
+      "systeme nerveux",
+      "controle",
+      "sèvo",
+      "kontwole"
+    ]
+  },
+  {
+    "id": "def-01-025",
+    "question": "Qu'est-ce que le squelette",
+    "reponse": "Le squelette est la charpente rigide formée de plus de deux cents os chez l'humain adulte, qui soutient le corps, protège les organes et permet le mouvement avec les muscles.",
+    "tags": [
+      "squelette",
+      "os",
+      "charpente",
+      "soutien",
+      "eskelèt",
+      "chapant"
+    ]
+  },
+  {
+    "id": "def-01-026",
+    "question": "Kisa ki eskelèt la",
+    "reponse": "Eskelèt la se chapant solid ki fèt ak plis pase de san zo nan yon granmoun, li soutni kò a, pwoteje ògàn yo epi pèmèt mouvman ak mis yo.",
+    "tags": [
+      "squelette",
+      "os",
+      "charpente",
+      "soutien",
+      "eskelèt",
+      "chapant"
+    ]
+  },
+  {
+    "id": "def-01-027",
+    "question": "Qu'est-ce que la peau",
+    "reponse": "La peau est le plus grand organe du corps humain, formant une barrière protectrice contre les agressions extérieures, régulant la température et permettant le sens du toucher.",
+    "tags": [
+      "peau",
+      "organe",
+      "protection",
+      "temperature",
+      "po",
+      "baryè"
+    ]
+  },
+  {
+    "id": "def-01-028",
+    "question": "Kisa ki po a",
+    "reponse": "Po a se pi gwo ògàn kò moun nan, li fòme yon baryè ki pwoteje kont bagay ki soti deyò, li regle tanperati epi li pèmèt sans manyen an.",
+    "tags": [
+      "peau",
+      "organe",
+      "protection",
+      "temperature",
+      "po",
+      "baryè"
+    ]
+  },
+  {
+    "id": "def-01-029",
+    "question": "Qu'est-ce que l'œil",
+    "reponse": "L'œil est l'organe sensoriel qui permet la vision en captant la lumière et en la transformant en signaux transmis au cerveau par le nerf optique.",
+    "tags": [
+      "oeil",
+      "vision",
+      "lumiere",
+      "nerf optique",
+      "je",
+      "wè"
+    ]
+  },
+  {
+    "id": "def-01-030",
+    "question": "Kisa ki je a",
+    "reponse": "Je a se ògàn sans ki pèmèt wè, li kaptire limyè epi li transfòme l an siyal ki voye bay sèvo a pa nève optik la.",
+    "tags": [
+      "oeil",
+      "vision",
+      "lumiere",
+      "nerf optique",
+      "je",
+      "wè"
+    ]
+  },
+  {
+    "id": "def-01-031",
+    "question": "Qu'est-ce que l'oreille",
+    "reponse": "L'oreille est l'organe sensoriel responsable de l'audition et de l'équilibre, composée de l'oreille externe, moyenne et interne, qui transforme les vibrations sonores en signaux nerveux.",
+    "tags": [
+      "oreille",
+      "audition",
+      "equilibre",
+      "vibrations",
+      "zòrèy",
+      "tande"
+    ]
+  },
+  {
+    "id": "def-01-032",
+    "question": "Kisa ki zòrèy la",
+    "reponse": "Zòrèy se ògàn sans ki responsab tande ak balans, li fèt ak zòrèy deyò, mwayen ak anndan, li transfòme vibrasyon son an siyal nève.",
+    "tags": [
+      "oreille",
+      "audition",
+      "equilibre",
+      "vibrations",
+      "zòrèy",
+      "tande"
+    ]
+  },
+  {
+    "id": "def-01-033",
+    "question": "Qu'est-ce que la main",
+    "reponse": "La main est l'organe situé à l'extrémité du bras, composée de doigts, de phalanges et d'une paume, qui permet de saisir, manipuler et toucher les objets avec précision.",
+    "tags": [
+      "main",
+      "doigts",
+      "prehension",
+      "organe",
+      "men",
+      "dwèt"
+    ]
+  },
+  {
+    "id": "def-01-034",
+    "question": "Kisa ki men an",
+    "reponse": "Men an se ògàn ki nan bout bra a, li fèt ak dwèt, zo dwèt ak yon pla, li pèmèt moun pran, manyen ak touche bagay avèk presizyon.",
+    "tags": [
+      "main",
+      "doigts",
+      "prehension",
+      "organe",
+      "men",
+      "dwèt"
+    ]
+  },
+  {
+    "id": "def-01-035",
+    "question": "Qu'est-ce que le sang",
+    "reponse": "Le sang est un liquide vital qui circule dans tout le corps grâce au cœur, transportant l'oxygène, les nutriments, les hormones et les cellules immunitaires.",
+    "tags": [
+      "sang",
+      "circulation",
+      "oxygene",
+      "nutriments",
+      "san",
+      "sikile"
+    ]
+  },
+  {
+    "id": "def-01-036",
+    "question": "Kisa ki san an",
+    "reponse": "San se yon likid ki vitalman enpòtan k ap sikile nan tout kò a gras ak kè a, li transpòte oksijèn, eleman nitritif, òmòn ak selil ki defann kò a.",
+    "tags": [
+      "sang",
+      "circulation",
+      "oxygene",
+      "nutriments",
+      "san",
+      "sikile"
+    ]
+  },
+  {
+    "id": "def-01-037",
+    "question": "Qu'est-ce que le sommeil",
+    "reponse": "Le sommeil est un état physiologique périodique de repos durant lequel l'activité consciente diminue fortement, permettant au corps et au cerveau de se régénérer.",
+    "tags": [
+      "sommeil",
+      "repos",
+      "physiologie",
+      "regeneration",
+      "dòmi",
+      "repoze"
+    ]
+  },
+  {
+    "id": "def-01-038",
+    "question": "Kisa ki dòmi an",
+    "reponse": "Dòmi se yon eta fizyolojik ki rive chak jou kote repo fèt epi konsyans moun nan bese anpil, sa k pèmèt kò a ak sèvo a repoze epi refè yo.",
+    "tags": [
+      "sommeil",
+      "repos",
+      "physiologie",
+      "regeneration",
+      "dòmi",
+      "repoze"
+    ]
+  },
+  {
+    "id": "def-01-039",
+    "question": "Qu'est-ce que l'eau",
+    "reponse": "L'eau est une substance chimique composée de deux atomes d'hydrogène et un atome d'oxygène, indispensable à la vie, qui existe naturellement sous forme liquide, solide ou gazeuse.",
+    "tags": [
+      "eau",
+      "molecule",
+      "chimie",
+      "vie",
+      "dlo",
+      "sibstans"
+    ]
+  },
+  {
+    "id": "def-01-040",
+    "question": "Kisa ki dlo a",
+    "reponse": "Dlo se yon sibstans chimik ki fèt ak de atòm idwojèn ak yon atòm oksijèn, li nesesè pou lavi, epi li egziste natirèlman kòm likid, solid oswa gaz.",
+    "tags": [
+      "eau",
+      "molecule",
+      "chimie",
+      "vie",
+      "dlo",
+      "sibstans"
+    ]
+  },
+  {
+    "id": "def-01-041",
+    "question": "Qu'est-ce que le feu",
+    "reponse": "Le feu est une réaction chimique de combustion qui dégage de la chaleur et de la lumière, résultant de la combinaison rapide d'un combustible avec l'oxygène de l'air.",
+    "tags": [
+      "feu",
+      "combustion",
+      "chaleur",
+      "reaction chimique",
+      "dife",
+      "konbisyon"
+    ]
+  },
+  {
+    "id": "def-01-042",
+    "question": "Kisa ki dife a",
+    "reponse": "Dife se yon reyaksyon chimik yo rele konbisyon ki bay chalè ak limyè, li soti nan konbinezon rapid yon konbistib ak oksijèn ki nan lè a.",
+    "tags": [
+      "feu",
+      "combustion",
+      "chaleur",
+      "reaction chimique",
+      "dife",
+      "konbisyon"
+    ]
+  },
+  {
+    "id": "def-01-043",
+    "question": "Qu'est-ce que l'électricité",
+    "reponse": "L'électricité est une forme d'énergie provenant du déplacement de particules chargées, appelées électrons, utilisée pour alimenter de nombreux appareils et systèmes.",
+    "tags": [
+      "electricite",
+      "energie",
+      "electrons",
+      "alimentation",
+      "elektrisite",
+      "enèji"
+    ]
+  },
+  {
+    "id": "def-01-044",
+    "question": "Kisa ki elektrisite a",
+    "reponse": "Elektrisite se yon kalite enèji ki soti nan mouvman patikil ki gen chaj, yo rele elektwon, yo itilize l pou alimante anpil aparèy ak sistèm.",
+    "tags": [
+      "electricite",
+      "energie",
+      "electrons",
+      "alimentation",
+      "elektrisite",
+      "enèji"
+    ]
+  },
+  {
+    "id": "def-01-045",
+    "question": "Qu'est-ce que l'ordinateur",
+    "reponse": "L'ordinateur est une machine électronique capable de traiter, stocker et transmettre des informations numériques grâce à des composants comme le processeur et la mémoire.",
+    "tags": [
+      "ordinateur",
+      "machine electronique",
+      "information",
+      "processeur",
+      "òdinatè",
+      "trete"
+    ]
+  },
+  {
+    "id": "def-01-046",
+    "question": "Kisa ki òdinatè a",
+    "reponse": "Òdinatè se yon machin elektwonik ki ka trete, estoke ak voye enfòmasyon nimerik gras ak pati tankou pwosesè a ak memwa a.",
+    "tags": [
+      "ordinateur",
+      "machine electronique",
+      "information",
+      "processeur",
+      "òdinatè",
+      "trete"
+    ]
+  },
+  {
+    "id": "def-01-047",
+    "question": "Qu'est-ce que le téléphone",
+    "reponse": "Le téléphone est un appareil de télécommunication permettant de transmettre la voix, et aujourd'hui des données numériques, à distance grâce à des ondes ou des réseaux filaires.",
+    "tags": [
+      "telephone",
+      "telecommunication",
+      "voix",
+      "ondes",
+      "telefòn",
+      "distans"
+    ]
+  },
+  {
+    "id": "def-01-048",
+    "question": "Kisa ki telefòn nan",
+    "reponse": "Telefòn se yon aparèy telekominikasyon ki pèmèt voye vwa, epi jodi a done nimerik, a distans gras ak onn oswa rezo fil.",
+    "tags": [
+      "telephone",
+      "telecommunication",
+      "voix",
+      "ondes",
+      "telefòn",
+      "distans"
+    ]
+  },
+  {
+    "id": "def-01-049",
+    "question": "Qu'est-ce que le papier",
+    "reponse": "Le papier est un matériau fin fabriqué à partir de fibres végétales, principalement de bois, utilisé pour écrire, imprimer ou emballer des objets.",
+    "tags": [
+      "papier",
+      "fibres vegetales",
+      "bois",
+      "materiau",
+      "papye",
+      "fib"
+    ]
+  },
+  {
+    "id": "def-01-050",
+    "question": "Kisa ki papye a",
+    "reponse": "Papye se yon materyèl fen yo fè ak fib plant, sitou bwa, yo itilize l pou ekri, enprime oswa anbale bagay.",
+    "tags": [
+      "papier",
+      "fibres vegetales",
+      "bois",
+      "materiau",
+      "papye",
+      "fib"
+    ]
+  },
+  {
+    "id": "def-01-051",
+    "question": "Qu'est-ce que le verre",
+    "reponse": "Le verre est un matériau solide, transparent et cassant, obtenu en fondant du sable à très haute température, utilisé pour les fenêtres, bouteilles et objets divers.",
+    "tags": [
+      "verre",
+      "materiau",
+      "sable",
+      "transparence",
+      "vè",
+      "fonn"
+    ]
+  },
+  {
+    "id": "def-01-052",
+    "question": "Kisa ki vè a",
+    "reponse": "Vè se yon materyèl solid, transparan epi fasil pou kase, yo fè l lè yo fonn sab a gwo chalè, yo itilize l pou fenèt, boutèy ak lòt bagay.",
+    "tags": [
+      "verre",
+      "materiau",
+      "sable",
+      "transparence",
+      "vè",
+      "fonn"
+    ]
+  },
+  {
+    "id": "def-01-053",
+    "question": "Qu'est-ce que le métal",
+    "reponse": "Le métal est un matériau solide, généralement brillant, bon conducteur de chaleur et d'électricité, extrait de minerais présents dans la croûte terrestre.",
+    "tags": [
+      "metal",
+      "conducteur",
+      "minerai",
+      "proprietes",
+      "metal",
+      "kondui"
+    ]
+  },
+  {
+    "id": "def-01-054",
+    "question": "Kisa ki metal la",
+    "reponse": "Metal se yon materyèl solid, an jeneral li klere, li kondui byen chalè ak elektrisite, yo rale l nan min ki nan kwout latè a.",
+    "tags": [
+      "metal",
+      "conducteur",
+      "minerai",
+      "proprietes",
+      "metal",
+      "kondui"
+    ]
+  },
+  {
+    "id": "def-01-055",
+    "question": "Qu'est-ce que le plastique",
+    "reponse": "Le plastique est un matériau synthétique fabriqué principalement à partir de dérivés du pétrole, facile à modeler et largement utilisé pour sa légèreté et sa durabilité.",
+    "tags": [
+      "plastique",
+      "synthetique",
+      "petrole",
+      "materiau",
+      "plastik",
+      "petwòl"
+    ]
+  },
+  {
+    "id": "def-01-056",
+    "question": "Kisa ki plastik la",
+    "reponse": "Plastik se yon materyèl sentetik yo fè sitou ak pwodui petwòl, li fasil pou fòme epi yo itilize l anpil paske li lejè epi li dire lontan.",
+    "tags": [
+      "plastique",
+      "synthetique",
+      "petrole",
+      "materiau",
+      "plastik",
+      "petwòl"
+    ]
+  },
+  {
+    "id": "def-01-057",
+    "question": "Qu'est-ce que l'horloge",
+    "reponse": "L'horloge est un instrument qui mesure et indique le temps qui passe, grâce à un mécanisme régulier comme un balancier, un ressort ou un circuit électronique.",
+    "tags": [
+      "horloge",
+      "temps",
+      "mecanisme",
+      "mesure",
+      "revèy",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-01-058",
+    "question": "Kisa ki revèy la",
+    "reponse": "Revèy se yon enstriman ki mezire epi montre tan k ap pase, gras ak yon mekanis regilye tankou yon balansye, yon resò oswa yon sikwi elektwonik.",
+    "tags": [
+      "horloge",
+      "temps",
+      "mecanisme",
+      "mesure",
+      "revèy",
+      "mezire"
+    ]
+  },
+  {
+    "id": "def-01-059",
+    "question": "Qu'est-ce que le chêne",
+    "reponse": "Le chêne est un arbre à feuilles caduques de grande taille, appartenant au genre Quercus, reconnu pour son bois dur et ses fruits appelés glands.",
+    "tags": [
+      "chene",
+      "arbre",
+      "bois",
+      "glands",
+      "chenn",
+      "Quercus"
+    ]
+  },
+  {
+    "id": "def-01-060",
+    "question": "Kisa ki chenn nan",
+    "reponse": "Chenn se yon gwo pyebwa ki pèdi fèy li yo chak ane, li fè pati genr Quercus, moun rekonèt li pou bwa di li ak fwi li yo rele glann.",
+    "tags": [
+      "chene",
+      "arbre",
+      "bois",
+      "glands",
+      "chenn",
+      "Quercus"
+    ]
+  },
+  {
+    "id": "def-01-061",
+    "question": "Qu'est-ce que le palmier",
+    "reponse": "Le palmier est un arbre tropical au tronc généralement non ramifié, couronné d'un bouquet de grandes feuilles appelées palmes, souvent producteur de fruits comme les noix de coco.",
+    "tags": [
+      "palmier",
+      "arbre tropical",
+      "palmes",
+      "noix de coco",
+      "palmis",
+      "palm"
+    ]
+  },
+  {
+    "id": "def-01-062",
+    "question": "Kisa ki palmis la",
+    "reponse": "Palmis se yon pyebwa twopikal ki gen yon tèt san branch an jeneral, li gen yon pakèt gwo fèy yo rele palm sou tèt li, souvan li pwodui fwi tankou kokoye.",
+    "tags": [
+      "palmier",
+      "arbre tropical",
+      "palmes",
+      "noix de coco",
+      "palmis",
+      "palm"
+    ]
+  },
+  {
+    "id": "def-01-063",
+    "question": "Qu'est-ce que le manguier",
+    "reponse": "Le manguier est un arbre fruitier tropical à feuillage persistant, appartenant à la famille des Anacardiacées, qui produit la mangue, un fruit charnu et sucré.",
+    "tags": [
+      "manguier",
+      "arbre fruitier",
+      "mangue",
+      "anacardiacees",
+      "pye mango",
+      "mango"
+    ]
+  },
+  {
+    "id": "def-01-064",
+    "question": "Kisa ki pye mango a",
+    "reponse": "Pye mango se yon pyebwa twopikal ki toujou gen fèy, li fè pati fanmi Anacardiacées yo, li pwodui mango, yon fwi ki gen anpil chè epi ki dous.",
+    "tags": [
+      "manguier",
+      "arbre fruitier",
+      "mangue",
+      "anacardiacees",
+      "pye mango",
+      "mango"
+    ]
+  },
+  {
+    "id": "def-01-065",
+    "question": "Qu'est-ce que le bambou",
+    "reponse": "Le bambou est une plante de la famille des graminées, caractérisée par une tige ligneuse creuse à croissance très rapide, utilisée en construction et en artisanat.",
+    "tags": [
+      "bambou",
+      "plante",
+      "graminees",
+      "croissance rapide",
+      "banbou",
+      "tij"
+    ]
+  },
+  {
+    "id": "def-01-066",
+    "question": "Kisa ki banbou a",
+    "reponse": "Banbou se yon plant nan fanmi graminen yo, li gen yon tij bwa ki vid anndan epi ki grandi vit anpil, yo itilize l nan konstriksyon ak atizana.",
+    "tags": [
+      "bambou",
+      "plante",
+      "graminees",
+      "croissance rapide",
+      "banbou",
+      "tij"
+    ]
+  },
+  {
+    "id": "def-01-067",
+    "question": "Qu'est-ce que le cactus",
+    "reponse": "Le cactus est une plante grasse adaptée aux milieux arides, capable de stocker de grandes quantités d'eau dans sa tige souvent couverte d'épines.",
+    "tags": [
+      "cactus",
+      "plante grasse",
+      "aridite",
+      "eau",
+      "kaktis",
+      "sèk"
+    ]
+  },
+  {
+    "id": "def-01-068",
+    "question": "Kisa ki kaktis la",
+    "reponse": "Kaktis se yon plant gra ki adapte ak zòn sèk, li kapab estoke anpil dlo nan tij li, ki souvan kouvri ak pikan.",
+    "tags": [
+      "cactus",
+      "plante grasse",
+      "aridite",
+      "eau",
+      "kaktis",
+      "sèk"
+    ]
+  },
+  {
+    "id": "def-01-069",
+    "question": "Qu'est-ce que la fleur",
+    "reponse": "La fleur est l'organe reproducteur des plantes à fleurs, composé généralement de pétales, d'étamines et d'un pistil, jouant un rôle clé dans la pollinisation.",
+    "tags": [
+      "fleur",
+      "organe reproducteur",
+      "petales",
+      "pollinisation",
+      "flè",
+      "repwodiksyon"
+    ]
+  },
+  {
+    "id": "def-01-070",
+    "question": "Kisa ki flè a",
+    "reponse": "Flè se ògàn repwodiksyon plant ki gen flè yo, an jeneral li gen petal, etamin ak pistil, li jwe yon gwo wòl nan polinizasyon.",
+    "tags": [
+      "fleur",
+      "organe reproducteur",
+      "petales",
+      "pollinisation",
+      "flè",
+      "repwodiksyon"
+    ]
+  },
+  {
+    "id": "def-01-071",
+    "question": "Qu'est-ce que la racine",
+    "reponse": "La racine est la partie souterraine d'une plante qui l'ancre dans le sol, absorbe l'eau et les minéraux nécessaires à sa croissance.",
+    "tags": [
+      "racine",
+      "sol",
+      "absorption",
+      "croissance",
+      "rasin",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "def-01-072",
+    "question": "Kisa ki rasin nan",
+    "reponse": "Rasin se pati anba tè yon plant ki kenbe l nan tè a, li absòbe dlo ak mineral plant lan bezwen pou l grandi.",
+    "tags": [
+      "racine",
+      "sol",
+      "absorption",
+      "croissance",
+      "rasin",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "def-01-073",
+    "question": "Qu'est-ce que la feuille",
+    "reponse": "La feuille est l'organe végétal généralement plat et vert, siège principal de la photosynthèse grâce à la chlorophylle qu'elle contient.",
+    "tags": [
+      "feuille",
+      "photosynthese",
+      "chlorophylle",
+      "organe vegetal",
+      "fèy",
+      "klowofil"
+    ]
+  },
+  {
+    "id": "def-01-074",
+    "question": "Kisa ki fèy la",
+    "reponse": "Fèy se ògàn plant lan, an jeneral li plat epi vèt, se la fotosentèz la fèt sitou gras ak klowofil ki ladan l.",
+    "tags": [
+      "feuille",
+      "photosynthese",
+      "chlorophylle",
+      "organe vegetal",
+      "fèy",
+      "klowofil"
+    ]
+  },
+  {
+    "id": "def-01-075",
+    "question": "Qu'est-ce que le fruit",
+    "reponse": "Le fruit est la structure végétale issue de la fleur fécondée, contenant les graines et servant souvent de réserve nutritive pour favoriser leur dispersion.",
+    "tags": [
+      "fruit",
+      "graines",
+      "fleur",
+      "dispersion",
+      "fwi",
+      "grenn"
+    ]
+  },
+  {
+    "id": "def-01-076",
+    "question": "Kisa ki fwi a",
+    "reponse": "Fwi se estrikti plant ki soti nan yon flè ki fekonde, li genyen grenn yo epi souvan li sèvi kòm rezèv manje pou ede grenn yo gaye.",
+    "tags": [
+      "fruit",
+      "graines",
+      "fleur",
+      "dispersion",
+      "fwi",
+      "grenn"
+    ]
+  },
+  {
+    "id": "def-01-077",
+    "question": "Qu'est-ce que la graine",
+    "reponse": "La graine est la structure végétale issue de la fécondation, contenant un embryon de plante capable de germer dans des conditions favorables.",
+    "tags": [
+      "graine",
+      "embryon",
+      "germination",
+      "fecondation",
+      "grenn",
+      "jèmen"
+    ]
+  },
+  {
+    "id": "def-01-078",
+    "question": "Kisa ki grenn nan",
+    "reponse": "Grenn se estrikti plant ki soti nan fekondasyon, li genyen yon ti plant anndan l ki kapab jèmen si kondisyon yo bon.",
+    "tags": [
+      "graine",
+      "embryon",
+      "germination",
+      "fecondation",
+      "grenn",
+      "jèmen"
+    ]
+  },
+  {
+    "id": "def-01-079",
+    "question": "Qu'est-ce que la voiture",
+    "reponse": "La voiture est un véhicule motorisé à roues, conçu pour transporter des personnes ou des marchandises sur route, généralement propulsé par un moteur à combustion ou électrique.",
+    "tags": [
+      "voiture",
+      "vehicule",
+      "moteur",
+      "transport",
+      "machin",
+      "motè"
+    ]
+  },
+  {
+    "id": "def-01-080",
+    "question": "Kisa ki machin nan",
+    "reponse": "Machin se yon machin ki gen motè ak wou, yo fè l pou transpòte moun oswa machandiz sou wout, an jeneral li mache ak yon motè konbisyon oswa elektrik.",
+    "tags": [
+      "voiture",
+      "vehicule",
+      "moteur",
+      "transport",
+      "machin",
+      "motè"
+    ]
+  },
+  {
+    "id": "def-01-081",
+    "question": "Qu'est-ce que l'avion",
+    "reponse": "L'avion est un aéronef à voilure fixe propulsé par un ou plusieurs moteurs, capable de voler grâce à la portance générée par ses ailes.",
+    "tags": [
+      "avion",
+      "aeronef",
+      "ailes",
+      "portance",
+      "avyon",
+      "zèl"
+    ]
+  },
+  {
+    "id": "def-01-082",
+    "question": "Kisa ki avyon an",
+    "reponse": "Avyon se yon machin ki ka vole, li gen zèl fiks epi motè ki pouse l, li vole gras ak fòs zèl li yo kreye.",
+    "tags": [
+      "avion",
+      "aeronef",
+      "ailes",
+      "portance",
+      "avyon",
+      "zèl"
+    ]
+  },
+  {
+    "id": "def-01-083",
+    "question": "Qu'est-ce que le bateau",
+    "reponse": "Le bateau est une embarcation conçue pour flotter et se déplacer sur l'eau, utilisée pour le transport de personnes, de marchandises ou pour la pêche.",
+    "tags": [
+      "bateau",
+      "embarcation",
+      "eau",
+      "transport",
+      "bato",
+      "flote"
+    ]
+  },
+  {
+    "id": "def-01-084",
+    "question": "Kisa ki bato a",
+    "reponse": "Bato se yon machin yo fè pou l flote epi deplase sou dlo, yo itilize l pou transpòte moun, machandiz oswa pou lapèch.",
+    "tags": [
+      "bateau",
+      "embarcation",
+      "eau",
+      "transport",
+      "bato",
+      "flote"
+    ]
+  },
+  {
+    "id": "def-01-085",
+    "question": "Qu'est-ce que le train",
+    "reponse": "Le train est un moyen de transport ferroviaire composé de wagons reliés entre eux, circulant sur des rails grâce à une locomotive.",
+    "tags": [
+      "train",
+      "ferroviaire",
+      "wagons",
+      "locomotive",
+      "tren",
+      "ray"
+    ]
+  },
+  {
+    "id": "def-01-086",
+    "question": "Kisa ki tren an",
+    "reponse": "Tren se yon mwayen transpò ki gen wagon ki konekte ansanm, li mache sou ray gras ak yon lokomotiv.",
+    "tags": [
+      "train",
+      "ferroviaire",
+      "wagons",
+      "locomotive",
+      "tren",
+      "ray"
+    ]
+  },
+  {
+    "id": "def-01-087",
+    "question": "Qu'est-ce que la bicyclette",
+    "reponse": "La bicyclette est un véhicule à deux roues propulsé par la force musculaire du cycliste grâce à des pédales reliées à la roue arrière par une chaîne.",
+    "tags": [
+      "bicyclette",
+      "deux roues",
+      "pedales",
+      "chaine",
+      "bisiklèt",
+      "pedal"
+    ]
+  },
+  {
+    "id": "def-01-088",
+    "question": "Kisa ki bisiklèt la",
+    "reponse": "Bisiklèt se yon machin ki gen de wou, fòs jamn moun k ap monte l la pouse l gras ak pedal ki konekte ak wou dèyè a ak yon chenn.",
+    "tags": [
+      "bicyclette",
+      "deux roues",
+      "pedales",
+      "chaine",
+      "bisiklèt",
+      "pedal"
+    ]
+  },
+  {
+    "id": "def-01-089",
+    "question": "Qu'est-ce que la moto",
+    "reponse": "La moto, ou motocyclette, est un véhicule motorisé à deux roues, plus rapide que la bicyclette, propulsé par un moteur à combustion ou électrique.",
+    "tags": [
+      "moto",
+      "motocyclette",
+      "moteur",
+      "deux roues",
+      "moto",
+      "motè"
+    ]
+  },
+  {
+    "id": "def-01-090",
+    "question": "Kisa ki moto a",
+    "reponse": "Moto, oswa motosiklèt, se yon machin ki gen de wou epi ki gen motè, li pi rapid pase bisiklèt, motè konbisyon oswa elektrik pouse l.",
+    "tags": [
+      "moto",
+      "motocyclette",
+      "moteur",
+      "deux roues",
+      "moto",
+      "motè"
+    ]
+  },
+  {
+    "id": "def-01-091",
+    "question": "Qu'est-ce que le bus",
+    "reponse": "Le bus est un véhicule routier de grande capacité conçu pour transporter de nombreux passagers en même temps sur des trajets urbains ou interurbains.",
+    "tags": [
+      "bus",
+      "vehicule",
+      "transport en commun",
+      "passagers",
+      "bis",
+      "pasaje"
+    ]
+  },
+  {
+    "id": "def-01-092",
+    "question": "Kisa ki bis la",
+    "reponse": "Bis se yon machin wout ki gen plas pou anpil moun, yo fè l pou transpòte anpil pasaje an menm tan sou wout nan vil oswa ant vil.",
+    "tags": [
+      "bus",
+      "vehicule",
+      "transport en commun",
+      "passagers",
+      "bis",
+      "pasaje"
+    ]
+  },
+  {
+    "id": "def-01-093",
+    "question": "Qu'est-ce que l'hélicoptère",
+    "reponse": "L'hélicoptère est un aéronef à voilure tournante, capable de décoller et d'atterrir verticalement grâce à un ou plusieurs rotors horizontaux.",
+    "tags": [
+      "helicoptere",
+      "rotor",
+      "decollage vertical",
+      "aeronef",
+      "elikoptè",
+      "vire"
+    ]
+  },
+  {
+    "id": "def-01-094",
+    "question": "Kisa ki elikoptè a",
+    "reponse": "Elikoptè se yon machin ki ka vole, li gen zèl ki vire, li ka dekole ak ateri tou dwat gras ak yon oswa plizyè wotè ki vire orizontalman.",
+    "tags": [
+      "helicoptere",
+      "rotor",
+      "decollage vertical",
+      "aeronef",
+      "elikoptè",
+      "vire"
+    ]
+  },
+  {
+    "id": "def-01-095",
+    "question": "Qu'est-ce que la fusée",
+    "reponse": "La fusée est un véhicule propulsé par réaction, capable de voyager dans l'espace en éjectant à grande vitesse des gaz produits par la combustion de carburants.",
+    "tags": [
+      "fusee",
+      "propulsion",
+      "espace",
+      "combustion",
+      "fize",
+      "espas"
+    ]
+  },
+  {
+    "id": "def-01-096",
+    "question": "Kisa ki fize a",
+    "reponse": "Fize se yon machin ki pouse tèt li lè l voye gaz deyò ak gwo vitès, gaz sa yo soti nan konbisyon kabiran, li ka vwayaje nan espas.",
+    "tags": [
+      "fusee",
+      "propulsion",
+      "espace",
+      "combustion",
+      "fize",
+      "espas"
+    ]
+  },
+  {
+    "id": "def-01-097",
+    "question": "Qu'est-ce que le camion",
+    "reponse": "Le camion est un véhicule motorisé de grande taille destiné au transport de marchandises lourdes ou volumineuses sur route.",
+    "tags": [
+      "camion",
+      "vehicule",
+      "marchandises",
+      "transport routier",
+      "kamyon",
+      "machandiz"
+    ]
+  },
+  {
+    "id": "def-01-098",
+    "question": "Kisa ki kamyon an",
+    "reponse": "Kamyon se yon machin ki gwo epi ki gen motè, yo fè l pou transpòte machandiz ki lou oswa ki gwo sou wout.",
+    "tags": [
+      "camion",
+      "vehicule",
+      "marchandises",
+      "transport routier",
+      "kamyon",
+      "machandiz"
+    ]
+  },
+  {
+    "id": "def-01-099",
+    "question": "Qu'est-ce que le chat",
+    "reponse": "Le chat est un petit mammifère carnivore domestique de la famille des félidés, apprécié pour son agilité, ses griffes rétractiles et son comportement souvent indépendant.",
+    "tags": [
+      "chat",
+      "felide domestique",
+      "griffes",
+      "agilite",
+      "chat",
+      "grif"
+    ]
+  },
+  {
+    "id": "def-01-100",
+    "question": "Kisa ki chat la",
+    "reponse": "Chat se yon ti mamifè manjè vyann moun gen lakay yo, li fè pati fanmi felide yo, li gen ajilite, grif li ka retire epi li souvan konpòte tèt li tankou yon bèt endepandan.",
+    "tags": [
+      "chat",
+      "felide domestique",
+      "griffes",
+      "agilite",
+      "chat",
+      "grif"
+    ]
+  }
+]

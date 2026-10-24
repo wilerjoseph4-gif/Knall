@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "hti-alfabe-kr-001",
+    "question": "Combien de lettres compte l'alphabet créole haïtien ?",
+    "reponse": "L'alphabet créole haïtien compte 32 lettres, dont des voyelles nasales.",
+    "tags": [
+      "alphabet creole",
+      "32 lettres",
+      "comptage",
+      "alfabè kreyòl",
+      "konb"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-002",
+    "question": "Konbyen let alfabè kreyòl ayisyen an genyen ?",
+    "reponse": "Alfabè kreyòl ayisyen an gen 32 let, ki ladan yo gen vwayèl nazal.",
+    "tags": [
+      "alphabet creole",
+      "32 lettres",
+      "comptage",
+      "alfabè kreyòl",
+      "konb"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-003",
+    "question": "Quelles sont les 32 lettres de l'alphabet créole ?",
+    "reponse": "A, AN, B, CH, D, E, È, EN, F, G, H, I, J, K, L, M, N, NG, O, Ò, ON, OU, OUN, P, R, S, T, UI, V, W, Y, Z.",
+    "tags": [
+      "alphabet",
+      "liste",
+      "lettres",
+      "alfabè",
+      "lis"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-004",
+    "question": "Ki 32 let alfabè kreyòl la yo ?",
+    "reponse": "A, AN, B, CH, D, E, È, EN, F, G, H, I, J, K, L, M, N, NG, O, Ò, ON, OU, OUN, P, R, S, T, UI, V, W, Y, Z.",
+    "tags": [
+      "alphabet",
+      "liste",
+      "lettres",
+      "alfabè",
+      "lis"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-005",
+    "question": "L'alphabet créole est-il le même que l'alphabet français ?",
+    "reponse": "Non : le créole a 32 lettres, le français 26 ; le créole n'a pas de C, Q ni X.",
+    "tags": [
+      "comparaison",
+      "difference",
+      "difrans",
+      "konparezon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-006",
+    "question": "Èske alfabè kreyòl la menm bagay ak alfabè franse a ?",
+    "reponse": "Non : kreyòl la gen 32 let, franse a gen 26 ; kreyòl la pa gen C, Q ni X.",
+    "tags": [
+      "comparaison",
+      "difference",
+      "difrans",
+      "konparezon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-007",
+    "question": "Quelles lettres du créole n'existent pas en français ?",
+    "reponse": "Le créole a des lettres absentes du français : AN, CH, È, EN, NG, Ò, ON, OU, OUN et UI.",
+    "tags": [
+      "lettres creoles",
+      "differences",
+      "let kreyòl",
+      "difrans"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-008",
+    "question": "Ki let kreyòl ki pa nan alfabè franse a ?",
+    "reponse": "Kreyòl la gen let ki pa nan franse a : AN, CH, È, EN, NG, Ò, ON, OU, OUN ak UI.",
+    "tags": [
+      "lettres creoles",
+      "differences",
+      "let kreyòl",
+      "difrans"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-009",
+    "question": "Quelles lettres françaises n'existent pas en créole ?",
+    "reponse": "C, Q et X n'existent pas en créole ; ils sont remplacés par K, S ou KS.",
+    "tags": [
+      "c",
+      "q",
+      "x",
+      "remplacement",
+      "ranplasman"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-010",
+    "question": "Ki let franse ki pa nan alfabè kreyòl la ?",
+    "reponse": "C, Q ak X pa egziste nan kreyòl ; yo ranplase yo ak K, S oswa KS.",
+    "tags": [
+      "c",
+      "q",
+      "x",
+      "remplacement",
+      "ranplasman"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-011",
+    "question": "Quelles sont les voyelles de l'alphabet créole ?",
+    "reponse": "Les voyelles créoles sont A, E, È, I, O, Ò et OU.",
+    "tags": [
+      "voyelles",
+      "a e i o ou",
+      "vwayèl"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-012",
+    "question": "Ki vwayèl alfabè kreyòl la yo ?",
+    "reponse": "Vwayèl kreyòl yo se A, E, È, I, O, Ò ak OU.",
+    "tags": [
+      "voyelles",
+      "a e i o ou",
+      "vwayèl"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-013",
+    "question": "Quelles sont les voyelles nasales du créole ?",
+    "reponse": "Les voyelles nasales sont AN, EN, ON et OUN : zanmi, gen, mòn, youn.",
+    "tags": [
+      "voyelles nasales",
+      "an en on oun",
+      "vwayèl nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-014",
+    "question": "Ki vwayèl nazal kreyòl yo ?",
+    "reponse": "Vwayèl nazal yo se AN, EN, ON ak OUN : zanmi, gen, mòn, youn.",
+    "tags": [
+      "voyelles nasales",
+      "an en on oun",
+      "vwayèl nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-015",
+    "question": "Pourquoi l'alphabet créole est-il facile à apprendre ?",
+    "reponse": "Parce qu'il est phonétique : chaque lettre a un seul son et toutes les lettres se prononcent.",
+    "tags": [
+      "phonetique",
+      "facile",
+      "fònetik",
+      "fasil"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-016",
+    "question": "Poukisa alfabè kreyòl la fasil pou aprann ?",
+    "reponse": "Paske li fònetik : chak let gen yon sèl son epi tout let yo sonnen.",
+    "tags": [
+      "phonetique",
+      "facile",
+      "fònetik",
+      "fasil"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-017",
+    "question": "Quels accents existe-t-il en créole ?",
+    "reponse": "Le créole n'a que deux accents graves : È (comme dans fè) et Ò (comme dans kò).",
+    "tags": [
+      "accents",
+      "e grave",
+      "o grave",
+      "aksan",
+      "grav"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-018",
+    "question": "Ki aksan ki genyen nan lang kreyòl la ?",
+    "reponse": "Kreyòl la gen sèlman de aksan grav : È (tankou nan fè) ak Ò (tankou nan kò).",
+    "tags": [
+      "accents",
+      "e grave",
+      "o grave",
+      "aksan",
+      "grav"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-019",
+    "question": "Comment écrit-on le son CH en créole ?",
+    "reponse": "Le son CH s'écrit avec le digramme CH : chwal, chodyè, chante, chen.",
+    "tags": [
+      "ch",
+      "digramme",
+      "son",
+      "digram",
+      "ekriti"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-020",
+    "question": "Kijan pou w ekri son CH nan kreyòl ?",
+    "reponse": "Son CH la sèvi ak digram CH pou ekri l : chwal, chodyè, chante, chen.",
+    "tags": [
+      "ch",
+      "digramme",
+      "son",
+      "digram",
+      "ekriti"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-021",
+    "question": "Quelle est la lettre NG et où la trouve-t-on ?",
+    "reponse": "NG se prononce comme dans ngann (petit tambour) ; on la trouve aussi au milieu de mots comme mango.",
+    "tags": [
+      "ng",
+      "lettre",
+      "ngann",
+      "let",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-022",
+    "question": "Kisa ki let NG a epi kote pou w jwenn li ?",
+    "reponse": "NG sonnen tankou nan mo ngann (ti tanbou) ; ou jwenn li tou nan mitan mo tankou mango.",
+    "tags": [
+      "ng",
+      "lettre",
+      "ngann",
+      "let",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-023",
+    "question": "Quelle est la différence entre OU et W en créole ?",
+    "reponse": "OU est une voyelle qui fait le son OU (ou, nou, tout) ; W est une consonne : wi, wè, woulo.",
+    "tags": [
+      "ou",
+      "w",
+      "difference",
+      "diferans",
+      "voyelle consonne"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-024",
+    "question": "Ki diferans ki genyen ant OU ak W nan kreyòl ?",
+    "reponse": "OU se yon vwayèl ki fè son OU a (ou, nou, tout) ; W se yon konsonn : wi, wè, woulo.",
+    "tags": [
+      "ou",
+      "w",
+      "difference",
+      "diferans",
+      "voyelle consonne"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-025",
+    "question": "Où trouve-t-on la lettre UI en créole ?",
+    "reponse": "UI est une des lettres les plus rares du créole ; elle n'apparaît presque jamais en début de mot.",
+    "tags": [
+      "ui",
+      "lettre rare",
+      "let ra",
+      "alfabè"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-026",
+    "question": "Kote pou w jwenn let UI nan kreyòl ?",
+    "reponse": "UI se youn nan let ki pi ra yo nan kreyòl ; li prèske pa janm parèt nan kòmansman yon mo.",
+    "tags": [
+      "ui",
+      "lettre rare",
+      "let ra",
+      "alfabè"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-027",
+    "question": "Y a-t-il des lettres silencieuses en créole ?",
+    "reponse": "Non : contrairement au français, toutes les lettres se prononcent en créole, par exemple TAB se dit t-a-b.",
+    "tags": [
+      "lettres silencieuses",
+      "phonetique",
+      "let silansye",
+      "fònetik"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-028",
+    "question": "Èske gen let silansye nan kreyòl ?",
+    "reponse": "Non : pa tankou nan franse, tout let yo sonnen nan kreyòl, pa egzanp TAB se t-a-b.",
+    "tags": [
+      "lettres silencieuses",
+      "phonetique",
+      "let silansye",
+      "fònetik"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-029",
+    "question": "Pourquoi le créole n'utilise-t-il pas la lettre C ?",
+    "reponse": "Parce que le C est compliqué (il fait S ou K) ; le créole écrit S pour S et K pour K.",
+    "tags": [
+      "lettre c",
+      "simplification",
+      "let c",
+      "senplifikasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-030",
+    "question": "Poukisa kreyòl la pa itilize let C ?",
+    "reponse": "Paske C a konplike (li ka fè S oswa K) ; kreyòl la ekri S pou son S epi K pou son K.",
+    "tags": [
+      "lettre c",
+      "simplification",
+      "let c",
+      "senplifikasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-031",
+    "question": "Pourquoi le créole n'utilise-t-il pas la lettre Q ?",
+    "reponse": "Parce qu'en français le Q marche toujours avec U ; en créole, le son K s'écrit toujours avec K.",
+    "tags": [
+      "lettre q",
+      "simplification",
+      "let q",
+      "senplifikasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-032",
+    "question": "Poukisa kreyòl la pa itilize let Q ?",
+    "reponse": "Paske an franse Q la toujou mache ak U ; nan kreyòl, son K la toujou ekri ak K.",
+    "tags": [
+      "lettre q",
+      "simplification",
+      "let q",
+      "senplifikasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-033",
+    "question": "Comment écrit-on le son KS en créole ?",
+    "reponse": "Le son KS s'écrit avec deux lettres K et S : taksi (et non taxi), taxe devient takse.",
+    "tags": [
+      "ks",
+      "x",
+      "taksi",
+      "ekriti",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-034",
+    "question": "Kijan pou w ekri son KS nan kreyòl ?",
+    "reponse": "Son KS la sèvi ak de let K ak S pou ekri l : taksi (pa « taxi »), takse (pa « taxe »).",
+    "tags": [
+      "ks",
+      "x",
+      "taksi",
+      "ekriti",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-035",
+    "question": "Donne un mot exemple pour chaque voyelle créole",
+    "reponse": "A (anana), E (ete), È (fè), I (il), O (opital), Ò (kò), OU (ou).",
+    "tags": [
+      "voyelles",
+      "exemples",
+      "vwayèl",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-036",
+    "question": "Ban mwen yon mo egzanp pou chak vwayèl kreyòl",
+    "reponse": "A (anana), E (ete), È (fè), I (il), O (opital), Ò (kò), OU (ou).",
+    "tags": [
+      "voyelles",
+      "exemples",
+      "vwayèl",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-037",
+    "question": "Quel mot commence par la lettre A ?",
+    "reponse": "Par exemple : anana, abako, akasan.",
+    "tags": [
+      "a",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let a"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-038",
+    "question": "Ki mo ki kòmanse ak let A ?",
+    "reponse": "Pa egzanp : anana, abako, akasan.",
+    "tags": [
+      "a",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let a"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-039",
+    "question": "Quel mot commence par la lettre B ?",
+    "reponse": "Par exemple : bannann, bato, bèf, bib.",
+    "tags": [
+      "b",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let b"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-040",
+    "question": "Ki mo ki kòmanse ak let B ?",
+    "reponse": "Pa egzanp : bannann, bato, bèf, bib.",
+    "tags": [
+      "b",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let b"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-041",
+    "question": "Quel mot commence par CH ?",
+    "reponse": "Par exemple : chwal, chodyè, chante, chen.",
+    "tags": [
+      "ch",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let ch"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-042",
+    "question": "Ki mo ki kòmanse ak CH ?",
+    "reponse": "Pa egzanp : chwal, chodyè, chante, chen.",
+    "tags": [
+      "ch",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let ch"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-043",
+    "question": "Quel mot commence par la lettre D ?",
+    "reponse": "Par exemple : dada, dan, dlo, douz.",
+    "tags": [
+      "d",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let d"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-044",
+    "question": "Ki mo ki kòmanse ak let D ?",
+    "reponse": "Pa egzanp : dada, dan, dlo, douz.",
+    "tags": [
+      "d",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let d"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-045",
+    "question": "Quel mot commence par la lettre F ?",
+    "reponse": "Par exemple : fig, fèy, fanm, figi.",
+    "tags": [
+      "f",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let f"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-046",
+    "question": "Ki mo ki kòmanse ak let F ?",
+    "reponse": "Pa egzanp : fig, fèy, fanm, figi.",
+    "tags": [
+      "f",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let f"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-047",
+    "question": "Quel mot commence par la lettre G ?",
+    "reponse": "Par exemple : gomye, griyo, gwo, gaz.",
+    "tags": [
+      "g",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let g"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-048",
+    "question": "Ki mo ki kòmanse ak let G ?",
+    "reponse": "Pa egzanp : gomye, griyo, gwo, gaz.",
+    "tags": [
+      "g",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let g"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-049",
+    "question": "Quel mot commence par la lettre H ?",
+    "reponse": "Par exemple : hach ; la lettre H est rare en créole.",
+    "tags": [
+      "h",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let h"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-050",
+    "question": "Ki mo ki kòmanse ak let H ?",
+    "reponse": "Pa egzanp : hach. Let H la ra anpil nan lang kreyòl la.",
+    "tags": [
+      "h",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let h"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-051",
+    "question": "Quel mot commence par la lettre J ?",
+    "reponse": "Par exemple : jaden, jou, jwa, jwèt.",
+    "tags": [
+      "j",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let j"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-052",
+    "question": "Ki mo ki kòmanse ak let J ?",
+    "reponse": "Pa egzanp : jaden, jou, jwa, jwèt.",
+    "tags": [
+      "j",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let j"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-053",
+    "question": "Quel mot commence par la lettre K ?",
+    "reponse": "Par exemple : kabann, kouri, kay, kok.",
+    "tags": [
+      "k",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let k"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-054",
+    "question": "Ki mo ki kòmanse ak let K ?",
+    "reponse": "Pa egzanp : kabann, kouri, kay, kok.",
+    "tags": [
+      "k",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let k"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-055",
+    "question": "Quel mot commence par la lettre L ?",
+    "reponse": "Par exemple : liv, lanmou, limyè, lakou.",
+    "tags": [
+      "l",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let l"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-056",
+    "question": "Ki mo ki kòmanse ak let L ?",
+    "reponse": "Pa egzanp : liv, lanmou, limyè, lakou.",
+    "tags": [
+      "l",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let l"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-057",
+    "question": "Quel mot commence par la lettre M ?",
+    "reponse": "Par exemple : mamman, machin, mayi, mòn.",
+    "tags": [
+      "m",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let m"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-058",
+    "question": "Ki mo ki kòmanse ak let M ?",
+    "reponse": "Pa egzanp : mamman, machin, mayi, mòn.",
+    "tags": [
+      "m",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let m"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-059",
+    "question": "Quel mot commence par la lettre N ?",
+    "reponse": "Par exemple : nannan, nat, nich, nou.",
+    "tags": [
+      "n",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let n"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-060",
+    "question": "Ki mo ki kòmanse ak let N ?",
+    "reponse": "Pa egzanp : nannan, nat, nich, nou.",
+    "tags": [
+      "n",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let n"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-061",
+    "question": "Quel mot commence par NG ?",
+    "reponse": "Par exemple : ngann (petit tambour) ; le NG se trouve aussi au milieu de mots.",
+    "tags": [
+      "ng",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let ng"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-062",
+    "question": "Ki mo ki kòmanse ak NG ?",
+    "reponse": "Pa egzanp : ngann (ti tanbou) ; NG a jwenn li tou nan mitan mo yo.",
+    "tags": [
+      "ng",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let ng"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-063",
+    "question": "Quel mot commence par la lettre O ?",
+    "reponse": "Par exemple : opital, oliv.",
+    "tags": [
+      "o",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let o"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-064",
+    "question": "Ki mo ki kòmanse ak let O ?",
+    "reponse": "Pa egzanp : opital, oliv.",
+    "tags": [
+      "o",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let o"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-065",
+    "question": "Quel mot contient la lettre Ò ?",
+    "reponse": "Par exemple : kò, dòmi, vòl, lòt.",
+    "tags": [
+      "ò",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let ò"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-066",
+    "question": "Ki mo ki gen let Ò ladan ?",
+    "reponse": "Pa egzanp : kò, dòmi, vòl, lòt.",
+    "tags": [
+      "ò",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let ò"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-067",
+    "question": "Quel mot contient la voyelle nasale ON ?",
+    "reponse": "Par exemple : zonbi, on, tonton.",
+    "tags": [
+      "on",
+      "nasal",
+      "exemple",
+      "nazal",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-068",
+    "question": "Ki mo ki gen vwayèl nazal ON ladan ?",
+    "reponse": "Pa egzanp : zonbi, on, tonton.",
+    "tags": [
+      "on",
+      "nasal",
+      "exemple",
+      "nazal",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-069",
+    "question": "Quel mot contient la lettre OU ?",
+    "reponse": "Par exemple : ou, nou, tout, jou.",
+    "tags": [
+      "ou",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let ou"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-070",
+    "question": "Ki mo ki gen let OU ladan ?",
+    "reponse": "Pa egzanp : ou, nou, tout, jou.",
+    "tags": [
+      "ou",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let ou"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-071",
+    "question": "Quel mot contient la voyelle nasale OUN ?",
+    "reponse": "Par exemple : youn (un seul) ; la voyelle OUN est rare et ne commence jamais un mot.",
+    "tags": [
+      "oun",
+      "nasal",
+      "youn",
+      "nazal",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-072",
+    "question": "Ki mo ki gen vwayèl nazal OUN ladan ?",
+    "reponse": "Pa egzanp : youn (yon sèl) ; vwayèl OUN an ra epi li pa janm nan kòmansman yon mo.",
+    "tags": [
+      "oun",
+      "nasal",
+      "youn",
+      "nazal",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-073",
+    "question": "Quel mot commence par la lettre P ?",
+    "reponse": "Par exemple : papa, poul, pyebwa, pantalon.",
+    "tags": [
+      "p",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let p"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-074",
+    "question": "Ki mo ki kòmanse ak let P ?",
+    "reponse": "Pa egzanp : papa, poul, pyebwa, pantalon.",
+    "tags": [
+      "p",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let p"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-075",
+    "question": "Quel mot commence par la lettre R ?",
+    "reponse": "Par exemple : rad, radyo, rèd, ri.",
+    "tags": [
+      "r",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let r"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-076",
+    "question": "Ki mo ki kòmanse ak let R ?",
+    "reponse": "Pa egzanp : rad, radyo, rèd, ri.",
+    "tags": [
+      "r",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let r"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-077",
+    "question": "Quel mot commence par la lettre S ?",
+    "reponse": "Par exemple : sis, solèy, souri, sapo.",
+    "tags": [
+      "s",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let s"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-078",
+    "question": "Ki mo ki kòmanse ak let S ?",
+    "reponse": "Pa egzanp : sis, solèy, souri, sapo.",
+    "tags": [
+      "s",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let s"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-079",
+    "question": "Quel mot commence par la lettre T ?",
+    "reponse": "Par exemple : tab, tig, tanbou, tomat.",
+    "tags": [
+      "t",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let t"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-080",
+    "question": "Ki mo ki kòmanse ak let T ?",
+    "reponse": "Pa egzanp : tab, tig, tanbou, tomat.",
+    "tags": [
+      "t",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let t"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-081",
+    "question": "Quel mot commence par la lettre V ?",
+    "reponse": "Par exemple : van, vè, vilaj, vann.",
+    "tags": [
+      "v",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let v"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-082",
+    "question": "Ki mo ki kòmanse ak let V ?",
+    "reponse": "Pa egzanp : van, vè, vilaj, vann.",
+    "tags": [
+      "v",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let v"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-083",
+    "question": "Quel mot commence par la lettre W ?",
+    "reponse": "Par exemple : wi, woulo, wè, wa.",
+    "tags": [
+      "w",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let w"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-084",
+    "question": "Ki mo ki kòmanse ak let W ?",
+    "reponse": "Pa egzanp : wi, woulo, wè, wa.",
+    "tags": [
+      "w",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let w"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-085",
+    "question": "Quel mot commence par la lettre Y ?",
+    "reponse": "Par exemple : yanm, yon.",
+    "tags": [
+      "y",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let y"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-086",
+    "question": "Ki mo ki kòmanse ak let Y ?",
+    "reponse": "Pa egzanp : yanm, yon.",
+    "tags": [
+      "y",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let y"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-087",
+    "question": "Quel mot commence par la lettre Z ?",
+    "reponse": "Par exemple : zannanna, zèb, zonyon, zouti.",
+    "tags": [
+      "z",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let z"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-088",
+    "question": "Ki mo ki kòmanse ak let Z ?",
+    "reponse": "Pa egzanp : zannanna, zèb, zonyon, zouti.",
+    "tags": [
+      "z",
+      "exemple",
+      "mo",
+      "egzanp",
+      "let z"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-089",
+    "question": "Quel mot contient la voyelle nasale AN ?",
+    "reponse": "Par exemple : zanmi, van, dan, kann.",
+    "tags": [
+      "an",
+      "nasal",
+      "exemple",
+      "nazal",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-090",
+    "question": "Ki mo ki gen vwayèl nazal AN ladan ?",
+    "reponse": "Pa egzanp : zanmi, van, dan, kann.",
+    "tags": [
+      "an",
+      "nasal",
+      "exemple",
+      "nazal",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-091",
+    "question": "Quel mot contient la voyelle nasale EN ?",
+    "reponse": "Par exemple : gen, ken, yen, pen.",
+    "tags": [
+      "en",
+      "nasal",
+      "exemple",
+      "nazal",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-092",
+    "question": "Ki mo ki gen vwayèl nazal EN ladan ?",
+    "reponse": "Pa egzanp : gen, ken, yen, pen.",
+    "tags": [
+      "en",
+      "nasal",
+      "exemple",
+      "nazal",
+      "egzanp"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-093",
+    "question": "À quoi sert l'alphabet créole ?",
+    "reponse": "L'alphabet créole sert à écrire correctement le créole, à apprendre à lire et à préserver la langue par écrit.",
+    "tags": [
+      "alphabet",
+      "utilite",
+      "preservation",
+      "alfabè",
+      "sèvi"
+    ]
+  },
+  {
+    "id": "hti-alfabe-kr-094",
+    "question": "Alfabè kreyòl la sèvi pou sa ?",
+    "reponse": "Alfabè kreyòl la sèvi pou ekri lang lan byen, pou aprann li epi pou konsève lang lan pa ekri.",
+    "tags": [
+      "alphabet",
+      "utilite",
+      "preservation",
+      "alfabè",
+      "sèvi"
+    ]
+  }
+]

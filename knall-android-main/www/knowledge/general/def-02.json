@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "def-02-001",
+    "question": "Qu'est-ce que le tigre",
+    "reponse": "Le tigre est un grand félin carnivore au pelage orange rayé de noir, le plus grand représentant de la famille des félidés, vivant surtout en Asie et chassant seul.",
+    "tags": [
+      "tigre",
+      "felide",
+      "asie",
+      "chasseur solitaire",
+      "tig",
+      "chase"
+    ]
+  },
+  {
+    "id": "def-02-002",
+    "question": "Kisa ki tig la",
+    "reponse": "Tig se yon gwo bèt manjè vyann nan fanmi felide yo, po li oranj ak liy nwa, se li ki pi gwo nan fanmi an, li viv sitou an Azi epi li chase pou kont li.",
+    "tags": [
+      "tigre",
+      "felide",
+      "asie",
+      "chasseur solitaire",
+      "tig",
+      "chase"
+    ]
+  },
+  {
+    "id": "def-02-003",
+    "question": "Qu'est-ce que l'ours",
+    "reponse": "L'ours est un grand mammifère plantigrade au corps massif, omnivore pour la plupart des espèces, capable d'hiberner durant l'hiver dans les régions froides.",
+    "tags": [
+      "ours",
+      "mammifere",
+      "hibernation",
+      "omnivore",
+      "lous",
+      "ibènasyon"
+    ]
+  },
+  {
+    "id": "def-02-004",
+    "question": "Kisa ki lous la",
+    "reponse": "Lous se yon gwo mamifè ki mache sou tout pla pye li, kò li masif, pifò espès yo manje toulède plant ak vyann, li ka fè ibènasyon pandan livè nan zòn frèt.",
+    "tags": [
+      "ours",
+      "mammifere",
+      "hibernation",
+      "omnivore",
+      "lous",
+      "ibènasyon"
+    ]
+  },
+  {
+    "id": "def-02-005",
+    "question": "Qu'est-ce que le crocodile",
+    "reponse": "Le crocodile est un grand reptile aquatique prédateur, au corps couvert d'écailles épaisses et aux mâchoires puissantes, vivant dans les rivières et marais tropicaux.",
+    "tags": [
+      "crocodile",
+      "reptile aquatique",
+      "predateur",
+      "machoires",
+      "kayiman",
+      "rivyè"
+    ]
+  },
+  {
+    "id": "def-02-006",
+    "question": "Kisa ki kayiman an",
+    "reponse": "Kayiman se yon gwo reptil dlo ki se yon predatè, kò li kouvri ak gwo kal epi machwa li fò anpil, li viv nan rivyè ak marekay twopikal.",
+    "tags": [
+      "crocodile",
+      "reptile aquatique",
+      "predateur",
+      "machoires",
+      "kayiman",
+      "rivyè"
+    ]
+  },
+  {
+    "id": "def-02-007",
+    "question": "Qu'est-ce que l'aigle",
+    "reponse": "L'aigle est un grand oiseau rapace diurne, reconnu pour sa vue perçante, ses serres puissantes et son vol majestueux à haute altitude.",
+    "tags": [
+      "aigle",
+      "rapace",
+      "serres",
+      "vol",
+      "èg",
+      "grif"
+    ]
+  },
+  {
+    "id": "def-02-008",
+    "question": "Kisa ki èg la",
+    "reponse": "Èg se yon gwo zwazo predatè ki chase lajounen, moun rekonèt li pou je l ki wè byen lwen, grif li ki fò ak fason li vole byen wo nan syèl la.",
+    "tags": [
+      "aigle",
+      "rapace",
+      "serres",
+      "vol",
+      "èg",
+      "grif"
+    ]
+  },
+  {
+    "id": "def-02-009",
+    "question": "Qu'est-ce que la tortue",
+    "reponse": "La tortue est un reptile caractérisé par une carapace osseuse protectrice recouvrant son corps, existant en espèces terrestres, d'eau douce et marines.",
+    "tags": [
+      "tortue",
+      "reptile",
+      "carapace",
+      "especes",
+      "tòti",
+      "kokiy"
+    ]
+  },
+  {
+    "id": "def-02-010",
+    "question": "Kisa ki tòti a",
+    "reponse": "Tòti se yon reptil ki gen yon kokiy zo ki pwoteje kò li, gen kalite ki viv sou tè, nan dlo dous ak nan lanmè.",
+    "tags": [
+      "tortue",
+      "reptile",
+      "carapace",
+      "especes",
+      "tòti",
+      "kokiy"
+    ]
+  },
+  {
+    "id": "def-02-011",
+    "question": "Qu'est-ce que le cheval",
+    "reponse": "Le cheval est un grand mammifère herbivore domestiqué depuis des millénaires, utilisé pour le transport, le travail agricole et le sport grâce à sa force et sa rapidité.",
+    "tags": [
+      "cheval",
+      "mammifere herbivore",
+      "domestication",
+      "transport",
+      "chwal",
+      "vitès"
+    ]
+  },
+  {
+    "id": "def-02-012",
+    "question": "Kisa ki chwal la",
+    "reponse": "Chwal se yon gwo mamifè ki manje zèb, moun domestike l depi plizyè mil ane, yo itilize l pou transpò, travay agrikòl ak espò gras ak fòs ak vitès li.",
+    "tags": [
+      "cheval",
+      "mammifere herbivore",
+      "domestication",
+      "transport",
+      "chwal",
+      "vitès"
+    ]
+  },
+  {
+    "id": "def-02-013",
+    "question": "Qu'est-ce que le kangourou",
+    "reponse": "Le kangourou est un marsupial originaire d'Australie, caractérisé par ses pattes arrière puissantes lui permettant de se déplacer par bonds et par la poche ventrale des femelles.",
+    "tags": [
+      "kangourou",
+      "marsupial",
+      "australie",
+      "bonds",
+      "kangourou",
+      "pòch"
+    ]
+  },
+  {
+    "id": "def-02-014",
+    "question": "Kisa ki kangourou a",
+    "reponse": "Kangourou se yon bèt ki gen yon pòch sou vant li, li soti Ostrali, pat dèyè li fò anpil ki pèmèt li deplase an fè bon, fi yo gen yon pòch sou vant kote pitit yo rete.",
+    "tags": [
+      "kangourou",
+      "marsupial",
+      "australie",
+      "bonds",
+      "kangourou",
+      "pòch"
+    ]
+  },
+  {
+    "id": "def-02-015",
+    "question": "Qu'est-ce que la girafe",
+    "reponse": "La girafe est le plus grand mammifère terrestre par la taille grâce à son long cou, originaire des savanes africaines, se nourrissant surtout des feuilles des arbres.",
+    "tags": [
+      "girafe",
+      "cou long",
+      "afrique",
+      "herbivore",
+      "jiraf",
+      "savann"
+    ]
+  },
+  {
+    "id": "def-02-016",
+    "question": "Kisa ki jiraf la",
+    "reponse": "Jiraf se mamifè tè a ki pi wo akòz kou li ki long, li soti nan savann Afrik yo, li manje sitou fèy pyebwa.",
+    "tags": [
+      "girafe",
+      "cou long",
+      "afrique",
+      "herbivore",
+      "jiraf",
+      "savann"
+    ]
+  },
+  {
+    "id": "def-02-017",
+    "question": "Qu'est-ce que le zèbre",
+    "reponse": "Le zèbre est un mammifère herbivore africain de la famille des équidés, reconnaissable à son pelage rayé de noir et blanc unique à chaque individu.",
+    "tags": [
+      "zebre",
+      "equides",
+      "afrique",
+      "rayures",
+      "zèb",
+      "liy"
+    ]
+  },
+  {
+    "id": "def-02-018",
+    "question": "Kisa ki zèb la (bèt la)",
+    "reponse": "Zèb la se yon mamifè afriken ki manje zèb, li fè pati fanmi chwal yo, moun rekonèt li ak po li ki gen liy nwa ak blan ki inik pou chak bèt.",
+    "tags": [
+      "zebre",
+      "equides",
+      "afrique",
+      "rayures",
+      "zèb",
+      "liy"
+    ]
+  },
+  {
+    "id": "def-02-019",
+    "question": "Qu'est-ce que le loup",
+    "reponse": "Le loup est un grand mammifère carnivore sauvage, ancêtre du chien domestique, vivant et chassant en groupes organisés appelés meutes.",
+    "tags": [
+      "loup",
+      "carnivore",
+      "chien",
+      "meute",
+      "lou",
+      "bann"
+    ]
+  },
+  {
+    "id": "def-02-020",
+    "question": "Kisa ki lou a",
+    "reponse": "Lou se yon gwo mamifè sovaj ki manje vyann, se zansèt chen domestik la, li viv epi chase an gwoup yo rele bann.",
+    "tags": [
+      "loup",
+      "carnivore",
+      "chien",
+      "meute",
+      "lou",
+      "bann"
+    ]
+  },
+  {
+    "id": "def-02-021",
+    "question": "Qu'est-ce que le cœur",
+    "reponse": "Le cœur est un organe musculaire creux qui pompe le sang dans tout le corps par des contractions rythmiques régulières, assurant la circulation sanguine.",
+    "tags": [
+      "coeur",
+      "organe musculaire",
+      "circulation",
+      "contractions",
+      "kè",
+      "ponpe"
+    ]
+  },
+  {
+    "id": "def-02-022",
+    "question": "Kisa ki kè a",
+    "reponse": "Kè a se yon ògàn mis ki vid anndan, li ponpe san an nan tout kò a ak kontraksyon regilye, sa k asire san an sikile.",
+    "tags": [
+      "coeur",
+      "organe musculaire",
+      "circulation",
+      "contractions",
+      "kè",
+      "ponpe"
+    ]
+  },
+  {
+    "id": "def-02-023",
+    "question": "Qu'est-ce que le poumon",
+    "reponse": "Le poumon est l'organe respiratoire qui permet les échanges gazeux entre l'air inspiré et le sang, absorbant l'oxygène et rejetant le dioxyde de carbone.",
+    "tags": [
+      "poumon",
+      "organe respiratoire",
+      "oxygene",
+      "echanges gazeux",
+      "poumon",
+      "respire"
+    ]
+  },
+  {
+    "id": "def-02-024",
+    "question": "Kisa ki poumon an",
+    "reponse": "Poumon se ògàn respiratwa ki pèmèt echanj gaz ant lè moun respire a ak san an, li absòbe oksijèn epi rejte gaz kabonik.",
+    "tags": [
+      "poumon",
+      "organe respiratoire",
+      "oxygene",
+      "echanges gazeux",
+      "poumon",
+      "respire"
+    ]
+  },
+  {
+    "id": "def-02-025",
+    "question": "Qu'est-ce que l'estomac",
+    "reponse": "L'estomac est un organe du système digestif en forme de poche, qui mélange les aliments avec des sucs acides pour commencer leur transformation en nutriments.",
+    "tags": [
+      "estomac",
+      "systeme digestif",
+      "sucs gastriques",
+      "digestion",
+      "lestomak",
+      "melanje"
+    ]
+  },
+  {
+    "id": "def-02-026",
+    "question": "Kisa ki lestomak la",
+    "reponse": "Lestomak se yon ògàn sistèm dijestif la ki gen fòm yon sak, li melanje manje ak likid asid pou kòmanse transfòme yo an eleman nitritif.",
+    "tags": [
+      "estomac",
+      "systeme digestif",
+      "sucs gastriques",
+      "digestion",
+      "lestomak",
+      "melanje"
+    ]
+  },
+  {
+    "id": "def-02-027",
+    "question": "Qu'est-ce que le rein",
+    "reponse": "Le rein est un organe filtrant le sang pour éliminer les déchets et l'excès d'eau du corps, produisant l'urine et régulant l'équilibre interne.",
+    "tags": [
+      "rein",
+      "filtration",
+      "urine",
+      "equilibre",
+      "ren",
+      "filtre"
+    ]
+  },
+  {
+    "id": "def-02-028",
+    "question": "Kisa ki ren an",
+    "reponse": "Ren se yon ògàn ki filtre san an pou retire fatra ak dlo anplis nan kò a, li pwodui pipi epi li regle ekilib anndan kò a.",
+    "tags": [
+      "rein",
+      "filtration",
+      "urine",
+      "equilibre",
+      "ren",
+      "filtre"
+    ]
+  },
+  {
+    "id": "def-02-029",
+    "question": "Qu'est-ce que le muscle",
+    "reponse": "Le muscle est un tissu du corps capable de se contracter pour produire un mouvement, soutenir le squelette ou assurer certaines fonctions internes.",
+    "tags": [
+      "muscle",
+      "tissu",
+      "contraction",
+      "mouvement",
+      "mis",
+      "kontrakte"
+    ]
+  },
+  {
+    "id": "def-02-030",
+    "question": "Kisa ki mis la",
+    "reponse": "Mis se yon tisi nan kò a ki kapab kontrakte pou pwodui yon mouvman, soutni eskelèt la oswa asire sèten fonksyon anndan kò a.",
+    "tags": [
+      "muscle",
+      "tissu",
+      "contraction",
+      "mouvement",
+      "mis",
+      "kontrakte"
+    ]
+  },
+  {
+    "id": "def-02-031",
+    "question": "Qu'est-ce que l'os",
+    "reponse": "L'os est un tissu rigide et minéralisé qui forme le squelette, assurant le soutien du corps, la protection des organes et la production de certaines cellules sanguines.",
+    "tags": [
+      "os",
+      "tissu mineralise",
+      "squelette",
+      "soutien",
+      "zo",
+      "tisi"
+    ]
+  },
+  {
+    "id": "def-02-032",
+    "question": "Kisa ki zo a",
+    "reponse": "Zo se yon tisi di ki gen mineral ladan, li fòme eskelèt la, li soutni kò a, pwoteje ògàn yo epi li pwodui kèk selil san.",
+    "tags": [
+      "os",
+      "tissu mineralise",
+      "squelette",
+      "soutien",
+      "zo",
+      "tisi"
+    ]
+  },
+  {
+    "id": "def-02-033",
+    "question": "Qu'est-ce que le nerf",
+    "reponse": "Le nerf est une structure fibreuse qui transmet les signaux électriques entre le cerveau, la moelle épinière et les différentes parties du corps.",
+    "tags": [
+      "nerf",
+      "signaux electriques",
+      "cerveau",
+      "systeme nerveux",
+      "nève",
+      "transmèt"
+    ]
+  },
+  {
+    "id": "def-02-034",
+    "question": "Kisa ki nève a",
+    "reponse": "Nève se yon estrikti fibrez ki transmèt siyal elektrik ant sèvo a, mwèl epinyè a ak diferan pati nan kò a.",
+    "tags": [
+      "nerf",
+      "signaux electriques",
+      "cerveau",
+      "systeme nerveux",
+      "nève",
+      "transmèt"
+    ]
+  },
+  {
+    "id": "def-02-035",
+    "question": "Qu'est-ce que la cellule",
+    "reponse": "La cellule est la plus petite unité vivante capable de fonctionner de façon autonome, formant la base structurelle et fonctionnelle de tous les êtres vivants.",
+    "tags": [
+      "cellule",
+      "unite vivante",
+      "base",
+      "fonction",
+      "selil",
+      "baz"
+    ]
+  },
+  {
+    "id": "def-02-036",
+    "question": "Kisa ki selil la",
+    "reponse": "Selil se pi piti pati nan yon bagay vivan ki ka fonksyone pou kont li, se li ki baz tout bagay vivan fèt ladan.",
+    "tags": [
+      "cellule",
+      "unite vivante",
+      "base",
+      "fonction",
+      "selil",
+      "baz"
+    ]
+  },
+  {
+    "id": "def-02-037",
+    "question": "Qu'est-ce que le système immunitaire",
+    "reponse": "Le système immunitaire est l'ensemble des cellules et organes qui protègent le corps contre les infections causées par des microbes ou des virus.",
+    "tags": [
+      "systeme immunitaire",
+      "defense",
+      "infections",
+      "microbes",
+      "sistèm iminitè",
+      "defann"
+    ]
+  },
+  {
+    "id": "def-02-038",
+    "question": "Kisa ki sistèm iminitè a",
+    "reponse": "Sistèm iminitè a se tout selil ak ògàn ki pwoteje kò a kont enfeksyon mikwòb oswa viris koze.",
+    "tags": [
+      "systeme immunitaire",
+      "defense",
+      "infections",
+      "microbes",
+      "sistèm iminitè",
+      "defann"
+    ]
+  },
+  {
+    "id": "def-02-039",
+    "question": "Qu'est-ce que le sel",
+    "reponse": "Le sel est un minéral composé principalement de chlorure de sodium, utilisé pour assaisonner les aliments et jouant un rôle essentiel dans les fonctions du corps.",
+    "tags": [
+      "sel",
+      "mineral",
+      "chlorure de sodium",
+      "assaisonnement",
+      "sèl",
+      "gou"
+    ]
+  },
+  {
+    "id": "def-02-040",
+    "question": "Kisa ki sèl la",
+    "reponse": "Sèl se yon mineral ki fèt sitou ak klori sodyòm, yo itilize l pou bay manje gou epi li jwe yon gwo wòl nan fonksyon kò a.",
+    "tags": [
+      "sel",
+      "mineral",
+      "chlorure de sodium",
+      "assaisonnement",
+      "sèl",
+      "gou"
+    ]
+  },
+  {
+    "id": "def-02-041",
+    "question": "Qu'est-ce que le sucre",
+    "reponse": "Le sucre est une substance de saveur douce, principalement composée de glucides, extraite notamment de la canne à sucre ou de la betterave.",
+    "tags": [
+      "sucre",
+      "glucides",
+      "canne a sucre",
+      "saveur",
+      "sik",
+      "dous"
+    ]
+  },
+  {
+    "id": "def-02-042",
+    "question": "Kisa ki sik la",
+    "reponse": "Sik se yon sibstans ki dous, li fèt sitou ak glisid, yo rale l sitou nan kann sik oswa nan betrav.",
+    "tags": [
+      "sucre",
+      "glucides",
+      "canne a sucre",
+      "saveur",
+      "sik",
+      "dous"
+    ]
+  },
+  {
+    "id": "def-02-043",
+    "question": "Qu'est-ce que l'huile",
+    "reponse": "L'huile est une substance grasse liquide à température ambiante, d'origine végétale, animale ou minérale, utilisée en cuisine ou comme lubrifiant.",
+    "tags": [
+      "huile",
+      "substance grasse",
+      "vegetale",
+      "lubrifiant",
+      "luil",
+      "likid"
+    ]
+  },
+  {
+    "id": "def-02-044",
+    "question": "Kisa ki luil la",
+    "reponse": "Luil se yon sibstans gra ki likid lè tanperati nòmal, li ka soti nan plant, bèt oswa mineral, yo itilize l nan kuizin oswa kòm luil pou machin.",
+    "tags": [
+      "huile",
+      "substance grasse",
+      "vegetale",
+      "lubrifiant",
+      "luil",
+      "likid"
+    ]
+  },
+  {
+    "id": "def-02-045",
+    "question": "Qu'est-ce que le savon",
+    "reponse": "Le savon est un produit nettoyant fabriqué à partir de graisses ou d'huiles combinées à une base alcaline, capable de dissoudre la saleté et les graisses.",
+    "tags": [
+      "savon",
+      "nettoyage",
+      "graisses",
+      "alcalin",
+      "savon",
+      "netwayaj"
+    ]
+  },
+  {
+    "id": "def-02-046",
+    "question": "Kisa ki savon an",
+    "reponse": "Savon se yon pwodui netwayaj yo fè ak grès oswa luil melanje ak yon baz alkalen, li ka dekonpoze salte ak grès.",
+    "tags": [
+      "savon",
+      "nettoyage",
+      "graisses",
+      "alcalin",
+      "savon",
+      "netwayaj"
+    ]
+  },
+  {
+    "id": "def-02-047",
+    "question": "Qu'est-ce que le ciment",
+    "reponse": "Le ciment est un matériau de construction en poudre qui, mélangé à l'eau, durcit pour former une pâte solide utilisée pour lier pierres et briques.",
+    "tags": [
+      "ciment",
+      "construction",
+      "durcissement",
+      "materiau",
+      "siman",
+      "solid"
+    ]
+  },
+  {
+    "id": "def-02-048",
+    "question": "Kisa ki siman an",
+    "reponse": "Siman se yon materyèl konstriksyon an poud ki, lè l melanje ak dlo, vin di epi fòme yon pat solid yo itilize pou kole wòch ak brik.",
+    "tags": [
+      "ciment",
+      "construction",
+      "durcissement",
+      "materiau",
+      "siman",
+      "solid"
+    ]
+  },
+  {
+    "id": "def-02-049",
+    "question": "Qu'est-ce que le bois",
+    "reponse": "Le bois est un matériau naturel provenant du tronc et des branches des arbres, utilisé en construction, en menuiserie et comme combustible.",
+    "tags": [
+      "bois",
+      "materiau naturel",
+      "arbres",
+      "construction",
+      "bwa",
+      "konbistib"
+    ]
+  },
+  {
+    "id": "def-02-050",
+    "question": "Kisa ki bwa a",
+    "reponse": "Bwa se yon materyèl natirèl ki soti nan tèt ak branch pyebwa, yo itilize l nan konstriksyon, nan fè mèb ak kòm konbistib.",
+    "tags": [
+      "bois",
+      "materiau naturel",
+      "arbres",
+      "construction",
+      "bwa",
+      "konbistib"
+    ]
+  },
+  {
+    "id": "def-02-051",
+    "question": "Qu'est-ce que le coton",
+    "reponse": "Le coton est une fibre végétale naturelle récoltée autour des graines du cotonnier, largement utilisée dans l'industrie textile pour fabriquer des vêtements.",
+    "tags": [
+      "coton",
+      "fibre vegetale",
+      "textile",
+      "cotonnier",
+      "koton",
+      "rad"
+    ]
+  },
+  {
+    "id": "def-02-052",
+    "question": "Kisa ki koton an",
+    "reponse": "Koton se yon fib plant natirèl yo rekòlte otou grenn pye koton an, yo itilize l anpil nan endistri tekstil pou fè rad.",
+    "tags": [
+      "coton",
+      "fibre vegetale",
+      "textile",
+      "cotonnier",
+      "koton",
+      "rad"
+    ]
+  },
+  {
+    "id": "def-02-053",
+    "question": "Qu'est-ce que la laine",
+    "reponse": "La laine est une fibre naturelle provenant de la toison des moutons ou d'autres animaux, utilisée pour fabriquer des vêtements chauds et isolants.",
+    "tags": [
+      "laine",
+      "fibre naturelle",
+      "mouton",
+      "isolant",
+      "lenn",
+      "pwal"
+    ]
+  },
+  {
+    "id": "def-02-054",
+    "question": "Kisa ki lenn nan",
+    "reponse": "Lenn se yon fib natirèl ki soti nan pwal mouton oswa lòt bèt, yo itilize l pou fè rad cho ki pwoteje kont frèt.",
+    "tags": [
+      "laine",
+      "fibre naturelle",
+      "mouton",
+      "isolant",
+      "lenn",
+      "pwal"
+    ]
+  },
+  {
+    "id": "def-02-055",
+    "question": "Qu'est-ce que le caoutchouc",
+    "reponse": "Le caoutchouc est une matière élastique obtenue à partir de la sève d'arbres comme l'hévéa ou fabriquée synthétiquement, utilisée pour les pneus et objets souples.",
+    "tags": [
+      "caoutchouc",
+      "elastique",
+      "hevea",
+      "pneus",
+      "kawotchou",
+      "souple"
+    ]
+  },
+  {
+    "id": "def-02-056",
+    "question": "Kisa ki kawotchou a",
+    "reponse": "Kawotchou se yon materyèl ki ka detire yo fè ak sèv pyebwa tankou ewea a oswa yo fabrike l sentetikman, yo itilize l pou kawotchou machin ak bagay souple.",
+    "tags": [
+      "caoutchouc",
+      "elastique",
+      "hevea",
+      "pneus",
+      "kawotchou",
+      "souple"
+    ]
+  },
+  {
+    "id": "def-02-057",
+    "question": "Qu'est-ce que l'aluminium",
+    "reponse": "L'aluminium est un métal léger, résistant à la corrosion et bon conducteur, largement utilisé dans l'industrie aéronautique et l'emballage alimentaire.",
+    "tags": [
+      "aluminium",
+      "metal leger",
+      "corrosion",
+      "industrie",
+      "aliminyòm",
+      "lejè"
+    ]
+  },
+  {
+    "id": "def-02-058",
+    "question": "Kisa ki aliminyòm nan",
+    "reponse": "Aliminyòm se yon metal ki lejè, li reziste kont wouye epi li kondui byen, yo itilize l anpil nan endistri avyasyon ak nan anbalaj manje.",
+    "tags": [
+      "aluminium",
+      "metal leger",
+      "corrosion",
+      "industrie",
+      "aliminyòm",
+      "lejè"
+    ]
+  },
+  {
+    "id": "def-02-059",
+    "question": "Qu'est-ce que le cocotier",
+    "reponse": "Le cocotier est un palmier tropical qui produit la noix de coco, un fruit dont la chair, l'eau et l'huile sont largement utilisées dans l'alimentation.",
+    "tags": [
+      "cocotier",
+      "palmier",
+      "noix de coco",
+      "tropical",
+      "pye kokoye",
+      "kokoye"
+    ]
+  },
+  {
+    "id": "def-02-060",
+    "question": "Kisa ki pye kokoye a",
+    "reponse": "Pye kokoye se yon palmis twopikal ki fè kokoye, yon fwi kote chè, dlo ak luil li itilize anpil nan manje.",
+    "tags": [
+      "cocotier",
+      "palmier",
+      "noix de coco",
+      "tropical",
+      "pye kokoye",
+      "kokoye"
+    ]
+  },
+  {
+    "id": "def-02-061",
+    "question": "Qu'est-ce que le pin",
+    "reponse": "Le pin est un arbre résineux à feuilles persistantes en forme d'aiguilles, reconnu pour son bois utilisé en construction et ses cônes caractéristiques.",
+    "tags": [
+      "pin",
+      "arbre resineux",
+      "aiguilles",
+      "bois",
+      "pyebwa",
+      "zegwi"
+    ]
+  },
+  {
+    "id": "def-02-062",
+    "question": "Kisa ki pye pen an (pyebwa)",
+    "reponse": "Pye pen se yon pyebwa ki toujou gen fèy an fòm zegwi, moun rekonèt li pou bwa li yo itilize nan konstriksyon ak fwi li yo gen fòm kòn.",
+    "tags": [
+      "pin",
+      "arbre resineux",
+      "aiguilles",
+      "bois",
+      "pyebwa",
+      "zegwi"
+    ]
+  },
+  {
+    "id": "def-02-063",
+    "question": "Qu'est-ce que l'eucalyptus",
+    "reponse": "L'eucalyptus est un arbre originaire d'Australie, à croissance rapide, dont les feuilles aromatiques sont utilisées en médecine traditionnelle et en parfumerie.",
+    "tags": [
+      "eucalyptus",
+      "australie",
+      "croissance rapide",
+      "medecine traditionnelle",
+      "ekaliptis",
+      "fèy"
+    ]
+  },
+  {
+    "id": "def-02-064",
+    "question": "Kisa ki ekaliptis la",
+    "reponse": "Ekaliptis se yon pyebwa ki soti Ostrali, li grandi vit, fèy li yo gen bon sant epi yo itilize yo nan medsin tradisyonèl ak nan pafen.",
+    "tags": [
+      "eucalyptus",
+      "australie",
+      "croissance rapide",
+      "medecine traditionnelle",
+      "ekaliptis",
+      "fèy"
+    ]
+  },
+  {
+    "id": "def-02-065",
+    "question": "Qu'est-ce que le baobab",
+    "reponse": "Le baobab est un arbre africain massif au tronc très large pouvant stocker de grandes quantités d'eau, parfois appelé l'arbre de vie.",
+    "tags": [
+      "baobab",
+      "afrique",
+      "stockage d'eau",
+      "arbre de vie",
+      "baobab",
+      "dlo"
+    ]
+  },
+  {
+    "id": "def-02-066",
+    "question": "Kisa ki baobab la",
+    "reponse": "Baobab se yon pyebwa afriken ki gwo anpil, tèt li gwo anpil epi li ka estoke anpil dlo, pafwa yo rele l pyebwa lavi a.",
+    "tags": [
+      "baobab",
+      "afrique",
+      "stockage d'eau",
+      "arbre de vie",
+      "baobab",
+      "dlo"
+    ]
+  },
+  {
+    "id": "def-02-067",
+    "question": "Qu'est-ce que le rosier",
+    "reponse": "Le rosier est un arbuste épineux qui produit la rose, une fleur très appréciée pour sa beauté et son parfum, cultivée dans le monde entier.",
+    "tags": [
+      "rosier",
+      "rose",
+      "fleur",
+      "pikan",
+      "pye woz",
+      "bèlte"
+    ]
+  },
+  {
+    "id": "def-02-068",
+    "question": "Kisa ki pye woz la",
+    "reponse": "Pye woz se yon ti pyebwa ki gen pikan ki fè woz, yon flè moun renmen anpil pou bèlte li ak bon sant li, yo kiltive l toupatou nan mond lan.",
+    "tags": [
+      "rosier",
+      "rose",
+      "fleur",
+      "pikan",
+      "pye woz",
+      "bèlte"
+    ]
+  },
+  {
+    "id": "def-02-069",
+    "question": "Qu'est-ce que la canne à sucre",
+    "reponse": "La canne à sucre est une plante tropicale à tige riche en sucre, principale source mondiale de production de sucre et de certains biocarburants.",
+    "tags": [
+      "canne a sucre",
+      "tropicale",
+      "sucre",
+      "biocarburants",
+      "kann sik",
+      "tij"
+    ]
+  },
+  {
+    "id": "def-02-070",
+    "question": "Kisa ki kann sik la",
+    "reponse": "Kann sik se yon plant twopikal ki gen anpil sik nan tij li, se li ki prensipal sous nan mond lan pou pwodui sik ak kèk kalite kabiran.",
+    "tags": [
+      "canne a sucre",
+      "tropicale",
+      "sucre",
+      "biocarburants",
+      "kann sik",
+      "tij"
+    ]
+  },
+  {
+    "id": "def-02-071",
+    "question": "Qu'est-ce que le cacaoyer",
+    "reponse": "Le cacaoyer est un arbre tropical dont les fruits, appelés cabosses, contiennent les fèves de cacao utilisées pour fabriquer le chocolat.",
+    "tags": [
+      "cacaoyer",
+      "cacao",
+      "chocolat",
+      "fruits tropicaux",
+      "pye kakawo",
+      "kakawo"
+    ]
+  },
+  {
+    "id": "def-02-072",
+    "question": "Kisa ki pye kakawo a",
+    "reponse": "Pye kakawo se yon pyebwa twopikal ki fè fwi yo rele kabòs, ki genyen grenn kakawo yo itilize pou fè chokola.",
+    "tags": [
+      "cacaoyer",
+      "cacao",
+      "chocolat",
+      "fruits tropicaux",
+      "pye kakawo",
+      "kakawo"
+    ]
+  },
+  {
+    "id": "def-02-073",
+    "question": "Qu'est-ce que le caféier",
+    "reponse": "Le caféier est un arbuste tropical dont les fruits rouges, appelés cerises, contiennent les grains de café utilisés pour préparer la boisson homonyme.",
+    "tags": [
+      "cafeier",
+      "cafe",
+      "cerises",
+      "tropical",
+      "pye kafe",
+      "grenn kafe"
+    ]
+  },
+  {
+    "id": "def-02-074",
+    "question": "Kisa ki pye kafe a",
+    "reponse": "Pye kafe se yon ti pyebwa twopikal ki fè fwi wouj yo rele seriz, ki genyen grenn kafe yo itilize pou prepare bwason kafe a.",
+    "tags": [
+      "cafeier",
+      "cafe",
+      "cerises",
+      "tropical",
+      "pye kafe",
+      "grenn kafe"
+    ]
+  },
+  {
+    "id": "def-02-075",
+    "question": "Qu'est-ce que le bananier",
+    "reponse": "Le bananier est une grande plante herbacée tropicale, dont le régime de fruits comestibles, la banane, pousse en bouquets appelés mains.",
+    "tags": [
+      "bananier",
+      "banane",
+      "plante herbacee",
+      "regime",
+      "pye bannann",
+      "rejim"
+    ]
+  },
+  {
+    "id": "def-02-076",
+    "question": "Kisa ki pye bannann nan",
+    "reponse": "Pye bannann se yon gwo plant twopikal, rejim fwi li moun ka manje, bannann nan, pouse an pakèt yo rele men.",
+    "tags": [
+      "bananier",
+      "banane",
+      "plante herbacee",
+      "regime",
+      "pye bannann",
+      "rejim"
+    ]
+  },
+  {
+    "id": "def-02-077",
+    "question": "Qu'est-ce que le citronnier",
+    "reponse": "Le citronnier est un petit arbre fruitier de la famille des agrumes, produisant le citron, un fruit acide riche en vitamine C.",
+    "tags": [
+      "citronnier",
+      "citron",
+      "agrumes",
+      "vitamine c",
+      "pye sitwon",
+      "sitwon"
+    ]
+  },
+  {
+    "id": "def-02-078",
+    "question": "Kisa ki pye sitwon an",
+    "reponse": "Pye sitwon se yon ti pyebwa fwi nan fanmi agrim yo, li fè sitwon, yon fwi ki asid ki gen anpil vitamin C.",
+    "tags": [
+      "citronnier",
+      "citron",
+      "agrumes",
+      "vitamine c",
+      "pye sitwon",
+      "sitwon"
+    ]
+  },
+  {
+    "id": "def-02-079",
+    "question": "Qu'est-ce que le métro",
+    "reponse": "Le métro est un système de transport ferroviaire urbain souterrain ou surélevé, conçu pour déplacer rapidement un grand nombre de passagers en ville.",
+    "tags": [
+      "metro",
+      "transport urbain",
+      "souterrain",
+      "ferroviaire",
+      "metwo",
+      "vil"
+    ]
+  },
+  {
+    "id": "def-02-080",
+    "question": "Kisa ki metwo a",
+    "reponse": "Metwo se yon sistèm transpò sou ray ki anba tè oswa anlè nan vil yo, yo fè l pou deplase anpil pasaje vit nan vil la.",
+    "tags": [
+      "metro",
+      "transport urbain",
+      "souterrain",
+      "ferroviaire",
+      "metwo",
+      "vil"
+    ]
+  },
+  {
+    "id": "def-02-081",
+    "question": "Qu'est-ce que le tramway",
+    "reponse": "Le tramway est un moyen de transport urbain circulant sur des rails installés en surface, souvent alimenté par l'électricité via des câbles aériens.",
+    "tags": [
+      "tramway",
+      "transport urbain",
+      "rails",
+      "electricite",
+      "tramway",
+      "kab"
+    ]
+  },
+  {
+    "id": "def-02-082",
+    "question": "Kisa ki tramway la",
+    "reponse": "Tramway se yon mwayen transpò vil ki mache sou ray yo mete sou sòl la, souvan elektrisite soti nan kab anlè alimante l.",
+    "tags": [
+      "tramway",
+      "transport urbain",
+      "rails",
+      "electricite",
+      "tramway",
+      "kab"
+    ]
+  },
+  {
+    "id": "def-02-083",
+    "question": "Qu'est-ce que le scooter",
+    "reponse": "Le scooter est un petit véhicule motorisé à deux roues, caractérisé par un plancher plat permettant au conducteur de poser les pieds, pratique pour les trajets urbains.",
+    "tags": [
+      "scooter",
+      "deux roues",
+      "urbain",
+      "plancher plat",
+      "eskoutè",
+      "vil"
+    ]
+  },
+  {
+    "id": "def-02-084",
+    "question": "Kisa ki eskoutè a",
+    "reponse": "Eskoutè se yon ti machin ki gen de wou ak motè, li gen yon pla pye ki pèmèt moun k ap kondui l poze pye l, li pratik pou fè kous nan vil.",
+    "tags": [
+      "scooter",
+      "deux roues",
+      "urbain",
+      "plancher plat",
+      "eskoutè",
+      "vil"
+    ]
+  },
+  {
+    "id": "def-02-085",
+    "question": "Qu'est-ce que le voilier",
+    "reponse": "Le voilier est une embarcation propulsée principalement par la force du vent captée grâce à une ou plusieurs voiles fixées à un mât.",
+    "tags": [
+      "voilier",
+      "vent",
+      "voiles",
+      "embarcation",
+      "bato vwal",
+      "vwal"
+    ]
+  },
+  {
+    "id": "def-02-086",
+    "question": "Kisa ki bato vwal la",
+    "reponse": "Bato vwal se yon machin dlo ki fè van pouse l sitou gras ak yon oswa plizyè vwal ki tache sou yon mas.",
+    "tags": [
+      "voilier",
+      "vent",
+      "voiles",
+      "embarcation",
+      "bato vwal",
+      "vwal"
+    ]
+  },
+  {
+    "id": "def-02-087",
+    "question": "Qu'est-ce que le sous-marin",
+    "reponse": "Le sous-marin est un navire capable de naviguer en immersion complète sous l'eau, utilisé à des fins militaires ou scientifiques.",
+    "tags": [
+      "sous-marin",
+      "immersion",
+      "navire",
+      "militaire",
+      "soumaren",
+      "anba dlo"
+    ]
+  },
+  {
+    "id": "def-02-088",
+    "question": "Kisa ki soumaren an",
+    "reponse": "Soumaren se yon bato ki ka naje anba dlo nèt, yo itilize l pou rezon militè oswa syantifik.",
+    "tags": [
+      "sous-marin",
+      "immersion",
+      "navire",
+      "militaire",
+      "soumaren",
+      "anba dlo"
+    ]
+  },
+  {
+    "id": "def-02-089",
+    "question": "Qu'est-ce que la navette spatiale",
+    "reponse": "La navette spatiale est un véhicule aérospatial réutilisable conçu pour transporter des astronautes et du matériel entre la Terre et l'espace.",
+    "tags": [
+      "navette spatiale",
+      "aerospatial",
+      "astronautes",
+      "reutilisable",
+      "navèt espasyal",
+      "espas"
+    ]
+  },
+  {
+    "id": "def-02-090",
+    "question": "Kisa ki navèt espasyal la",
+    "reponse": "Navèt espasyal se yon machin yo ka itilize plizyè fwa, yo fè l pou transpòte astwonòt ak materyèl ant Latè ak espas.",
+    "tags": [
+      "navette spatiale",
+      "aerospatial",
+      "astronautes",
+      "reutilisable",
+      "navèt espasyal",
+      "espas"
+    ]
+  },
+  {
+    "id": "def-02-091",
+    "question": "Qu'est-ce que le traîneau",
+    "reponse": "Le traîneau est un véhicule sans roues glissant sur la neige ou la glace, traditionnellement tiré par des chiens, des rennes ou des chevaux.",
+    "tags": [
+      "traineau",
+      "neige",
+      "glace",
+      "traction animale",
+      "trenno",
+      "nèj"
+    ]
+  },
+  {
+    "id": "def-02-092",
+    "question": "Kisa ki trenno a",
+    "reponse": "Trenno se yon machin ki pa gen wou, li glise sou nèj oswa glas, tradisyonèlman chen, ran oswa chwal rale l.",
+    "tags": [
+      "traineau",
+      "neige",
+      "glace",
+      "traction animale",
+      "trenno",
+      "nèj"
+    ]
+  },
+  {
+    "id": "def-02-093",
+    "question": "Qu'est-ce que la charrette",
+    "reponse": "La charrette est un véhicule à roues tiré par un animal ou par la force humaine, traditionnellement utilisé pour transporter des marchandises.",
+    "tags": [
+      "charrette",
+      "vehicule",
+      "traction",
+      "marchandises",
+      "kabwèt",
+      "rale"
+    ]
+  },
+  {
+    "id": "def-02-094",
+    "question": "Kisa ki kabwèt la",
+    "reponse": "Kabwèt se yon machin ki gen wou, yon bèt oswa fòs moun rale l, tradisyonèlman yo itilize l pou transpòte machandiz.",
+    "tags": [
+      "charrette",
+      "vehicule",
+      "traction",
+      "marchandises",
+      "kabwèt",
+      "rale"
+    ]
+  },
+  {
+    "id": "def-02-095",
+    "question": "Qu'est-ce que le tricycle",
+    "reponse": "Le tricycle est un véhicule à trois roues, propulsé par pédalage ou par moteur, utilisé notamment pour le transport léger de personnes ou de marchandises.",
+    "tags": [
+      "tricycle",
+      "trois roues",
+      "pedalage",
+      "transport leger",
+      "trisik",
+      "twa wou"
+    ]
+  },
+  {
+    "id": "def-02-096",
+    "question": "Kisa ki trisik la",
+    "reponse": "Trisik se yon machin ki gen twa wou, pedal oswa motè pouse l, yo itilize l sitou pou transpòte moun oswa ti machandiz.",
+    "tags": [
+      "tricycle",
+      "trois roues",
+      "pedalage",
+      "transport leger",
+      "trisik",
+      "twa wou"
+    ]
+  },
+  {
+    "id": "def-02-097",
+    "question": "Qu'est-ce que le téléphérique",
+    "reponse": "Le téléphérique est un système de transport constitué de cabines suspendues à un câble aérien, utilisé pour franchir des reliefs montagneux.",
+    "tags": [
+      "telepherique",
+      "cable aerien",
+      "montagne",
+      "transport",
+      "telefèrik",
+      "kab"
+    ]
+  },
+  {
+    "id": "def-02-098",
+    "question": "Kisa ki telefèrik la",
+    "reponse": "Telefèrik se yon sistèm transpò ki gen kabin ki pandye sou yon kab anlè, yo itilize l pou travèse zòn mòn.",
+    "tags": [
+      "telepherique",
+      "cable aerien",
+      "montagne",
+      "transport",
+      "telefèrik",
+      "kab"
+    ]
+  },
+  {
+    "id": "def-02-099",
+    "question": "Qu'est-ce que le dromadaire",
+    "reponse": "Le dromadaire est un grand mammifère du désert à une seule bosse, capable de survivre plusieurs jours sans boire grâce aux réserves stockées dans sa bosse.",
+    "tags": [
+      "dromadaire",
+      "desert",
+      "bosse",
+      "reserves",
+      "dromadè",
+      "bòs"
+    ]
+  },
+  {
+    "id": "def-02-100",
+    "question": "Kisa ki dromadè a",
+    "reponse": "Dromadè se yon gwo mamifè dezè ki gen yon sèl bòs, li ka viv plizyè jou san l pa bwè dlo gras ak rezèv ki nan bòs li a.",
+    "tags": [
+      "dromadaire",
+      "desert",
+      "bosse",
+      "reserves",
+      "dromadè",
+      "bòs"
+    ]
+  }
+]

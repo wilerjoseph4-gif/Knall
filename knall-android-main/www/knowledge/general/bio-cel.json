@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "bio-cel-001",
+    "question": "Qu'est-ce que la biologie",
+    "reponse": "La biologie est la science qui étudie les êtres vivants: leur structure, leur fonctionnement, leur reproduction et leur évolution.",
+    "tags": [
+      "biologie",
+      "science",
+      "vivant",
+      "definition",
+      "byoloji",
+      "etid"
+    ]
+  },
+  {
+    "id": "bio-cel-002",
+    "question": "Kisa ki byoloji",
+    "reponse": "Byoloji se syans ki etidye bagay vivan yo: kijan yo fèt, kijan yo fonksyone, kijan yo repwodui ak kijan yo chanje avèk tan.",
+    "tags": [
+      "biologie",
+      "science",
+      "vivant",
+      "definition",
+      "byoloji",
+      "etid"
+    ]
+  },
+  {
+    "id": "bio-cel-003",
+    "question": "Qu'est-ce qu'une cellule",
+    "reponse": "La cellule est la plus petite unité de base capable de vivre; tous les êtres vivants sont formés d'une ou de plusieurs cellules.",
+    "tags": [
+      "cellule",
+      "unite",
+      "vie",
+      "base",
+      "selil",
+      "kò"
+    ]
+  },
+  {
+    "id": "bio-cel-004",
+    "question": "Kisa ki yon selil",
+    "reponse": "Selil la se pi piti pati nan yon kò ki ka viv pou kont li; tout bagay vivan fèt ak youn oswa plizyè selil.",
+    "tags": [
+      "cellule",
+      "unite",
+      "vie",
+      "base",
+      "selil",
+      "kò"
+    ]
+  },
+  {
+    "id": "bio-cel-005",
+    "question": "Qui a découvert la cellule",
+    "reponse": "Robert Hooke a observé les cellules pour la première fois en 1665 en examinant un morceau de liège au microscope.",
+    "tags": [
+      "hooke",
+      "histoire",
+      "decouverte",
+      "microscope",
+      "istwa",
+      "1665"
+    ]
+  },
+  {
+    "id": "bio-cel-006",
+    "question": "Kimoun ki dekouvri selil la",
+    "reponse": "Se Robert Hooke ki te wè selil yo pou premye fwa an 1665 lè l t ap gade yon moso bwa lyèj nan mikwoskòp.",
+    "tags": [
+      "hooke",
+      "histoire",
+      "decouverte",
+      "microscope",
+      "istwa",
+      "1665"
+    ]
+  },
+  {
+    "id": "bio-cel-007",
+    "question": "Quelle est la différence entre une cellule animale et une cellule végétale",
+    "reponse": "La cellule végétale a une paroi rigide et des chloroplastes pour la photosynthèse, contrairement à la cellule animale qui n'a ni l'une ni l'autre.",
+    "tags": [
+      "cellule vegetale",
+      "cellule animale",
+      "paroi",
+      "chloroplaste",
+      "plant",
+      "bèt"
+    ]
+  },
+  {
+    "id": "bio-cel-008",
+    "question": "Ki diferans ki genyen ant yon selil bèt ak yon selil plant",
+    "reponse": "Selil plant gen yon mi solid ak kloroplas pou fè fotosentèz, men selil bèt pa genyen ni youn ni lòt.",
+    "tags": [
+      "cellule vegetale",
+      "cellule animale",
+      "paroi",
+      "chloroplaste",
+      "plant",
+      "bèt"
+    ]
+  },
+  {
+    "id": "bio-cel-009",
+    "question": "Qu'est-ce que le noyau d'une cellule",
+    "reponse": "Le noyau est le centre de contrôle de la cellule; il contient l'ADN qui porte toutes les instructions nécessaires à la vie de la cellule.",
+    "tags": [
+      "noyau",
+      "adn",
+      "controle",
+      "instructions",
+      "nwayo",
+      "enstriksyon"
+    ]
+  },
+  {
+    "id": "bio-cel-010",
+    "question": "Kisa ki nwayo yon selil",
+    "reponse": "Nwayo a se sant kontwòl selil la; se la ADN a chita, avèk tout enstriksyon ki nesesè pou selil la viv.",
+    "tags": [
+      "noyau",
+      "adn",
+      "controle",
+      "instructions",
+      "nwayo",
+      "enstriksyon"
+    ]
+  },
+  {
+    "id": "bio-cel-011",
+    "question": "Qu'est-ce que la membrane cellulaire",
+    "reponse": "La membrane cellulaire est une fine enveloppe qui entoure la cellule et contrôle ce qui entre et ce qui sort.",
+    "tags": [
+      "membrane",
+      "barriere",
+      "cellule",
+      "echange",
+      "manbràn",
+      "po"
+    ]
+  },
+  {
+    "id": "bio-cel-012",
+    "question": "Kisa ki manbràn selilè a",
+    "reponse": "Manbràn selilè a se yon fen po ki antoure selil la epi ki kontwole sa ki antre ak sa ki soti nan li.",
+    "tags": [
+      "membrane",
+      "barriere",
+      "cellule",
+      "echange",
+      "manbràn",
+      "po"
+    ]
+  },
+  {
+    "id": "bio-cel-013",
+    "question": "Qu'est-ce que le cytoplasme",
+    "reponse": "Le cytoplasme est la substance gélatineuse qui remplit la cellule et dans laquelle flottent les différents organites.",
+    "tags": [
+      "cytoplasme",
+      "liquide",
+      "cellule",
+      "organites",
+      "sitoplasm",
+      "likid"
+    ]
+  },
+  {
+    "id": "bio-cel-014",
+    "question": "Kisa ki sitoplasm nan",
+    "reponse": "Sitoplasm nan se yon likid epè ki plen anndan selil la kote tout lòt ti pati yo (òganèl yo) ap flote.",
+    "tags": [
+      "cytoplasme",
+      "liquide",
+      "cellule",
+      "organites",
+      "sitoplasm",
+      "likid"
+    ]
+  },
+  {
+    "id": "bio-cel-015",
+    "question": "Qu'est-ce que la mitochondrie",
+    "reponse": "La mitochondrie est l'organite qui produit l'énergie de la cellule; on l'appelle souvent la centrale énergétique de la cellule.",
+    "tags": [
+      "mitochondrie",
+      "energie",
+      "respiration",
+      "cellule",
+      "mitokondri",
+      "enèji"
+    ]
+  },
+  {
+    "id": "bio-cel-016",
+    "question": "Kisa ki mitokondri a",
+    "reponse": "Mitokondri a se pati nan selil la ki fè enèji a; se li yo rele \"izin enèji\" selil la.",
+    "tags": [
+      "mitochondrie",
+      "energie",
+      "respiration",
+      "cellule",
+      "mitokondri",
+      "enèji"
+    ]
+  },
+  {
+    "id": "bio-cel-017",
+    "question": "À quoi sert l'ADN",
+    "reponse": "L'ADN est la molécule qui contient toutes les informations génétiques nécessaires à la formation et au fonctionnement d'un être vivant.",
+    "tags": [
+      "adn",
+      "genetique",
+      "information",
+      "molecule",
+      "jenetik",
+      "enfòmasyon"
+    ]
+  },
+  {
+    "id": "bio-cel-018",
+    "question": "Ki sèvis ADN fè",
+    "reponse": "ADN se molekil ki kenbe tout enfòmasyon jenetik ki nesesè pou fòme ak fè yon bagay vivan fonksyone.",
+    "tags": [
+      "adn",
+      "genetique",
+      "information",
+      "molecule",
+      "jenetik",
+      "enfòmasyon"
+    ]
+  },
+  {
+    "id": "bio-cel-019",
+    "question": "Qu'est-ce que l'ARN",
+    "reponse": "L'ARN est une molécule proche de l'ADN qui sert à transporter l'information génétique pour fabriquer les protéines de la cellule.",
+    "tags": [
+      "arn",
+      "proteine",
+      "information",
+      "transport",
+      "molekil",
+      "pwoteyin"
+    ]
+  },
+  {
+    "id": "bio-cel-020",
+    "question": "Kisa ki ARN",
+    "reponse": "ARN se yon molekil ki sanble ak ADN; li sèvi pou pote enfòmasyon jenetik la pou fè pwoteyin selil la bezwen yo.",
+    "tags": [
+      "arn",
+      "proteine",
+      "information",
+      "transport",
+      "molekil",
+      "pwoteyin"
+    ]
+  },
+  {
+    "id": "bio-cel-021",
+    "question": "Qu'est-ce qu'une protéine",
+    "reponse": "Une protéine est une grande molécule faite d'acides aminés; elle construit les tissus du corps et assure de nombreuses fonctions vitales.",
+    "tags": [
+      "proteine",
+      "acides amines",
+      "tissus",
+      "fonction",
+      "pwoteyin",
+      "tisi"
+    ]
+  },
+  {
+    "id": "bio-cel-022",
+    "question": "Kisa ki yon pwoteyin",
+    "reponse": "Pwoteyin se yon gwo molekil ki fèt ak asid amine; li bati tisi kò a epi li asire anpil fonksyon ki enpòtan pou lavi.",
+    "tags": [
+      "proteine",
+      "acides amines",
+      "tissus",
+      "fonction",
+      "pwoteyin",
+      "tisi"
+    ]
+  },
+  {
+    "id": "bio-cel-023",
+    "question": "Qu'est-ce qu'une enzyme",
+    "reponse": "Une enzyme est une protéine spéciale qui accélère les réactions chimiques dans le corps sans être elle-même consommée.",
+    "tags": [
+      "enzyme",
+      "reaction",
+      "catalyseur",
+      "digestion",
+      "anzim",
+      "chimik"
+    ]
+  },
+  {
+    "id": "bio-cel-024",
+    "question": "Kisa ki yon anzim",
+    "reponse": "Anzim se yon pwoteyin espesyal ki fè reyaksyon chimik nan kò a fèt pi vit, san li menm pa konsome nan pwosesis la.",
+    "tags": [
+      "enzyme",
+      "reaction",
+      "catalyseur",
+      "digestion",
+      "anzim",
+      "chimik"
+    ]
+  },
+  {
+    "id": "bio-cel-025",
+    "question": "Qu'est-ce que la photosynthèse",
+    "reponse": "La photosynthèse est le processus par lequel les plantes utilisent la lumière du soleil pour fabriquer leur nourriture et produire de l'oxygène.",
+    "tags": [
+      "photosynthese",
+      "plante",
+      "soleil",
+      "oxygene",
+      "fotosentèz",
+      "plant"
+    ]
+  },
+  {
+    "id": "bio-cel-026",
+    "question": "Kisa ki fotosentèz la",
+    "reponse": "Fotosentèz se pwosesis plant yo itilize limyè solèy la pou fè manje pa yo epi pwodui oksijèn.",
+    "tags": [
+      "photosynthese",
+      "plante",
+      "soleil",
+      "oxygene",
+      "fotosentèz",
+      "plant"
+    ]
+  },
+  {
+    "id": "bio-cel-027",
+    "question": "Qu'est-ce que la respiration cellulaire",
+    "reponse": "La respiration cellulaire est le processus par lequel les cellules transforment le glucose et l'oxygène en énergie utilisable.",
+    "tags": [
+      "respiration cellulaire",
+      "energie",
+      "glucose",
+      "oxygene",
+      "enèji",
+      "glikoz"
+    ]
+  },
+  {
+    "id": "bio-cel-028",
+    "question": "Kisa ki respirasyon selilè a",
+    "reponse": "Respirasyon selilè se pwosesis kote selil yo transfòme glikoz ak oksijèn an enèji kò a ka itilize.",
+    "tags": [
+      "respiration cellulaire",
+      "energie",
+      "glucose",
+      "oxygene",
+      "enèji",
+      "glikoz"
+    ]
+  },
+  {
+    "id": "bio-cel-029",
+    "question": "Qu'est-ce que l'osmose",
+    "reponse": "L'osmose est le déplacement de l'eau à travers une membrane, d'une zone où elle est abondante vers une zone où elle l'est moins.",
+    "tags": [
+      "osmose",
+      "eau",
+      "membrane",
+      "diffusion",
+      "osmoz",
+      "dlo"
+    ]
+  },
+  {
+    "id": "bio-cel-030",
+    "question": "Kisa ki osmoz la",
+    "reponse": "Osmoz se mouvman dlo atravè yon manbràn, soti nan yon zòn ki gen anpil dlo pou ale nan yon zòn ki gen mwens.",
+    "tags": [
+      "osmose",
+      "eau",
+      "membrane",
+      "diffusion",
+      "osmoz",
+      "dlo"
+    ]
+  },
+  {
+    "id": "bio-cel-031",
+    "question": "Qu'est-ce que la diffusion en biologie",
+    "reponse": "La diffusion est le mouvement naturel des molécules d'une zone très concentrée vers une zone moins concentrée.",
+    "tags": [
+      "diffusion",
+      "molecule",
+      "concentration",
+      "mouvement",
+      "difizyon",
+      "molekil"
+    ]
+  },
+  {
+    "id": "bio-cel-032",
+    "question": "Kisa ki difizyon nan byoloji",
+    "reponse": "Difizyon se mouvman natirèl molekil yo soti kote yo anpil pou ale kote yo pi piti.",
+    "tags": [
+      "diffusion",
+      "molecule",
+      "concentration",
+      "mouvement",
+      "difizyon",
+      "molekil"
+    ]
+  },
+  {
+    "id": "bio-cel-033",
+    "question": "Qu'est-ce qu'un organite",
+    "reponse": "Un organite est une petite structure à l'intérieur de la cellule qui a une fonction précise, comme le noyau ou la mitochondrie.",
+    "tags": [
+      "organite",
+      "structure",
+      "cellule",
+      "fonction",
+      "òganèl",
+      "estrikti"
+    ]
+  },
+  {
+    "id": "bio-cel-034",
+    "question": "Kisa ki yon òganèl",
+    "reponse": "Òganèl se yon ti estrikti anndan selil la ki gen yon travay presi pou l fè, tankou nwayo a oswa mitokondri a.",
+    "tags": [
+      "organite",
+      "structure",
+      "cellule",
+      "fonction",
+      "òganèl",
+      "estrikti"
+    ]
+  },
+  {
+    "id": "bio-cel-035",
+    "question": "Qu'est-ce que le ribosome",
+    "reponse": "Le ribosome est le petit organite de la cellule où sont fabriquées les protéines à partir des instructions de l'ARN.",
+    "tags": [
+      "ribosome",
+      "proteine",
+      "fabrication",
+      "arn",
+      "ribozòm",
+      "fabrikasyon"
+    ]
+  },
+  {
+    "id": "bio-cel-036",
+    "question": "Kisa ki ribozòm nan",
+    "reponse": "Ribozòm nan se ti pati nan selil la kote pwoteyin yo fèt dapre enstriksyon ARN bay yo.",
+    "tags": [
+      "ribosome",
+      "proteine",
+      "fabrication",
+      "arn",
+      "ribozòm",
+      "fabrikasyon"
+    ]
+  },
+  {
+    "id": "bio-cel-037",
+    "question": "Qu'est-ce que le réticulum endoplasmique",
+    "reponse": "Le réticulum endoplasmique est un réseau de membranes dans la cellule qui aide à fabriquer et transporter protéines et lipides.",
+    "tags": [
+      "reticulum endoplasmique",
+      "transport",
+      "proteines",
+      "lipides",
+      "rezo",
+      "transpò"
+    ]
+  },
+  {
+    "id": "bio-cel-038",
+    "question": "Kisa ki retikilòm andoplasmik la",
+    "reponse": "Retikilòm andoplasmik la se yon rezo manbràn anndan selil la ki ede fè epi deplase pwoteyin ak grès.",
+    "tags": [
+      "reticulum endoplasmique",
+      "transport",
+      "proteines",
+      "lipides",
+      "rezo",
+      "transpò"
+    ]
+  },
+  {
+    "id": "bio-cel-039",
+    "question": "Qu'est-ce que l'appareil de Golgi",
+    "reponse": "L'appareil de Golgi reçoit, trie et emballe les protéines fabriquées par la cellule avant de les envoyer où elles sont utiles.",
+    "tags": [
+      "appareil de golgi",
+      "tri",
+      "emballage",
+      "proteines",
+      "triye",
+      "anbalaj"
+    ]
+  },
+  {
+    "id": "bio-cel-040",
+    "question": "Kisa ki aparèy Golgi a",
+    "reponse": "Aparèy Golgi a resevwa, triye epi anbale pwoteyin selil la fè yo anvan li voye yo kote yo bezwen yo.",
+    "tags": [
+      "appareil de golgi",
+      "tri",
+      "emballage",
+      "proteines",
+      "triye",
+      "anbalaj"
+    ]
+  },
+  {
+    "id": "bio-cel-041",
+    "question": "Qu'est-ce qu'un lysosome",
+    "reponse": "Le lysosome est un organite qui contient des enzymes capables de digérer les déchets et les éléments usés de la cellule.",
+    "tags": [
+      "lysosome",
+      "dechets",
+      "digestion",
+      "enzymes",
+      "lizozòm",
+      "fatra"
+    ]
+  },
+  {
+    "id": "bio-cel-042",
+    "question": "Kisa ki yon lizozòm",
+    "reponse": "Lizozòm se yon òganèl ki gen anzim ladan k ap dijere fatra ak bagay ki fin itilize nan selil la.",
+    "tags": [
+      "lysosome",
+      "dechets",
+      "digestion",
+      "enzymes",
+      "lizozòm",
+      "fatra"
+    ]
+  },
+  {
+    "id": "bio-cel-043",
+    "question": "Qu'est-ce qu'une vacuole",
+    "reponse": "La vacuole est une poche remplie de liquide qui stocke l'eau, la nourriture ou les déchets dans la cellule, surtout chez les plantes.",
+    "tags": [
+      "vacuole",
+      "stockage",
+      "eau",
+      "plante",
+      "vakuòl",
+      "likid"
+    ]
+  },
+  {
+    "id": "bio-cel-044",
+    "question": "Kisa ki yon vakuòl",
+    "reponse": "Vakuòl se yon ti sak ki gen likid ladan ki estoke dlo, manje oswa fatra nan selil la, sitou nan plant yo.",
+    "tags": [
+      "vacuole",
+      "stockage",
+      "eau",
+      "plante",
+      "vakuòl",
+      "likid"
+    ]
+  },
+  {
+    "id": "bio-cel-045",
+    "question": "Qu'est-ce qu'un chloroplaste",
+    "reponse": "Le chloroplaste est l'organite vert des plantes qui contient la chlorophylle et réalise la photosynthèse.",
+    "tags": [
+      "chloroplaste",
+      "chlorophylle",
+      "photosynthese",
+      "plante",
+      "kloroplas",
+      "klowofil"
+    ]
+  },
+  {
+    "id": "bio-cel-046",
+    "question": "Kisa ki yon kloroplas",
+    "reponse": "Kloroplas se pati vèt nan plant yo ki gen klowofil ladan epi ki fè fotosentèz la fèt.",
+    "tags": [
+      "chloroplaste",
+      "chlorophylle",
+      "photosynthese",
+      "plante",
+      "kloroplas",
+      "klowofil"
+    ]
+  },
+  {
+    "id": "bio-cel-047",
+    "question": "Qu'est-ce que la paroi cellulaire",
+    "reponse": "La paroi cellulaire est une couche rigide qui entoure et protège certaines cellules, comme celles des plantes, des champignons et des bactéries.",
+    "tags": [
+      "paroi cellulaire",
+      "protection",
+      "plante",
+      "rigide",
+      "mi selilè",
+      "pwoteksyon"
+    ]
+  },
+  {
+    "id": "bio-cel-048",
+    "question": "Kisa ki mi selilè a",
+    "reponse": "Mi selilè a se yon kouch solid ki antoure epi pwoteje kèk selil, tankou sa yo jwenn nan plant, chanpiyon ak bakteri.",
+    "tags": [
+      "paroi cellulaire",
+      "protection",
+      "plante",
+      "rigide",
+      "mi selilè",
+      "pwoteksyon"
+    ]
+  },
+  {
+    "id": "bio-cel-049",
+    "question": "Qu'est-ce qu'une cellule eucaryote",
+    "reponse": "Une cellule eucaryote est une cellule dont l'ADN est protégé dans un noyau entouré d'une membrane, comme chez les animaux et les plantes.",
+    "tags": [
+      "eucaryote",
+      "noyau",
+      "cellule",
+      "animal",
+      "ekaryòt",
+      "nwayo"
+    ]
+  },
+  {
+    "id": "bio-cel-050",
+    "question": "Kisa ki yon selil ekaryòt",
+    "reponse": "Selil ekaryòt se yon selil kote ADN li pwoteje anndan yon nwayo ki gen pwòp manbràn li, tankou nan bèt ak plant.",
+    "tags": [
+      "eucaryote",
+      "noyau",
+      "cellule",
+      "animal",
+      "ekaryòt",
+      "nwayo"
+    ]
+  },
+  {
+    "id": "bio-cel-051",
+    "question": "Qu'est-ce qu'une cellule procaryote",
+    "reponse": "Une cellule procaryote est une cellule simple, sans noyau véritable, comme celle des bactéries.",
+    "tags": [
+      "procaryote",
+      "bacterie",
+      "simple",
+      "sans noyau",
+      "pwokaryòt",
+      "bakteri"
+    ]
+  },
+  {
+    "id": "bio-cel-052",
+    "question": "Kisa ki yon selil pwokaryòt",
+    "reponse": "Selil pwokaryòt se yon selil senp, san vrè nwayo, tankou sa bakteri yo genyen.",
+    "tags": [
+      "procaryote",
+      "bacterie",
+      "simple",
+      "sans noyau",
+      "pwokaryòt",
+      "bakteri"
+    ]
+  },
+  {
+    "id": "bio-cel-053",
+    "question": "Qu'est-ce qu'un organisme unicellulaire",
+    "reponse": "Un organisme unicellulaire est un être vivant formé d'une seule cellule, comme la bactérie ou certaines algues.",
+    "tags": [
+      "unicellulaire",
+      "bacterie",
+      "organisme",
+      "simple",
+      "inisèlilè",
+      "alg"
+    ]
+  },
+  {
+    "id": "bio-cel-054",
+    "question": "Kisa ki yon òganis inisèlilè",
+    "reponse": "Òganis inisèlilè se yon bagay vivan ki fèt ak yon sèl selil, tankou bakteri oswa kèk ti alg.",
+    "tags": [
+      "unicellulaire",
+      "bacterie",
+      "organisme",
+      "simple",
+      "inisèlilè",
+      "alg"
+    ]
+  },
+  {
+    "id": "bio-cel-055",
+    "question": "Qu'est-ce qu'un organisme pluricellulaire",
+    "reponse": "Un organisme pluricellulaire est un être vivant formé de nombreuses cellules qui travaillent ensemble, comme les humains, les animaux et les plantes.",
+    "tags": [
+      "pluricellulaire",
+      "organisme",
+      "humain",
+      "complexe",
+      "pliriselilè",
+      "moun"
+    ]
+  },
+  {
+    "id": "bio-cel-056",
+    "question": "Kisa ki yon òganis pliriselilè",
+    "reponse": "Òganis pliriselilè se yon bagay vivan ki fèt ak anpil selil k ap travay ansanm, tankou moun, bèt ak plant.",
+    "tags": [
+      "pluricellulaire",
+      "organisme",
+      "humain",
+      "complexe",
+      "pliriselilè",
+      "moun"
+    ]
+  },
+  {
+    "id": "bio-cel-057",
+    "question": "Qu'est-ce qu'un tissu en biologie",
+    "reponse": "Un tissu est un ensemble de cellules semblables qui travaillent ensemble pour accomplir une même fonction, comme le tissu musculaire.",
+    "tags": [
+      "tissu",
+      "cellules",
+      "fonction",
+      "muscle",
+      "tisi",
+      "mis"
+    ]
+  },
+  {
+    "id": "bio-cel-058",
+    "question": "Kisa ki yon tisi nan byoloji",
+    "reponse": "Tisi se yon gwoup selil ki sanble youn ak lòt k ap travay ansanm pou fè menm travay la, tankou tisi mis la.",
+    "tags": [
+      "tissu",
+      "cellules",
+      "fonction",
+      "muscle",
+      "tisi",
+      "mis"
+    ]
+  },
+  {
+    "id": "bio-cel-059",
+    "question": "Qu'est-ce qu'un organe",
+    "reponse": "Un organe est une structure du corps formée de plusieurs tissus qui travaillent ensemble pour remplir une fonction précise, comme le cœur ou le foie.",
+    "tags": [
+      "organe",
+      "tissus",
+      "coeur",
+      "foie",
+      "ògàn",
+      "fwa"
+    ]
+  },
+  {
+    "id": "bio-cel-060",
+    "question": "Kisa ki yon ògàn",
+    "reponse": "Ògàn se yon pati nan kò a ki fèt ak plizyè tisi k ap travay ansanm pou fè yon travay presi, tankou kè a oswa fwa a.",
+    "tags": [
+      "organe",
+      "tissus",
+      "coeur",
+      "foie",
+      "ògàn",
+      "fwa"
+    ]
+  },
+  {
+    "id": "bio-cel-061",
+    "question": "Qu'est-ce qu'un système en biologie",
+    "reponse": "Un système est un groupe d'organes qui travaillent ensemble pour accomplir une grande fonction, comme le système digestif.",
+    "tags": [
+      "systeme",
+      "organes",
+      "fonction",
+      "digestif",
+      "sistèm",
+      "dijestif"
+    ]
+  },
+  {
+    "id": "bio-cel-062",
+    "question": "Kisa ki yon sistèm nan byoloji",
+    "reponse": "Sistèm se yon gwoup ògàn k ap travay ansanm pou fè yon gwo travay, tankou sistèm dijestif la.",
+    "tags": [
+      "systeme",
+      "organes",
+      "fonction",
+      "digestif",
+      "sistèm",
+      "dijestif"
+    ]
+  },
+  {
+    "id": "bio-cel-063",
+    "question": "Qu'est-ce que le métabolisme",
+    "reponse": "Le métabolisme regroupe toutes les réactions chimiques qui permettent au corps de transformer la nourriture en énergie et en matière vivante.",
+    "tags": [
+      "metabolisme",
+      "energie",
+      "reactions",
+      "nourriture",
+      "metabolis",
+      "manje"
+    ]
+  },
+  {
+    "id": "bio-cel-064",
+    "question": "Kisa ki metabolis la",
+    "reponse": "Metabolis la se tout reyaksyon chimik ki pèmèt kò a transfòme manje an enèji ak matyè vivan.",
+    "tags": [
+      "metabolisme",
+      "energie",
+      "reactions",
+      "nourriture",
+      "metabolis",
+      "manje"
+    ]
+  },
+  {
+    "id": "bio-cel-065",
+    "question": "Qu'est-ce que l'homéostasie",
+    "reponse": "L'homéostasie est la capacité du corps à maintenir un équilibre interne stable, comme une température constante, malgré les changements extérieurs.",
+    "tags": [
+      "homeostasie",
+      "equilibre",
+      "temperature",
+      "regulation",
+      "omeostazi",
+      "ekilib"
+    ]
+  },
+  {
+    "id": "bio-cel-066",
+    "question": "Kisa ki omeostazi a",
+    "reponse": "Omeostazi se kapasite kò a genyen pou kenbe yon ekilib anndan li, tankou yon tanperati ki pa chanje, menm si andeyò a chanje.",
+    "tags": [
+      "homeostasie",
+      "equilibre",
+      "temperature",
+      "regulation",
+      "omeostazi",
+      "ekilib"
+    ]
+  },
+  {
+    "id": "bio-cel-067",
+    "question": "Qu'est-ce que le catabolisme",
+    "reponse": "Le catabolisme est l'ensemble des réactions qui décomposent les grosses molécules pour libérer de l'énergie.",
+    "tags": [
+      "catabolisme",
+      "decomposition",
+      "energie",
+      "molecules",
+      "katabolis",
+      "libere"
+    ]
+  },
+  {
+    "id": "bio-cel-068",
+    "question": "Kisa ki katabolis la",
+    "reponse": "Katabolis la se tout reyaksyon ki kraze gwo molekil yo pou libere enèji.",
+    "tags": [
+      "catabolisme",
+      "decomposition",
+      "energie",
+      "molecules",
+      "katabolis",
+      "libere"
+    ]
+  },
+  {
+    "id": "bio-cel-069",
+    "question": "Qu'est-ce que l'anabolisme",
+    "reponse": "L'anabolisme est l'ensemble des réactions qui construisent de grosses molécules à partir de petites, en consommant de l'énergie.",
+    "tags": [
+      "anabolisme",
+      "construction",
+      "energie",
+      "molecules",
+      "anabolis",
+      "konstwi"
+    ]
+  },
+  {
+    "id": "bio-cel-070",
+    "question": "Kisa ki anabolis la",
+    "reponse": "Anabolis la se tout reyaksyon ki konstwi gwo molekil soti nan ti molekil, pandan y ap konsome enèji.",
+    "tags": [
+      "anabolisme",
+      "construction",
+      "energie",
+      "molecules",
+      "anabolis",
+      "konstwi"
+    ]
+  },
+  {
+    "id": "bio-cel-071",
+    "question": "Qu'est-ce que l'ATP",
+    "reponse": "L'ATP est la molécule que la cellule utilise comme principale source d'énergie pour fonctionner.",
+    "tags": [
+      "atp",
+      "energie",
+      "cellule",
+      "molecule",
+      "sous enèji",
+      "selil"
+    ]
+  },
+  {
+    "id": "bio-cel-072",
+    "question": "Kisa ki ATP la",
+    "reponse": "ATP se molekil selil la itilize kòm prensipal sous enèji pou l fonksyone.",
+    "tags": [
+      "atp",
+      "energie",
+      "cellule",
+      "molecule",
+      "sous enèji",
+      "selil"
+    ]
+  },
+  {
+    "id": "bio-cel-073",
+    "question": "Qu'est-ce que le glucose",
+    "reponse": "Le glucose est un sucre simple qui sert de principale source d'énergie pour les cellules du corps.",
+    "tags": [
+      "glucose",
+      "sucre",
+      "energie",
+      "cellule",
+      "glikoz",
+      "sik"
+    ]
+  },
+  {
+    "id": "bio-cel-074",
+    "question": "Kisa ki glikoz la",
+    "reponse": "Glikoz se yon sik senp ki sèvi kòm prensipal sous enèji pou selil kò a.",
+    "tags": [
+      "glucose",
+      "sucre",
+      "energie",
+      "cellule",
+      "glikoz",
+      "sik"
+    ]
+  },
+  {
+    "id": "bio-cel-075",
+    "question": "Qu'est-ce qu'un lipide",
+    "reponse": "Un lipide, ou graisse, est une molécule qui stocke de l'énergie, forme les membranes cellulaires et protège le corps.",
+    "tags": [
+      "lipide",
+      "graisse",
+      "energie",
+      "membrane",
+      "grès",
+      "estokaj"
+    ]
+  },
+  {
+    "id": "bio-cel-076",
+    "question": "Kisa ki yon lipid",
+    "reponse": "Lipid, ou grès, se yon molekil ki estoke enèji, fòme manbràn selil yo epi ki pwoteje kò a.",
+    "tags": [
+      "lipide",
+      "graisse",
+      "energie",
+      "membrane",
+      "grès",
+      "estokaj"
+    ]
+  },
+  {
+    "id": "bio-cel-077",
+    "question": "Qu'est-ce qu'un acide aminé",
+    "reponse": "Un acide aminé est un petit bloc qui s'assemble avec d'autres pour former les protéines du corps.",
+    "tags": [
+      "acide amine",
+      "proteine",
+      "bloc",
+      "construction",
+      "asid amine",
+      "blòk"
+    ]
+  },
+  {
+    "id": "bio-cel-078",
+    "question": "Kisa ki yon asid amine",
+    "reponse": "Asid amine se yon ti blòk ki rasanble ak lòt pou fòme pwoteyin kò a.",
+    "tags": [
+      "acide amine",
+      "proteine",
+      "bloc",
+      "construction",
+      "asid amine",
+      "blòk"
+    ]
+  },
+  {
+    "id": "bio-cel-079",
+    "question": "Qu'est-ce qu'une bactérie",
+    "reponse": "Une bactérie est un organisme vivant formé d'une seule cellule simple, sans noyau, présent presque partout dans la nature.",
+    "tags": [
+      "bacterie",
+      "microorganisme",
+      "cellule",
+      "nature",
+      "bakteri",
+      "mikwo"
+    ]
+  },
+  {
+    "id": "bio-cel-080",
+    "question": "Kisa ki yon bakteri",
+    "reponse": "Bakteri se yon òganis vivan ki fèt ak yon sèl selil senp, san nwayo, ki prezan prèske tout kote nan lanati.",
+    "tags": [
+      "bacterie",
+      "microorganisme",
+      "cellule",
+      "nature",
+      "bakteri",
+      "mikwo"
+    ]
+  },
+  {
+    "id": "bio-cel-081",
+    "question": "Qu'est-ce qu'un virus",
+    "reponse": "Un virus est un agent infectieux minuscule qui a besoin d'entrer dans une cellule vivante pour se reproduire.",
+    "tags": [
+      "virus",
+      "infection",
+      "reproduction",
+      "maladie",
+      "viris",
+      "enfeksyon"
+    ]
+  },
+  {
+    "id": "bio-cel-082",
+    "question": "Kisa ki yon viris",
+    "reponse": "Viris se yon ti ajan enfeksyon ki bezwen antre nan yon selil vivan pou l ka miltipliye.",
+    "tags": [
+      "virus",
+      "infection",
+      "reproduction",
+      "maladie",
+      "viris",
+      "enfeksyon"
+    ]
+  },
+  {
+    "id": "bio-cel-083",
+    "question": "Qu'est-ce qu'un champignon en biologie",
+    "reponse": "Un champignon est un organisme vivant différent des plantes et des animaux, qui se nourrit en absorbant des matières organiques.",
+    "tags": [
+      "champignon",
+      "organisme",
+      "nutrition",
+      "nature",
+      "chanpiyon",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "bio-cel-084",
+    "question": "Kisa ki yon chanpiyon nan byoloji",
+    "reponse": "Chanpiyon se yon òganis vivan ki diferan de plant ak bèt, li manje lè l absòbe matyè òganik.",
+    "tags": [
+      "champignon",
+      "organisme",
+      "nutrition",
+      "nature",
+      "chanpiyon",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "bio-cel-085",
+    "question": "Qu'est-ce qu'une levure",
+    "reponse": "La levure est un petit champignon unicellulaire utilisé notamment pour faire lever le pain et fabriquer certaines boissons.",
+    "tags": [
+      "levure",
+      "champignon",
+      "fermentation",
+      "pain",
+      "lèvi",
+      "fèmantasyon"
+    ]
+  },
+  {
+    "id": "bio-cel-086",
+    "question": "Kisa ki yon lèvi",
+    "reponse": "Lèvi se yon ti chanpiyon ki gen yon sèl selil, yo itilize l pou fè pen leve ak pou fè kèk bwason.",
+    "tags": [
+      "levure",
+      "champignon",
+      "fermentation",
+      "pain",
+      "lèvi",
+      "fèmantasyon"
+    ]
+  },
+  {
+    "id": "bio-cel-087",
+    "question": "Qu'est-ce qu'une spore",
+    "reponse": "Une spore est une petite cellule résistante que certains organismes, comme les champignons, produisent pour se reproduire ou survivre.",
+    "tags": [
+      "spore",
+      "reproduction",
+      "champignon",
+      "resistance",
+      "spò",
+      "repwodui"
+    ]
+  },
+  {
+    "id": "bio-cel-088",
+    "question": "Kisa ki yon spò",
+    "reponse": "Spò se yon ti selil solid kèk òganis, tankou chanpiyon, pwodui pou yo ka repwodui oswa siviv.",
+    "tags": [
+      "spore",
+      "reproduction",
+      "champignon",
+      "resistance",
+      "spò",
+      "repwodui"
+    ]
+  },
+  {
+    "id": "bio-cel-089",
+    "question": "Qu'est-ce que la biologie moléculaire",
+    "reponse": "La biologie moléculaire est la branche de la biologie qui étudie le fonctionnement des êtres vivants au niveau des molécules, comme l'ADN et les protéines.",
+    "tags": [
+      "biologie moleculaire",
+      "adn",
+      "proteines",
+      "branche",
+      "molekilè",
+      "branch"
+    ]
+  },
+  {
+    "id": "bio-cel-090",
+    "question": "Kisa ki byoloji molekilè",
+    "reponse": "Byoloji molekilè se branch byoloji ki etidye fason bagay vivan fonksyone nan nivo molekil yo, tankou ADN ak pwoteyin.",
+    "tags": [
+      "biologie moleculaire",
+      "adn",
+      "proteines",
+      "branche",
+      "molekilè",
+      "branch"
+    ]
+  },
+  {
+    "id": "bio-cel-091",
+    "question": "Qu'est-ce que la division cellulaire",
+    "reponse": "La division cellulaire est le processus par lequel une cellule se divise en deux nouvelles cellules.",
+    "tags": [
+      "division cellulaire",
+      "multiplication",
+      "croissance",
+      "cellule",
+      "divizyon",
+      "miltipliye"
+    ]
+  },
+  {
+    "id": "bio-cel-092",
+    "question": "Kisa ki divizyon selilè a",
+    "reponse": "Divizyon selilè se pwosesis kote yon selil divize an de nouvo selil.",
+    "tags": [
+      "division cellulaire",
+      "multiplication",
+      "croissance",
+      "cellule",
+      "divizyon",
+      "miltipliye"
+    ]
+  },
+  {
+    "id": "bio-cel-093",
+    "question": "Qu'est-ce que l'eau pour une cellule",
+    "reponse": "L'eau est essentielle à la cellule: elle transporte les substances, participe aux réactions chimiques et maintient la structure cellulaire.",
+    "tags": [
+      "eau",
+      "cellule",
+      "transport",
+      "structure",
+      "dlo",
+      "esansyèl"
+    ]
+  },
+  {
+    "id": "bio-cel-094",
+    "question": "Ki wòl dlo jwe pou yon selil",
+    "reponse": "Dlo esansyèl pou selil la: li transpòte sibstans yo, li patisipe nan reyaksyon chimik yo epi li kenbe fòm selil la.",
+    "tags": [
+      "eau",
+      "cellule",
+      "transport",
+      "structure",
+      "dlo",
+      "esansyèl"
+    ]
+  },
+  {
+    "id": "bio-cel-095",
+    "question": "Qu'est-ce que la nutrition cellulaire",
+    "reponse": "La nutrition cellulaire est l'ensemble des processus par lesquels la cellule reçoit et utilise les substances dont elle a besoin pour vivre.",
+    "tags": [
+      "nutrition cellulaire",
+      "substances",
+      "energie",
+      "vie",
+      "nitrisyon",
+      "resevwa"
+    ]
+  },
+  {
+    "id": "bio-cel-096",
+    "question": "Kisa ki nitrisyon selilè a",
+    "reponse": "Nitrisyon selilè se tout pwosesis kote selil la resevwa epi itilize sa l bezwen pou l viv.",
+    "tags": [
+      "nutrition cellulaire",
+      "substances",
+      "energie",
+      "vie",
+      "nitrisyon",
+      "resevwa"
+    ]
+  },
+  {
+    "id": "bio-cel-097",
+    "question": "Pourquoi la biologie est-elle importante",
+    "reponse": "La biologie permet de comprendre le vivant, de soigner les maladies, de protéger l'environnement et d'améliorer l'agriculture et la santé.",
+    "tags": [
+      "biologie",
+      "importance",
+      "sante",
+      "environnement",
+      "byoloji",
+      "sante"
+    ]
+  },
+  {
+    "id": "bio-cel-098",
+    "question": "Poukisa byoloji enpòtan",
+    "reponse": "Byoloji pèmèt nou konprann bagay vivan yo, trete maladi, pwoteje anviwonnman an epi amelyore agrikilti ak sante.",
+    "tags": [
+      "biologie",
+      "importance",
+      "sante",
+      "environnement",
+      "byoloji",
+      "sante"
+    ]
+  },
+  {
+    "id": "bio-cel-099",
+    "question": "À quoi sert un microscope en biologie",
+    "reponse": "Un microscope est un instrument qui grossit les images pour permettre d'observer des cellules et des structures trop petites pour l'œil nu.",
+    "tags": [
+      "microscope",
+      "observation",
+      "cellule",
+      "instrument",
+      "mikwoskòp",
+      "obsève"
+    ]
+  },
+  {
+    "id": "bio-cel-100",
+    "question": "Ki sèvis yon mikwoskòp fè nan byoloji",
+    "reponse": "Mikwoskòp se yon zouti ki grosi imaj yo pou pèmèt moun obsève selil ak ti estrikti je toutouni pa ka wè.",
+    "tags": [
+      "microscope",
+      "observation",
+      "cellule",
+      "instrument",
+      "mikwoskòp",
+      "obsève"
+    ]
+  }
+]

@@ -1,0 +1,718 @@
+[
+  {
+    "id": "hti-alfabe-fr-001",
+    "question": "Combien y a-t-il de lettres dans l'alphabet français ?",
+    "reponse": "L'alphabet français compte 26 lettres : 6 voyelles et 20 consonnes.",
+    "tags": [
+      "alphabet",
+      "lettres",
+      "26",
+      "comptage",
+      "alfabè",
+      "konb"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-002",
+    "question": "Konbyen let alfabè franse a genyen ?",
+    "reponse": "Alfabè franse a gen 26 let : 6 vwayèl ak 20 konsonn.",
+    "tags": [
+      "alphabet",
+      "lettres",
+      "26",
+      "comptage",
+      "alfabè",
+      "konb"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-003",
+    "question": "Quelles sont les voyelles de l'alphabet français ?",
+    "reponse": "Les voyelles sont A, E, I, O, U et Y.",
+    "tags": [
+      "voyelles",
+      "a e i o u y",
+      "lettres",
+      "vwayèl"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-004",
+    "question": "Ki vwayèl alfabè franse a yo ?",
+    "reponse": "Vwayèl franse yo se A, E, I, O, U ak Y.",
+    "tags": [
+      "voyelles",
+      "a e i o u y",
+      "lettres",
+      "vwayèl"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-005",
+    "question": "Quelles sont les consonnes de l'alphabet français ?",
+    "reponse": "Les 20 consonnes sont B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X et Z.",
+    "tags": [
+      "consonnes",
+      "20",
+      "lettres",
+      "konsonn"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-006",
+    "question": "Ki konsonn alfabè franse a yo ?",
+    "reponse": "20 konsonn yo se B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X ak Z.",
+    "tags": [
+      "consonnes",
+      "20",
+      "lettres",
+      "konsonn"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-007",
+    "question": "De quel alphabet le français est-il issu ?",
+    "reponse": "L'alphabet français dérive de l'alphabet latin, comme l'espagnol et l'italien.",
+    "tags": [
+      "latin",
+      "origine",
+      "alphabet",
+      "orijin",
+      "alfabè"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-008",
+    "question": "Alfabè franse a soti kote ?",
+    "reponse": "Alfabè franse a soti nan alfabè latine a, tankou lang panyòl ak lang italyen.",
+    "tags": [
+      "latin",
+      "origine",
+      "alphabet",
+      "orijin",
+      "alfabè"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-009",
+    "question": "Quelles sont les lettres accentuées du français ?",
+    "reponse": "Les lettres accentuées sont é (aigu), è, ê, ë (grave, circonflexe, tréma), à, â, î, ï, ô, ù, û, ÿ et la cédille ç.",
+    "tags": [
+      "accents",
+      "lettres accentuees",
+      "cedille",
+      "aksan",
+      "let aksante"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-010",
+    "question": "Ki let franse yo ki gen aksan ?",
+    "reponse": "Let ki gen aksan yo se é (aksan egü), è, ê, ë (grav, sikonflèks, tréma), à, â, î, ï, ô, ù, û, ÿ, ak sediy ç.",
+    "tags": [
+      "accents",
+      "lettres accentuees",
+      "cedille",
+      "aksan",
+      "let aksante"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-011",
+    "question": "À quoi sert l'accent aigu ?",
+    "reponse": "L'accent aigu (é) donne le son é fermé : été, café, marché, école.",
+    "tags": [
+      "accent aigu",
+      "e",
+      "prononciation",
+      "aksan egü",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-012",
+    "question": "Kisa aksan egü a sèvi pou ?",
+    "reponse": "Aksan egü a (é) bay son e fèmen an : ete, kafe, mache, lekòl.",
+    "tags": [
+      "accent aigu",
+      "e",
+      "prononciation",
+      "aksan egü",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-013",
+    "question": "À quoi sert l'accent grave ?",
+    "reponse": "L'accent grave (è, à, ù) donne un son ouvert (père, très) ou distingue deux mots : ou/où, a/à, la/là.",
+    "tags": [
+      "accent grave",
+      "e ouvert",
+      "distinction",
+      "aksan grav",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-014",
+    "question": "Kisa aksan grav la sèvi pou ?",
+    "reponse": "Aksan grav la (è, à, ù) bay son e ouvè a (papa, trè) oswa li diferansye de mo : ou/ou, a/a, la/la.",
+    "tags": [
+      "accent grave",
+      "e ouvert",
+      "distinction",
+      "aksan grav",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-015",
+    "question": "À quoi sert l'accent circonflexe ?",
+    "reponse": "L'accent circonflexe (ê, â, î, ô, û) marque souvent une ancienne lettre disparue : forêt (forest), être, hôpital.",
+    "tags": [
+      "circonflexe",
+      "histoire",
+      "accent",
+      "sikonflèks",
+      "aksan"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-016",
+    "question": "Kisa sikonflèks la sèvi pou ?",
+    "reponse": "Sikonflèks la (ê, â, î, ô, û) makre souvan yon ansyen let ki te disparèt : forêt, et, lopital.",
+    "tags": [
+      "circonflexe",
+      "histoire",
+      "accent",
+      "sikonflèks",
+      "aksan"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-017",
+    "question": "Qu'est-ce que le tréma ?",
+    "reponse": "Le tréma (ë, ï) sépare les voyelles pour qu'elles se prononcent à part : naïf, Noël, maïs.",
+    "tags": [
+      "trema",
+      "voyelles",
+      "prononciation",
+      "tréma",
+      "vwayèl"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-018",
+    "question": "Kisa ki yon tréma ?",
+    "reponse": "Tréma a (ë, ï) separe vwayèl yo pou yo ka sonnen apa : naf, Nwel, mayi.",
+    "tags": [
+      "trema",
+      "voyelles",
+      "prononciation",
+      "tréma",
+      "vwayèl"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-019",
+    "question": "Qu'est-ce que la cédille ?",
+    "reponse": "La cédille (ç) donne le son S au C devant A, O ou U : garçon, français, leçon.",
+    "tags": [
+      "cedille",
+      "c",
+      "son s",
+      "sediy",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-020",
+    "question": "Kisa ki yon sediy ?",
+    "reponse": "Sediy la (ç) bay son S la bay C lè li devan A, O ou U : gason, franse, leson.",
+    "tags": [
+      "cedille",
+      "c",
+      "son s",
+      "sediy",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-021",
+    "question": "Comment prononce-t-on la lettre C ?",
+    "reponse": "Le C se prononce S devant E, I, Y (ce, citron, cycle) et K devant A, O, U (car, côte, cube).",
+    "tags": [
+      "lettre c",
+      "prononciation",
+      "sons",
+      "let c",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-022",
+    "question": "Kijan pou w pwononse let C ?",
+    "reponse": "Let C la fè son S lè li devan E, I, Y (se, sitwon, sik) epi son K devan A, O, U (kawotchou, kot, kib).",
+    "tags": [
+      "lettre c",
+      "prononciation",
+      "sons",
+      "let c",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-023",
+    "question": "Comment prononce-t-on la lettre G ?",
+    "reponse": "Le G se prononce J devant E, I, Y (gens, girafe, gymnase) et G dur devant A, O, U (gare, gomme, guitare).",
+    "tags": [
+      "lettre g",
+      "prononciation",
+      "sons",
+      "let g",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-024",
+    "question": "Kijan pou w pwononse let G ?",
+    "reponse": "Let G la fè son J lè li devan E, I, Y (jan, jiraf, jimnaz) epi son G di devan A, O, U (gad, gom, gitar).",
+    "tags": [
+      "lettre g",
+      "prononciation",
+      "sons",
+      "let g",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-025",
+    "question": "Quelles lettres sont souvent muettes en fin de mot ?",
+    "reponse": "S, T, D, P, X et Z sont souvent muettes à la fin d'un mot : beaucoup, petit, pied, trop, prix, nez.",
+    "tags": [
+      "lettres muettes",
+      "fin de mot",
+      "silencieuses",
+      "let silansye",
+      "fen mo"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-026",
+    "question": "Ki let ki souvan silansye nan fen yon mo ?",
+    "reponse": "S, T, D, P, X ak Z souvan pa sonnen nan fen yon mo : bouqui, ti, pye, anpil, pri, nen.",
+    "tags": [
+      "lettres muettes",
+      "fin de mot",
+      "silencieuses",
+      "let silansye",
+      "fen mo"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-027",
+    "question": "Qu'est-ce qu'un digramme ?",
+    "reponse": "Un digramme est un groupe de deux lettres qui font un seul son, comme CH, PH, TH ou GN.",
+    "tags": [
+      "digramme",
+      "deux lettres",
+      "son",
+      "digram",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-028",
+    "question": "Kisa ki yon digram ?",
+    "reponse": "Yon digram se yon gwoup de let ki fè yon sèl son, tankou CH, PH, TH ou GN nan lang franse a.",
+    "tags": [
+      "digramme",
+      "deux lettres",
+      "son",
+      "digram",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-029",
+    "question": "Comment se prononce CH en français ?",
+    "reponse": "CH se prononce TCH : chat, chaud, chocolat, chanson.",
+    "tags": [
+      "ch",
+      "son tch",
+      "prononciation",
+      "son",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-030",
+    "question": "Kijan CH sonnen an franse ?",
+    "reponse": "CH fè son TCH : chat, cho, chokola, chante.",
+    "tags": [
+      "ch",
+      "son tch",
+      "prononciation",
+      "son",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-031",
+    "question": "Comment se prononce PH en français ?",
+    "reponse": "PH se prononce F : photo, téléphone, physique, phare.",
+    "tags": [
+      "ph",
+      "son f",
+      "prononciation",
+      "son",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-032",
+    "question": "Kijan PH sonnen an franse ?",
+    "reponse": "PH fè son F : foto, telefon, fizik, far.",
+    "tags": [
+      "ph",
+      "son f",
+      "prononciation",
+      "son",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-033",
+    "question": "Comment se prononce TH en français ?",
+    "reponse": "TH se prononce T : théâtre, maths, théorie, méthode.",
+    "tags": [
+      "th",
+      "son t",
+      "prononciation",
+      "son",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-034",
+    "question": "Kijan TH sonnen an franse ?",
+    "reponse": "TH fè son T : teyat, matematik, teyori, metòd.",
+    "tags": [
+      "th",
+      "son t",
+      "prononciation",
+      "son",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-035",
+    "question": "Comment se prononce GN en français ?",
+    "reponse": "GN se prononce GNY (comme dans « montagne ») : montagne, oignon, campagne, signal.",
+    "tags": [
+      "gn",
+      "son gny",
+      "prononciation",
+      "son",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-036",
+    "question": "Kijan GN sonnen an franse ?",
+    "reponse": "GN fè son GNY : montay, zonyon, kanpay, sinyal.",
+    "tags": [
+      "gn",
+      "son gny",
+      "prononciation",
+      "son",
+      "pwononsyasyon"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-037",
+    "question": "Quels digrammes font le son O fermé ?",
+    "reponse": "AU et EAU font le son O fermé : haut, eau, château, beau.",
+    "tags": [
+      "au",
+      "eau",
+      "son o",
+      "digram",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-038",
+    "question": "Ki digram ki fè son O fèmen an ?",
+    "reponse": "AU ak EAU fè son O fèmen an : o, dlo, chato, bo.",
+    "tags": [
+      "au",
+      "eau",
+      "son o",
+      "digram",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-039",
+    "question": "Quel digramme fait le son OU ?",
+    "reponse": "Le digramme OU fait le son OU : vous, roue, souris, coucou.",
+    "tags": [
+      "ou",
+      "son u",
+      "digramme",
+      "digram",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-040",
+    "question": "Ki digram ki fè son OU ?",
+    "reponse": "Digram OU a fè son OU a : ou, wou, souri, koukou.",
+    "tags": [
+      "ou",
+      "son u",
+      "digramme",
+      "digram",
+      "son"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-041",
+    "question": "Comment écrit-on le son WA en français ?",
+    "reponse": "Le son WA s'écrit OI : moi, toi, bois, trois ; exception : oignon.",
+    "tags": [
+      "oi",
+      "son wa",
+      "ecriture",
+      "son",
+      "ekriti"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-042",
+    "question": "Kijan pou w ekri son WA an franse ?",
+    "reponse": "Son WA a sèvi ak OI pou ekri l : mwa, twa, bwa, twa ; eksepsyon : zonyon.",
+    "tags": [
+      "oi",
+      "son wa",
+      "ecriture",
+      "son",
+      "ekriti"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-043",
+    "question": "Quelles lettres font le son IN ?",
+    "reponse": "IN, IM, AIN, AIM et EIN font le son IN : vin, pain, plein, impossible.",
+    "tags": [
+      "in",
+      "nasal",
+      "son in",
+      "son",
+      "nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-044",
+    "question": "Ki let ki fè son IN ?",
+    "reponse": "IN, IM, AIN, AIM ak EIN fè son IN an : vin, pen, plen, enposib.",
+    "tags": [
+      "in",
+      "nasal",
+      "son in",
+      "son",
+      "nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-045",
+    "question": "Quelles lettres font le son AN ?",
+    "reponse": "AN, AM, EN et EM font le son AN : vent, temps, grand, champ, dent.",
+    "tags": [
+      "an",
+      "nasal",
+      "son an",
+      "son",
+      "nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-046",
+    "question": "Ki let ki fè son AN ?",
+    "reponse": "AN, AM, EN ak EM fè son AN an : van, tan, gran, chan, dan.",
+    "tags": [
+      "an",
+      "nasal",
+      "son an",
+      "son",
+      "nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-047",
+    "question": "Quelles lettres font le son ON ?",
+    "reponse": "ON et OM font le son ON : nom, maison, ombre, nombril, rond.",
+    "tags": [
+      "on",
+      "nasal",
+      "son on",
+      "son",
+      "nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-048",
+    "question": "Ki let ki fè son ON ?",
+    "reponse": "ON ak OM fè son ON an : non, mezon, lonbray, wonn.",
+    "tags": [
+      "on",
+      "nasal",
+      "son on",
+      "son",
+      "nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-049",
+    "question": "Quelles lettres font le son UN ?",
+    "reponse": "UN fait le son UN : un, lundi, brun, parfum.",
+    "tags": [
+      "un",
+      "nasal",
+      "son un",
+      "son",
+      "nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-050",
+    "question": "Ki let ki fè son UN ?",
+    "reponse": "UN fè son UN an : en, lendi, brin, pafen.",
+    "tags": [
+      "un",
+      "nasal",
+      "son un",
+      "son",
+      "nazal"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-051",
+    "question": "La lettre H se prononce-t-elle en français ?",
+    "reponse": "Non, le H est toujours muet en français : hôtel, homme, haricot, hôpital.",
+    "tags": [
+      "h",
+      "muette",
+      "prononciation",
+      "let h",
+      "silansye"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-052",
+    "question": "Èske let H sonnen an franse ?",
+    "reponse": "Non, let H la pa janm sonnen an franse : otèl, òm, ariko, lopital.",
+    "tags": [
+      "h",
+      "muette",
+      "prononciation",
+      "let h",
+      "silansye"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-053",
+    "question": "Comment appelle-t-on la lettre Y ?",
+    "reponse": "La lettre Y s'appelle « i grec ».",
+    "tags": [
+      "y",
+      "i grec",
+      "nom",
+      "let y",
+      "non"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-054",
+    "question": "Kijan yo rele let Y ?",
+    "reponse": "Yo rele let Y la « i grec », sa vle di i grèk.",
+    "tags": [
+      "y",
+      "i grec",
+      "nom",
+      "let y",
+      "non"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-055",
+    "question": "Quelles lettres servent surtout pour les mots étrangers ?",
+    "reponse": "K et W servent surtout dans les mots étrangers : kiwi, képi, watt, web, wagon.",
+    "tags": [
+      "k",
+      "w",
+      "mots etrangers",
+      "mo etranje"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-056",
+    "question": "Ki let ki sèvi sitou pou mo etranje ?",
+    "reponse": "K ak W sèvi sitou nan mo etranje yo : kiwi, kepi, wat, wèb, vagon.",
+    "tags": [
+      "k",
+      "w",
+      "mots etrangers",
+      "mo etranje"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-057",
+    "question": "Comment s'écrit l'alphabet français dans l'ordre ?",
+    "reponse": "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.",
+    "tags": [
+      "ordre",
+      "alphabet",
+      "liste",
+      "lòd",
+      "lis"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-058",
+    "question": "Kijan alfabè franse a ye nan lòd ?",
+    "reponse": "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.",
+    "tags": [
+      "ordre",
+      "alphabet",
+      "liste",
+      "lòd",
+      "lis"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-059",
+    "question": "À quoi sert l'alphabet ?",
+    "reponse": "L'alphabet sert à écrire les mots, à lire, à faire la dictée et à communiquer par écrit.",
+    "tags": [
+      "alphabet",
+      "utilite",
+      "lire ecrire",
+      "alfabè",
+      "sèvi"
+    ]
+  },
+  {
+    "id": "hti-alfabe-fr-060",
+    "question": "Alfabè a sèvi pou sa ?",
+    "reponse": "Alfabè a sèvi pou ekri mo yo, pou li, pou dikte epi pou komunike pa ekri.",
+    "tags": [
+      "alphabet",
+      "utilite",
+      "lire ecrire",
+      "alfabè",
+      "sèvi"
+    ]
+  }
+]

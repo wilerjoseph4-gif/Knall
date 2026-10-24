@@ -1,0 +1,138 @@
+name: Build APK (arrière-plan)
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - run: npm install --no-audit --no-fund
+      - run: npm install @capacitor/local-notifications@8 @capacitor/app-launcher@8 @capacitor/filesystem@8 --no-audit --no-fund
+      - name: Plugin reconnaissance vocale (micro + conversation live)
+        run: npm install @capgo/capacitor-speech-recognition@8 --no-audit --no-fund
+        continue-on-error: true
+      - name: Plugin Galerie (enregistrer images/vidéos dans la Galerie)
+        run: npm install @capacitor-community/media --no-audit --no-fund
+        continue-on-error: true
+      - name: Index automatique des connaissances
+        run: |
+          node - <<'EOF'
+          const fs = require('fs'), p = require('path');
+          const root = 'www/knowledge';
+          for (const d of fs.readdirSync(root, {withFileTypes: true})) {
+            if (!d.isDirectory()) continue;
+            const dir = p.join(root, d.name);
+            const f = fs.readdirSync(dir)
+              .filter(n => n.endsWith('.json') && !/^index/i.test(n))
+              .sort((a, b) => a === 'base.json' ? -1 : b === 'base.json' ? 1 : a.localeCompare(b));
+            fs.writeFileSync(p.join(dir, 'index.json'), JSON.stringify(f));
+            console.log(d.name, f.length, 'fichier(s)');
+          }
+          EOF
+      - run: npx capacitor-assets generate --android
+        continue-on-error: true
+      - name: Numéro de version (pour la mise à jour dans l'app)
+        run: |
+          N=${GITHUB_RUN_NUMBER}
+          sed -i "s/const APP_BUILD = {code:0,name:\"dev\"}/const APP_BUILD = {code:${N},name:\"1.0.${N}\"}/" www/index.html
+          grep -o 'const APP_BUILD = {[^}]*}' www/index.html || echo "ATTENTION : APP_BUILD introuvable dans www/index.html"
+      - run: npx cap sync android
+      - name: Permissions Android
+        run: |
+          M=android/app/src/main/AndroidManifest.xml
+
+          # Ajoute une permission si elle n'existe pas déjà ($1 = nom, $2 = attributs optionnels)
+          perm() {
+            grep -q "android.permission.$1\"" $M || sed -i "s#<application#<uses-permission android:name=\"android.permission.$1\" $2/>\n    <application#" $M
+          }
+          # Ajoute une fonctionnalité matérielle optionnelle (l'app s'installe même sans)
+          feat() {
+            grep -q "$1\"" $M || sed -i "s#<application#<uses-feature android:name=\"$1\" android:required=\"false\" />\n    <application#" $M
+          }
+
+          # Réseau
+          perm INTERNET
+          perm ACCESS_NETWORK_STATE
+          perm ACCESS_WIFI_STATE
+
+          # Micro et caméra
+          perm RECORD_AUDIO
+          perm MODIFY_AUDIO_SETTINGS
+          perm CAMERA
+          feat android.hardware.camera
+          feat android.hardware.camera.autofocus
+          feat android.hardware.microphone
+
+          # Notifications, vibration, écran actif
+          perm POST_NOTIFICATIONS
+          perm VIBRATE
+          perm WAKE_LOCK
+          perm RECEIVE_BOOT_COMPLETED
+          perm SCHEDULE_EXACT_ALARM
+          perm USE_FULL_SCREEN_INTENT
+
+          # Stockage interne + Galerie
+          # Android 13+ : accès aux médias
+          perm READ_MEDIA_IMAGES
+          perm READ_MEDIA_VIDEO
+          perm READ_MEDIA_AUDIO
+          perm READ_MEDIA_VISUAL_USER_SELECTED
+          perm ACCESS_MEDIA_LOCATION
+          # Android 12 et moins : lecture / écriture du stockage
+          perm READ_EXTERNAL_STORAGE 'android:maxSdkVersion="32" '
+          perm WRITE_EXTERNAL_STORAGE 'android:maxSdkVersion="32" '
+          # Accès à tous les fichiers du téléphone (stockage interne complet)
+          perm MANAGE_EXTERNAL_STORAGE
+
+          # Ancien mode de stockage (compatibilité Android 10)
+          grep -q requestLegacyExternalStorage $M || sed -i 's#<application#<application android:requestLegacyExternalStorage="true"#' $M
+
+          # Ouvrir d'autres apps (app-launcher)
+          perm QUERY_ALL_PACKAGES
+
+          # Bluetooth (casque / micro Bluetooth)
+          perm BLUETOOTH 'android:maxSdkVersion="30" '
+          perm BLUETOOTH_CONNECT
+
+          grep -n "uses-permission\|uses-feature\|requestLegacyExternalStorage" $M
+      - name: Modèles de voix hors ligne (Vosk)
+        run: |
+          set -e
+          mkdir -p android/app/src/main/assets
+          for L in fr en; do
+            case $L in
+              fr) URL=https://alphacephei.com/vosk/models/vosk-model-small-fr-0.22.zip ;;
+              en) URL=https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip ;;
+            esac
+            curl -L --fail --retry 3 -o /tmp/m-$L.zip "$URL"
+            unzip -q /tmp/m-$L.zip -d /tmp/m-$L
+            mv /tmp/m-$L/* android/app/src/main/assets/vosk-model-$L
+            rm /tmp/m-$L.zip
+          done
+          du -sh android/app/src/main/assets/vosk-model-*
+          # Vérification : les mots par défaut existent-ils dans le vocabulaire de chaque modèle ?
+          for L in fr en; do
+            echo "== vocabulaire $L"
+            for W in messi jésus jesus "what's" up flow closer zipping; do
+              if awk '{print $1}' android/app/src/main/assets/vosk-model-$L/graph/words.txt | grep -qxF -- "$W"; then echo "  oui  $W"; else echo "  non  $W"; fi
+            done
+          done
+      - name: Service d'écoute en arrière-plan (Java + Gradle + manifest)
+        run: node scripts/patch-wake.js
+      - name: Téléchargements natifs (fichiers, images, mise à jour)
+        run: node scripts/patch-files.js
+      - name: Signature stable et numéro de version Android
+        run: node scripts/patch-signing.js
+      - run: chmod +x android/gradlew
+      - run: cd android && ./gradlew assembleDebug
+      - uses: actions/upload-artifact@v4
+        with:
+          name: knall-apk-arriere-plan
+          path: android/app/build/outputs/apk/debug/*.apk

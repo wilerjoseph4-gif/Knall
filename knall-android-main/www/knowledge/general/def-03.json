@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "def-03-001",
+    "question": "Qu'est-ce que le singe",
+    "reponse": "Le singe est un mammifère primate souvent arboricole, caractérisé par une grande agilité, des membres préhensiles et un comportement social complexe.",
+    "tags": [
+      "singe",
+      "primate",
+      "arboricole",
+      "social",
+      "makak",
+      "ajil"
+    ]
+  },
+  {
+    "id": "def-03-002",
+    "question": "Kisa ki makak la",
+    "reponse": "Makak se yon mamifè primat ki souvan viv nan pyebwa, li ajil anpil, manm li ka kenbe bagay epi li gen yon konpòtman sosyal konplèks.",
+    "tags": [
+      "singe",
+      "primate",
+      "arboricole",
+      "social",
+      "makak",
+      "ajil"
+    ]
+  },
+  {
+    "id": "def-03-003",
+    "question": "Qu'est-ce que le panda",
+    "reponse": "Le panda géant est un mammifère originaire de Chine, reconnaissable à son pelage noir et blanc, se nourrissant presque exclusivement de bambou.",
+    "tags": [
+      "panda",
+      "chine",
+      "bambou",
+      "pelage",
+      "panda",
+      "banbou"
+    ]
+  },
+  {
+    "id": "def-03-004",
+    "question": "Kisa ki panda a",
+    "reponse": "Panda se yon mamifè ki soti Lachin, moun rekonèt li ak po li ki nwa ak blan, li manje prèske sèlman banbou.",
+    "tags": [
+      "panda",
+      "chine",
+      "bambou",
+      "pelage",
+      "panda",
+      "banbou"
+    ]
+  },
+  {
+    "id": "def-03-005",
+    "question": "Qu'est-ce que le hibou",
+    "reponse": "Le hibou est un oiseau rapace nocturne, doté d'une vision et d'une ouïe exceptionnelles, capable de voler silencieusement pour surprendre ses proies.",
+    "tags": [
+      "hibou",
+      "nocturne",
+      "rapace",
+      "vision",
+      "hibou",
+      "lannwit"
+    ]
+  },
+  {
+    "id": "def-03-006",
+    "question": "Kisa ki hibou a",
+    "reponse": "Hibou se yon zwazo predatè ki chase lannwit, li wè ak tande byen anpil, li vole san fè bri pou siprann bèt l ap chase yo.",
+    "tags": [
+      "hibou",
+      "nocturne",
+      "rapace",
+      "vision",
+      "hibou",
+      "lannwit"
+    ]
+  },
+  {
+    "id": "def-03-007",
+    "question": "Qu'est-ce que le flamant rose",
+    "reponse": "Le flamant rose est un grand oiseau échassier à la couleur rose caractéristique, vivant en groupes dans les zones humides et se nourrissant de petits organismes aquatiques.",
+    "tags": [
+      "flamant rose",
+      "echassier",
+      "zones humides",
+      "couleur",
+      "flamanroz",
+      "woz"
+    ]
+  },
+  {
+    "id": "def-03-008",
+    "question": "Kisa ki flamanroz la",
+    "reponse": "Flamanroz se yon gwo zwazo ki gen pye long, li gen koulè woz, li viv an gwoup nan zòn imid epi li manje ti bèt dlo.",
+    "tags": [
+      "flamant rose",
+      "echassier",
+      "zones humides",
+      "couleur",
+      "flamanroz",
+      "woz"
+    ]
+  },
+  {
+    "id": "def-03-009",
+    "question": "Qu'est-ce que le hérisson",
+    "reponse": "Le hérisson est un petit mammifère nocturne couvert de piquants, capable de se mettre en boule pour se protéger des prédateurs.",
+    "tags": [
+      "herisson",
+      "piquants",
+      "nocturne",
+      "protection",
+      "erison",
+      "pikan"
+    ]
+  },
+  {
+    "id": "def-03-010",
+    "question": "Kisa ki erison an",
+    "reponse": "Erison se yon ti mamifè ki aktif lannwit, kò li kouvri ak pikan, li ka boule kò l an wonn pou pwoteje tèt li kont predatè.",
+    "tags": [
+      "herisson",
+      "piquants",
+      "nocturne",
+      "protection",
+      "erison",
+      "pikan"
+    ]
+  },
+  {
+    "id": "def-03-011",
+    "question": "Qu'est-ce que le koala",
+    "reponse": "Le koala est un marsupial australien arboricole, se nourrissant presque exclusivement de feuilles d'eucalyptus, dormant la majeure partie de la journée.",
+    "tags": [
+      "koala",
+      "marsupial",
+      "eucalyptus",
+      "australie",
+      "koala",
+      "dòmi"
+    ]
+  },
+  {
+    "id": "def-03-012",
+    "question": "Kisa ki koala a",
+    "reponse": "Koala se yon bèt ki gen pòch sou vant li ki soti Ostrali, li viv nan pyebwa, li manje prèske sèlman fèy ekaliptis epi li dòmi pifò tan jounen an.",
+    "tags": [
+      "koala",
+      "marsupial",
+      "eucalyptus",
+      "australie",
+      "koala",
+      "dòmi"
+    ]
+  },
+  {
+    "id": "def-03-013",
+    "question": "Qu'est-ce que le rhinocéros",
+    "reponse": "Le rhinocéros est un grand mammifère herbivore à la peau épaisse, reconnaissable à une ou deux cornes sur le museau, originaire d'Afrique ou d'Asie.",
+    "tags": [
+      "rhinoceros",
+      "corne",
+      "herbivore",
+      "peau epaisse",
+      "renosewòs",
+      "kòn"
+    ]
+  },
+  {
+    "id": "def-03-014",
+    "question": "Kisa ki renosewòs la",
+    "reponse": "Renosewòs se yon gwo mamifè ki manje plant, po li epè, li gen yon oswa de kòn sou nen li, li soti an Afrik oswa an Azi.",
+    "tags": [
+      "rhinoceros",
+      "corne",
+      "herbivore",
+      "peau epaisse",
+      "renosewòs",
+      "kòn"
+    ]
+  },
+  {
+    "id": "def-03-015",
+    "question": "Qu'est-ce que l'hippopotame",
+    "reponse": "L'hippopotame est un grand mammifère semi-aquatique africain, passant la majeure partie de la journée dans l'eau pour protéger sa peau sensible du soleil.",
+    "tags": [
+      "hippopotame",
+      "semi-aquatique",
+      "afrique",
+      "peau sensible",
+      "ipopotam",
+      "dlo"
+    ]
+  },
+  {
+    "id": "def-03-016",
+    "question": "Kisa ki ipopotam lan",
+    "reponse": "Ipopotam se yon gwo mamifè afriken ki viv ni nan dlo ni sou tè, li pase pifò tan jounen an nan dlo pou pwoteje po li ki sansib kont solèy la.",
+    "tags": [
+      "hippopotame",
+      "semi-aquatique",
+      "afrique",
+      "peau sensible",
+      "ipopotam",
+      "dlo"
+    ]
+  },
+  {
+    "id": "def-03-017",
+    "question": "Qu'est-ce que le paon",
+    "reponse": "Le paon est un oiseau connu pour le plumage spectaculaire du mâle, qui déploie sa longue traîne colorée en éventail pour séduire les femelles.",
+    "tags": [
+      "paon",
+      "plumage",
+      "sduction",
+      "oiseau",
+      "pan",
+      "plim"
+    ]
+  },
+  {
+    "id": "def-03-018",
+    "question": "Kisa ki pan an",
+    "reponse": "Pan se yon zwazo moun konnen pou bèl plim mal la genyen, li louvri longè plim li ki gen koulè an evantay pou atire fi yo.",
+    "tags": [
+      "paon",
+      "plumage",
+      "sduction",
+      "oiseau",
+      "pan",
+      "plim"
+    ]
+  },
+  {
+    "id": "def-03-019",
+    "question": "Qu'est-ce que le colibri",
+    "reponse": "Le colibri est un très petit oiseau capable de battre des ailes extrêmement rapidement, lui permettant de voler sur place et de se nourrir du nectar des fleurs.",
+    "tags": [
+      "colibri",
+      "nectar",
+      "vol stationnaire",
+      "petit oiseau",
+      "wanganègès",
+      "nèkta"
+    ]
+  },
+  {
+    "id": "def-03-020",
+    "question": "Kisa ki wanganègès la",
+    "reponse": "Wanganègès se yon ti zwazo ki bat zèl li vit anpil, sa k pèmèt li rete an plas nan lè a epi manje nèkta flè yo.",
+    "tags": [
+      "colibri",
+      "nectar",
+      "vol stationnaire",
+      "petit oiseau",
+      "wanganègès",
+      "nèkta"
+    ]
+  },
+  {
+    "id": "def-03-021",
+    "question": "Qu'est-ce que la respiration",
+    "reponse": "La respiration est le processus biologique par lequel un organisme absorbe l'oxygène de l'air et rejette le dioxyde de carbone produit par son métabolisme.",
+    "tags": [
+      "respiration",
+      "oxygene",
+      "dioxyde de carbone",
+      "metabolisme",
+      "respirasyon",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "def-03-022",
+    "question": "Kisa ki respirasyon an",
+    "reponse": "Respirasyon se pwosesis byolojik kote yon òganis absòbe oksijèn ki nan lè a epi rejte gaz kabonik metabolis li pwodui.",
+    "tags": [
+      "respiration",
+      "oxygene",
+      "dioxyde de carbone",
+      "metabolisme",
+      "respirasyon",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "def-03-023",
+    "question": "Qu'est-ce que la digestion",
+    "reponse": "La digestion est le processus par lequel le corps décompose les aliments en nutriments assimilables, grâce à des enzymes et des organes comme l'estomac et les intestins.",
+    "tags": [
+      "digestion",
+      "nutriments",
+      "enzymes",
+      "estomac",
+      "dijesyon",
+      "kraze"
+    ]
+  },
+  {
+    "id": "def-03-024",
+    "question": "Kisa ki dijesyon an",
+    "reponse": "Dijesyon se pwosesis kote kò a kraze manje a an eleman nitritif li ka itilize, gras ak anzim ak ògàn tankou lestomak ak trip yo.",
+    "tags": [
+      "digestion",
+      "nutriments",
+      "enzymes",
+      "estomac",
+      "dijesyon",
+      "kraze"
+    ]
+  },
+  {
+    "id": "def-03-025",
+    "question": "Qu'est-ce que le système nerveux",
+    "reponse": "Le système nerveux est l'ensemble des structures, dont le cerveau, la moelle épinière et les nerfs, qui coordonnent et contrôlent les fonctions du corps.",
+    "tags": [
+      "systeme nerveux",
+      "cerveau",
+      "moelle epiniere",
+      "coordination",
+      "sistèm nève",
+      "kowòdone"
+    ]
+  },
+  {
+    "id": "def-03-026",
+    "question": "Kisa ki sistèm nève a",
+    "reponse": "Sistèm nève a se tout estrikti yo, tankou sèvo a, mwèl epinyè a ak nève yo, ki kowòdone epi kontwole fonksyon kò a.",
+    "tags": [
+      "systeme nerveux",
+      "cerveau",
+      "moelle epiniere",
+      "coordination",
+      "sistèm nève",
+      "kowòdone"
+    ]
+  },
+  {
+    "id": "def-03-027",
+    "question": "Qu'est-ce que la vue",
+    "reponse": "La vue est le sens qui permet de percevoir la lumière, les couleurs et les formes grâce aux yeux et au traitement de l'information par le cerveau.",
+    "tags": [
+      "vue",
+      "sens",
+      "yeux",
+      "perception",
+      "sans wè",
+      "je"
+    ]
+  },
+  {
+    "id": "def-03-028",
+    "question": "Kisa ki sans wè a",
+    "reponse": "Sans wè a se sans ki pèmèt yon moun pèsevwa limyè, koulè ak fòm gras ak je yo ak fason sèvo a trete enfòmasyon an.",
+    "tags": [
+      "vue",
+      "sens",
+      "yeux",
+      "perception",
+      "sans wè",
+      "je"
+    ]
+  },
+  {
+    "id": "def-03-029",
+    "question": "Qu'est-ce que l'odorat",
+    "reponse": "L'odorat est le sens qui permet de détecter et distinguer les odeurs grâce à des récepteurs situés dans les fosses nasales, reliés au cerveau.",
+    "tags": [
+      "odorat",
+      "sens",
+      "recepteurs",
+      "nez",
+      "sans pran sant",
+      "nen"
+    ]
+  },
+  {
+    "id": "def-03-030",
+    "question": "Kisa ki sans pran sant lan",
+    "reponse": "Sans pran sant lan se sans ki pèmèt detekte ak distenge sant gras ak reseptè ki nan twou nen, ki konekte ak sèvo a.",
+    "tags": [
+      "odorat",
+      "sens",
+      "recepteurs",
+      "nez",
+      "sans pran sant",
+      "nen"
+    ]
+  },
+  {
+    "id": "def-03-031",
+    "question": "Qu'est-ce que le toucher",
+    "reponse": "Le toucher est le sens qui permet de percevoir les textures, la pression, la chaleur et la douleur grâce à des récepteurs situés dans la peau.",
+    "tags": [
+      "toucher",
+      "sens",
+      "peau",
+      "recepteurs",
+      "sans manyen",
+      "po"
+    ]
+  },
+  {
+    "id": "def-03-032",
+    "question": "Kisa ki sans manyen an",
+    "reponse": "Sans manyen an se sans ki pèmèt pèsevwa teksti, presyon, chalè ak doulè gras ak reseptè ki nan po a.",
+    "tags": [
+      "toucher",
+      "sens",
+      "peau",
+      "recepteurs",
+      "sans manyen",
+      "po"
+    ]
+  },
+  {
+    "id": "def-03-033",
+    "question": "Qu'est-ce que le goût",
+    "reponse": "Le goût est le sens qui permet de percevoir les saveurs des aliments grâce aux papilles gustatives situées sur la langue.",
+    "tags": [
+      "gout",
+      "sens",
+      "papilles gustatives",
+      "langue",
+      "sans goute",
+      "lang"
+    ]
+  },
+  {
+    "id": "def-03-034",
+    "question": "Kisa ki sans goute a",
+    "reponse": "Sans goute a se sans ki pèmèt pèsevwa gou manje gras ak papiy gou ki nan lang moun.",
+    "tags": [
+      "gout",
+      "sens",
+      "papilles gustatives",
+      "langue",
+      "sans goute",
+      "lang"
+    ]
+  },
+  {
+    "id": "def-03-035",
+    "question": "Qu'est-ce que la mémoire",
+    "reponse": "La mémoire est la capacité du cerveau à encoder, stocker et restituer des informations ou des expériences vécues dans le temps.",
+    "tags": [
+      "memoire",
+      "cerveau",
+      "stockage",
+      "information",
+      "memwa",
+      "sonje"
+    ]
+  },
+  {
+    "id": "def-03-036",
+    "question": "Kisa ki memwa a",
+    "reponse": "Memwa se kapasite sèvo a genyen pou anrejistre, estoke epi fè moun sonje enfòmasyon oswa eksperyans li viv avèk tan.",
+    "tags": [
+      "memoire",
+      "cerveau",
+      "stockage",
+      "information",
+      "memwa",
+      "sonje"
+    ]
+  },
+  {
+    "id": "def-03-037",
+    "question": "Qu'est-ce que l'émotion",
+    "reponse": "L'émotion est une réaction psychologique et physiologique à un stimulus, comme la joie, la tristesse ou la peur, influençant pensées et comportements.",
+    "tags": [
+      "emotion",
+      "reaction",
+      "psychologie",
+      "comportement",
+      "emosyon",
+      "kè kontan"
+    ]
+  },
+  {
+    "id": "def-03-038",
+    "question": "Kisa ki emosyon an",
+    "reponse": "Emosyon se yon reyaksyon sikolojik ak fizik devan yon bagay k ap pase, tankou kè kontan, tristès oswa laperèz, ki enfliyanse panse ak konpòtman.",
+    "tags": [
+      "emotion",
+      "reaction",
+      "psychologie",
+      "comportement",
+      "emosyon",
+      "kè kontan"
+    ]
+  },
+  {
+    "id": "def-03-039",
+    "question": "Qu'est-ce que la croissance",
+    "reponse": "La croissance est le processus biologique d'augmentation de la taille et de la masse d'un organisme, résultant de la multiplication et du développement des cellules.",
+    "tags": [
+      "croissance",
+      "developpement",
+      "cellules",
+      "organisme",
+      "kwasans",
+      "grandi"
+    ]
+  },
+  {
+    "id": "def-03-040",
+    "question": "Kisa ki kwasans lan",
+    "reponse": "Kwasans se pwosesis byolojik kote yon òganis grandi an gwosè ak an pwa, akòz miltiplikasyon ak devlopman selil yo.",
+    "tags": [
+      "croissance",
+      "developpement",
+      "cellules",
+      "organisme",
+      "kwasans",
+      "grandi"
+    ]
+  },
+  {
+    "id": "def-03-041",
+    "question": "Qu'est-ce que la pierre",
+    "reponse": "La pierre est un matériau minéral solide et dur, formé naturellement dans la croûte terrestre, utilisé depuis la préhistoire pour la construction et les outils.",
+    "tags": [
+      "pierre",
+      "mineral",
+      "construction",
+      "prehistoire",
+      "wòch",
+      "mineral"
+    ]
+  },
+  {
+    "id": "def-03-042",
+    "question": "Kisa ki wòch la",
+    "reponse": "Wòch se yon materyèl mineral solid ak di, ki fòme natirèlman nan kwout latè a, moun itilize l depi tan lontan pou konstriksyon ak zouti.",
+    "tags": [
+      "pierre",
+      "mineral",
+      "construction",
+      "prehistoire",
+      "wòch",
+      "mineral"
+    ]
+  },
+  {
+    "id": "def-03-043",
+    "question": "Qu'est-ce que le diamant",
+    "reponse": "Le diamant est une pierre précieuse formée de carbone pur cristallisé sous haute pression, reconnue pour être le matériau naturel le plus dur connu.",
+    "tags": [
+      "diamant",
+      "carbone",
+      "durete",
+      "pierre precieuse",
+      "dyaman",
+      "kabòn"
+    ]
+  },
+  {
+    "id": "def-03-044",
+    "question": "Kisa ki dyaman an",
+    "reponse": "Dyaman se yon pyè presye ki fèt ak kabòn pi ki kristalize anba gwo presyon, moun konnen l kòm materyèl natirèl ki pi di ki genyen.",
+    "tags": [
+      "diamant",
+      "carbone",
+      "durete",
+      "pierre precieuse",
+      "dyaman",
+      "kabòn"
+    ]
+  },
+  {
+    "id": "def-03-045",
+    "question": "Qu'est-ce que l'or",
+    "reponse": "L'or est un métal précieux de couleur jaune brillante, résistant à la corrosion, utilisé depuis l'Antiquité en bijouterie et comme réserve de valeur.",
+    "tags": [
+      "or",
+      "metal precieux",
+      "bijouterie",
+      "corrosion",
+      "lò",
+      "richès"
+    ]
+  },
+  {
+    "id": "def-03-046",
+    "question": "Kisa ki lò a",
+    "reponse": "Lò se yon metal presye ki gen koulè jòn briyan, li reziste kont wouye, moun itilize l depi tan lontan nan bijou ak kòm rezèv richès.",
+    "tags": [
+      "or",
+      "metal precieux",
+      "bijouterie",
+      "corrosion",
+      "lò",
+      "richès"
+    ]
+  },
+  {
+    "id": "def-03-047",
+    "question": "Qu'est-ce que l'argent (métal)",
+    "reponse": "L'argent est un métal précieux blanc brillant, excellent conducteur d'électricité, utilisé en bijouterie, en photographie et dans l'industrie.",
+    "tags": [
+      "argent",
+      "metal precieux",
+      "conducteur",
+      "bijouterie",
+      "ajan",
+      "briyan"
+    ]
+  },
+  {
+    "id": "def-03-048",
+    "question": "Kisa ki ajan an (metal)",
+    "reponse": "Ajan se yon metal presye ki blan epi briyan, li kondui elektrisite trè byen, yo itilize l nan bijou, nan fotografi ak nan endistri.",
+    "tags": [
+      "argent",
+      "metal precieux",
+      "conducteur",
+      "bijouterie",
+      "ajan",
+      "briyan"
+    ]
+  },
+  {
+    "id": "def-03-049",
+    "question": "Qu'est-ce que le béton",
+    "reponse": "Le béton est un matériau de construction composé de ciment, de sable, de gravier et d'eau, qui durcit pour former une structure solide et résistante.",
+    "tags": [
+      "beton",
+      "ciment",
+      "construction",
+      "durcissement",
+      "beton",
+      "solid"
+    ]
+  },
+  {
+    "id": "def-03-050",
+    "question": "Kisa ki beton an",
+    "reponse": "Beton se yon materyèl konstriksyon ki fèt ak siman, sab, gravye ak dlo, li vin di pou fòme yon estrikti solid.",
+    "tags": [
+      "beton",
+      "ciment",
+      "construction",
+      "durcissement",
+      "beton",
+      "solid"
+    ]
+  },
+  {
+    "id": "def-03-051",
+    "question": "Qu'est-ce que la céramique",
+    "reponse": "La céramique est un matériau obtenu par cuisson d'argile à haute température, utilisé pour fabriquer poteries, carrelages et objets décoratifs.",
+    "tags": [
+      "ceramique",
+      "argile",
+      "cuisson",
+      "poterie",
+      "seramik",
+      "ajil"
+    ]
+  },
+  {
+    "id": "def-03-052",
+    "question": "Kisa ki seramik la",
+    "reponse": "Seramik se yon materyèl yo fè lè yo kwit ajil a gwo chalè, yo itilize l pou fè veso, fayans ak bagay dekoratif.",
+    "tags": [
+      "ceramique",
+      "argile",
+      "cuisson",
+      "poterie",
+      "seramik",
+      "ajil"
+    ]
+  },
+  {
+    "id": "def-03-053",
+    "question": "Qu'est-ce que le cuir",
+    "reponse": "Le cuir est un matériau obtenu par le tannage de peaux animales, résistant et souple, utilisé pour fabriquer vêtements, chaussures et accessoires.",
+    "tags": [
+      "cuir",
+      "tannage",
+      "peau animale",
+      "vetements",
+      "kwi",
+      "po bèt"
+    ]
+  },
+  {
+    "id": "def-03-054",
+    "question": "Kisa ki kwi a",
+    "reponse": "Kwi se yon materyèl yo fè lè yo trete po bèt, li solid epi li ka pliye, yo itilize l pou fè rad, soulye ak akseswa.",
+    "tags": [
+      "cuir",
+      "tannage",
+      "peau animale",
+      "vetements",
+      "kwi",
+      "po bèt"
+    ]
+  },
+  {
+    "id": "def-03-055",
+    "question": "Qu'est-ce que la soie",
+    "reponse": "La soie est une fibre textile naturelle fine et brillante produite par les vers à soie lors de la formation de leur cocon.",
+    "tags": [
+      "soie",
+      "fibre naturelle",
+      "ver a soie",
+      "cocon",
+      "swa",
+      "kokon"
+    ]
+  },
+  {
+    "id": "def-03-056",
+    "question": "Kisa ki swa a",
+    "reponse": "Swa se yon fib tekstil natirèl ki fen epi briyan, vè swa yo pwodui l lè y ap fè kokon yo.",
+    "tags": [
+      "soie",
+      "fibre naturelle",
+      "ver a soie",
+      "cocon",
+      "swa",
+      "kokon"
+    ]
+  },
+  {
+    "id": "def-03-057",
+    "question": "Qu'est-ce que le nylon",
+    "reponse": "Le nylon est une fibre synthétique résistante et élastique, fabriquée à partir de dérivés du pétrole, largement utilisée dans le textile et l'industrie.",
+    "tags": [
+      "nylon",
+      "fibre synthetique",
+      "petrole",
+      "textile",
+      "nayilonn",
+      "sentetik"
+    ]
+  },
+  {
+    "id": "def-03-058",
+    "question": "Kisa ki nayilonn nan",
+    "reponse": "Nayilonn se yon fib sentetik ki solid epi ki ka detire, yo fè l ak pwodui petwòl, yo itilize l anpil nan tekstil ak endistri.",
+    "tags": [
+      "nylon",
+      "fibre synthetique",
+      "petrole",
+      "textile",
+      "nayilonn",
+      "sentetik"
+    ]
+  },
+  {
+    "id": "def-03-059",
+    "question": "Qu'est-ce que la fibre de verre",
+    "reponse": "La fibre de verre est un matériau composite constitué de filaments de verre très fins, utilisé pour son isolation et sa résistance dans la construction et l'industrie.",
+    "tags": [
+      "fibre de verre",
+      "isolation",
+      "composite",
+      "industrie",
+      "fib vè",
+      "izolasyon"
+    ]
+  },
+  {
+    "id": "def-03-060",
+    "question": "Kisa ki fib vè a",
+    "reponse": "Fib vè se yon materyèl konpozit ki fèt ak fil vè ki trè fen, yo itilize l pou izolasyon ak solidite nan konstriksyon ak endistri.",
+    "tags": [
+      "fibre de verre",
+      "isolation",
+      "composite",
+      "industrie",
+      "fib vè",
+      "izolasyon"
+    ]
+  },
+  {
+    "id": "def-03-061",
+    "question": "Qu'est-ce que le saule",
+    "reponse": "Le saule est un arbre souvent planté près des cours d'eau, reconnu pour ses branches longues et souples, parfois retombantes comme chez le saule pleureur.",
+    "tags": [
+      "saule",
+      "arbre",
+      "branches souples",
+      "cours d'eau",
+      "pye sòl",
+      "rivyè"
+    ]
+  },
+  {
+    "id": "def-03-062",
+    "question": "Kisa ki pye sòl la",
+    "reponse": "Pye sòl se yon pyebwa yo souvan plante bò rivyè, moun rekonèt li pou branch long ak soup li yo, pafwa yo tonbe tankou nan sòl ki kriye a.",
+    "tags": [
+      "saule",
+      "arbre",
+      "branches souples",
+      "cours d'eau",
+      "pye sòl",
+      "rivyè"
+    ]
+  },
+  {
+    "id": "def-03-063",
+    "question": "Qu'est-ce que le hêtre",
+    "reponse": "Le hêtre est un grand arbre à feuilles caduques des régions tempérées, apprécié pour son bois clair et résistant utilisé en menuiserie.",
+    "tags": [
+      "hetre",
+      "arbre",
+      "bois",
+      "regions temperees",
+      "pye fou",
+      "mèb"
+    ]
+  },
+  {
+    "id": "def-03-064",
+    "question": "Kisa ki pye fou a",
+    "reponse": "Pye fou se yon gwo pyebwa ki pèdi fèy li chak ane, li viv nan zòn tanpere, moun renmen bwa klè ak solid li pou fè mèb.",
+    "tags": [
+      "hetre",
+      "arbre",
+      "bois",
+      "regions temperees",
+      "pye fou",
+      "mèb"
+    ]
+  },
+  {
+    "id": "def-03-065",
+    "question": "Qu'est-ce que le sapin",
+    "reponse": "Le sapin est un arbre conifère à feuillage persistant en forme d'aiguilles, souvent associé aux régions froides et utilisé comme arbre de Noël.",
+    "tags": [
+      "sapin",
+      "conifere",
+      "regions froides",
+      "noel",
+      "pye sapen",
+      "zegwi"
+    ]
+  },
+  {
+    "id": "def-03-066",
+    "question": "Kisa ki pye sapen an",
+    "reponse": "Pye sapen se yon pyebwa ki toujou gen fèy an fòm zegwi, souvan li nan zòn frèt, moun itilize l kòm pyebwa Nwèl.",
+    "tags": [
+      "sapin",
+      "conifere",
+      "regions froides",
+      "noel",
+      "pye sapen",
+      "zegwi"
+    ]
+  },
+  {
+    "id": "def-03-067",
+    "question": "Qu'est-ce que le figuier",
+    "reponse": "Le figuier est un arbre fruitier méditerranéen produisant la figue, un fruit sucré et charnu riche en fibres et en minéraux.",
+    "tags": [
+      "figuier",
+      "figue",
+      "mediterranee",
+      "fruit",
+      "pye fig",
+      "fib"
+    ]
+  },
+  {
+    "id": "def-03-068",
+    "question": "Kisa ki pye fig la",
+    "reponse": "Pye fig se yon pyebwa fwi ki soti nan zòn Mediterane, li fè fig, yon fwi dous ki gen anpil fib ak mineral.",
+    "tags": [
+      "figuier",
+      "figue",
+      "mediterranee",
+      "fruit",
+      "pye fig",
+      "fib"
+    ]
+  },
+  {
+    "id": "def-03-069",
+    "question": "Qu'est-ce que l'olivier",
+    "reponse": "L'olivier est un arbre méditerranéen à feuillage persistant, cultivé depuis l'Antiquité pour ses fruits, les olives, dont on extrait l'huile.",
+    "tags": [
+      "olivier",
+      "olives",
+      "huile d'olive",
+      "mediterranee",
+      "pye oliv",
+      "luil"
+    ]
+  },
+  {
+    "id": "def-03-070",
+    "question": "Kisa ki pye oliv la",
+    "reponse": "Pye oliv se yon pyebwa ki soti nan zòn Mediterane, li toujou gen fèy, moun kiltive l depi tan lontan pou fwi li, oliv, kote yo rale luil la.",
+    "tags": [
+      "olivier",
+      "olives",
+      "huile d'olive",
+      "mediterranee",
+      "pye oliv",
+      "luil"
+    ]
+  },
+  {
+    "id": "def-03-071",
+    "question": "Qu'est-ce que le pommier",
+    "reponse": "Le pommier est un arbre fruitier des régions tempérées qui produit la pomme, un fruit croquant riche en fibres et en vitamines.",
+    "tags": [
+      "pommier",
+      "pomme",
+      "regions temperees",
+      "fruit",
+      "pye pòm",
+      "vitamin"
+    ]
+  },
+  {
+    "id": "def-03-072",
+    "question": "Kisa ki pye pòm nan",
+    "reponse": "Pye pòm se yon pyebwa fwi nan zòn tanpere ki fè pòm, yon fwi ki kwaka epi ki gen anpil fib ak vitamin.",
+    "tags": [
+      "pommier",
+      "pomme",
+      "regions temperees",
+      "fruit",
+      "pye pòm",
+      "vitamin"
+    ]
+  },
+  {
+    "id": "def-03-073",
+    "question": "Qu'est-ce que le poirier",
+    "reponse": "Le poirier est un arbre fruitier proche du pommier, produisant la poire, un fruit sucré à chair juteuse et texture granuleuse.",
+    "tags": [
+      "poirier",
+      "poire",
+      "fruit",
+      "texture",
+      "pye pwa",
+      "dous"
+    ]
+  },
+  {
+    "id": "def-03-074",
+    "question": "Kisa ki pye pwa a (fwi)",
+    "reponse": "Pye pwa se yon pyebwa fwi ki sanble ak pye pòm, li fè pwa (fwi), yon fwi dous ki gen anpil ji ak teksti grenn.",
+    "tags": [
+      "poirier",
+      "poire",
+      "fruit",
+      "texture",
+      "pye pwa",
+      "dous"
+    ]
+  },
+  {
+    "id": "def-03-075",
+    "question": "Qu'est-ce que l'avocatier",
+    "reponse": "L'avocatier est un arbre tropical produisant l'avocat, un fruit riche en bons lipides, à chair crémeuse entourant un gros noyau.",
+    "tags": [
+      "avocatier",
+      "avocat",
+      "lipides",
+      "tropical",
+      "pye zaboka",
+      "grès"
+    ]
+  },
+  {
+    "id": "def-03-076",
+    "question": "Kisa ki pye zaboka a",
+    "reponse": "Pye zaboka se yon pyebwa twopikal ki fè zaboka, yon fwi ki gen bon grès ladan, chè li krèmez epi li gen yon gwo grenn.",
+    "tags": [
+      "avocatier",
+      "avocat",
+      "lipides",
+      "tropical",
+      "pye zaboka",
+      "grès"
+    ]
+  },
+  {
+    "id": "def-03-077",
+    "question": "Qu'est-ce que le teck",
+    "reponse": "Le teck est un arbre tropical au bois dense, durable et résistant à l'eau, très prisé pour la fabrication de meubles et de bateaux.",
+    "tags": [
+      "teck",
+      "bois dense",
+      "meubles",
+      "resistance a l'eau",
+      "tèk",
+      "dans"
+    ]
+  },
+  {
+    "id": "def-03-078",
+    "question": "Kisa ki tèk la",
+    "reponse": "Tèk se yon pyebwa twopikal ki gen bwa dans, ki dire lontan epi ki reziste kont dlo, moun renmen l anpil pou fè mèb ak bato.",
+    "tags": [
+      "teck",
+      "bois dense",
+      "meubles",
+      "resistance a l'eau",
+      "tèk",
+      "dans"
+    ]
+  },
+  {
+    "id": "def-03-079",
+    "question": "Qu'est-ce que l'acajou",
+    "reponse": "L'acajou est un arbre tropical à bois rougeâtre précieux, très recherché en ébénisterie pour la fabrication de meubles de qualité.",
+    "tags": [
+      "acajou",
+      "bois precieux",
+      "ebenisterie",
+      "tropical",
+      "akajou",
+      "wouj"
+    ]
+  },
+  {
+    "id": "def-03-080",
+    "question": "Kisa ki akajou a",
+    "reponse": "Akajou se yon pyebwa twopikal ki gen bwa koulè wouj ki chè anpil, moun chèche l anpil pou fè bèl mèb kalite.",
+    "tags": [
+      "acajou",
+      "bois precieux",
+      "ebenisterie",
+      "tropical",
+      "akajou",
+      "wouj"
+    ]
+  },
+  {
+    "id": "def-03-081",
+    "question": "Qu'est-ce que la pirogue",
+    "reponse": "La pirogue est une embarcation étroite et légère, souvent taillée dans un tronc d'arbre, propulsée à la pagaie, utilisée pour la pêche ou le transport.",
+    "tags": [
+      "pirogue",
+      "embarcation",
+      "pagaie",
+      "peche",
+      "kannòt",
+      "zaviwon"
+    ]
+  },
+  {
+    "id": "def-03-082",
+    "question": "Kisa ki kannòt la",
+    "reponse": "Kannòt se yon ti bato etwat epi lejè, souvan yo taye l nan yon tèt pyebwa, yo pouse l ak yon zaviwon, yo itilize l pou lapèch oswa transpò.",
+    "tags": [
+      "pirogue",
+      "embarcation",
+      "pagaie",
+      "peche",
+      "kannòt",
+      "zaviwon"
+    ]
+  },
+  {
+    "id": "def-03-083",
+    "question": "Qu'est-ce que le vélomoteur",
+    "reponse": "Le vélomoteur est un petit véhicule motorisé à deux roues de faible cylindrée, intermédiaire entre la bicyclette et la motocyclette.",
+    "tags": [
+      "velomoteur",
+      "deux roues",
+      "petit moteur",
+      "transport",
+      "velomotè",
+      "ti motè"
+    ]
+  },
+  {
+    "id": "def-03-084",
+    "question": "Kisa ki velomotè a",
+    "reponse": "Velomotè se yon ti machin ki gen de wou ak yon ti motè, li ant bisiklèt ak moto.",
+    "tags": [
+      "velomoteur",
+      "deux roues",
+      "petit moteur",
+      "transport",
+      "velomotè",
+      "ti motè"
+    ]
+  },
+  {
+    "id": "def-03-085",
+    "question": "Qu'est-ce que le funiculaire",
+    "reponse": "Le funiculaire est un système de transport ferroviaire tirant des wagons le long d'une pente raide grâce à un câble, souvent utilisé en montagne.",
+    "tags": [
+      "funiculaire",
+      "cable",
+      "pente",
+      "montagne",
+      "funikilè",
+      "pant"
+    ]
+  },
+  {
+    "id": "def-03-086",
+    "question": "Kisa ki funikilè a",
+    "reponse": "Funikilè se yon sistèm transpò ki rale wagon sou yon pant rèd gras ak yon kab, souvan yo itilize l nan mòn.",
+    "tags": [
+      "funiculaire",
+      "cable",
+      "pente",
+      "montagne",
+      "funikilè",
+      "pant"
+    ]
+  },
+  {
+    "id": "def-03-087",
+    "question": "Qu'est-ce que la montgolfière",
+    "reponse": "La montgolfière est un aérostat constitué d'une grande enveloppe remplie d'air chaud, permettant de s'élever et de voler grâce à sa faible densité.",
+    "tags": [
+      "montgolfiere",
+      "air chaud",
+      "aerostat",
+      "vol",
+      "montgòlfyè",
+      "balon"
+    ]
+  },
+  {
+    "id": "def-03-088",
+    "question": "Kisa ki montgòlfyè a",
+    "reponse": "Montgòlfyè se yon gwo balon ki plen ak lè cho, li ka monte epi vole paske lè cho a pi lejè pase lè frèt la.",
+    "tags": [
+      "montgolfiere",
+      "air chaud",
+      "aerostat",
+      "vol",
+      "montgòlfyè",
+      "balon"
+    ]
+  },
+  {
+    "id": "def-03-089",
+    "question": "Qu'est-ce que le planeur",
+    "reponse": "Le planeur est un aéronef sans moteur, utilisant les courants d'air ascendants pour voler et rester en altitude.",
+    "tags": [
+      "planeur",
+      "sans moteur",
+      "courants d'air",
+      "vol",
+      "planè",
+      "kouran lè"
+    ]
+  },
+  {
+    "id": "def-03-090",
+    "question": "Kisa ki planè a",
+    "reponse": "Planè se yon machin ki ka vole san motè, li itilize kouran lè k ap monte pou vole epi rete nan syèl la.",
+    "tags": [
+      "planeur",
+      "sans moteur",
+      "courants d'air",
+      "vol",
+      "planè",
+      "kouran lè"
+    ]
+  },
+  {
+    "id": "def-03-091",
+    "question": "Qu'est-ce que le brise-glace",
+    "reponse": "Le brise-glace est un navire spécialement conçu avec une coque renforcée pour ouvrir un passage à travers les étendues de glace marine.",
+    "tags": [
+      "brise-glace",
+      "coque renforcee",
+      "glace",
+      "navire",
+      "brizglas",
+      "kokiy"
+    ]
+  },
+  {
+    "id": "def-03-092",
+    "question": "Kisa ki brizglas la",
+    "reponse": "Brizglas se yon bato yo fè espesyalman ak yon kokiy solid pou louvri yon chemen atravè glas lanmè yo.",
+    "tags": [
+      "brise-glace",
+      "coque renforcee",
+      "glace",
+      "navire",
+      "brizglas",
+      "kokiy"
+    ]
+  },
+  {
+    "id": "def-03-093",
+    "question": "Qu'est-ce que le paquebot",
+    "reponse": "Le paquebot est un grand navire conçu pour transporter des passagers sur de longues distances, souvent équipé de nombreux services et loisirs à bord.",
+    "tags": [
+      "paquebot",
+      "navire",
+      "passagers",
+      "loisirs",
+      "pakbo",
+      "sèvis"
+    ]
+  },
+  {
+    "id": "def-03-094",
+    "question": "Kisa ki pakbo a",
+    "reponse": "Pakbo se yon gwo bato yo fè pou transpòte pasaje sou lontan distans, souvan li gen anpil sèvis ak lwazi sou li.",
+    "tags": [
+      "paquebot",
+      "navire",
+      "passagers",
+      "loisirs",
+      "pakbo",
+      "sèvis"
+    ]
+  },
+  {
+    "id": "def-03-095",
+    "question": "Qu'est-ce que la draisine",
+    "reponse": "La draisine est un petit véhicule léger circulant sur rails, actionné manuellement ou par un petit moteur, utilisé pour l'inspection des voies ferrées.",
+    "tags": [
+      "draisine",
+      "rails",
+      "inspection",
+      "petit vehicule",
+      "drezin",
+      "ray"
+    ]
+  },
+  {
+    "id": "def-03-096",
+    "question": "Kisa ki drezin nan",
+    "reponse": "Drezin se yon ti machin lejè ki mache sou ray, moun pouse l ak men oswa ak yon ti motè, yo itilize l pou enspekte ray tren yo.",
+    "tags": [
+      "draisine",
+      "rails",
+      "inspection",
+      "petit vehicule",
+      "drezin",
+      "ray"
+    ]
+  },
+  {
+    "id": "def-03-097",
+    "question": "Qu'est-ce que le taxi",
+    "reponse": "Le taxi est un véhicule automobile conduit par un chauffeur professionnel, utilisé pour transporter des passagers moyennant paiement, généralement sur de courtes distances.",
+    "tags": [
+      "taxi",
+      "chauffeur",
+      "transport payant",
+      "vehicule",
+      "taksi",
+      "chofè"
+    ]
+  },
+  {
+    "id": "def-03-098",
+    "question": "Kisa ki taksi a",
+    "reponse": "Taksi se yon machin yon chofè pwofesyonèl kondui, yo itilize l pou transpòte pasaje kont lajan, an jeneral sou ti distans.",
+    "tags": [
+      "taxi",
+      "chauffeur",
+      "transport payant",
+      "vehicule",
+      "taksi",
+      "chofè"
+    ]
+  },
+  {
+    "id": "def-03-099",
+    "question": "Qu'est-ce que l'ambulance",
+    "reponse": "L'ambulance est un véhicule spécialement équipé pour transporter rapidement des personnes malades ou blessées vers un établissement de soins médicaux.",
+    "tags": [
+      "ambulance",
+      "transport medical",
+      "vehicule",
+      "urgence",
+      "anbilans",
+      "swen medikal"
+    ]
+  },
+  {
+    "id": "def-03-100",
+    "question": "Kisa ki anbilans la",
+    "reponse": "Anbilans se yon machin yo ekipe espesyalman pou transpòte vit moun malad oswa blese al nan yon kote swen medikal.",
+    "tags": [
+      "ambulance",
+      "transport medical",
+      "vehicule",
+      "urgence",
+      "anbilans",
+      "swen medikal"
+    ]
+  }
+]

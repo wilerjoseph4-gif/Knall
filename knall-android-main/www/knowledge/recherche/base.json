@@ -1,0 +1,12 @@
+[
+  {
+    "id": "r001",
+    "question": "meteo",
+    "reponse": "La recherche web nécessite une connexion internet active.",
+    "tags": [
+      "meteo",
+      "internet",
+      "recherche"
+    ]
+  }
+]

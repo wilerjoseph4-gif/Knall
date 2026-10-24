@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "conj-g1-001",
+    "question": "Qu'est-ce qu'un verbe du 1er groupe",
+    "reponse": "Un verbe du 1er groupe est un verbe dont l'infinitif se termine par -er, sauf le verbe aller, comme parler ou manger.",
+    "tags": [
+      "1er groupe",
+      "verbe",
+      "-er",
+      "infinitif",
+      "premye gwoup",
+      "enfinitif"
+    ]
+  },
+  {
+    "id": "conj-g1-002",
+    "question": "Kisa ki yon vèb premye gwoup",
+    "reponse": "Vèb premye gwoup se yon vèb ki nan enfinitif li fini ak -er, eksepte vèb aller, tankou parler oswa manger.",
+    "tags": [
+      "1er groupe",
+      "verbe",
+      "-er",
+      "infinitif",
+      "premye gwoup",
+      "enfinitif"
+    ]
+  },
+  {
+    "id": "conj-g1-003",
+    "question": "Comment reconnaît-on un verbe du 1er groupe",
+    "reponse": "On reconnaît un verbe du 1er groupe à sa terminaison -er à l'infinitif et au fait qu'il se conjugue de façon régulière.",
+    "tags": [
+      "reconnaissance",
+      "terminaison",
+      "-er",
+      "regulier",
+      "rekonèt",
+      "regilye"
+    ]
+  },
+  {
+    "id": "conj-g1-004",
+    "question": "Kijan pou rekonèt yon vèb premye gwoup",
+    "reponse": "Yo rekonèt yon vèb premye gwoup gras ak fini li an -er nan enfinitif epi paske li konjige regilyèman.",
+    "tags": [
+      "reconnaissance",
+      "terminaison",
+      "-er",
+      "regulier",
+      "rekonèt",
+      "regilye"
+    ]
+  },
+  {
+    "id": "conj-g1-005",
+    "question": "Combien de verbes appartiennent au 1er groupe",
+    "reponse": "Le 1er groupe est le plus grand groupe de verbes français: il contient plus de 90% des verbes, soit plusieurs milliers.",
+    "tags": [
+      "nombre",
+      "verbes",
+      "majorite",
+      "francais",
+      "kantite",
+      "majorite"
+    ]
+  },
+  {
+    "id": "conj-g1-006",
+    "question": "Konbyen vèb ki fè pati premye gwoup la",
+    "reponse": "Premye gwoup la se pi gwo gwoup vèb franse yo: li genyen plis pase 90% nan vèb yo, sa vle di plizyè milye.",
+    "tags": [
+      "nombre",
+      "verbes",
+      "majorite",
+      "francais",
+      "kantite",
+      "majorite"
+    ]
+  },
+  {
+    "id": "conj-g1-007",
+    "question": "Comment conjuguer parler au présent",
+    "reponse": "Au présent, on conjugue parler ainsi: je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent.",
+    "tags": [
+      "parler",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "prezan"
+    ]
+  },
+  {
+    "id": "conj-g1-008",
+    "question": "Kijan pou konjige parler nan prezan",
+    "reponse": "Nan prezan, yo konjige parler konsa: je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent.",
+    "tags": [
+      "parler",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "prezan"
+    ]
+  },
+  {
+    "id": "conj-g1-009",
+    "question": "Quelles sont les terminaisons du présent pour le 1er groupe",
+    "reponse": "Les terminaisons du présent pour le 1er groupe sont -e, -es, -e, -ons, -ez, -ent.",
+    "tags": [
+      "terminaisons",
+      "present",
+      "1er groupe",
+      "regle",
+      "finisman",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-g1-010",
+    "question": "Ki finisman prezan pou premye gwoup la",
+    "reponse": "Finisman prezan pou premye gwoup la se -e, -es, -e, -ons, -ez, -ent.",
+    "tags": [
+      "terminaisons",
+      "present",
+      "1er groupe",
+      "regle",
+      "finisman",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-g1-011",
+    "question": "Comment conjuguer aimer au présent",
+    "reponse": "Au présent, aimer se conjugue: j'aime, tu aimes, il aime, nous aimons, vous aimez, ils aiment.",
+    "tags": [
+      "aimer",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "prezan"
+    ]
+  },
+  {
+    "id": "conj-g1-012",
+    "question": "Kijan pou konjige aimer nan prezan",
+    "reponse": "Nan prezan, aimer konjige konsa: j'aime, tu aimes, il aime, nous aimons, vous aimez, ils aiment.",
+    "tags": [
+      "aimer",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "prezan"
+    ]
+  },
+  {
+    "id": "conj-g1-013",
+    "question": "Comment conjuguer manger au présent avec nous",
+    "reponse": "Avec nous, manger garde le e après le g pour conserver le son doux: nous mangeons.",
+    "tags": [
+      "manger",
+      "particularite",
+      "-ger",
+      "nous",
+      "mangeons",
+      "son"
+    ]
+  },
+  {
+    "id": "conj-g1-014",
+    "question": "Kijan manger konjige ak nous nan prezan",
+    "reponse": "Ak nous, manger kenbe lèt e apre g la pou konsève son dou a: nous mangeons.",
+    "tags": [
+      "manger",
+      "particularite",
+      "-ger",
+      "nous",
+      "mangeons",
+      "son"
+    ]
+  },
+  {
+    "id": "conj-g1-015",
+    "question": "Comment conjuguer commencer au présent avec nous",
+    "reponse": "Avec nous, commencer prend une cédille sous le c pour garder le son doux: nous commençons.",
+    "tags": [
+      "commencer",
+      "particularite",
+      "-cer",
+      "nous",
+      "commençons",
+      "sediy"
+    ]
+  },
+  {
+    "id": "conj-g1-016",
+    "question": "Kijan commencer konjige ak nous nan prezan",
+    "reponse": "Ak nous, commencer pran yon sediy anba c la pou kenbe son dou a: nous commençons.",
+    "tags": [
+      "commencer",
+      "particularite",
+      "-cer",
+      "nous",
+      "commençons",
+      "sediy"
+    ]
+  },
+  {
+    "id": "conj-g1-017",
+    "question": "Comment conjuguer appeler au présent",
+    "reponse": "Appeler double le l devant une terminaison muette: j'appelle, tu appelles, il appelle, nous appelons, vous appelez, ils appellent.",
+    "tags": [
+      "appeler",
+      "double consonne",
+      "particularite",
+      "present",
+      "appelle",
+      "double"
+    ]
+  },
+  {
+    "id": "conj-g1-018",
+    "question": "Kijan appeler konjige nan prezan",
+    "reponse": "Appeler double lèt l la devan yon finisman ki pa pwononse: j'appelle, tu appelles, il appelle, nous appelons, vous appelez, ils appellent.",
+    "tags": [
+      "appeler",
+      "double consonne",
+      "particularite",
+      "present",
+      "appelle",
+      "double"
+    ]
+  },
+  {
+    "id": "conj-g1-019",
+    "question": "Comment conjuguer acheter au présent",
+    "reponse": "Acheter prend un accent grave devant une terminaison muette: j'achète, tu achètes, il achète, nous achetons, vous achetez, ils achètent.",
+    "tags": [
+      "acheter",
+      "accent grave",
+      "particularite",
+      "present",
+      "achète",
+      "aksan"
+    ]
+  },
+  {
+    "id": "conj-g1-020",
+    "question": "Kijan acheter konjige nan prezan",
+    "reponse": "Acheter pran yon aksan grav devan yon finisman ki pa pwononse: j'achète, tu achètes, il achète, nous achetons, vous achetez, ils achètent.",
+    "tags": [
+      "acheter",
+      "accent grave",
+      "particularite",
+      "present",
+      "achète",
+      "aksan"
+    ]
+  },
+  {
+    "id": "conj-g1-021",
+    "question": "Comment conjuguer préférer au présent",
+    "reponse": "Préférer change le é en è devant une terminaison muette: je préfère, tu préfères, il préfère, nous préférons, vous préférez, ils préfèrent.",
+    "tags": [
+      "preferer",
+      "e-e",
+      "particularite",
+      "present",
+      "préfère",
+      "chanje"
+    ]
+  },
+  {
+    "id": "conj-g1-022",
+    "question": "Kijan préférer konjige nan prezan",
+    "reponse": "Préférer chanje é an è devan yon finisman ki pa pwononse: je préfère, tu préfères, il préfère, nous préférons, vous préférez, ils préfèrent.",
+    "tags": [
+      "preferer",
+      "e-e",
+      "particularite",
+      "present",
+      "préfère",
+      "chanje"
+    ]
+  },
+  {
+    "id": "conj-g1-023",
+    "question": "Comment conjuguer payer au présent",
+    "reponse": "Payer peut garder le y ou le changer en i: je paie ou je paye, tu paies ou tu payes, nous payons, vous payez.",
+    "tags": [
+      "payer",
+      "-ayer",
+      "y ou i",
+      "present",
+      "paie",
+      "chwa"
+    ]
+  },
+  {
+    "id": "conj-g1-024",
+    "question": "Kijan payer konjige nan prezan",
+    "reponse": "Payer kapab kenbe y la oswa chanje l an i: je paie oswa je paye, tu paies oswa tu payes, nous payons, vous payez.",
+    "tags": [
+      "payer",
+      "-ayer",
+      "y ou i",
+      "present",
+      "paie",
+      "chwa"
+    ]
+  },
+  {
+    "id": "conj-g1-025",
+    "question": "Comment conjuguer envoyer au présent",
+    "reponse": "Envoyer change le y en i devant une terminaison muette: j'envoie, tu envoies, il envoie, nous envoyons, vous envoyez, ils envoient.",
+    "tags": [
+      "envoyer",
+      "-oyer",
+      "y en i",
+      "present",
+      "envoie",
+      "chanje"
+    ]
+  },
+  {
+    "id": "conj-g1-026",
+    "question": "Kijan envoyer konjige nan prezan",
+    "reponse": "Envoyer chanje y an i devan yon finisman ki pa pwononse: j'envoie, tu envoies, il envoie, nous envoyons, vous envoyez, ils envoient.",
+    "tags": [
+      "envoyer",
+      "-oyer",
+      "y en i",
+      "present",
+      "envoie",
+      "chanje"
+    ]
+  },
+  {
+    "id": "conj-g1-027",
+    "question": "Comment conjuguer essayer au présent",
+    "reponse": "Essayer suit la règle des verbes en -ayer: j'essaie ou j'essaye, tu essaies, nous essayons, vous essayez.",
+    "tags": [
+      "essayer",
+      "-ayer",
+      "present",
+      "regle",
+      "essaie",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-g1-028",
+    "question": "Kijan essayer konjige nan prezan",
+    "reponse": "Essayer suiv règ vèb ki fini an -ayer: j'essaie oswa j'essaye, tu essaies, nous essayons, vous essayez.",
+    "tags": [
+      "essayer",
+      "-ayer",
+      "present",
+      "regle",
+      "essaie",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-g1-029",
+    "question": "Comment former l'imparfait d'un verbe du 1er groupe",
+    "reponse": "On forme l'imparfait en prenant le radical du nous au présent et en ajoutant -ais, -ais, -ait, -ions, -iez, -aient.",
+    "tags": [
+      "imparfait",
+      "formation",
+      "radical",
+      "terminaisons",
+      "lenpafè",
+      "rasin"
+    ]
+  },
+  {
+    "id": "conj-g1-030",
+    "question": "Kijan pou fòme lenpafè yon vèb premye gwoup",
+    "reponse": "Yo fòme lenpafè lè yo pran rasin nous nan prezan epi ajoute -ais, -ais, -ait, -ions, -iez, -aient.",
+    "tags": [
+      "imparfait",
+      "formation",
+      "radical",
+      "terminaisons",
+      "lenpafè",
+      "rasin"
+    ]
+  },
+  {
+    "id": "conj-g1-031",
+    "question": "Comment conjuguer parler à l'imparfait",
+    "reponse": "À l'imparfait, parler se conjugue: je parlais, tu parlais, il parlait, nous parlions, vous parliez, ils parlaient.",
+    "tags": [
+      "parler",
+      "imparfait",
+      "conjugaison",
+      "lenpafè",
+      "konjigezon",
+      "pase"
+    ]
+  },
+  {
+    "id": "conj-g1-032",
+    "question": "Kijan pou konjige parler nan lenpafè",
+    "reponse": "Nan lenpafè, parler konjige konsa: je parlais, tu parlais, il parlait, nous parlions, vous parliez, ils parlaient.",
+    "tags": [
+      "parler",
+      "imparfait",
+      "conjugaison",
+      "lenpafè",
+      "konjigezon",
+      "pase"
+    ]
+  },
+  {
+    "id": "conj-g1-033",
+    "question": "Comment former le futur simple d'un verbe du 1er groupe",
+    "reponse": "On forme le futur simple en ajoutant -ai, -as, -a, -ons, -ez, -ont à l'infinitif complet du verbe.",
+    "tags": [
+      "futur simple",
+      "formation",
+      "infinitif",
+      "terminaisons",
+      "fiti senp",
+      "ajoute"
+    ]
+  },
+  {
+    "id": "conj-g1-034",
+    "question": "Kijan pou fòme fiti senp yon vèb premye gwoup",
+    "reponse": "Yo fòme fiti senp lè yo ajoute -ai, -as, -a, -ons, -ez, -ont dirèkteman sou enfinitif konplè vèb la.",
+    "tags": [
+      "futur simple",
+      "formation",
+      "infinitif",
+      "terminaisons",
+      "fiti senp",
+      "ajoute"
+    ]
+  },
+  {
+    "id": "conj-g1-035",
+    "question": "Comment conjuguer parler au futur simple",
+    "reponse": "Au futur simple, parler se conjugue: je parlerai, tu parleras, il parlera, nous parlerons, vous parlerez, ils parleront.",
+    "tags": [
+      "parler",
+      "futur simple",
+      "conjugaison",
+      "fiti senp",
+      "konjigezon",
+      "demen"
+    ]
+  },
+  {
+    "id": "conj-g1-036",
+    "question": "Kijan pou konjige parler nan fiti senp",
+    "reponse": "Nan fiti senp, parler konjige konsa: je parlerai, tu parleras, il parlera, nous parlerons, vous parlerez, ils parleront.",
+    "tags": [
+      "parler",
+      "futur simple",
+      "conjugaison",
+      "fiti senp",
+      "konjigezon",
+      "demen"
+    ]
+  },
+  {
+    "id": "conj-g1-037",
+    "question": "Comment former le passé composé d'un verbe du 1er groupe",
+    "reponse": "Le passé composé se forme avec l'auxiliaire avoir (ou être) suivi du participe passé du verbe.",
+    "tags": [
+      "passe compose",
+      "auxiliaire",
+      "participe passe",
+      "formation",
+      "pase konpoze",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g1-038",
+    "question": "Kijan pou fòme pase konpoze yon vèb premye gwoup",
+    "reponse": "Pase konpoze fòme ak oksilyè avoir (oswa être) swiv ak patisip pase vèb la.",
+    "tags": [
+      "passe compose",
+      "auxiliaire",
+      "participe passe",
+      "formation",
+      "pase konpoze",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g1-039",
+    "question": "Comment former le participe passé d'un verbe en -er",
+    "reponse": "Pour former le participe passé d'un verbe en -er, on remplace la terminaison -er par -é, comme parlé ou aimé.",
+    "tags": [
+      "participe passe",
+      "-er en -e",
+      "formation",
+      "1er groupe",
+      "patisip pase",
+      "ranplase"
+    ]
+  },
+  {
+    "id": "conj-g1-040",
+    "question": "Kijan pou fòme patisip pase yon vèb ki fini an -er",
+    "reponse": "Pou fòme patisip pase yon vèb ki fini an -er, yo ranplase finisman -er pa -é, tankou parlé oswa aimé.",
+    "tags": [
+      "participe passe",
+      "-er en -e",
+      "formation",
+      "1er groupe",
+      "patisip pase",
+      "ranplase"
+    ]
+  },
+  {
+    "id": "conj-g1-041",
+    "question": "Comment conjuguer parler au passé composé",
+    "reponse": "Au passé composé, parler se conjugue: j'ai parlé, tu as parlé, il a parlé, nous avons parlé, vous avez parlé, ils ont parlé.",
+    "tags": [
+      "parler",
+      "passe compose",
+      "avoir",
+      "conjugaison",
+      "pase konpoze",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g1-042",
+    "question": "Kijan pou konjige parler nan pase konpoze",
+    "reponse": "Nan pase konpoze, parler konjige konsa: j'ai parlé, tu as parlé, il a parlé, nous avons parlé, vous avez parlé, ils ont parlé.",
+    "tags": [
+      "parler",
+      "passe compose",
+      "avoir",
+      "conjugaison",
+      "pase konpoze",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g1-043",
+    "question": "Qu'est-ce que le conditionnel présent",
+    "reponse": "Le conditionnel présent est un mode qui exprime une hypothèse, un souhait ou une action soumise à une condition.",
+    "tags": [
+      "conditionnel present",
+      "hypothese",
+      "souhait",
+      "condition",
+      "kondisyonèl",
+      "ipotèz"
+    ]
+  },
+  {
+    "id": "conj-g1-044",
+    "question": "Kisa ki kondisyonèl prezan an",
+    "reponse": "Kondisyonèl prezan an se yon mòd ki eksprime yon ipotèz, yon swa oswa yon aksyon ki depann de yon kondisyon.",
+    "tags": [
+      "conditionnel present",
+      "hypothese",
+      "souhait",
+      "condition",
+      "kondisyonèl",
+      "ipotèz"
+    ]
+  },
+  {
+    "id": "conj-g1-045",
+    "question": "Comment conjuguer parler au conditionnel présent",
+    "reponse": "Au conditionnel présent, parler se conjugue: je parlerais, tu parlerais, il parlerait, nous parlerions, vous parleriez, ils parleraient.",
+    "tags": [
+      "parler",
+      "conditionnel",
+      "conjugaison",
+      "mode",
+      "kondisyonèl",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g1-046",
+    "question": "Kijan pou konjige parler nan kondisyonèl prezan",
+    "reponse": "Nan kondisyonèl prezan, parler konjige konsa: je parlerais, tu parlerais, il parlerait, nous parlerions, vous parleriez, ils parleraient.",
+    "tags": [
+      "parler",
+      "conditionnel",
+      "conjugaison",
+      "mode",
+      "kondisyonèl",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g1-047",
+    "question": "Qu'est-ce que le subjonctif présent",
+    "reponse": "Le subjonctif présent est un mode utilisé pour exprimer un doute, un souhait ou une obligation, souvent après que.",
+    "tags": [
+      "subjonctif present",
+      "doute",
+      "souhait",
+      "mode",
+      "sibjonktif",
+      "dout"
+    ]
+  },
+  {
+    "id": "conj-g1-048",
+    "question": "Kisa ki sibjonktif prezan an",
+    "reponse": "Sibjonktif prezan an se yon mòd yo itilize pou eksprime yon dout, yon swa oswa yon obligasyon, souvan apre que.",
+    "tags": [
+      "subjonctif present",
+      "doute",
+      "souhait",
+      "mode",
+      "sibjonktif",
+      "dout"
+    ]
+  },
+  {
+    "id": "conj-g1-049",
+    "question": "Comment conjuguer parler au subjonctif présent",
+    "reponse": "Au subjonctif présent, parler se conjugue: que je parle, que tu parles, qu'il parle, que nous parlions, que vous parliez, qu'ils parlent.",
+    "tags": [
+      "parler",
+      "subjonctif",
+      "conjugaison",
+      "mode",
+      "sibjonktif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g1-050",
+    "question": "Kijan pou konjige parler nan sibjonktif prezan",
+    "reponse": "Nan sibjonktif prezan, parler konjige konsa: que je parle, que tu parles, qu'il parle, que nous parlions, que vous parliez, qu'ils parlent.",
+    "tags": [
+      "parler",
+      "subjonctif",
+      "conjugaison",
+      "mode",
+      "sibjonktif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g1-051",
+    "question": "Qu'est-ce que l'impératif présent",
+    "reponse": "L'impératif présent est le mode utilisé pour donner un ordre, un conseil ou une instruction, sans sujet exprimé.",
+    "tags": [
+      "imperatif present",
+      "ordre",
+      "conseil",
+      "mode",
+      "enperatif",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-g1-052",
+    "question": "Kisa ki enperatif prezan an",
+    "reponse": "Enperatif prezan an se mòd yo itilize pou bay yon lòd, yon konsèy oswa yon enstriksyon, san sijè eksprime.",
+    "tags": [
+      "imperatif present",
+      "ordre",
+      "conseil",
+      "mode",
+      "enperatif",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-g1-053",
+    "question": "Comment conjuguer parler à l'impératif présent",
+    "reponse": "À l'impératif présent, parler se conjugue à trois personnes: parle, parlons, parlez.",
+    "tags": [
+      "parler",
+      "imperatif",
+      "trois personnes",
+      "mode",
+      "enperatif",
+      "twa pèsonn"
+    ]
+  },
+  {
+    "id": "conj-g1-054",
+    "question": "Kijan pou konjige parler nan enperatif prezan",
+    "reponse": "Nan enperatif prezan, parler konjige nan twa pèsonn: parle, parlons, parlez.",
+    "tags": [
+      "parler",
+      "imperatif",
+      "trois personnes",
+      "mode",
+      "enperatif",
+      "twa pèsonn"
+    ]
+  },
+  {
+    "id": "conj-g1-055",
+    "question": "Qu'est-ce que le participe présent d'un verbe en -er",
+    "reponse": "Le participe présent d'un verbe en -er se forme en remplaçant -er par -ant, comme parlant ou mangeant.",
+    "tags": [
+      "participe present",
+      "-ant",
+      "formation",
+      "1er groupe",
+      "patisip prezan",
+      "-ant"
+    ]
+  },
+  {
+    "id": "conj-g1-056",
+    "question": "Kisa ki patisip prezan yon vèb ki fini an -er",
+    "reponse": "Patisip prezan yon vèb ki fini an -er fòme lè yo ranplase -er pa -ant, tankou parlant oswa mangeant.",
+    "tags": [
+      "participe present",
+      "-ant",
+      "formation",
+      "1er groupe",
+      "patisip prezan",
+      "-ant"
+    ]
+  },
+  {
+    "id": "conj-g1-057",
+    "question": "Qu'est-ce que l'infinitif d'un verbe",
+    "reponse": "L'infinitif est la forme de base d'un verbe, non conjuguée, telle qu'on la trouve dans le dictionnaire, comme parler ou finir.",
+    "tags": [
+      "infinitif",
+      "forme de base",
+      "dictionnaire",
+      "definition",
+      "enfinitif",
+      "diksyonè"
+    ]
+  },
+  {
+    "id": "conj-g1-058",
+    "question": "Kisa ki enfinitif yon vèb",
+    "reponse": "Enfinitif se fòm debaz yon vèb, san konjigezon, jan yo jwenn li nan diksyonè a, tankou parler oswa finir.",
+    "tags": [
+      "infinitif",
+      "forme de base",
+      "dictionnaire",
+      "definition",
+      "enfinitif",
+      "diksyonè"
+    ]
+  },
+  {
+    "id": "conj-g1-059",
+    "question": "Pourquoi aller n'est-il pas un verbe du 1er groupe",
+    "reponse": "Aller n'est pas un verbe du 1er groupe malgré sa terminaison en -er, car sa conjugaison est totalement irrégulière.",
+    "tags": [
+      "aller",
+      "exception",
+      "irregulier",
+      "3e groupe",
+      "eksepsyon",
+      "iregilye"
+    ]
+  },
+  {
+    "id": "conj-g1-060",
+    "question": "Poukisa aller pa yon vèb premye gwoup",
+    "reponse": "Aller pa yon vèb premye gwoup menmsi li fini an -er, paske konjigezon li iregilye nèt.",
+    "tags": [
+      "aller",
+      "exception",
+      "irregulier",
+      "3e groupe",
+      "eksepsyon",
+      "iregilye"
+    ]
+  },
+  {
+    "id": "conj-g1-061",
+    "question": "Comment conjuguer chanter au présent",
+    "reponse": "Au présent, chanter se conjugue: je chante, tu chantes, il chante, nous chantons, vous chantez, ils chantent.",
+    "tags": [
+      "chanter",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "chante"
+    ]
+  },
+  {
+    "id": "conj-g1-062",
+    "question": "Kijan pou konjige chanter nan prezan",
+    "reponse": "Nan prezan, chanter konjige konsa: je chante, tu chantes, il chante, nous chantons, vous chantez, ils chantent.",
+    "tags": [
+      "chanter",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "chante"
+    ]
+  },
+  {
+    "id": "conj-g1-063",
+    "question": "Comment conjuguer travailler au présent",
+    "reponse": "Au présent, travailler se conjugue: je travaille, tu travailles, il travaille, nous travaillons, vous travaillez, ils travaillent.",
+    "tags": [
+      "travailler",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "travay"
+    ]
+  },
+  {
+    "id": "conj-g1-064",
+    "question": "Kijan pou konjige travailler nan prezan",
+    "reponse": "Nan prezan, travailler konjige konsa: je travaille, tu travailles, il travaille, nous travaillons, vous travaillez, ils travaillent.",
+    "tags": [
+      "travailler",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "travay"
+    ]
+  },
+  {
+    "id": "conj-g1-065",
+    "question": "Comment conjuguer étudier au présent",
+    "reponse": "Au présent, étudier se conjugue: j'étudie, tu étudies, il étudie, nous étudions, vous étudiez, ils étudient.",
+    "tags": [
+      "etudier",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "etidye"
+    ]
+  },
+  {
+    "id": "conj-g1-066",
+    "question": "Kijan pou konjige étudier nan prezan",
+    "reponse": "Nan prezan, étudier konjige konsa: j'étudie, tu étudies, il étudie, nous étudions, vous étudiez, ils étudient.",
+    "tags": [
+      "etudier",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "etidye"
+    ]
+  },
+  {
+    "id": "conj-g1-067",
+    "question": "Comment conjuguer regarder au présent",
+    "reponse": "Au présent, regarder se conjugue: je regarde, tu regardes, il regarde, nous regardons, vous regardez, ils regardent.",
+    "tags": [
+      "regarder",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "gade"
+    ]
+  },
+  {
+    "id": "conj-g1-068",
+    "question": "Kijan pou konjige regarder nan prezan",
+    "reponse": "Nan prezan, regarder konjige konsa: je regarde, tu regardes, il regarde, nous regardons, vous regardez, ils regardent.",
+    "tags": [
+      "regarder",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "gade"
+    ]
+  },
+  {
+    "id": "conj-g1-069",
+    "question": "Comment conjuguer écouter au présent",
+    "reponse": "Au présent, écouter se conjugue: j'écoute, tu écoutes, il écoute, nous écoutons, vous écoutez, ils écoutent.",
+    "tags": [
+      "ecouter",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "koute"
+    ]
+  },
+  {
+    "id": "conj-g1-070",
+    "question": "Kijan pou konjige écouter nan prezan",
+    "reponse": "Nan prezan, écouter konjige konsa: j'écoute, tu écoutes, il écoute, nous écoutons, vous écoutez, ils écoutent.",
+    "tags": [
+      "ecouter",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "koute"
+    ]
+  },
+  {
+    "id": "conj-g1-071",
+    "question": "Comment conjuguer donner au présent",
+    "reponse": "Au présent, donner se conjugue: je donne, tu donnes, il donne, nous donnons, vous donnez, ils donnent.",
+    "tags": [
+      "donner",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "bay"
+    ]
+  },
+  {
+    "id": "conj-g1-072",
+    "question": "Kijan pou konjige donner nan prezan",
+    "reponse": "Nan prezan, donner konjige konsa: je donne, tu donnes, il donne, nous donnons, vous donnez, ils donnent.",
+    "tags": [
+      "donner",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "bay"
+    ]
+  },
+  {
+    "id": "conj-g1-073",
+    "question": "Comment conjuguer trouver au présent",
+    "reponse": "Au présent, trouver se conjugue: je trouve, tu trouves, il trouve, nous trouvons, vous trouvez, ils trouvent.",
+    "tags": [
+      "trouver",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "jwenn"
+    ]
+  },
+  {
+    "id": "conj-g1-074",
+    "question": "Kijan pou konjige trouver nan prezan",
+    "reponse": "Nan prezan, trouver konjige konsa: je trouve, tu trouves, il trouve, nous trouvons, vous trouvez, ils trouvent.",
+    "tags": [
+      "trouver",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "jwenn"
+    ]
+  },
+  {
+    "id": "conj-g1-075",
+    "question": "Comment conjuguer demander au présent",
+    "reponse": "Au présent, demander se conjugue: je demande, tu demandes, il demande, nous demandons, vous demandez, ils demandent.",
+    "tags": [
+      "demander",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "mande"
+    ]
+  },
+  {
+    "id": "conj-g1-076",
+    "question": "Kijan pou konjige demander nan prezan",
+    "reponse": "Nan prezan, demander konjige konsa: je demande, tu demandes, il demande, nous demandons, vous demandez, ils demandent.",
+    "tags": [
+      "demander",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "mande"
+    ]
+  },
+  {
+    "id": "conj-g1-077",
+    "question": "Comment conjuguer penser au présent",
+    "reponse": "Au présent, penser se conjugue: je pense, tu penses, il pense, nous pensons, vous pensez, ils pensent.",
+    "tags": [
+      "penser",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "panse"
+    ]
+  },
+  {
+    "id": "conj-g1-078",
+    "question": "Kijan pou konjige penser nan prezan",
+    "reponse": "Nan prezan, penser konjige konsa: je pense, tu penses, il pense, nous pensons, vous pensez, ils pensent.",
+    "tags": [
+      "penser",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "panse"
+    ]
+  },
+  {
+    "id": "conj-g1-079",
+    "question": "Quels verbes du 1er groupe utilisent être au passé composé",
+    "reponse": "Certains verbes du 1er groupe comme arriver, rester, entrer, tomber ou rentrer se conjuguent avec être au passé composé.",
+    "tags": [
+      "etre",
+      "passe compose",
+      "verbes de deplacement",
+      "exception",
+      "être",
+      "deplasman"
+    ]
+  },
+  {
+    "id": "conj-g1-080",
+    "question": "Ki vèb premye gwoup ki itilize être nan pase konpoze",
+    "reponse": "Kèk vèb premye gwoup tankou arriver, rester, entrer, tomber oswa rentrer konjige ak être nan pase konpoze.",
+    "tags": [
+      "etre",
+      "passe compose",
+      "verbes de deplacement",
+      "exception",
+      "être",
+      "deplasman"
+    ]
+  },
+  {
+    "id": "conj-g1-081",
+    "question": "Comment conjuguer arriver au passé composé",
+    "reponse": "Au passé composé, arriver se conjugue avec être: je suis arrivé, tu es arrivé, il est arrivé, nous sommes arrivés.",
+    "tags": [
+      "arriver",
+      "passe compose",
+      "etre",
+      "accord",
+      "pase konpoze",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-g1-082",
+    "question": "Kijan pou konjige arriver nan pase konpoze",
+    "reponse": "Nan pase konpoze, arriver konjige ak être: je suis arrivé, tu es arrivé, il est arrivé, nous sommes arrivés.",
+    "tags": [
+      "arriver",
+      "passe compose",
+      "etre",
+      "accord",
+      "pase konpoze",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-g1-083",
+    "question": "Comment conjuguer entrer au passé composé",
+    "reponse": "Au passé composé, entrer se conjugue avec être: je suis entré, tu es entré, il est entré, nous sommes entrés.",
+    "tags": [
+      "entrer",
+      "passe compose",
+      "etre",
+      "accord",
+      "pase konpoze",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-g1-084",
+    "question": "Kijan pou konjige entrer nan pase konpoze",
+    "reponse": "Nan pase konpoze, entrer konjige ak être: je suis entré, tu es entré, il est entré, nous sommes entrés.",
+    "tags": [
+      "entrer",
+      "passe compose",
+      "etre",
+      "accord",
+      "pase konpoze",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-g1-085",
+    "question": "Comment conjuguer rester au passé composé",
+    "reponse": "Au passé composé, rester se conjugue avec être: je suis resté, tu es resté, il est resté, nous sommes restés.",
+    "tags": [
+      "rester",
+      "passe compose",
+      "etre",
+      "accord",
+      "pase konpoze",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-g1-086",
+    "question": "Kijan pou konjige rester nan pase konpoze",
+    "reponse": "Nan pase konpoze, rester konjige ak être: je suis resté, tu es resté, il est resté, nous sommes restés.",
+    "tags": [
+      "rester",
+      "passe compose",
+      "etre",
+      "accord",
+      "pase konpoze",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-g1-087",
+    "question": "Qu'est-ce qu'un verbe pronominal du 1er groupe",
+    "reponse": "Un verbe pronominal du 1er groupe est un verbe en -er accompagné d'un pronom réfléchi, comme se laver ou se promener.",
+    "tags": [
+      "verbe pronominal",
+      "1er groupe",
+      "pronom reflechi",
+      "reflexif",
+      "vèb pwonominal",
+      "pwonon"
+    ]
+  },
+  {
+    "id": "conj-g1-088",
+    "question": "Kisa ki yon vèb pwonominal premye gwoup",
+    "reponse": "Vèb pwonominal premye gwoup se yon vèb an -er ki akonpaye ak yon pwonon refleksif, tankou se laver oswa se promener.",
+    "tags": [
+      "verbe pronominal",
+      "1er groupe",
+      "pronom reflechi",
+      "reflexif",
+      "vèb pwonominal",
+      "pwonon"
+    ]
+  },
+  {
+    "id": "conj-g1-089",
+    "question": "Comment conjuguer se laver au présent",
+    "reponse": "Au présent, se laver se conjugue: je me lave, tu te laves, il se lave, nous nous lavons, vous vous lavez, ils se lavent.",
+    "tags": [
+      "se laver",
+      "pronominal",
+      "present",
+      "conjugaison",
+      "konjigezon",
+      "pwonominal"
+    ]
+  },
+  {
+    "id": "conj-g1-090",
+    "question": "Kijan pou konjige se laver nan prezan",
+    "reponse": "Nan prezan, se laver konjige konsa: je me lave, tu te laves, il se lave, nous nous lavons, vous vous lavez, ils se lavent.",
+    "tags": [
+      "se laver",
+      "pronominal",
+      "present",
+      "conjugaison",
+      "konjigezon",
+      "pwonominal"
+    ]
+  },
+  {
+    "id": "conj-g1-091",
+    "question": "Pourquoi le 1er groupe est-il le groupe le plus régulier",
+    "reponse": "Le 1er groupe est le plus régulier car presque tous ses verbes suivent exactement le même modèle de conjugaison.",
+    "tags": [
+      "regularite",
+      "modele",
+      "conjugaison",
+      "1er groupe",
+      "regilye",
+      "modèl"
+    ]
+  },
+  {
+    "id": "conj-g1-092",
+    "question": "Poukisa premye gwoup la se gwoup ki pi regilye a",
+    "reponse": "Premye gwoup la se pi regilye a paske prèske tout vèb li yo suiv egzakteman menm modèl konjigezon.",
+    "tags": [
+      "regularite",
+      "modele",
+      "conjugaison",
+      "1er groupe",
+      "regilye",
+      "modèl"
+    ]
+  },
+  {
+    "id": "conj-g1-093",
+    "question": "Quelle est une astuce pour retenir la conjugaison du 1er groupe",
+    "reponse": "Une bonne astuce est de bien mémoriser les terminaisons -e, -es, -e, -ons, -ez, -ent, valables pour presque tous ces verbes.",
+    "tags": [
+      "astuce",
+      "memorisation",
+      "terminaisons",
+      "apprentissage",
+      "astis",
+      "memorize"
+    ]
+  },
+  {
+    "id": "conj-g1-094",
+    "question": "Ki yon astis pou retni konjigezon premye gwoup la",
+    "reponse": "Yon bon astis se byen memorize finisman -e, -es, -e, -ons, -ez, -ent, ki valab pou prèske tout vèb sa yo.",
+    "tags": [
+      "astuce",
+      "memorisation",
+      "terminaisons",
+      "apprentissage",
+      "astis",
+      "memorize"
+    ]
+  },
+  {
+    "id": "conj-g1-095",
+    "question": "Comment conjuguer parler à l'infinitif passé",
+    "reponse": "L'infinitif passé de parler se forme avec avoir à l'infinitif suivi du participe passé: avoir parlé.",
+    "tags": [
+      "infinitif passe",
+      "parler",
+      "formation",
+      "avoir parle",
+      "enfinitif pase",
+      "avoir"
+    ]
+  },
+  {
+    "id": "conj-g1-096",
+    "question": "Kijan pou konjige parler nan enfinitif pase",
+    "reponse": "Enfinitif pase parler fòme ak avoir nan enfinitif swiv ak patisip pase a: avoir parlé.",
+    "tags": [
+      "infinitif passe",
+      "parler",
+      "formation",
+      "avoir parle",
+      "enfinitif pase",
+      "avoir"
+    ]
+  },
+  {
+    "id": "conj-g1-097",
+    "question": "Comment distinguer un verbe du 1er groupe d'un verbe du 3e groupe en -er",
+    "reponse": "On distingue un verbe du 1er groupe d'un verbe irrégulier en -er comme aller en vérifiant si sa conjugaison suit le modèle régulier.",
+    "tags": [
+      "distinction",
+      "1er groupe",
+      "3e groupe",
+      "exception",
+      "distenge",
+      "modèl"
+    ]
+  },
+  {
+    "id": "conj-g1-098",
+    "question": "Kijan pou distenge yon vèb premye gwoup ak yon vèb twazyèm gwoup ki fini an -er",
+    "reponse": "Yo distenge yo lè yo tcheke si konjigezon vèb la suiv modèl regilye a oswa si li iregilye tankou aller.",
+    "tags": [
+      "distinction",
+      "1er groupe",
+      "3e groupe",
+      "exception",
+      "distenge",
+      "modèl"
+    ]
+  },
+  {
+    "id": "conj-g1-099",
+    "question": "Comment conjuguer jouer au présent",
+    "reponse": "Au présent, jouer se conjugue: je joue, tu joues, il joue, nous jouons, vous jouez, ils jouent.",
+    "tags": [
+      "jouer",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "jwe"
+    ]
+  },
+  {
+    "id": "conj-g1-100",
+    "question": "Kijan pou konjige jouer nan prezan",
+    "reponse": "Nan prezan, jouer konjige konsa: je joue, tu joues, il joue, nous jouons, vous jouez, ils jouent.",
+    "tags": [
+      "jouer",
+      "present",
+      "conjugaison",
+      "1er groupe",
+      "konjigezon",
+      "jwe"
+    ]
+  }
+]

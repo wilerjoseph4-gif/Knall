@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "conj-g2-001",
+    "question": "Qu'est-ce qu'un verbe du 2e groupe",
+    "reponse": "Un verbe du 2e groupe est un verbe en -ir qui fait -issons à la première personne du pluriel du présent, comme finir.",
+    "tags": [
+      "2e groupe",
+      "verbe",
+      "-ir",
+      "issons",
+      "dezyèm gwoup",
+      "finir"
+    ]
+  },
+  {
+    "id": "conj-g2-002",
+    "question": "Kisa ki yon vèb dezyèm gwoup",
+    "reponse": "Vèb dezyèm gwoup se yon vèb ki fini an -ir epi ki fè -issons nan premye pèsonn pliryèl prezan, tankou finir.",
+    "tags": [
+      "2e groupe",
+      "verbe",
+      "-ir",
+      "issons",
+      "dezyèm gwoup",
+      "finir"
+    ]
+  },
+  {
+    "id": "conj-g2-003",
+    "question": "Comment reconnaît-on un verbe du 2e groupe",
+    "reponse": "On reconnaît un verbe du 2e groupe au fait que son participe présent et la forme nous se terminent par -issant et -issons.",
+    "tags": [
+      "reconnaissance",
+      "issant",
+      "issons",
+      "terminaison",
+      "rekonèt",
+      "fini"
+    ]
+  },
+  {
+    "id": "conj-g2-004",
+    "question": "Kijan pou rekonèt yon vèb dezyèm gwoup",
+    "reponse": "Yo rekonèt yon vèb dezyèm gwoup lè patisip prezan li ak fòm nous li fini an -issant ak -issons.",
+    "tags": [
+      "reconnaissance",
+      "issant",
+      "issons",
+      "terminaison",
+      "rekonèt",
+      "fini"
+    ]
+  },
+  {
+    "id": "conj-g2-005",
+    "question": "Comment conjuguer finir au présent",
+    "reponse": "Au présent, finir se conjugue: je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent.",
+    "tags": [
+      "finir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "prezan"
+    ]
+  },
+  {
+    "id": "conj-g2-006",
+    "question": "Kijan pou konjige finir nan prezan",
+    "reponse": "Nan prezan, finir konjige konsa: je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent.",
+    "tags": [
+      "finir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "prezan"
+    ]
+  },
+  {
+    "id": "conj-g2-007",
+    "question": "Quelles sont les terminaisons du présent pour le 2e groupe",
+    "reponse": "Les terminaisons du présent pour le 2e groupe sont -is, -is, -it, -issons, -issez, -issent.",
+    "tags": [
+      "terminaisons",
+      "present",
+      "2e groupe",
+      "regle",
+      "finisman",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-g2-008",
+    "question": "Ki finisman prezan pou dezyèm gwoup la",
+    "reponse": "Finisman prezan pou dezyèm gwoup la se -is, -is, -it, -issons, -issez, -issent.",
+    "tags": [
+      "terminaisons",
+      "present",
+      "2e groupe",
+      "regle",
+      "finisman",
+      "règ"
+    ]
+  },
+  {
+    "id": "conj-g2-009",
+    "question": "Comment conjuguer choisir au présent",
+    "reponse": "Au présent, choisir se conjugue: je choisis, tu choisis, il choisit, nous choisissons, vous choisissez, ils choisissent.",
+    "tags": [
+      "choisir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "chwazi"
+    ]
+  },
+  {
+    "id": "conj-g2-010",
+    "question": "Kijan pou konjige choisir nan prezan",
+    "reponse": "Nan prezan, choisir konjige konsa: je choisis, tu choisis, il choisit, nous choisissons, vous choisissez, ils choisissent.",
+    "tags": [
+      "choisir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "chwazi"
+    ]
+  },
+  {
+    "id": "conj-g2-011",
+    "question": "Comment conjuguer grandir au présent",
+    "reponse": "Au présent, grandir se conjugue: je grandis, tu grandis, il grandit, nous grandissons, vous grandissez, ils grandissent.",
+    "tags": [
+      "grandir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "grandi"
+    ]
+  },
+  {
+    "id": "conj-g2-012",
+    "question": "Kijan pou konjige grandir nan prezan",
+    "reponse": "Nan prezan, grandir konjige konsa: je grandis, tu grandis, il grandit, nous grandissons, vous grandissez, ils grandissent.",
+    "tags": [
+      "grandir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "grandi"
+    ]
+  },
+  {
+    "id": "conj-g2-013",
+    "question": "Comment conjuguer réussir au présent",
+    "reponse": "Au présent, réussir se conjugue: je réussis, tu réussis, il réussit, nous réussissons, vous réussissez, ils réussissent.",
+    "tags": [
+      "reussir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "reyisi"
+    ]
+  },
+  {
+    "id": "conj-g2-014",
+    "question": "Kijan pou konjige réussir nan prezan",
+    "reponse": "Nan prezan, réussir konjige konsa: je réussis, tu réussis, il réussit, nous réussissons, vous réussissez, ils réussissent.",
+    "tags": [
+      "reussir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "reyisi"
+    ]
+  },
+  {
+    "id": "conj-g2-015",
+    "question": "Comment conjuguer remplir au présent",
+    "reponse": "Au présent, remplir se conjugue: je remplis, tu remplis, il remplit, nous remplissons, vous remplissez, ils remplissent.",
+    "tags": [
+      "remplir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "plen"
+    ]
+  },
+  {
+    "id": "conj-g2-016",
+    "question": "Kijan pou konjige remplir nan prezan",
+    "reponse": "Nan prezan, remplir konjige konsa: je remplis, tu remplis, il remplit, nous remplissons, vous remplissez, ils remplissent.",
+    "tags": [
+      "remplir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "plen"
+    ]
+  },
+  {
+    "id": "conj-g2-017",
+    "question": "Comment conjuguer finir à l'imparfait",
+    "reponse": "À l'imparfait, finir se conjugue: je finissais, tu finissais, il finissait, nous finissions, vous finissiez, ils finissaient.",
+    "tags": [
+      "finir",
+      "imparfait",
+      "conjugaison",
+      "2e groupe",
+      "lenpafè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-018",
+    "question": "Kijan pou konjige finir nan lenpafè",
+    "reponse": "Nan lenpafè, finir konjige konsa: je finissais, tu finissais, il finissait, nous finissions, vous finissiez, ils finissaient.",
+    "tags": [
+      "finir",
+      "imparfait",
+      "conjugaison",
+      "2e groupe",
+      "lenpafè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-019",
+    "question": "Comment conjuguer finir au futur simple",
+    "reponse": "Au futur simple, finir se conjugue: je finirai, tu finiras, il finira, nous finirons, vous finirez, ils finiront.",
+    "tags": [
+      "finir",
+      "futur simple",
+      "conjugaison",
+      "2e groupe",
+      "fiti senp",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-020",
+    "question": "Kijan pou konjige finir nan fiti senp",
+    "reponse": "Nan fiti senp, finir konjige konsa: je finirai, tu finiras, il finira, nous finirons, vous finirez, ils finiront.",
+    "tags": [
+      "finir",
+      "futur simple",
+      "conjugaison",
+      "2e groupe",
+      "fiti senp",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-021",
+    "question": "Comment former le passé composé d'un verbe du 2e groupe",
+    "reponse": "Le passé composé se forme avec avoir suivi du participe passé: j'ai fini, tu as fini, il a fini.",
+    "tags": [
+      "passe compose",
+      "avoir",
+      "participe passe",
+      "2e groupe",
+      "pase konpoze",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g2-022",
+    "question": "Kijan pou fòme pase konpoze yon vèb dezyèm gwoup",
+    "reponse": "Pase konpoze fòme ak avoir swiv ak patisip pase a: j'ai fini, tu as fini, il a fini.",
+    "tags": [
+      "passe compose",
+      "avoir",
+      "participe passe",
+      "2e groupe",
+      "pase konpoze",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g2-023",
+    "question": "Comment former le participe passé d'un verbe du 2e groupe",
+    "reponse": "Pour former le participe passé d'un verbe du 2e groupe, on remplace -ir par -i, comme fini ou choisi.",
+    "tags": [
+      "participe passe",
+      "-ir en -i",
+      "formation",
+      "2e groupe",
+      "patisip pase",
+      "ranplase"
+    ]
+  },
+  {
+    "id": "conj-g2-024",
+    "question": "Kijan pou fòme patisip pase yon vèb dezyèm gwoup",
+    "reponse": "Pou fòme patisip pase yon vèb dezyèm gwoup, yo ranplase -ir pa -i, tankou fini oswa choisi.",
+    "tags": [
+      "participe passe",
+      "-ir en -i",
+      "formation",
+      "2e groupe",
+      "patisip pase",
+      "ranplase"
+    ]
+  },
+  {
+    "id": "conj-g2-025",
+    "question": "Comment conjuguer finir au conditionnel présent",
+    "reponse": "Au conditionnel présent, finir se conjugue: je finirais, tu finirais, il finirait, nous finirions, vous finiriez, ils finiraient.",
+    "tags": [
+      "finir",
+      "conditionnel",
+      "conjugaison",
+      "2e groupe",
+      "kondisyonèl",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-026",
+    "question": "Kijan pou konjige finir nan kondisyonèl prezan",
+    "reponse": "Nan kondisyonèl prezan, finir konjige konsa: je finirais, tu finirais, il finirait, nous finirions, vous finiriez, ils finiraient.",
+    "tags": [
+      "finir",
+      "conditionnel",
+      "conjugaison",
+      "2e groupe",
+      "kondisyonèl",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-027",
+    "question": "Comment conjuguer finir au subjonctif présent",
+    "reponse": "Au subjonctif présent, finir se conjugue: que je finisse, que tu finisses, qu'il finisse, que nous finissions, que vous finissiez, qu'ils finissent.",
+    "tags": [
+      "finir",
+      "subjonctif",
+      "conjugaison",
+      "2e groupe",
+      "sibjonktif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-028",
+    "question": "Kijan pou konjige finir nan sibjonktif prezan",
+    "reponse": "Nan sibjonktif prezan, finir konjige konsa: que je finisse, que tu finisses, qu'il finisse, que nous finissions, que vous finissiez, qu'ils finissent.",
+    "tags": [
+      "finir",
+      "subjonctif",
+      "conjugaison",
+      "2e groupe",
+      "sibjonktif",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-029",
+    "question": "Comment conjuguer finir à l'impératif",
+    "reponse": "À l'impératif, finir se conjugue: finis, finissons, finissez.",
+    "tags": [
+      "finir",
+      "imperatif",
+      "conjugaison",
+      "2e groupe",
+      "enperatif",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-g2-030",
+    "question": "Kijan pou konjige finir nan enperatif",
+    "reponse": "Nan enperatif, finir konjige konsa: finis, finissons, finissez.",
+    "tags": [
+      "finir",
+      "imperatif",
+      "conjugaison",
+      "2e groupe",
+      "enperatif",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-g2-031",
+    "question": "Qu'est-ce que le participe présent d'un verbe du 2e groupe",
+    "reponse": "Le participe présent d'un verbe du 2e groupe se forme en remplaçant -ir par -issant, comme finissant ou choisissant.",
+    "tags": [
+      "participe present",
+      "-issant",
+      "formation",
+      "2e groupe",
+      "patisip prezan",
+      "-issant"
+    ]
+  },
+  {
+    "id": "conj-g2-032",
+    "question": "Kisa ki patisip prezan yon vèb dezyèm gwoup",
+    "reponse": "Patisip prezan yon vèb dezyèm gwoup fòme lè yo ranplase -ir pa -issant, tankou finissant oswa choisissant.",
+    "tags": [
+      "participe present",
+      "-issant",
+      "formation",
+      "2e groupe",
+      "patisip prezan",
+      "-issant"
+    ]
+  },
+  {
+    "id": "conj-g2-033",
+    "question": "Comment conjuguer obéir au présent",
+    "reponse": "Au présent, obéir se conjugue: j'obéis, tu obéis, il obéit, nous obéissons, vous obéissez, ils obéissent.",
+    "tags": [
+      "obeir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "obeyi"
+    ]
+  },
+  {
+    "id": "conj-g2-034",
+    "question": "Kijan pou konjige obéir nan prezan",
+    "reponse": "Nan prezan, obéir konjige konsa: j'obéis, tu obéis, il obéit, nous obéissons, vous obéissez, ils obéissent.",
+    "tags": [
+      "obeir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "obeyi"
+    ]
+  },
+  {
+    "id": "conj-g2-035",
+    "question": "Comment conjuguer punir au présent",
+    "reponse": "Au présent, punir se conjugue: je punis, tu punis, il punit, nous punissons, vous punissez, ils punissent.",
+    "tags": [
+      "punir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "pini"
+    ]
+  },
+  {
+    "id": "conj-g2-036",
+    "question": "Kijan pou konjige punir nan prezan",
+    "reponse": "Nan prezan, punir konjige konsa: je punis, tu punis, il punit, nous punissons, vous punissez, ils punissent.",
+    "tags": [
+      "punir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "pini"
+    ]
+  },
+  {
+    "id": "conj-g2-037",
+    "question": "Comment conjuguer bâtir au présent",
+    "reponse": "Au présent, bâtir se conjugue: je bâtis, tu bâtis, il bâtit, nous bâtissons, vous bâtissez, ils bâtissent.",
+    "tags": [
+      "batir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "bati"
+    ]
+  },
+  {
+    "id": "conj-g2-038",
+    "question": "Kijan pou konjige bâtir nan prezan",
+    "reponse": "Nan prezan, bâtir konjige konsa: je bâtis, tu bâtis, il bâtit, nous bâtissons, vous bâtissez, ils bâtissent.",
+    "tags": [
+      "batir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "bati"
+    ]
+  },
+  {
+    "id": "conj-g2-039",
+    "question": "Comment conjuguer agir au présent",
+    "reponse": "Au présent, agir se conjugue: j'agis, tu agis, il agit, nous agissons, vous agissez, ils agissent.",
+    "tags": [
+      "agir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "aji"
+    ]
+  },
+  {
+    "id": "conj-g2-040",
+    "question": "Kijan pou konjige agir nan prezan",
+    "reponse": "Nan prezan, agir konjige konsa: j'agis, tu agis, il agit, nous agissons, vous agissez, ils agissent.",
+    "tags": [
+      "agir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "aji"
+    ]
+  },
+  {
+    "id": "conj-g2-041",
+    "question": "Comment conjuguer réfléchir au présent",
+    "reponse": "Au présent, réfléchir se conjugue: je réfléchis, tu réfléchis, il réfléchit, nous réfléchissons, vous réfléchissez, ils réfléchissent.",
+    "tags": [
+      "reflechir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "reflechi"
+    ]
+  },
+  {
+    "id": "conj-g2-042",
+    "question": "Kijan pou konjige réfléchir nan prezan",
+    "reponse": "Nan prezan, réfléchir konjige konsa: je réfléchis, tu réfléchis, il réfléchit, nous réfléchissons, vous réfléchissez, ils réfléchissent.",
+    "tags": [
+      "reflechir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "reflechi"
+    ]
+  },
+  {
+    "id": "conj-g2-043",
+    "question": "Comment conjuguer applaudir au présent",
+    "reponse": "Au présent, applaudir se conjugue: j'applaudis, tu applaudis, il applaudit, nous applaudissons, vous applaudissez, ils applaudissent.",
+    "tags": [
+      "applaudir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "aplodi"
+    ]
+  },
+  {
+    "id": "conj-g2-044",
+    "question": "Kijan pou konjige applaudir nan prezan",
+    "reponse": "Nan prezan, applaudir konjige konsa: j'applaudis, tu applaudis, il applaudit, nous applaudissons, vous applaudissez, ils applaudissent.",
+    "tags": [
+      "applaudir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "aplodi"
+    ]
+  },
+  {
+    "id": "conj-g2-045",
+    "question": "Comment conjuguer guérir au présent",
+    "reponse": "Au présent, guérir se conjugue: je guéris, tu guéris, il guérit, nous guérissons, vous guérissez, ils guérissent.",
+    "tags": [
+      "guerir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "geri"
+    ]
+  },
+  {
+    "id": "conj-g2-046",
+    "question": "Kijan pou konjige guérir nan prezan",
+    "reponse": "Nan prezan, guérir konjige konsa: je guéris, tu guéris, il guérit, nous guérissons, vous guérissez, ils guérissent.",
+    "tags": [
+      "guerir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "geri"
+    ]
+  },
+  {
+    "id": "conj-g2-047",
+    "question": "Comment conjuguer grossir au présent",
+    "reponse": "Au présent, grossir se conjugue: je grossis, tu grossis, il grossit, nous grossissons, vous grossissez, ils grossissent.",
+    "tags": [
+      "grossir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "grosi"
+    ]
+  },
+  {
+    "id": "conj-g2-048",
+    "question": "Kijan pou konjige grossir nan prezan",
+    "reponse": "Nan prezan, grossir konjige konsa: je grossis, tu grossis, il grossit, nous grossissons, vous grossissez, ils grossissent.",
+    "tags": [
+      "grossir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "grosi"
+    ]
+  },
+  {
+    "id": "conj-g2-049",
+    "question": "Comment conjuguer maigrir au présent",
+    "reponse": "Au présent, maigrir se conjugue: je maigris, tu maigris, il maigrit, nous maigrissons, vous maigrissez, ils maigrissent.",
+    "tags": [
+      "maigrir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "megri"
+    ]
+  },
+  {
+    "id": "conj-g2-050",
+    "question": "Kijan pou konjige maigrir nan prezan",
+    "reponse": "Nan prezan, maigrir konjige konsa: je maigris, tu maigris, il maigrit, nous maigrissons, vous maigrissez, ils maigrissent.",
+    "tags": [
+      "maigrir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "megri"
+    ]
+  },
+  {
+    "id": "conj-g2-051",
+    "question": "Comment conjuguer vieillir au présent",
+    "reponse": "Au présent, vieillir se conjugue: je vieillis, tu vieillis, il vieillit, nous vieillissons, vous vieillissez, ils vieillissent.",
+    "tags": [
+      "vieillir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "vyeyi"
+    ]
+  },
+  {
+    "id": "conj-g2-052",
+    "question": "Kijan pou konjige vieillir nan prezan",
+    "reponse": "Nan prezan, vieillir konjige konsa: je vieillis, tu vieillis, il vieillit, nous vieillissons, vous vieillissez, ils vieillissent.",
+    "tags": [
+      "vieillir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "vyeyi"
+    ]
+  },
+  {
+    "id": "conj-g2-053",
+    "question": "Comment conjuguer rougir au présent",
+    "reponse": "Au présent, rougir se conjugue: je rougis, tu rougis, il rougit, nous rougissons, vous rougissez, ils rougissent.",
+    "tags": [
+      "rougir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "wouji"
+    ]
+  },
+  {
+    "id": "conj-g2-054",
+    "question": "Kijan pou konjige rougir nan prezan",
+    "reponse": "Nan prezan, rougir konjige konsa: je rougis, tu rougis, il rougit, nous rougissons, vous rougissez, ils rougissent.",
+    "tags": [
+      "rougir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "wouji"
+    ]
+  },
+  {
+    "id": "conj-g2-055",
+    "question": "Quelle est la différence entre les verbes du 1er et du 2e groupe",
+    "reponse": "Les verbes du 1er groupe finissent en -er au présent, tandis que ceux du 2e groupe finissent en -is, -is, -it et ajoutent -iss- au pluriel.",
+    "tags": [
+      "difference",
+      "1er groupe",
+      "2e groupe",
+      "comparaison",
+      "diferans",
+      "konpare"
+    ]
+  },
+  {
+    "id": "conj-g2-056",
+    "question": "Ki diferans ki genyen ant vèb premye gwoup ak dezyèm gwoup",
+    "reponse": "Vèb premye gwoup fini an -e nan prezan, pandan vèb dezyèm gwoup fini an -is, -is, -it epi ajoute -iss- nan pliryèl.",
+    "tags": [
+      "difference",
+      "1er groupe",
+      "2e groupe",
+      "comparaison",
+      "diferans",
+      "konpare"
+    ]
+  },
+  {
+    "id": "conj-g2-057",
+    "question": "Combien de verbes appartiennent au 2e groupe",
+    "reponse": "Le 2e groupe contient environ 300 verbes réguliers en français, un groupe beaucoup plus petit que le 1er.",
+    "tags": [
+      "nombre",
+      "verbes",
+      "2e groupe",
+      "300",
+      "kantite",
+      "regilye"
+    ]
+  },
+  {
+    "id": "conj-g2-058",
+    "question": "Konbyen vèb ki fè pati dezyèm gwoup la",
+    "reponse": "Dezyèm gwoup la genyen apeprè 300 vèb regilye nan franse, yon gwoup ki pi piti pase premye a.",
+    "tags": [
+      "nombre",
+      "verbes",
+      "2e groupe",
+      "300",
+      "kantite",
+      "regilye"
+    ]
+  },
+  {
+    "id": "conj-g2-059",
+    "question": "Qu'est-ce que le passé simple",
+    "reponse": "Le passé simple est un temps littéraire utilisé surtout à l'écrit pour raconter une action terminée dans le passé.",
+    "tags": [
+      "passe simple",
+      "litteraire",
+      "ecrit",
+      "recit",
+      "pase senp",
+      "literè"
+    ]
+  },
+  {
+    "id": "conj-g2-060",
+    "question": "Kisa ki pase senp la",
+    "reponse": "Pase senp se yon tan literè yo itilize sitou nan ekri pou rakonte yon aksyon ki te fini nan tan pase.",
+    "tags": [
+      "passe simple",
+      "litteraire",
+      "ecrit",
+      "recit",
+      "pase senp",
+      "literè"
+    ]
+  },
+  {
+    "id": "conj-g2-061",
+    "question": "Comment conjuguer finir au passé simple",
+    "reponse": "Au passé simple, finir se conjugue: je finis, tu finis, il finit, nous finîmes, vous finîtes, ils finirent.",
+    "tags": [
+      "finir",
+      "passe simple",
+      "conjugaison",
+      "2e groupe",
+      "pase senp",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-062",
+    "question": "Kijan pou konjige finir nan pase senp",
+    "reponse": "Nan pase senp, finir konjige konsa: je finis, tu finis, il finit, nous finîmes, vous finîtes, ils finirent.",
+    "tags": [
+      "finir",
+      "passe simple",
+      "conjugaison",
+      "2e groupe",
+      "pase senp",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-063",
+    "question": "Comment conjuguer choisir au passé composé",
+    "reponse": "Au passé composé, choisir se conjugue: j'ai choisi, tu as choisi, il a choisi, nous avons choisi, vous avez choisi, ils ont choisi.",
+    "tags": [
+      "choisir",
+      "passe compose",
+      "avoir",
+      "2e groupe",
+      "pase konpoze",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-064",
+    "question": "Kijan pou konjige choisir nan pase konpoze",
+    "reponse": "Nan pase konpoze, choisir konjige konsa: j'ai choisi, tu as choisi, il a choisi, nous avons choisi, vous avez choisi, ils ont choisi.",
+    "tags": [
+      "choisir",
+      "passe compose",
+      "avoir",
+      "2e groupe",
+      "pase konpoze",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-065",
+    "question": "Qu'est-ce que le plus-que-parfait",
+    "reponse": "Le plus-que-parfait est un temps qui exprime une action passée antérieure à une autre action passée.",
+    "tags": [
+      "plus-que-parfait",
+      "anteriorite",
+      "temps",
+      "definition",
+      "plis ke pafè",
+      "anvan"
+    ]
+  },
+  {
+    "id": "conj-g2-066",
+    "question": "Kisa ki plis ke pafè a",
+    "reponse": "Plis ke pafè a se yon tan ki eksprime yon aksyon pase ki te rive anvan yon lòt aksyon pase.",
+    "tags": [
+      "plus-que-parfait",
+      "anteriorite",
+      "temps",
+      "definition",
+      "plis ke pafè",
+      "anvan"
+    ]
+  },
+  {
+    "id": "conj-g2-067",
+    "question": "Comment conjuguer finir au plus-que-parfait",
+    "reponse": "Au plus-que-parfait, finir se conjugue: j'avais fini, tu avais fini, il avait fini, nous avions fini, vous aviez fini, ils avaient fini.",
+    "tags": [
+      "finir",
+      "plus-que-parfait",
+      "conjugaison",
+      "2e groupe",
+      "plis ke pafè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-068",
+    "question": "Kijan pou konjige finir nan plis ke pafè",
+    "reponse": "Nan plis ke pafè, finir konjige konsa: j'avais fini, tu avais fini, il avait fini, nous avions fini, vous aviez fini, ils avaient fini.",
+    "tags": [
+      "finir",
+      "plus-que-parfait",
+      "conjugaison",
+      "2e groupe",
+      "plis ke pafè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-069",
+    "question": "Comment conjuguer réussir au futur simple",
+    "reponse": "Au futur simple, réussir se conjugue: je réussirai, tu réussiras, il réussira, nous réussirons, vous réussirez, ils réussiront.",
+    "tags": [
+      "reussir",
+      "futur simple",
+      "conjugaison",
+      "2e groupe",
+      "fiti senp",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-070",
+    "question": "Kijan pou konjige réussir nan fiti senp",
+    "reponse": "Nan fiti senp, réussir konjige konsa: je réussirai, tu réussiras, il réussira, nous réussirons, vous réussirez, ils réussiront.",
+    "tags": [
+      "reussir",
+      "futur simple",
+      "conjugaison",
+      "2e groupe",
+      "fiti senp",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-071",
+    "question": "Quelle est une astuce pour reconnaître un verbe du 2e groupe à l'oral",
+    "reponse": "À l'oral, on reconnaît souvent un verbe du 2e groupe grâce au son -iss- qu'on entend à la forme nous et ils.",
+    "tags": [
+      "astuce",
+      "oral",
+      "iss",
+      "reconnaissance",
+      "astis",
+      "son"
+    ]
+  },
+  {
+    "id": "conj-g2-072",
+    "question": "Ki yon astis pou rekonèt yon vèb dezyèm gwoup nan pale",
+    "reponse": "Nan pale, yo rekonèt souvan yon vèb dezyèm gwoup gras ak son -iss- yo tande nan fòm nous ak ils.",
+    "tags": [
+      "astuce",
+      "oral",
+      "iss",
+      "reconnaissance",
+      "astis",
+      "son"
+    ]
+  },
+  {
+    "id": "conj-g2-073",
+    "question": "Comment conjuguer finir au futur proche",
+    "reponse": "Le futur proche se forme avec aller au présent suivi de l'infinitif: je vais finir, tu vas finir, il va finir.",
+    "tags": [
+      "finir",
+      "futur proche",
+      "aller",
+      "infinitif",
+      "fiti pwòch",
+      "aller present"
+    ]
+  },
+  {
+    "id": "conj-g2-074",
+    "question": "Kijan pou konjige finir nan fiti pwòch",
+    "reponse": "Fiti pwòch fòme ak aller nan prezan swiv ak enfinitif la: je vais finir, tu vas finir, il va finir.",
+    "tags": [
+      "finir",
+      "futur proche",
+      "aller",
+      "infinitif",
+      "fiti pwòch",
+      "aller present"
+    ]
+  },
+  {
+    "id": "conj-g2-075",
+    "question": "Qu'est-ce que le futur proche",
+    "reponse": "Le futur proche est une façon simple d'exprimer une action qui va se dérouler bientôt, avec aller suivi de l'infinitif.",
+    "tags": [
+      "futur proche",
+      "aller",
+      "infinitif",
+      "proche avenir",
+      "fiti pwòch",
+      "talè"
+    ]
+  },
+  {
+    "id": "conj-g2-076",
+    "question": "Kisa ki fiti pwòch la",
+    "reponse": "Fiti pwòch se yon fason senp pou eksprime yon aksyon ki pral fèt talè, ak aller swiv ak enfinitif.",
+    "tags": [
+      "futur proche",
+      "aller",
+      "infinitif",
+      "proche avenir",
+      "fiti pwòch",
+      "talè"
+    ]
+  },
+  {
+    "id": "conj-g2-077",
+    "question": "Comment conjuguer grandir au passé composé",
+    "reponse": "Au passé composé, grandir se conjugue: j'ai grandi, tu as grandi, il a grandi, nous avons grandi, vous avez grandi, ils ont grandi.",
+    "tags": [
+      "grandir",
+      "passe compose",
+      "avoir",
+      "2e groupe",
+      "pase konpoze",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-078",
+    "question": "Kijan pou konjige grandir nan pase konpoze",
+    "reponse": "Nan pase konpoze, grandir konjige konsa: j'ai grandi, tu as grandi, il a grandi, nous avons grandi, vous avez grandi, ils ont grandi.",
+    "tags": [
+      "grandir",
+      "passe compose",
+      "avoir",
+      "2e groupe",
+      "pase konpoze",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-079",
+    "question": "Comment conjuguer remplir au conditionnel présent",
+    "reponse": "Au conditionnel présent, remplir se conjugue: je remplirais, tu remplirais, il remplirait, nous remplirions, vous rempliriez, ils rempliraient.",
+    "tags": [
+      "remplir",
+      "conditionnel",
+      "conjugaison",
+      "2e groupe",
+      "kondisyonèl",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-080",
+    "question": "Kijan pou konjige remplir nan kondisyonèl prezan",
+    "reponse": "Nan kondisyonèl prezan, remplir konjige konsa: je remplirais, tu remplirais, il remplirait, nous remplirions, vous rempliriez, ils rempliraient.",
+    "tags": [
+      "remplir",
+      "conditionnel",
+      "conjugaison",
+      "2e groupe",
+      "kondisyonèl",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-081",
+    "question": "Comment conjuguer choisir à l'impératif",
+    "reponse": "À l'impératif, choisir se conjugue: choisis, choisissons, choisissez.",
+    "tags": [
+      "choisir",
+      "imperatif",
+      "conjugaison",
+      "2e groupe",
+      "enperatif",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-g2-082",
+    "question": "Kijan pou konjige choisir nan enperatif",
+    "reponse": "Nan enperatif, choisir konjige konsa: choisis, choisissons, choisissez.",
+    "tags": [
+      "choisir",
+      "imperatif",
+      "conjugaison",
+      "2e groupe",
+      "enperatif",
+      "lòd"
+    ]
+  },
+  {
+    "id": "conj-g2-083",
+    "question": "Pourquoi haïr est-il un verbe particulier du 2e groupe",
+    "reponse": "Haïr est particulier car il perd le tréma au singulier du présent: je hais, tu hais, il hait, mais nous haïssons.",
+    "tags": [
+      "hair",
+      "particularite",
+      "trema",
+      "exception",
+      "patikilye",
+      "trema"
+    ]
+  },
+  {
+    "id": "conj-g2-084",
+    "question": "Poukisa haïr se yon vèb patikilye nan dezyèm gwoup la",
+    "reponse": "Haïr patikilye paske li pèdi trema nan sengilye prezan an: je hais, tu hais, il hait, men nous haïssons.",
+    "tags": [
+      "hair",
+      "particularite",
+      "trema",
+      "exception",
+      "patikilye",
+      "trema"
+    ]
+  },
+  {
+    "id": "conj-g2-085",
+    "question": "Comment conjuguer haïr au présent",
+    "reponse": "Au présent, haïr se conjugue: je hais, tu hais, il hait, nous haïssons, vous haïssez, ils haïssent.",
+    "tags": [
+      "hair",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "rayi"
+    ]
+  },
+  {
+    "id": "conj-g2-086",
+    "question": "Kijan pou konjige haïr nan prezan",
+    "reponse": "Nan prezan, haïr konjige konsa: je hais, tu hais, il hait, nous haïssons, vous haïssez, ils haïssent.",
+    "tags": [
+      "hair",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "rayi"
+    ]
+  },
+  {
+    "id": "conj-g2-087",
+    "question": "Comment conjuguer bénir au présent",
+    "reponse": "Au présent, bénir se conjugue normalement: je bénis, tu bénis, il bénit, nous bénissons, vous bénissez, ils bénissent.",
+    "tags": [
+      "benir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "beni"
+    ]
+  },
+  {
+    "id": "conj-g2-088",
+    "question": "Kijan pou konjige bénir nan prezan",
+    "reponse": "Nan prezan, bénir konjige nòmalman: je bénis, tu bénis, il bénit, nous bénissons, vous bénissez, ils bénissent.",
+    "tags": [
+      "benir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "beni"
+    ]
+  },
+  {
+    "id": "conj-g2-089",
+    "question": "Comment conjuguer nourrir au présent",
+    "reponse": "Au présent, nourrir se conjugue: je nourris, tu nourris, il nourrit, nous nourrissons, vous nourrissez, ils nourrissent.",
+    "tags": [
+      "nourrir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "nouri"
+    ]
+  },
+  {
+    "id": "conj-g2-090",
+    "question": "Kijan pou konjige nourrir nan prezan",
+    "reponse": "Nan prezan, nourrir konjige konsa: je nourris, tu nourris, il nourrit, nous nourrissons, vous nourrissez, ils nourrissent.",
+    "tags": [
+      "nourrir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "nouri"
+    ]
+  },
+  {
+    "id": "conj-g2-091",
+    "question": "Résume les terminaisons du 2e groupe aux temps simples",
+    "reponse": "Au 2e groupe, les terminaisons types sont -is/-is/-it/-issons/-issez/-issent au présent, et -iss- apparaît à tous les temps sauf au singulier du présent et du passé simple.",
+    "tags": [
+      "resume",
+      "terminaisons",
+      "2e groupe",
+      "iss",
+      "rezime",
+      "finisman"
+    ]
+  },
+  {
+    "id": "conj-g2-092",
+    "question": "Fè yon rezime finisman dezyèm gwoup la nan tan senp yo",
+    "reponse": "Nan dezyèm gwoup la, finisman tip yo se -is/-is/-it/-issons/-issez/-issent nan prezan, epi -iss- parèt nan tout tan eksepte nan sengilye prezan ak pase senp.",
+    "tags": [
+      "resume",
+      "terminaisons",
+      "2e groupe",
+      "iss",
+      "rezime",
+      "finisman"
+    ]
+  },
+  {
+    "id": "conj-g2-093",
+    "question": "Comment conjuguer pâlir au présent",
+    "reponse": "Au présent, pâlir se conjugue: je pâlis, tu pâlis, il pâlit, nous pâlissons, vous pâlissez, ils pâlissent.",
+    "tags": [
+      "palir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "pal"
+    ]
+  },
+  {
+    "id": "conj-g2-094",
+    "question": "Kijan pou konjige pâlir nan prezan",
+    "reponse": "Nan prezan, pâlir konjige konsa: je pâlis, tu pâlis, il pâlit, nous pâlissons, vous pâlissez, ils pâlissent.",
+    "tags": [
+      "palir",
+      "present",
+      "conjugaison",
+      "2e groupe",
+      "konjigezon",
+      "pal"
+    ]
+  },
+  {
+    "id": "conj-g2-095",
+    "question": "Comment conjuguer fleurir au sens propre",
+    "reponse": "Au sens propre d'une plante qui fleurit, fleurir se conjugue régulièrement: elle fleurit, elles fleurissent.",
+    "tags": [
+      "fleurir",
+      "sens propre",
+      "plante",
+      "conjugaison",
+      "flè",
+      "regilye"
+    ]
+  },
+  {
+    "id": "conj-g2-096",
+    "question": "Kijan pou konjige fleurir nan sans pwòp li",
+    "reponse": "Nan sans pwòp pou yon plant ki fè flè, fleurir konjige regilyèman: elle fleurit, elles fleurissent.",
+    "tags": [
+      "fleurir",
+      "sens propre",
+      "plante",
+      "conjugaison",
+      "flè",
+      "regilye"
+    ]
+  },
+  {
+    "id": "conj-g2-097",
+    "question": "Comment conjuguer fleurir au sens figuré de prospérer",
+    "reponse": "Au sens figuré de prospérer, fleurir utilise parfois florissait à l'imparfait au lieu de fleurissait.",
+    "tags": [
+      "fleurir",
+      "sens figure",
+      "prosperer",
+      "variante",
+      "fleurir figire",
+      "varyant"
+    ]
+  },
+  {
+    "id": "conj-g2-098",
+    "question": "Kijan pou konjige fleurir nan sans figire pwospere",
+    "reponse": "Nan sans figire pou pwospere, fleurir pafwa itilize florissait nan lenpafè olye fleurissait.",
+    "tags": [
+      "fleurir",
+      "sens figure",
+      "prosperer",
+      "variante",
+      "fleurir figire",
+      "varyant"
+    ]
+  },
+  {
+    "id": "conj-g2-099",
+    "question": "Comment conjuguer réfléchir au futur simple",
+    "reponse": "Au futur simple, réfléchir se conjugue: je réfléchirai, tu réfléchiras, il réfléchira, nous réfléchirons, vous réfléchirez, ils réfléchiront.",
+    "tags": [
+      "reflechir",
+      "futur simple",
+      "conjugaison",
+      "2e groupe",
+      "fiti senp",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g2-100",
+    "question": "Kijan pou konjige réfléchir nan fiti senp",
+    "reponse": "Nan fiti senp, réfléchir konjige konsa: je réfléchirai, tu réfléchiras, il réfléchira, nous réfléchirons, vous réfléchirez, ils réfléchiront.",
+    "tags": [
+      "reflechir",
+      "futur simple",
+      "conjugaison",
+      "2e groupe",
+      "fiti senp",
+      "konjigezon"
+    ]
+  }
+]

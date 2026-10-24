@@ -1,0 +1,35 @@
+name: Créer la clé de signature (une seule fois)
+# Android n'accepte une mise à jour que si l'APK est signé avec LA MÊME clé que l'ancien.
+# Ce workflow crée la clé une seule fois et la range dans android/app/ de la branche choisie.
+# Le dépôt doit rester PRIVÉ. Ne supprime jamais ces deux fichiers (sans eux, plus de mise à jour possible).
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  cle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - name: Créer la clé
+        run: |
+          set -e
+          if [ -f android/app/knall.keystore ]; then
+            echo "La clé existe déjà sur cette branche : rien à faire."
+            exit 0
+          fi
+          PW=$(openssl rand -hex 16)
+          keytool -genkeypair -storetype PKCS12 -keystore android/app/knall.keystore \
+            -alias knall -keyalg RSA -keysize 2048 -validity 36500 \
+            -storepass "$PW" -keypass "$PW" -dname "CN=Knall, O=Wiler_Tech, C=HT"
+          echo "$PW" > android/app/knall.keystore.pass
+          git config user.name "knall-bot"
+          git config user.email "knall-bot@users.noreply.github.com"
+          git add -f android/app/knall.keystore android/app/knall.keystore.pass
+          git commit -m "Clé de signature Knall (ne jamais supprimer)"
+          git push
+          echo "Clé créée. Tu peux maintenant lancer un build."

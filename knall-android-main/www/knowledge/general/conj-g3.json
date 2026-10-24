@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "conj-g3-001",
+    "question": "Qu'est-ce qu'un verbe du 3e groupe",
+    "reponse": "Un verbe du 3e groupe est un verbe qui ne suit pas les modèles réguliers des 1er et 2e groupes et se conjugue de façon particulière.",
+    "tags": [
+      "3e groupe",
+      "verbe",
+      "irregulier",
+      "definition",
+      "twazyèm gwoup",
+      "patikilye"
+    ]
+  },
+  {
+    "id": "conj-g3-002",
+    "question": "Kisa ki yon vèb twazyèm gwoup",
+    "reponse": "Vèb twazyèm gwoup se yon vèb ki pa suiv modèl regilye premye ak dezyèm gwoup yo epi ki konjige yon fason patikilye.",
+    "tags": [
+      "3e groupe",
+      "verbe",
+      "irregulier",
+      "definition",
+      "twazyèm gwoup",
+      "patikilye"
+    ]
+  },
+  {
+    "id": "conj-g3-003",
+    "question": "Pourquoi les verbes du 3e groupe sont-ils dits irréguliers",
+    "reponse": "Les verbes du 3e groupe sont dits irréguliers car chacun ou presque a sa propre façon de se conjuguer, sans règle unique.",
+    "tags": [
+      "irregularite",
+      "conjugaison",
+      "particulier",
+      "regle",
+      "iregilye",
+      "chak"
+    ]
+  },
+  {
+    "id": "conj-g3-004",
+    "question": "Poukisa vèb twazyèm gwoup yo rele iregilye",
+    "reponse": "Vèb twazyèm gwoup yo rele iregilye paske chak oswa prèske chak genyen pwòp fason pa yo pou konjige, san yon sèl règ.",
+    "tags": [
+      "irregularite",
+      "conjugaison",
+      "particulier",
+      "regle",
+      "iregilye",
+      "chak"
+    ]
+  },
+  {
+    "id": "conj-g3-005",
+    "question": "Combien de verbes appartiennent au 3e groupe",
+    "reponse": "Le 3e groupe contient environ 370 verbes en français, malgré leur petit nombre ce sont souvent les plus utilisés.",
+    "tags": [
+      "nombre",
+      "verbes",
+      "3e groupe",
+      "frequence",
+      "kantite",
+      "itilize"
+    ]
+  },
+  {
+    "id": "conj-g3-006",
+    "question": "Konbyen vèb ki fè pati twazyèm gwoup la",
+    "reponse": "Twazyèm gwoup la genyen apeprè 370 vèb nan franse, menmsi yo pa anpil se souvan yo ki pi itilize.",
+    "tags": [
+      "nombre",
+      "verbes",
+      "3e groupe",
+      "frequence",
+      "kantite",
+      "itilize"
+    ]
+  },
+  {
+    "id": "conj-g3-007",
+    "question": "Comment conjuguer être au présent",
+    "reponse": "Au présent, être se conjugue: je suis, tu es, il est, nous sommes, vous êtes, ils sont.",
+    "tags": [
+      "etre",
+      "present",
+      "conjugaison",
+      "auxiliaire",
+      "être",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g3-008",
+    "question": "Kijan pou konjige être nan prezan",
+    "reponse": "Nan prezan, être konjige konsa: je suis, tu es, il est, nous sommes, vous êtes, ils sont.",
+    "tags": [
+      "etre",
+      "present",
+      "conjugaison",
+      "auxiliaire",
+      "être",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g3-009",
+    "question": "Comment conjuguer avoir au présent",
+    "reponse": "Au présent, avoir se conjugue: j'ai, tu as, il a, nous avons, vous avez, ils ont.",
+    "tags": [
+      "avoir",
+      "present",
+      "conjugaison",
+      "auxiliaire",
+      "avoir",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g3-010",
+    "question": "Kijan pou konjige avoir nan prezan",
+    "reponse": "Nan prezan, avoir konjige konsa: j'ai, tu as, il a, nous avons, vous avez, ils ont.",
+    "tags": [
+      "avoir",
+      "present",
+      "conjugaison",
+      "auxiliaire",
+      "avoir",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g3-011",
+    "question": "Comment conjuguer aller au présent",
+    "reponse": "Au présent, aller se conjugue: je vais, tu vas, il va, nous allons, vous allez, ils vont.",
+    "tags": [
+      "aller",
+      "present",
+      "conjugaison",
+      "irregulier",
+      "ale",
+      "iregilye"
+    ]
+  },
+  {
+    "id": "conj-g3-012",
+    "question": "Kijan pou konjige aller nan prezan",
+    "reponse": "Nan prezan, aller konjige konsa: je vais, tu vas, il va, nous allons, vous allez, ils vont.",
+    "tags": [
+      "aller",
+      "present",
+      "conjugaison",
+      "irregulier",
+      "ale",
+      "iregilye"
+    ]
+  },
+  {
+    "id": "conj-g3-013",
+    "question": "Comment conjuguer faire au présent",
+    "reponse": "Au présent, faire se conjugue: je fais, tu fais, il fait, nous faisons, vous faites, ils font.",
+    "tags": [
+      "faire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "fè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-014",
+    "question": "Kijan pou konjige faire nan prezan",
+    "reponse": "Nan prezan, faire konjige konsa: je fais, tu fais, il fait, nous faisons, vous faites, ils font.",
+    "tags": [
+      "faire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "fè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-015",
+    "question": "Comment conjuguer dire au présent",
+    "reponse": "Au présent, dire se conjugue: je dis, tu dis, il dit, nous disons, vous dites, ils disent.",
+    "tags": [
+      "dire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "di",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-016",
+    "question": "Kijan pou konjige dire nan prezan",
+    "reponse": "Nan prezan, dire konjige konsa: je dis, tu dis, il dit, nous disons, vous dites, ils disent.",
+    "tags": [
+      "dire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "di",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-017",
+    "question": "Comment conjuguer venir au présent",
+    "reponse": "Au présent, venir se conjugue: je viens, tu viens, il vient, nous venons, vous venez, ils viennent.",
+    "tags": [
+      "venir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "vini",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-018",
+    "question": "Kijan pou konjige venir nan prezan",
+    "reponse": "Nan prezan, venir konjige konsa: je viens, tu viens, il vient, nous venons, vous venez, ils viennent.",
+    "tags": [
+      "venir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "vini",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-019",
+    "question": "Comment conjuguer pouvoir au présent",
+    "reponse": "Au présent, pouvoir se conjugue: je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent.",
+    "tags": [
+      "pouvoir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "kapab",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-020",
+    "question": "Kijan pou konjige pouvoir nan prezan",
+    "reponse": "Nan prezan, pouvoir konjige konsa: je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent.",
+    "tags": [
+      "pouvoir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "kapab",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-021",
+    "question": "Comment conjuguer vouloir au présent",
+    "reponse": "Au présent, vouloir se conjugue: je veux, tu veux, il veut, nous voulons, vous voulez, ils veulent.",
+    "tags": [
+      "vouloir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "vle",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-022",
+    "question": "Kijan pou konjige vouloir nan prezan",
+    "reponse": "Nan prezan, vouloir konjige konsa: je veux, tu veux, il veut, nous voulons, vous voulez, ils veulent.",
+    "tags": [
+      "vouloir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "vle",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-023",
+    "question": "Comment conjuguer devoir au présent",
+    "reponse": "Au présent, devoir se conjugue: je dois, tu dois, il doit, nous devons, vous devez, ils doivent.",
+    "tags": [
+      "devoir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "dwe",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-024",
+    "question": "Kijan pou konjige devoir nan prezan",
+    "reponse": "Nan prezan, devoir konjige konsa: je dois, tu dois, il doit, nous devons, vous devez, ils doivent.",
+    "tags": [
+      "devoir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "dwe",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-025",
+    "question": "Comment conjuguer savoir au présent",
+    "reponse": "Au présent, savoir se conjugue: je sais, tu sais, il sait, nous savons, vous savez, ils savent.",
+    "tags": [
+      "savoir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "konnen",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-026",
+    "question": "Kijan pou konjige savoir nan prezan",
+    "reponse": "Nan prezan, savoir konjige konsa: je sais, tu sais, il sait, nous savons, vous savez, ils savent.",
+    "tags": [
+      "savoir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "konnen",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-027",
+    "question": "Comment conjuguer voir au présent",
+    "reponse": "Au présent, voir se conjugue: je vois, tu vois, il voit, nous voyons, vous voyez, ils voient.",
+    "tags": [
+      "voir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "wè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-028",
+    "question": "Kijan pou konjige voir nan prezan",
+    "reponse": "Nan prezan, voir konjige konsa: je vois, tu vois, il voit, nous voyons, vous voyez, ils voient.",
+    "tags": [
+      "voir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "wè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-029",
+    "question": "Comment conjuguer prendre au présent",
+    "reponse": "Au présent, prendre se conjugue: je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent.",
+    "tags": [
+      "prendre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "pran",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-030",
+    "question": "Kijan pou konjige prendre nan prezan",
+    "reponse": "Nan prezan, prendre konjige konsa: je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent.",
+    "tags": [
+      "prendre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "pran",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-031",
+    "question": "Comment conjuguer mettre au présent",
+    "reponse": "Au présent, mettre se conjugue: je mets, tu mets, il met, nous mettons, vous mettez, ils mettent.",
+    "tags": [
+      "mettre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "mete",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-032",
+    "question": "Kijan pou konjige mettre nan prezan",
+    "reponse": "Nan prezan, mettre konjige konsa: je mets, tu mets, il met, nous mettons, vous mettez, ils mettent.",
+    "tags": [
+      "mettre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "mete",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-033",
+    "question": "Comment conjuguer partir au présent",
+    "reponse": "Au présent, partir se conjugue: je pars, tu pars, il part, nous partons, vous partez, ils partent.",
+    "tags": [
+      "partir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "pati",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-034",
+    "question": "Kijan pou konjige partir nan prezan",
+    "reponse": "Nan prezan, partir konjige konsa: je pars, tu pars, il part, nous partons, vous partez, ils partent.",
+    "tags": [
+      "partir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "pati",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-035",
+    "question": "Comment conjuguer sortir au présent",
+    "reponse": "Au présent, sortir se conjugue: je sors, tu sors, il sort, nous sortons, vous sortez, ils sortent.",
+    "tags": [
+      "sortir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "soti",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-036",
+    "question": "Kijan pou konjige sortir nan prezan",
+    "reponse": "Nan prezan, sortir konjige konsa: je sors, tu sors, il sort, nous sortons, vous sortez, ils sortent.",
+    "tags": [
+      "sortir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "soti",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-037",
+    "question": "Comment conjuguer dormir au présent",
+    "reponse": "Au présent, dormir se conjugue: je dors, tu dors, il dort, nous dormons, vous dormez, ils dorment.",
+    "tags": [
+      "dormir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "dòmi",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-038",
+    "question": "Kijan pou konjige dormir nan prezan",
+    "reponse": "Nan prezan, dormir konjige konsa: je dors, tu dors, il dort, nous dormons, vous dormez, ils dorment.",
+    "tags": [
+      "dormir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "dòmi",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-039",
+    "question": "Comment conjuguer sentir au présent",
+    "reponse": "Au présent, sentir se conjugue: je sens, tu sens, il sent, nous sentons, vous sentez, ils sentent.",
+    "tags": [
+      "sentir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "santi",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-040",
+    "question": "Kijan pou konjige sentir nan prezan",
+    "reponse": "Nan prezan, sentir konjige konsa: je sens, tu sens, il sent, nous sentons, vous sentez, ils sentent.",
+    "tags": [
+      "sentir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "santi",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-041",
+    "question": "Comment conjuguer ouvrir au présent",
+    "reponse": "Au présent, ouvrir se conjugue comme un verbe du 1er groupe: j'ouvre, tu ouvres, il ouvre, nous ouvrons, vous ouvrez, ils ouvrent.",
+    "tags": [
+      "ouvrir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "ouvè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-042",
+    "question": "Kijan pou konjige ouvrir nan prezan",
+    "reponse": "Nan prezan, ouvrir konjige tankou yon vèb premye gwoup: j'ouvre, tu ouvres, il ouvre, nous ouvrons, vous ouvrez, ils ouvrent.",
+    "tags": [
+      "ouvrir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "ouvè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-043",
+    "question": "Comment conjuguer offrir au présent",
+    "reponse": "Au présent, offrir se conjugue comme ouvrir: j'offre, tu offres, il offre, nous offrons, vous offrez, ils offrent.",
+    "tags": [
+      "offrir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "ofri",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-044",
+    "question": "Kijan pou konjige offrir nan prezan",
+    "reponse": "Nan prezan, offrir konjige tankou ouvrir: j'offre, tu offres, il offre, nous offrons, vous offrez, ils offrent.",
+    "tags": [
+      "offrir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "ofri",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-045",
+    "question": "Comment conjuguer courir au présent",
+    "reponse": "Au présent, courir se conjugue: je cours, tu cours, il court, nous courons, vous courez, ils courent.",
+    "tags": [
+      "courir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "kouri",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-046",
+    "question": "Kijan pou konjige courir nan prezan",
+    "reponse": "Nan prezan, courir konjige konsa: je cours, tu cours, il court, nous courons, vous courez, ils courent.",
+    "tags": [
+      "courir",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "kouri",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-047",
+    "question": "Comment conjuguer boire au présent",
+    "reponse": "Au présent, boire se conjugue: je bois, tu bois, il boit, nous buvons, vous buvez, ils boivent.",
+    "tags": [
+      "boire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "bwè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-048",
+    "question": "Kijan pou konjige boire nan prezan",
+    "reponse": "Nan prezan, boire konjige konsa: je bois, tu bois, il boit, nous buvons, vous buvez, ils boivent.",
+    "tags": [
+      "boire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "bwè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-049",
+    "question": "Comment conjuguer croire au présent",
+    "reponse": "Au présent, croire se conjugue: je crois, tu crois, il croit, nous croyons, vous croyez, ils croient.",
+    "tags": [
+      "croire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "kwè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-050",
+    "question": "Kijan pou konjige croire nan prezan",
+    "reponse": "Nan prezan, croire konjige konsa: je crois, tu crois, il croit, nous croyons, vous croyez, ils croient.",
+    "tags": [
+      "croire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "kwè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-051",
+    "question": "Comment conjuguer lire au présent",
+    "reponse": "Au présent, lire se conjugue: je lis, tu lis, il lit, nous lisons, vous lisez, ils lisent.",
+    "tags": [
+      "lire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "li",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-052",
+    "question": "Kijan pou konjige lire nan prezan",
+    "reponse": "Nan prezan, lire konjige konsa: je lis, tu lis, il lit, nous lisons, vous lisez, ils lisent.",
+    "tags": [
+      "lire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "li",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-053",
+    "question": "Comment conjuguer écrire au présent",
+    "reponse": "Au présent, écrire se conjugue: j'écris, tu écris, il écrit, nous écrivons, vous écrivez, ils écrivent.",
+    "tags": [
+      "ecrire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "ekri",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-054",
+    "question": "Kijan pou konjige écrire nan prezan",
+    "reponse": "Nan prezan, écrire konjige konsa: j'écris, tu écris, il écrit, nous écrivons, vous écrivez, ils écrivent.",
+    "tags": [
+      "ecrire",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "ekri",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-055",
+    "question": "Comment conjuguer connaître au présent",
+    "reponse": "Au présent, connaître se conjugue: je connais, tu connais, il connaît, nous connaissons, vous connaissez, ils connaissent.",
+    "tags": [
+      "connaitre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "konnen",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-056",
+    "question": "Kijan pou konjige connaître nan prezan",
+    "reponse": "Nan prezan, connaître konjige konsa: je connais, tu connais, il connaît, nous connaissons, vous connaissez, ils connaissent.",
+    "tags": [
+      "connaitre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "konnen",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-057",
+    "question": "Comment conjuguer naître au présent",
+    "reponse": "Au présent, naître se conjugue: je nais, tu nais, il naît, nous naissons, vous naissez, ils naissent.",
+    "tags": [
+      "naitre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "fèt",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-058",
+    "question": "Kijan pou konjige naître nan prezan",
+    "reponse": "Nan prezan, naître konjige konsa: je nais, tu nais, il naît, nous naissons, vous naissez, ils naissent.",
+    "tags": [
+      "naitre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "fèt",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-059",
+    "question": "Comment conjuguer vivre au présent",
+    "reponse": "Au présent, vivre se conjugue: je vis, tu vis, il vit, nous vivons, vous vivez, ils vivent.",
+    "tags": [
+      "vivre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "viv",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-060",
+    "question": "Kijan pou konjige vivre nan prezan",
+    "reponse": "Nan prezan, vivre konjige konsa: je vis, tu vis, il vit, nous vivons, vous vivez, ils vivent.",
+    "tags": [
+      "vivre",
+      "present",
+      "conjugaison",
+      "3e groupe",
+      "viv",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-061",
+    "question": "Comment conjuguer être au passé composé",
+    "reponse": "Au passé composé, être se conjugue avec avoir: j'ai été, tu as été, il a été, nous avons été, vous avez été, ils ont été.",
+    "tags": [
+      "etre",
+      "passe compose",
+      "ete",
+      "auxiliaire",
+      "été",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g3-062",
+    "question": "Kijan pou konjige être nan pase konpoze",
+    "reponse": "Nan pase konpoze, être konjige ak avoir: j'ai été, tu as été, il a été, nous avons été, vous avez été, ils ont été.",
+    "tags": [
+      "etre",
+      "passe compose",
+      "ete",
+      "auxiliaire",
+      "été",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g3-063",
+    "question": "Comment conjuguer avoir au passé composé",
+    "reponse": "Au passé composé, avoir se conjugue avec lui-même: j'ai eu, tu as eu, il a eu, nous avons eu, vous avez eu, ils ont eu.",
+    "tags": [
+      "avoir",
+      "passe compose",
+      "eu",
+      "auxiliaire",
+      "eu",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g3-064",
+    "question": "Kijan pou konjige avoir nan pase konpoze",
+    "reponse": "Nan pase konpoze, avoir konjige ak limenm: j'ai eu, tu as eu, il a eu, nous avons eu, vous avez eu, ils ont eu.",
+    "tags": [
+      "avoir",
+      "passe compose",
+      "eu",
+      "auxiliaire",
+      "eu",
+      "oksilyè"
+    ]
+  },
+  {
+    "id": "conj-g3-065",
+    "question": "Comment conjuguer aller au passé composé",
+    "reponse": "Au passé composé, aller se conjugue avec être: je suis allé, tu es allé, il est allé, nous sommes allés.",
+    "tags": [
+      "aller",
+      "passe compose",
+      "etre",
+      "accord",
+      "être",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-g3-066",
+    "question": "Kijan pou konjige aller nan pase konpoze",
+    "reponse": "Nan pase konpoze, aller konjige ak être: je suis allé, tu es allé, il est allé, nous sommes allés.",
+    "tags": [
+      "aller",
+      "passe compose",
+      "etre",
+      "accord",
+      "être",
+      "akò"
+    ]
+  },
+  {
+    "id": "conj-g3-067",
+    "question": "Comment conjuguer faire au passé composé",
+    "reponse": "Au passé composé, faire se conjugue: j'ai fait, tu as fait, il a fait, nous avons fait, vous avez fait, ils ont fait.",
+    "tags": [
+      "faire",
+      "passe compose",
+      "fait",
+      "avoir",
+      "fè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-068",
+    "question": "Kijan pou konjige faire nan pase konpoze",
+    "reponse": "Nan pase konpoze, faire konjige konsa: j'ai fait, tu as fait, il a fait, nous avons fait, vous avez fait, ils ont fait.",
+    "tags": [
+      "faire",
+      "passe compose",
+      "fait",
+      "avoir",
+      "fè",
+      "konjigezon"
+    ]
+  },
+  {
+    "id": "conj-g3-069",
+    "question": "Comment conjuguer être à l'imparfait",
+    "reponse": "À l'imparfait, être se conjugue: j'étais, tu étais, il était, nous étions, vous étiez, ils étaient.",
+    "tags": [
+      "etre",
+      "imparfait",
+      "conjugaison",
+      "etais",
+      "été",
+      "lenpafè"
+    ]
+  },
+  {
+    "id": "conj-g3-070",
+    "question": "Kijan pou konjige être nan lenpafè",
+    "reponse": "Nan lenpafè, être konjige konsa: j'étais, tu étais, il était, nous étions, vous étiez, ils étaient.",
+    "tags": [
+      "etre",
+      "imparfait",
+      "conjugaison",
+      "etais",
+      "été",
+      "lenpafè"
+    ]
+  },
+  {
+    "id": "conj-g3-071",
+    "question": "Comment conjuguer avoir à l'imparfait",
+    "reponse": "À l'imparfait, avoir se conjugue: j'avais, tu avais, il avait, nous avions, vous aviez, ils avaient.",
+    "tags": [
+      "avoir",
+      "imparfait",
+      "conjugaison",
+      "avais",
+      "avoir",
+      "lenpafè"
+    ]
+  },
+  {
+    "id": "conj-g3-072",
+    "question": "Kijan pou konjige avoir nan lenpafè",
+    "reponse": "Nan lenpafè, avoir konjige konsa: j'avais, tu avais, il avait, nous avions, vous aviez, ils avaient.",
+    "tags": [
+      "avoir",
+      "imparfait",
+      "conjugaison",
+      "avais",
+      "avoir",
+      "lenpafè"
+    ]
+  },
+  {
+    "id": "conj-g3-073",
+    "question": "Comment conjuguer être au futur simple",
+    "reponse": "Au futur simple, être se conjugue: je serai, tu seras, il sera, nous serons, vous serez, ils seront.",
+    "tags": [
+      "etre",
+      "futur simple",
+      "conjugaison",
+      "serai",
+      "être",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-074",
+    "question": "Kijan pou konjige être nan fiti senp",
+    "reponse": "Nan fiti senp, être konjige konsa: je serai, tu seras, il sera, nous serons, vous serez, ils seront.",
+    "tags": [
+      "etre",
+      "futur simple",
+      "conjugaison",
+      "serai",
+      "être",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-075",
+    "question": "Comment conjuguer avoir au futur simple",
+    "reponse": "Au futur simple, avoir se conjugue: j'aurai, tu auras, il aura, nous aurons, vous aurez, ils auront.",
+    "tags": [
+      "avoir",
+      "futur simple",
+      "conjugaison",
+      "aurai",
+      "avoir",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-076",
+    "question": "Kijan pou konjige avoir nan fiti senp",
+    "reponse": "Nan fiti senp, avoir konjige konsa: j'aurai, tu auras, il aura, nous aurons, vous aurez, ils auront.",
+    "tags": [
+      "avoir",
+      "futur simple",
+      "conjugaison",
+      "aurai",
+      "avoir",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-077",
+    "question": "Comment conjuguer aller au futur simple",
+    "reponse": "Au futur simple, aller se conjugue: j'irai, tu iras, il ira, nous irons, vous irez, ils iront.",
+    "tags": [
+      "aller",
+      "futur simple",
+      "conjugaison",
+      "irai",
+      "ale",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-078",
+    "question": "Kijan pou konjige aller nan fiti senp",
+    "reponse": "Nan fiti senp, aller konjige konsa: j'irai, tu iras, il ira, nous irons, vous irez, ils iront.",
+    "tags": [
+      "aller",
+      "futur simple",
+      "conjugaison",
+      "irai",
+      "ale",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-079",
+    "question": "Comment conjuguer faire au futur simple",
+    "reponse": "Au futur simple, faire se conjugue: je ferai, tu feras, il fera, nous ferons, vous ferez, ils feront.",
+    "tags": [
+      "faire",
+      "futur simple",
+      "conjugaison",
+      "ferai",
+      "fè",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-080",
+    "question": "Kijan pou konjige faire nan fiti senp",
+    "reponse": "Nan fiti senp, faire konjige konsa: je ferai, tu feras, il fera, nous ferons, vous ferez, ils feront.",
+    "tags": [
+      "faire",
+      "futur simple",
+      "conjugaison",
+      "ferai",
+      "fè",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-081",
+    "question": "Comment conjuguer pouvoir au futur simple",
+    "reponse": "Au futur simple, pouvoir se conjugue avec un radical irrégulier: je pourrai, tu pourras, il pourra, nous pourrons, vous pourrez, ils pourront.",
+    "tags": [
+      "pouvoir",
+      "futur simple",
+      "pourrai",
+      "radical irregulier",
+      "kapab",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-082",
+    "question": "Kijan pou konjige pouvoir nan fiti senp",
+    "reponse": "Nan fiti senp, pouvoir konjige ak yon rasin iregilye: je pourrai, tu pourras, il pourra, nous pourrons, vous pourrez, ils pourront.",
+    "tags": [
+      "pouvoir",
+      "futur simple",
+      "pourrai",
+      "radical irregulier",
+      "kapab",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-083",
+    "question": "Comment conjuguer vouloir au futur simple",
+    "reponse": "Au futur simple, vouloir se conjugue avec un radical irrégulier: je voudrai, tu voudras, il voudra, nous voudrons, vous voudrez, ils voudront.",
+    "tags": [
+      "vouloir",
+      "futur simple",
+      "voudrai",
+      "radical irregulier",
+      "vle",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-084",
+    "question": "Kijan pou konjige vouloir nan fiti senp",
+    "reponse": "Nan fiti senp, vouloir konjige ak yon rasin iregilye: je voudrai, tu voudras, il voudra, nous voudrons, vous voudrez, ils voudront.",
+    "tags": [
+      "vouloir",
+      "futur simple",
+      "voudrai",
+      "radical irregulier",
+      "vle",
+      "fiti senp"
+    ]
+  },
+  {
+    "id": "conj-g3-085",
+    "question": "Comment conjuguer être au subjonctif présent",
+    "reponse": "Au subjonctif présent, être se conjugue: que je sois, que tu sois, qu'il soit, que nous soyons, que vous soyez, qu'ils soient.",
+    "tags": [
+      "etre",
+      "subjonctif",
+      "sois",
+      "mode",
+      "être",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-g3-086",
+    "question": "Kijan pou konjige être nan sibjonktif prezan",
+    "reponse": "Nan sibjonktif prezan, être konjige konsa: que je sois, que tu sois, qu'il soit, que nous soyons, que vous soyez, qu'ils soient.",
+    "tags": [
+      "etre",
+      "subjonctif",
+      "sois",
+      "mode",
+      "être",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-g3-087",
+    "question": "Comment conjuguer avoir au subjonctif présent",
+    "reponse": "Au subjonctif présent, avoir se conjugue: que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient.",
+    "tags": [
+      "avoir",
+      "subjonctif",
+      "aie",
+      "mode",
+      "avoir",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-g3-088",
+    "question": "Kijan pou konjige avoir nan sibjonktif prezan",
+    "reponse": "Nan sibjonktif prezan, avoir konjige konsa: que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient.",
+    "tags": [
+      "avoir",
+      "subjonctif",
+      "aie",
+      "mode",
+      "avoir",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-g3-089",
+    "question": "Comment conjuguer aller au subjonctif présent",
+    "reponse": "Au subjonctif présent, aller se conjugue: que j'aille, que tu ailles, qu'il aille, que nous allions, que vous alliez, qu'ils aillent.",
+    "tags": [
+      "aller",
+      "subjonctif",
+      "aille",
+      "mode",
+      "ale",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-g3-090",
+    "question": "Kijan pou konjige aller nan sibjonktif prezan",
+    "reponse": "Nan sibjonktif prezan, aller konjige konsa: que j'aille, que tu ailles, qu'il aille, que nous allions, que vous alliez, qu'ils aillent.",
+    "tags": [
+      "aller",
+      "subjonctif",
+      "aille",
+      "mode",
+      "ale",
+      "sibjonktif"
+    ]
+  },
+  {
+    "id": "conj-g3-091",
+    "question": "Comment conjuguer être à l'impératif",
+    "reponse": "À l'impératif, être se conjugue: sois, soyons, soyez.",
+    "tags": [
+      "etre",
+      "imperatif",
+      "sois",
+      "mode",
+      "être",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-g3-092",
+    "question": "Kijan pou konjige être nan enperatif",
+    "reponse": "Nan enperatif, être konjige konsa: sois, soyons, soyez.",
+    "tags": [
+      "etre",
+      "imperatif",
+      "sois",
+      "mode",
+      "être",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-g3-093",
+    "question": "Comment conjuguer avoir à l'impératif",
+    "reponse": "À l'impératif, avoir se conjugue: aie, ayons, ayez.",
+    "tags": [
+      "avoir",
+      "imperatif",
+      "aie",
+      "mode",
+      "avoir",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-g3-094",
+    "question": "Kijan pou konjige avoir nan enperatif",
+    "reponse": "Nan enperatif, avoir konjige konsa: aie, ayons, ayez.",
+    "tags": [
+      "avoir",
+      "imperatif",
+      "aie",
+      "mode",
+      "avoir",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-g3-095",
+    "question": "Comment conjuguer faire à l'impératif",
+    "reponse": "À l'impératif, faire se conjugue: fais, faisons, faites.",
+    "tags": [
+      "faire",
+      "imperatif",
+      "fais",
+      "mode",
+      "fè",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-g3-096",
+    "question": "Kijan pou konjige faire nan enperatif",
+    "reponse": "Nan enperatif, faire konjige konsa: fais, faisons, faites.",
+    "tags": [
+      "faire",
+      "imperatif",
+      "fais",
+      "mode",
+      "fè",
+      "enperatif"
+    ]
+  },
+  {
+    "id": "conj-g3-097",
+    "question": "Quels sont les auxiliaires de conjugaison en français",
+    "reponse": "Les auxiliaires de conjugaison en français sont être et avoir, utilisés pour former les temps composés.",
+    "tags": [
+      "auxiliaires",
+      "etre",
+      "avoir",
+      "temps composes",
+      "oksilyè",
+      "tan konpoze"
+    ]
+  },
+  {
+    "id": "conj-g3-098",
+    "question": "Ki oksilyè konjigezon ki genyen nan franse",
+    "reponse": "Oksilyè konjigezon nan franse se être ak avoir, yo itilize yo pou fòme tan konpoze yo.",
+    "tags": [
+      "auxiliaires",
+      "etre",
+      "avoir",
+      "temps composes",
+      "oksilyè",
+      "tan konpoze"
+    ]
+  },
+  {
+    "id": "conj-g3-099",
+    "question": "Pourquoi faut-il mémoriser les verbes du 3e groupe un par un",
+    "reponse": "Il faut mémoriser les verbes du 3e groupe un par un car ils ne suivent pas de règle commune et chacun a ses propres formes.",
+    "tags": [
+      "memorisation",
+      "3e groupe",
+      "apprentissage",
+      "necessite",
+      "memorize",
+      "aprantisaj"
+    ]
+  },
+  {
+    "id": "conj-g3-100",
+    "question": "Poukisa fòk memorize vèb twazyèm gwoup yo youn pa youn",
+    "reponse": "Fòk memorize vèb twazyèm gwoup yo youn pa youn paske yo pa suiv yon règ komen epi chak genyen pwòp fòm pa li.",
+    "tags": [
+      "memorisation",
+      "3e groupe",
+      "apprentissage",
+      "necessite",
+      "memorize",
+      "aprantisaj"
+    ]
+  }
+]

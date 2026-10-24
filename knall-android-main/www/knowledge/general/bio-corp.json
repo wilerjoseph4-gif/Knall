@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "bio-corp-001",
+    "question": "Qu'est-ce que l'anatomie",
+    "reponse": "L'anatomie est la science qui étudie la structure et l'organisation du corps humain.",
+    "tags": [
+      "anatomie",
+      "structure",
+      "corps",
+      "science",
+      "anatomi",
+      "kò"
+    ]
+  },
+  {
+    "id": "bio-corp-002",
+    "question": "Kisa ki anatomi a",
+    "reponse": "Anatomi se syans ki etidye fason kò moun nan fèt ak òganize.",
+    "tags": [
+      "anatomie",
+      "structure",
+      "corps",
+      "science",
+      "anatomi",
+      "kò"
+    ]
+  },
+  {
+    "id": "bio-corp-003",
+    "question": "Qu'est-ce que la physiologie",
+    "reponse": "La physiologie est la science qui étudie le fonctionnement des organes et des systèmes du corps.",
+    "tags": [
+      "physiologie",
+      "fonctionnement",
+      "organes",
+      "science",
+      "fizyoloji",
+      "fonksyone"
+    ]
+  },
+  {
+    "id": "bio-corp-004",
+    "question": "Kisa ki fizyoloji a",
+    "reponse": "Fizyoloji se syans ki etidye kijan ògàn ak sistèm kò a fonksyone.",
+    "tags": [
+      "physiologie",
+      "fonctionnement",
+      "organes",
+      "science",
+      "fizyoloji",
+      "fonksyone"
+    ]
+  },
+  {
+    "id": "bio-corp-005",
+    "question": "Quel est le rôle du système digestif",
+    "reponse": "Le système digestif transforme les aliments en nutriments que le corps peut absorber et utiliser comme énergie.",
+    "tags": [
+      "systeme digestif",
+      "nutriments",
+      "absorption",
+      "energie",
+      "sistèm dijestif",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "bio-corp-006",
+    "question": "Ki wòl sistèm dijestif la jwe",
+    "reponse": "Sistèm dijestif la transfòme manje an eleman kò a ka absòbe epi itilize kòm enèji.",
+    "tags": [
+      "systeme digestif",
+      "nutriments",
+      "absorption",
+      "energie",
+      "sistèm dijestif",
+      "absòbe"
+    ]
+  },
+  {
+    "id": "bio-corp-007",
+    "question": "Quel est le rôle du système respiratoire",
+    "reponse": "Le système respiratoire permet d'inspirer l'oxygène dont le corps a besoin et d'expirer le dioxyde de carbone.",
+    "tags": [
+      "systeme respiratoire",
+      "oxygene",
+      "dioxyde de carbone",
+      "respiration",
+      "sistèm respiratwa",
+      "respire"
+    ]
+  },
+  {
+    "id": "bio-corp-008",
+    "question": "Ki wòl sistèm respiratwa a jwe",
+    "reponse": "Sistèm respiratwa a pèmèt kò a respire oksijèn li bezwen epi rejte gaz kabonik.",
+    "tags": [
+      "systeme respiratoire",
+      "oxygene",
+      "dioxyde de carbone",
+      "respiration",
+      "sistèm respiratwa",
+      "respire"
+    ]
+  },
+  {
+    "id": "bio-corp-009",
+    "question": "Quel est le rôle du système circulatoire",
+    "reponse": "Le système circulatoire transporte le sang, l'oxygène et les nutriments dans tout le corps grâce au cœur et aux vaisseaux sanguins.",
+    "tags": [
+      "systeme circulatoire",
+      "sang",
+      "coeur",
+      "vaisseaux",
+      "sistèm sikilatwa",
+      "san"
+    ]
+  },
+  {
+    "id": "bio-corp-010",
+    "question": "Ki wòl sistèm sikilatwa a jwe",
+    "reponse": "Sistèm sikilatwa a transpòte san, oksijèn ak eleman nitritif nan tout kò a gras ak kè a ak vesèl sangen yo.",
+    "tags": [
+      "systeme circulatoire",
+      "sang",
+      "coeur",
+      "vaisseaux",
+      "sistèm sikilatwa",
+      "san"
+    ]
+  },
+  {
+    "id": "bio-corp-011",
+    "question": "Quel est le rôle du système nerveux",
+    "reponse": "Le système nerveux contrôle et coordonne les actions du corps en transmettant des signaux électriques entre le cerveau et les organes.",
+    "tags": [
+      "systeme nerveux",
+      "cerveau",
+      "signaux",
+      "controle",
+      "sistèm nève",
+      "sèvo"
+    ]
+  },
+  {
+    "id": "bio-corp-012",
+    "question": "Ki wòl sistèm nève a jwe",
+    "reponse": "Sistèm nève a kontwole ak kowòdone aksyon kò a lè l voye siyal elektrik ant sèvo a ak ògàn yo.",
+    "tags": [
+      "systeme nerveux",
+      "cerveau",
+      "signaux",
+      "controle",
+      "sistèm nève",
+      "sèvo"
+    ]
+  },
+  {
+    "id": "bio-corp-013",
+    "question": "Quel est le rôle du système musculaire",
+    "reponse": "Le système musculaire permet au corps de bouger grâce à la contraction et au relâchement des muscles.",
+    "tags": [
+      "systeme musculaire",
+      "muscles",
+      "mouvement",
+      "contraction",
+      "sistèm miskilè",
+      "bouje"
+    ]
+  },
+  {
+    "id": "bio-corp-014",
+    "question": "Ki wòl sistèm miskilè a jwe",
+    "reponse": "Sistèm miskilè a pèmèt kò a bouje gras ak kontraksyon ak detant mis yo.",
+    "tags": [
+      "systeme musculaire",
+      "muscles",
+      "mouvement",
+      "contraction",
+      "sistèm miskilè",
+      "bouje"
+    ]
+  },
+  {
+    "id": "bio-corp-015",
+    "question": "Quel est le rôle du squelette",
+    "reponse": "Le squelette soutient le corps, protège les organes internes et permet le mouvement avec l'aide des muscles.",
+    "tags": [
+      "squelette",
+      "os",
+      "protection",
+      "soutien",
+      "eskelèt",
+      "zo"
+    ]
+  },
+  {
+    "id": "bio-corp-016",
+    "question": "Ki wòl eskelèt la jwe",
+    "reponse": "Eskelèt la soutni kò a, pwoteje ògàn anndan yo epi pèmèt mouvman avèk èd mis yo.",
+    "tags": [
+      "squelette",
+      "os",
+      "protection",
+      "soutien",
+      "eskelèt",
+      "zo"
+    ]
+  },
+  {
+    "id": "bio-corp-017",
+    "question": "Quel est le rôle du système immunitaire",
+    "reponse": "Le système immunitaire défend le corps contre les microbes, virus et autres agents qui peuvent causer des maladies.",
+    "tags": [
+      "systeme immunitaire",
+      "defense",
+      "microbes",
+      "maladies",
+      "sistèm iminitè",
+      "defann"
+    ]
+  },
+  {
+    "id": "bio-corp-018",
+    "question": "Ki wòl sistèm iminitè a jwe",
+    "reponse": "Sistèm iminitè a defann kò a kont mikwòb, viris ak lòt bagay ki ka lakòz maladi.",
+    "tags": [
+      "systeme immunitaire",
+      "defense",
+      "microbes",
+      "maladies",
+      "sistèm iminitè",
+      "defann"
+    ]
+  },
+  {
+    "id": "bio-corp-019",
+    "question": "Quel est le rôle du système endocrinien",
+    "reponse": "Le système endocrinien produit des hormones qui régulent de nombreuses fonctions du corps, comme la croissance et le métabolisme.",
+    "tags": [
+      "systeme endocrinien",
+      "hormones",
+      "regulation",
+      "croissance",
+      "sistèm andokrinyen",
+      "òmòn"
+    ]
+  },
+  {
+    "id": "bio-corp-020",
+    "question": "Ki wòl sistèm andokrinyen an jwe",
+    "reponse": "Sistèm andokrinyen an pwodui òmòn ki regle anpil fonksyon nan kò a, tankou kwasans ak metabolis.",
+    "tags": [
+      "systeme endocrinien",
+      "hormones",
+      "regulation",
+      "croissance",
+      "sistèm andokrinyen",
+      "òmòn"
+    ]
+  },
+  {
+    "id": "bio-corp-021",
+    "question": "Quel est le rôle du système reproducteur",
+    "reponse": "Le système reproducteur permet à l'être humain de se reproduire et de donner naissance à de nouveaux individus.",
+    "tags": [
+      "systeme reproducteur",
+      "reproduction",
+      "naissance",
+      "humain",
+      "sistèm repwodiktè",
+      "repwodui"
+    ]
+  },
+  {
+    "id": "bio-corp-022",
+    "question": "Ki wòl sistèm repwodiktè a jwe",
+    "reponse": "Sistèm repwodiktè a pèmèt moun repwodui epi fè nouvo moun vin sou latè.",
+    "tags": [
+      "systeme reproducteur",
+      "reproduction",
+      "naissance",
+      "humain",
+      "sistèm repwodiktè",
+      "repwodui"
+    ]
+  },
+  {
+    "id": "bio-corp-023",
+    "question": "Quel est le rôle de la peau",
+    "reponse": "La peau protège le corps contre les agressions extérieures, régule la température et permet le sens du toucher.",
+    "tags": [
+      "peau",
+      "protection",
+      "temperature",
+      "toucher",
+      "po",
+      "sans"
+    ]
+  },
+  {
+    "id": "bio-corp-024",
+    "question": "Ki wòl po a jwe",
+    "reponse": "Po a pwoteje kò a kont atak ki soti deyò, li regle tanperati epi li pèmèt sans manyen an.",
+    "tags": [
+      "peau",
+      "protection",
+      "temperature",
+      "toucher",
+      "po",
+      "sans"
+    ]
+  },
+  {
+    "id": "bio-corp-025",
+    "question": "Quel est le rôle du cœur",
+    "reponse": "Le cœur est l'organe musculaire qui pompe le sang pour le faire circuler dans tout le corps.",
+    "tags": [
+      "coeur",
+      "pompe",
+      "sang",
+      "circulation",
+      "kè",
+      "ponpe"
+    ]
+  },
+  {
+    "id": "bio-corp-026",
+    "question": "Ki wòl kè a jwe",
+    "reponse": "Kè a se ògàn miskilè ki ponpe san pou fè l sikile nan tout kò a.",
+    "tags": [
+      "coeur",
+      "pompe",
+      "sang",
+      "circulation",
+      "kè",
+      "ponpe"
+    ]
+  },
+  {
+    "id": "bio-corp-027",
+    "question": "Quel est le rôle des poumons",
+    "reponse": "Les poumons permettent les échanges gazeux: ils absorbent l'oxygène de l'air et rejettent le dioxyde de carbone.",
+    "tags": [
+      "poumons",
+      "echanges gazeux",
+      "oxygene",
+      "respiration",
+      "poumon",
+      "echanj"
+    ]
+  },
+  {
+    "id": "bio-corp-028",
+    "question": "Ki wòl poumon yo jwe",
+    "reponse": "Poumon yo fè echanj gaz yo: yo absòbe oksijèn nan lè a epi yo rejte gaz kabonik.",
+    "tags": [
+      "poumons",
+      "echanges gazeux",
+      "oxygene",
+      "respiration",
+      "poumon",
+      "echanj"
+    ]
+  },
+  {
+    "id": "bio-corp-029",
+    "question": "Quel est le rôle du foie",
+    "reponse": "Le foie filtre le sang, élimine les toxines, stocke l'énergie et produit la bile pour aider à digérer les graisses.",
+    "tags": [
+      "foie",
+      "filtre",
+      "toxines",
+      "bile",
+      "fwa",
+      "filtre san"
+    ]
+  },
+  {
+    "id": "bio-corp-030",
+    "question": "Ki wòl fwa a jwe",
+    "reponse": "Fwa a filtre san an, elimine pwazon, estoke enèji epi pwodui bil ki ede dijere grès.",
+    "tags": [
+      "foie",
+      "filtre",
+      "toxines",
+      "bile",
+      "fwa",
+      "filtre san"
+    ]
+  },
+  {
+    "id": "bio-corp-031",
+    "question": "Quel est le rôle des reins",
+    "reponse": "Les reins filtrent le sang pour éliminer les déchets et l'excès d'eau sous forme d'urine.",
+    "tags": [
+      "reins",
+      "filtration",
+      "urine",
+      "dechets",
+      "ren",
+      "pipi"
+    ]
+  },
+  {
+    "id": "bio-corp-032",
+    "question": "Ki wòl ren yo jwe",
+    "reponse": "Ren yo filtre san an pou retire fatra ak dlo anplis anba fòm pipi.",
+    "tags": [
+      "reins",
+      "filtration",
+      "urine",
+      "dechets",
+      "ren",
+      "pipi"
+    ]
+  },
+  {
+    "id": "bio-corp-033",
+    "question": "Quel est le rôle du cerveau",
+    "reponse": "Le cerveau est l'organe qui contrôle les pensées, les émotions, les mouvements et toutes les fonctions du corps.",
+    "tags": [
+      "cerveau",
+      "penseés",
+      "emotions",
+      "controle",
+      "sèvo",
+      "kontwole"
+    ]
+  },
+  {
+    "id": "bio-corp-034",
+    "question": "Ki wòl sèvo a jwe",
+    "reponse": "Sèvo a se ògàn ki kontwole panse, emosyon, mouvman ak tout fonksyon kò a.",
+    "tags": [
+      "cerveau",
+      "penseés",
+      "emotions",
+      "controle",
+      "sèvo",
+      "kontwole"
+    ]
+  },
+  {
+    "id": "bio-corp-035",
+    "question": "Quel est le rôle de l'estomac",
+    "reponse": "L'estomac mélange les aliments avec des sucs digestifs pour commencer à les transformer en nutriments.",
+    "tags": [
+      "estomac",
+      "digestion",
+      "sucs gastriques",
+      "aliments",
+      "lestomak",
+      "melanje"
+    ]
+  },
+  {
+    "id": "bio-corp-036",
+    "question": "Ki wòl lestomak la jwe",
+    "reponse": "Lestomak la melanje manje ak likid dijestif pou kòmanse transfòme yo an eleman nitritif.",
+    "tags": [
+      "estomac",
+      "digestion",
+      "sucs gastriques",
+      "aliments",
+      "lestomak",
+      "melanje"
+    ]
+  },
+  {
+    "id": "bio-corp-037",
+    "question": "Quel est le rôle des intestins",
+    "reponse": "Les intestins terminent la digestion, absorbent les nutriments et éliminent les résidus non digérés.",
+    "tags": [
+      "intestins",
+      "digestion",
+      "absorption",
+      "dechets",
+      "trip",
+      "elimine"
+    ]
+  },
+  {
+    "id": "bio-corp-038",
+    "question": "Ki wòl trip yo jwe",
+    "reponse": "Trip yo fini dijesyon an, yo absòbe eleman nitritif epi yo elimine rès manje ki pa dijere.",
+    "tags": [
+      "intestins",
+      "digestion",
+      "absorption",
+      "dechets",
+      "trip",
+      "elimine"
+    ]
+  },
+  {
+    "id": "bio-corp-039",
+    "question": "Qu'est-ce que le sang",
+    "reponse": "Le sang est un liquide qui circule dans le corps et transporte l'oxygène, les nutriments et les déchets.",
+    "tags": [
+      "sang",
+      "liquide",
+      "transport",
+      "circulation",
+      "san",
+      "sikile"
+    ]
+  },
+  {
+    "id": "bio-corp-040",
+    "question": "Kisa ki san an",
+    "reponse": "San se yon likid ki sikile nan kò a epi ki transpòte oksijèn, eleman nitritif ak fatra.",
+    "tags": [
+      "sang",
+      "liquide",
+      "transport",
+      "circulation",
+      "san",
+      "sikile"
+    ]
+  },
+  {
+    "id": "bio-corp-041",
+    "question": "Qu'est-ce qu'un globule rouge",
+    "reponse": "Un globule rouge est une cellule sanguine qui transporte l'oxygène des poumons vers tout le corps.",
+    "tags": [
+      "globule rouge",
+      "oxygene",
+      "transport",
+      "sang",
+      "globil wouj",
+      "sang"
+    ]
+  },
+  {
+    "id": "bio-corp-042",
+    "question": "Kisa ki yon globil wouj",
+    "reponse": "Globil wouj se yon selil san ki transpòte oksijèn soti nan poumon rive nan tout kò a.",
+    "tags": [
+      "globule rouge",
+      "oxygene",
+      "transport",
+      "sang",
+      "globil wouj",
+      "sang"
+    ]
+  },
+  {
+    "id": "bio-corp-043",
+    "question": "Qu'est-ce qu'un globule blanc",
+    "reponse": "Un globule blanc est une cellule sanguine qui défend le corps contre les infections et les maladies.",
+    "tags": [
+      "globule blanc",
+      "defense",
+      "infection",
+      "sang",
+      "globil blan",
+      "defann"
+    ]
+  },
+  {
+    "id": "bio-corp-044",
+    "question": "Kisa ki yon globil blan",
+    "reponse": "Globil blan se yon selil san ki defann kò a kont enfeksyon ak maladi.",
+    "tags": [
+      "globule blanc",
+      "defense",
+      "infection",
+      "sang",
+      "globil blan",
+      "defann"
+    ]
+  },
+  {
+    "id": "bio-corp-045",
+    "question": "Qu'est-ce qu'une plaquette sanguine",
+    "reponse": "Une plaquette sanguine est une petite cellule qui aide le sang à coaguler lors d'une blessure.",
+    "tags": [
+      "plaquette",
+      "coagulation",
+      "blessure",
+      "sang",
+      "plakèt",
+      "blese"
+    ]
+  },
+  {
+    "id": "bio-corp-046",
+    "question": "Kisa ki yon plakèt sangen",
+    "reponse": "Plakèt sangen se yon ti selil ki ede san an kaye lè yon moun blese.",
+    "tags": [
+      "plaquette",
+      "coagulation",
+      "blessure",
+      "sang",
+      "plakèt",
+      "blese"
+    ]
+  },
+  {
+    "id": "bio-corp-047",
+    "question": "Qu'est-ce qu'une artère",
+    "reponse": "Une artère est un vaisseau sanguin qui transporte le sang du cœur vers les autres organes du corps.",
+    "tags": [
+      "artere",
+      "vaisseau sanguin",
+      "coeur",
+      "transport",
+      "atè",
+      "vesèl"
+    ]
+  },
+  {
+    "id": "bio-corp-048",
+    "question": "Kisa ki yon atè",
+    "reponse": "Atè se yon vesèl sangen ki transpòte san soti nan kè a ale nan lòt ògàn kò a.",
+    "tags": [
+      "artere",
+      "vaisseau sanguin",
+      "coeur",
+      "transport",
+      "atè",
+      "vesèl"
+    ]
+  },
+  {
+    "id": "bio-corp-049",
+    "question": "Qu'est-ce qu'une veine",
+    "reponse": "Une veine est un vaisseau sanguin qui ramène le sang des différents organes vers le cœur.",
+    "tags": [
+      "veine",
+      "vaisseau sanguin",
+      "coeur",
+      "retour",
+      "venn",
+      "tounen"
+    ]
+  },
+  {
+    "id": "bio-corp-050",
+    "question": "Kisa ki yon venn",
+    "reponse": "Venn se yon vesèl sangen ki pote san soti nan diferan ògàn tounen nan kè a.",
+    "tags": [
+      "veine",
+      "vaisseau sanguin",
+      "coeur",
+      "retour",
+      "venn",
+      "tounen"
+    ]
+  },
+  {
+    "id": "bio-corp-051",
+    "question": "Qu'est-ce qu'un neurone",
+    "reponse": "Un neurone est une cellule nerveuse qui transmet des informations sous forme de signaux électriques dans le corps.",
+    "tags": [
+      "neurone",
+      "cellule nerveuse",
+      "signaux",
+      "information",
+      "newòn",
+      "transmèt"
+    ]
+  },
+  {
+    "id": "bio-corp-052",
+    "question": "Kisa ki yon newòn",
+    "reponse": "Newòn se yon selil nève ki transmèt enfòmasyon anba fòm siyal elektrik nan kò a.",
+    "tags": [
+      "neurone",
+      "cellule nerveuse",
+      "signaux",
+      "information",
+      "newòn",
+      "transmèt"
+    ]
+  },
+  {
+    "id": "bio-corp-053",
+    "question": "Qu'est-ce qu'une hormone",
+    "reponse": "Une hormone est une substance chimique produite par le corps qui régule certaines fonctions comme la croissance ou l'humeur.",
+    "tags": [
+      "hormone",
+      "substance chimique",
+      "regulation",
+      "fonctions",
+      "òmòn",
+      "regle"
+    ]
+  },
+  {
+    "id": "bio-corp-054",
+    "question": "Kisa ki yon òmòn",
+    "reponse": "Òmòn se yon sibstans chimik kò a pwodui ki regle sèten fonksyon tankou kwasans oswa imè.",
+    "tags": [
+      "hormone",
+      "substance chimique",
+      "regulation",
+      "fonctions",
+      "òmòn",
+      "regle"
+    ]
+  },
+  {
+    "id": "bio-corp-055",
+    "question": "Qu'est-ce que l'insuline",
+    "reponse": "L'insuline est une hormone produite par le pancréas qui permet au corps d'utiliser le glucose comme source d'énergie.",
+    "tags": [
+      "insuline",
+      "pancreas",
+      "glucose",
+      "hormone",
+      "ensilin",
+      "pankreyas"
+    ]
+  },
+  {
+    "id": "bio-corp-056",
+    "question": "Kisa ki ensilin nan",
+    "reponse": "Ensilin se yon òmòn pankreyas la pwodui ki pèmèt kò a itilize glikoz kòm sous enèji.",
+    "tags": [
+      "insuline",
+      "pancreas",
+      "glucose",
+      "hormone",
+      "ensilin",
+      "pankreyas"
+    ]
+  },
+  {
+    "id": "bio-corp-057",
+    "question": "Qu'est-ce que l'adrénaline",
+    "reponse": "L'adrénaline est une hormone libérée en situation de stress ou de danger qui accélère le cœur et prépare le corps à agir.",
+    "tags": [
+      "adrenaline",
+      "stress",
+      "hormone",
+      "reaction",
+      "adrenalin",
+      "estrès"
+    ]
+  },
+  {
+    "id": "bio-corp-058",
+    "question": "Kisa ki adrenalin nan",
+    "reponse": "Adrenalin se yon òmòn kò a libere lè gen estrès oswa danje, li fè kè a bat pi vit epi prepare kò a aji.",
+    "tags": [
+      "adrenaline",
+      "stress",
+      "hormone",
+      "reaction",
+      "adrenalin",
+      "estrès"
+    ]
+  },
+  {
+    "id": "bio-corp-059",
+    "question": "Quel est le rôle du système lymphatique",
+    "reponse": "Le système lymphatique aide à éliminer les déchets du corps et joue un rôle important dans la défense immunitaire.",
+    "tags": [
+      "systeme lymphatique",
+      "dechets",
+      "immunite",
+      "defense",
+      "sistèm lenfatik",
+      "defans"
+    ]
+  },
+  {
+    "id": "bio-corp-060",
+    "question": "Ki wòl sistèm lenfatik la jwe",
+    "reponse": "Sistèm lenfatik la ede elimine fatra nan kò a epi li jwe yon gwo wòl nan defans kò a kont maladi.",
+    "tags": [
+      "systeme lymphatique",
+      "dechets",
+      "immunite",
+      "defense",
+      "sistèm lenfatik",
+      "defans"
+    ]
+  },
+  {
+    "id": "bio-corp-061",
+    "question": "Quel est le rôle de la vessie",
+    "reponse": "La vessie stocke temporairement l'urine produite par les reins avant qu'elle soit évacuée du corps.",
+    "tags": [
+      "vessie",
+      "urine",
+      "stockage",
+      "reins",
+      "vesi",
+      "estoke"
+    ]
+  },
+  {
+    "id": "bio-corp-062",
+    "question": "Ki wòl vesi a jwe",
+    "reponse": "Vesi a estoke pipi ren yo pwodui a tanporèman anvan li soti nan kò a.",
+    "tags": [
+      "vessie",
+      "urine",
+      "stockage",
+      "reins",
+      "vesi",
+      "estoke"
+    ]
+  },
+  {
+    "id": "bio-corp-063",
+    "question": "Quel est le rôle du pancréas",
+    "reponse": "Le pancréas produit des enzymes digestives et des hormones comme l'insuline qui régulent le taux de sucre dans le sang.",
+    "tags": [
+      "pancreas",
+      "enzymes",
+      "insuline",
+      "digestion",
+      "pankreyas",
+      "anzim"
+    ]
+  },
+  {
+    "id": "bio-corp-064",
+    "question": "Ki wòl pankreyas la jwe",
+    "reponse": "Pankreyas la pwodui anzim dijestif ak òmòn tankou ensilin ki regle nivo sik nan san an.",
+    "tags": [
+      "pancreas",
+      "enzymes",
+      "insuline",
+      "digestion",
+      "pankreyas",
+      "anzim"
+    ]
+  },
+  {
+    "id": "bio-corp-065",
+    "question": "Quel est le rôle de la rate",
+    "reponse": "La rate filtre le sang, détruit les vieux globules rouges et participe à la défense immunitaire du corps.",
+    "tags": [
+      "rate",
+      "filtration",
+      "globules rouges",
+      "immunite",
+      "larat",
+      "defans"
+    ]
+  },
+  {
+    "id": "bio-corp-066",
+    "question": "Ki wòl larat la jwe",
+    "reponse": "Larat la filtre san, detwi vye globil wouj epi patisipe nan defans kò a kont maladi.",
+    "tags": [
+      "rate",
+      "filtration",
+      "globules rouges",
+      "immunite",
+      "larat",
+      "defans"
+    ]
+  },
+  {
+    "id": "bio-corp-067",
+    "question": "Quel est le rôle de la vésicule biliaire",
+    "reponse": "La vésicule biliaire stocke la bile produite par le foie et la libère pour aider à digérer les graisses.",
+    "tags": [
+      "vesicule biliaire",
+      "bile",
+      "foie",
+      "digestion",
+      "vezikil bilyè",
+      "dijere grès"
+    ]
+  },
+  {
+    "id": "bio-corp-068",
+    "question": "Ki wòl vezikil bilyè a jwe",
+    "reponse": "Vezikil bilyè a estoke bil fwa a pwodui epi li lage l pou ede dijere grès.",
+    "tags": [
+      "vesicule biliaire",
+      "bile",
+      "foie",
+      "digestion",
+      "vezikil bilyè",
+      "dijere grès"
+    ]
+  },
+  {
+    "id": "bio-corp-069",
+    "question": "Qu'est-ce qu'un muscle",
+    "reponse": "Un muscle est un organe capable de se contracter pour produire un mouvement du corps.",
+    "tags": [
+      "muscle",
+      "contraction",
+      "mouvement",
+      "organe",
+      "mis",
+      "kontrakte"
+    ]
+  },
+  {
+    "id": "bio-corp-070",
+    "question": "Kisa ki yon mis",
+    "reponse": "Mis se yon ògàn ki kapab kontrakte pou pwodui yon mouvman nan kò a.",
+    "tags": [
+      "muscle",
+      "contraction",
+      "mouvement",
+      "organe",
+      "mis",
+      "kontrakte"
+    ]
+  },
+  {
+    "id": "bio-corp-071",
+    "question": "Qu'est-ce qu'un tendon",
+    "reponse": "Un tendon est une bande de tissu solide qui relie un muscle à un os.",
+    "tags": [
+      "tendon",
+      "muscle",
+      "os",
+      "tissu",
+      "tandon",
+      "konekte"
+    ]
+  },
+  {
+    "id": "bio-corp-072",
+    "question": "Kisa ki yon tandon",
+    "reponse": "Tandon se yon ban tisi solid ki konekte yon mis ak yon zo.",
+    "tags": [
+      "tendon",
+      "muscle",
+      "os",
+      "tissu",
+      "tandon",
+      "konekte"
+    ]
+  },
+  {
+    "id": "bio-corp-073",
+    "question": "Qu'est-ce qu'une articulation",
+    "reponse": "Une articulation est l'endroit où deux os se rencontrent et qui permet le mouvement du squelette.",
+    "tags": [
+      "articulation",
+      "os",
+      "mouvement",
+      "squelette",
+      "jwenti",
+      "rankontre"
+    ]
+  },
+  {
+    "id": "bio-corp-074",
+    "question": "Kisa ki yon jwenti",
+    "reponse": "Jwenti se kote de zo rankontre epi ki pèmèt eskelèt la bouje.",
+    "tags": [
+      "articulation",
+      "os",
+      "mouvement",
+      "squelette",
+      "jwenti",
+      "rankontre"
+    ]
+  },
+  {
+    "id": "bio-corp-075",
+    "question": "Qu'est-ce que le cartilage",
+    "reponse": "Le cartilage est un tissu souple et résistant qui protège les extrémités des os au niveau des articulations.",
+    "tags": [
+      "cartilage",
+      "tissu",
+      "articulations",
+      "protection",
+      "katilaj",
+      "mou"
+    ]
+  },
+  {
+    "id": "bio-corp-076",
+    "question": "Kisa ki katilaj la",
+    "reponse": "Katilaj la se yon tisi mou men solid ki pwoteje bout zo yo nan jwenti yo.",
+    "tags": [
+      "cartilage",
+      "tissu",
+      "articulations",
+      "protection",
+      "katilaj",
+      "mou"
+    ]
+  },
+  {
+    "id": "bio-corp-077",
+    "question": "Qu'est-ce que la moelle épinière",
+    "reponse": "La moelle épinière est le long cordon de nerfs qui relie le cerveau au reste du corps à travers la colonne vertébrale.",
+    "tags": [
+      "moelle epiniere",
+      "nerfs",
+      "cerveau",
+      "colonne vertebrale",
+      "mwèl epinyè",
+      "zo rèl do"
+    ]
+  },
+  {
+    "id": "bio-corp-078",
+    "question": "Kisa ki mwèl epinyè a",
+    "reponse": "Mwèl epinyè a se yon long kòd nève ki konekte sèvo a ak rès kò a atravè zo rèl do a.",
+    "tags": [
+      "moelle epiniere",
+      "nerfs",
+      "cerveau",
+      "colonne vertebrale",
+      "mwèl epinyè",
+      "zo rèl do"
+    ]
+  },
+  {
+    "id": "bio-corp-079",
+    "question": "Qu'est-ce que le système nerveux central",
+    "reponse": "Le système nerveux central est formé du cerveau et de la moelle épinière; il contrôle toutes les activités du corps.",
+    "tags": [
+      "systeme nerveux central",
+      "cerveau",
+      "moelle epiniere",
+      "controle",
+      "sistèm nève santral",
+      "aktivite"
+    ]
+  },
+  {
+    "id": "bio-corp-080",
+    "question": "Kisa ki sistèm nève santral la",
+    "reponse": "Sistèm nève santral la fèt ak sèvo a ak mwèl epinyè a; li kontwole tout aktivite kò a.",
+    "tags": [
+      "systeme nerveux central",
+      "cerveau",
+      "moelle epiniere",
+      "controle",
+      "sistèm nève santral",
+      "aktivite"
+    ]
+  },
+  {
+    "id": "bio-corp-081",
+    "question": "Qu'est-ce que le système nerveux périphérique",
+    "reponse": "Le système nerveux périphérique est l'ensemble des nerfs qui relient le cerveau et la moelle épinière aux organes du corps.",
+    "tags": [
+      "systeme nerveux peripherique",
+      "nerfs",
+      "organes",
+      "connexion",
+      "sistèm nève periferik",
+      "nève"
+    ]
+  },
+  {
+    "id": "bio-corp-082",
+    "question": "Kisa ki sistèm nève periferik la",
+    "reponse": "Sistèm nève periferik la se tout nève ki konekte sèvo a ak mwèl epinyè a ak ògàn kò a.",
+    "tags": [
+      "systeme nerveux peripherique",
+      "nerfs",
+      "organes",
+      "connexion",
+      "sistèm nève periferik",
+      "nève"
+    ]
+  },
+  {
+    "id": "bio-corp-083",
+    "question": "Quels sont les cinq sens du corps humain",
+    "reponse": "Les cinq sens du corps humain sont la vue, l'ouïe, l'odorat, le goût et le toucher.",
+    "tags": [
+      "cinq sens",
+      "vue",
+      "ouie",
+      "odorat",
+      "senk sans",
+      "sans"
+    ]
+  },
+  {
+    "id": "bio-corp-084",
+    "question": "Ki senk sans kò moun genyen",
+    "reponse": "Senk sans kò moun yo se: wè, tande, pran sant, goute ak manyen.",
+    "tags": [
+      "cinq sens",
+      "vue",
+      "ouie",
+      "odorat",
+      "senk sans",
+      "sans"
+    ]
+  },
+  {
+    "id": "bio-corp-085",
+    "question": "Comment fonctionne le sens de la vue",
+    "reponse": "Le sens de la vue permet de capter la lumière grâce aux yeux et de former des images envoyées au cerveau.",
+    "tags": [
+      "vue",
+      "yeux",
+      "lumiere",
+      "images",
+      "sans wè",
+      "je"
+    ]
+  },
+  {
+    "id": "bio-corp-086",
+    "question": "Kijan sans wè a fonksyone",
+    "reponse": "Sans wè a pèmèt kaptire limyè gras ak je yo epi fòme imaj sèvo a resevwa.",
+    "tags": [
+      "vue",
+      "yeux",
+      "lumiere",
+      "images",
+      "sans wè",
+      "je"
+    ]
+  },
+  {
+    "id": "bio-corp-087",
+    "question": "Comment fonctionne le sens de l'ouïe",
+    "reponse": "Le sens de l'ouïe permet de capter les vibrations sonores grâce aux oreilles et de les transformer en sons perçus par le cerveau.",
+    "tags": [
+      "ouie",
+      "oreilles",
+      "sons",
+      "vibrations",
+      "sans tande",
+      "zòrèy"
+    ]
+  },
+  {
+    "id": "bio-corp-088",
+    "question": "Kijan sans tande a fonksyone",
+    "reponse": "Sans tande a pèmèt kaptire vibrasyon son gras ak zòrèy yo epi transfòme yo an son sèvo a konprann.",
+    "tags": [
+      "ouie",
+      "oreilles",
+      "sons",
+      "vibrations",
+      "sans tande",
+      "zòrèy"
+    ]
+  },
+  {
+    "id": "bio-corp-089",
+    "question": "Qu'est-ce que la puberté",
+    "reponse": "La puberté est la période où le corps change et devient capable de se reproduire, entre l'enfance et l'âge adulte.",
+    "tags": [
+      "puberte",
+      "developpement",
+      "reproduction",
+      "adolescence",
+      "pibète",
+      "chanje"
+    ]
+  },
+  {
+    "id": "bio-corp-090",
+    "question": "Kisa ki pibète a",
+    "reponse": "Pibète a se peryòd kote kò a chanje epi vin kapab repwodui, ant lanfans ak laj granmoun.",
+    "tags": [
+      "puberte",
+      "developpement",
+      "reproduction",
+      "adolescence",
+      "pibète",
+      "chanje"
+    ]
+  },
+  {
+    "id": "bio-corp-091",
+    "question": "Qu'est-ce que la grossesse",
+    "reponse": "La grossesse est la période pendant laquelle un bébé se développe dans l'utérus de sa mère avant de naître.",
+    "tags": [
+      "grossesse",
+      "bebe",
+      "developpement",
+      "uterus",
+      "gwosès",
+      "vant"
+    ]
+  },
+  {
+    "id": "bio-corp-092",
+    "question": "Kisa ki gwosès la",
+    "reponse": "Gwosès la se peryòd kote yon bebe devlope nan vant manman l anvan li fèt.",
+    "tags": [
+      "grossesse",
+      "bebe",
+      "developpement",
+      "uterus",
+      "gwosès",
+      "vant"
+    ]
+  },
+  {
+    "id": "bio-corp-093",
+    "question": "Que se passe-t-il lors de la naissance",
+    "reponse": "Lors de la naissance, le bébé quitte l'utérus de sa mère et commence à vivre et respirer de façon autonome.",
+    "tags": [
+      "naissance",
+      "bebe",
+      "autonomie",
+      "respiration",
+      "nesans",
+      "viv"
+    ]
+  },
+  {
+    "id": "bio-corp-094",
+    "question": "Kisa ki pase pandan yon nesans",
+    "reponse": "Pandan yon nesans, bebe a kite vant manman l epi li kòmanse viv ak respire pou kont li.",
+    "tags": [
+      "naissance",
+      "bebe",
+      "autonomie",
+      "respiration",
+      "nesans",
+      "viv"
+    ]
+  },
+  {
+    "id": "bio-corp-095",
+    "question": "Qu'est-ce que le vieillissement",
+    "reponse": "Le vieillissement est le processus naturel par lequel le corps change progressivement avec le temps, après l'âge adulte.",
+    "tags": [
+      "vieillissement",
+      "temps",
+      "corps",
+      "naturel",
+      "vyeyisman",
+      "chanje"
+    ]
+  },
+  {
+    "id": "bio-corp-096",
+    "question": "Kisa ki vyeyisman an",
+    "reponse": "Vyeyisman an se pwosesis natirèl kote kò a chanje piti piti avèk tan, apre laj granmoun.",
+    "tags": [
+      "vieillissement",
+      "temps",
+      "corps",
+      "naturel",
+      "vyeyisman",
+      "chanje"
+    ]
+  },
+  {
+    "id": "bio-corp-097",
+    "question": "Qu'est-ce que la mort cellulaire",
+    "reponse": "La mort cellulaire est la fin de vie naturelle ou accidentelle d'une cellule, un processus normal dans le renouvellement du corps.",
+    "tags": [
+      "mort cellulaire",
+      "renouvellement",
+      "processus",
+      "cellule",
+      "lanmò selilè",
+      "renouvèlman"
+    ]
+  },
+  {
+    "id": "bio-corp-098",
+    "question": "Kisa ki lanmò selilè a",
+    "reponse": "Lanmò selilè se fen lavi natirèl oswa aksidantèl yon selil, yon pwosesis nòmal nan renouvèlman kò a.",
+    "tags": [
+      "mort cellulaire",
+      "renouvellement",
+      "processus",
+      "cellule",
+      "lanmò selilè",
+      "renouvèlman"
+    ]
+  },
+  {
+    "id": "bio-corp-099",
+    "question": "Quel est le rôle de la salive",
+    "reponse": "La salive humidifie les aliments, facilite la mastication et commence déjà à digérer certains sucres dans la bouche.",
+    "tags": [
+      "salive",
+      "digestion",
+      "bouche",
+      "mastication",
+      "saliv",
+      "mouye"
+    ]
+  },
+  {
+    "id": "bio-corp-100",
+    "question": "Ki wòl saliv la jwe",
+    "reponse": "Saliv la mouye manje a, li fasilite moulen manje a epi li kòmanse dijere kèk sik depi nan bouch la.",
+    "tags": [
+      "salive",
+      "digestion",
+      "bouche",
+      "mastication",
+      "saliv",
+      "mouye"
+    ]
+  }
+]

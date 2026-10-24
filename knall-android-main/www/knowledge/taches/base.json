@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t001",
+    "question": "créer un rappel",
+    "reponse": "Dis-moi quoi et à quelle heure, ex: 'rappelle-moi d'appeler Marc à 15h'.",
+    "tags": [
+      "rappel",
+      "reminder",
+      "heure"
+    ]
+  },
+  {
+    "id": "t002",
+    "question": "liste de mes tâches",
+    "reponse": "Tu n'as aucune tâche enregistrée pour le moment.",
+    "tags": [
+      "taches",
+      "liste",
+      "todo"
+    ]
+  }
+]
